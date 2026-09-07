@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.07 | [DP](https://velog.io/@cocham/DP) | [@cocham](https://velog.io/@cocham) |
-| 2026.09.07 | [3. EC2 기초 — AMI, 인스턴스 타입, 보안 그룹](https://velog.io/@jangsh7/3.-EC2-%EA%B8%B0%EC%B4%88-AMI-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%ED%83%80%EC%9E%85-%EB%B3%B4%EC%95%88-%EA%B7%B8%EB%A3%B9) | [@jangsh7](https://velog.io/@jangsh7) |
-| 2026.09.07 | [AWS DMS 너 딱대](https://velog.io/@2hg/AWS-DMS) | [@2hg](https://velog.io/@2hg) |
-| 2026.09.07 | [7년 차 개발자, 벼랑 끝에서 첫 기록을 시작하다](https://velog.io/@devchi/7%EB%85%84-%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%B2%BC%EB%9E%91-%EB%81%9D%EC%97%90%EC%84%9C-%EC%B2%AB-%EA%B8%B0%EB%A1%9D%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8B%A4) | [@devchi](https://velog.io/@devchi) |
-| 2026.09.07 | [《그냥, 많이》 — Tangent Vector 11화](https://velog.io/@mag374/%E3%80%8A%EA%B7%B8%EB%83%A5-%EB%A7%8E%EC%9D%B4%E3%80%8B-Tangent-Vector-11%ED%99%94-exacjh0z) | [@mag374](https://velog.io/@mag374) |
-| 2026.09.07 | [RevenueCat으로 인앱 구독 붙이기: 개념부터 서버 연동까지](https://velog.io/@obb8923/RevenueCat%EC%9C%BC%EB%A1%9C-%EC%9D%B8%EC%95%B1-%EA%B5%AC%EB%8F%85-%EB%B6%99%EC%9D%B4%EA%B8%B0-%EA%B0%9C%EB%85%90%EB%B6%80%ED%84%B0-%EC%84%9C%EB%B2%84-%EC%97%B0%EB%8F%99%EA%B9%8C%EC%A7%80) | [@obb8923](https://velog.io/@obb8923) |
+| 2026.09.07 | [[CKA] ETCD Backup & Resore](https://velog.io/@formart12/CKA-ETCD-Backup-Resore) | [@formart12](https://velog.io/@formart12) |
+| 2026.09.07 | [웹개발기초 첫수업(260907)](https://velog.io/@harry1111/%EC%9B%B9%EA%B0%9C%EB%B0%9C%EA%B8%B0%EC%B4%88-%EC%B2%AB%EC%88%98%EC%97%85260907) | [@harry1111](https://velog.io/@harry1111) |
+| 2026.09.07 | [[UE5] 대미지 진입점(ApplyDamage) 구현](https://velog.io/@papaya910/UE5-%EB%8C%80%EB%AF%B8%EC%A7%80-%EC%A7%84%EC%9E%85%EC%A0%90ApplyDamage-%EA%B5%AC%ED%98%84) | [@papaya910](https://velog.io/@papaya910) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
