@@ -82,12 +82,13 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.08 | [[C++ 59] - 메서드 오버라이딩의 특수한 경우](https://velog.io/@gyulari/C-59-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%EC%9D%98-%ED%8A%B9%EC%88%98%ED%95%9C-%EA%B2%BD%EC%9A%B0) | [@gyulari](https://velog.io/@gyulari) |
-| 2026.09.08 | [도커(Docker)](https://velog.io/@jwy0923/%EB%8F%84%EC%BB%A4Docker) | [@jwy0923](https://velog.io/@jwy0923) |
-| 2026.09.08 | [기본 패널 UI 프로토 적용](https://velog.io/@chono660/%EA%B8%B0%EB%B3%B8-%ED%8C%A8%EB%84%90-UI-%ED%94%84%EB%A1%9C%ED%86%A0-%EC%A0%81%EC%9A%A9) | [@chono660](https://velog.io/@chono660) |
-| 2026.09.08 | [스타터킷 실습으로 배운 CoT·역할 부여 프롬프트 엔지니어링](https://velog.io/@swmoon7/%EC%8A%A4%ED%83%80%ED%84%B0%ED%82%B7-%EC%8B%A4%EC%8A%B5%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B4-CoT%EC%97%AD%ED%95%A0-%EB%B6%80%EC%97%AC-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-40o7rw54) | [@swmoon7](https://velog.io/@swmoon7) |
-| 2026.09.08 | [VM과 Container](https://velog.io/@jwy0923/VM%EA%B3%BC-Container) | [@jwy0923](https://velog.io/@jwy0923) |
-| 2026.09.08 | [SKT FLY AI 9기 4편: 프로젝트](https://velog.io/@shalsdn021/SKT-FLY-AI-9%EA%B8%B0-4%ED%8E%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) | [@shalsdn021](https://velog.io/@shalsdn021) |
+| 2026.09.08 | [[Building CariCue #6] AI 기능을 만들고 나서 비용 구조부터 다시 설계했다](https://velog.io/@ms_moon/Building-CariCue-6-AI-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EB%82%98%EC%84%9C-%EB%B9%84%EC%9A%A9-%EA%B5%AC%EC%A1%B0%EB%B6%80%ED%84%B0-%EB%8B%A4%EC%8B%9C-%EC%84%A4%EA%B3%84%ED%96%88%EB%8B%A4) | [@ms_moon](https://velog.io/@ms_moon) |
+| 2026.09.08 | [260906 혼자 공부하는 파이썬](https://velog.io/@writingcomposer/260906-%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC) | [@writingcomposer](https://velog.io/@writingcomposer) |
+| 2026.09.08 | [데이터베이스(Database)를 활용한 헬스케어 데이터분석 수업 1일 정리-3](https://velog.io/@moonjh-070331/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4Database%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%88%98%EC%97%85-1%EC%9D%BC-%EC%A0%95%EB%A6%AC-3) | [@moonjh-070331](https://velog.io/@moonjh-070331) |
+| 2026.09.08 | [26년 9월 1주 주간 보고서](https://velog.io/@tmdgml3355/26%EB%85%84-9%EC%9B%94-1%EC%A3%BC-%EC%A3%BC%EA%B0%84-%EB%B3%B4%EA%B3%A0) | [@tmdgml3355](https://velog.io/@tmdgml3355) |
+| 2026.09.08 | [AI 레디 데이터 엔지니어링 캠프
+1차 팀 프로젝트 보고서](https://velog.io/@vvjeffvv3/AI-%EB%A0%88%EB%94%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%BA%A0%ED%94%841%EC%B0%A8-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B3%B4%EA%B3%A0%EC%84%9C) | [@vvjeffvv3](https://velog.io/@vvjeffvv3) |
+| 2026.09.08 | [🌱 한눈에 보는 Back-end](https://velog.io/@sunny031116/%ED%95%9C%EB%88%88%EC%97%90-%EB%B3%B4%EB%8A%94-Back-end) | [@sunny031116](https://velog.io/@sunny031116) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
