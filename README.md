@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.09 | [프로그래머스 영어가 싫어요](https://velog.io/@youngjun_10/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%98%81%EC%96%B4%EA%B0%80-%EC%8B%AB%EC%96%B4%EC%9A%94) | [@youngjun_10](https://velog.io/@youngjun_10) |
-| 2026.09.09 | [전자정부 프레임 워크 개발 공부4일차](https://velog.io/@happyboy1269/%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80-%ED%94%84%EB%A0%88%EC%9E%84-%EC%9B%8C%ED%81%AC-%EA%B0%9C%EB%B0%9C-%EA%B3%B5%EB%B6%804%EC%9D%BC%EC%B0%A8) | [@happyboy1269](https://velog.io/@happyboy1269) |
-| 2026.09.09 | [2. 이커머스 반품 데이터 분석: 문구류와 공책의 반품률은 왜 높았을까?](https://velog.io/@ing_dataorange0/2.-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EB%B0%98%ED%92%88-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EB%AC%B8%EA%B5%AC%EB%A5%98%EC%99%80-%EA%B3%B5%EC%B1%85%EC%9D%98-%EB%B0%98%ED%92%88%EB%A5%A0%EC%9D%80-%EC%99%9C-%EB%86%92%EC%95%98%EC%9D%84%EA%B9%8C) | [@ing_dataorange0](https://velog.io/@ing_dataorange0) |
-| 2026.09.09 | [[백엔드] 시스템과 가장 쉽고 강력하게 상호작용 할 수 있는 방법 #5 - Series4 : 추가 인프라 구축없이 Binlog Consuming/Local Cache(Caffeine) 체계 구성을 통한 Redis 대체재 성능 테스트](https://velog.io/@gyrbs22/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC-%EA%B0%80%EC%9E%A5-%EC%89%BD%EA%B3%A0-%EA%B0%95%EB%A0%A5%ED%95%98%EA%B2%8C-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B0%A9%EB%B2%95-5-Series4-%EC%B6%94%EA%B0%80-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EC%97%86%EC%9D%B4-Binlog-ConsumingLocal-CacheCaffeine-%EC%B2%B4%EA%B3%84-%EA%B5%AC%EC%84%B1%EC%9D%84-%ED%86%B5%ED%95%9C-Redis-%EB%8C%80%EC%B2%B4%EC%9E%AC-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8) | [@gyrbs22](https://velog.io/@gyrbs22) |
-| 2026.09.09 | [Docker 총정리](https://velog.io/@junyeol1009/Docker-%EC%B4%9D%EC%A0%95%EB%A6%AC) | [@junyeol1009](https://velog.io/@junyeol1009) |
-| 2026.09.09 | [[LG CNS AM INSPIRE CAMP 6기] DAY 29 - Spring Data JPA (Entity-DTO 변환, 연관관계, Validation, 예외처리)](https://velog.io/@hyr031888-crypto/LG-CNS-AM-INSPIRE-CAMP-6%EA%B8%B0-DAY-29-Spring-Data-JPA-Entity-DTO-%EB%B3%80%ED%99%98-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-Validation-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC) | [@hyr031888-crypto](https://velog.io/@hyr031888-crypto) |
+| 2026.09.09 | [[회고] 독서 기록 서비스 NOOK 회고록](https://velog.io/@jayaione_ele/%ED%9A%8C%EA%B3%A0-%EB%8F%85%EC%84%9C-%EA%B8%B0%EB%A1%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-NOOK-%ED%9A%8C%EA%B3%A0%EB%A1%9D) | [@jayaione_ele](https://velog.io/@jayaione_ele) |
+| 2026.09.09 | [Sign in, Sign up 페이지](https://velog.io/@seok_chan/Sign-in-Sign-up-%ED%8E%98%EC%9D%B4%EC%A7%80) | [@seok_chan](https://velog.io/@seok_chan) |
+| 2026.09.09 | [관심사 정보가 흩어지는 문제를 Pack으로 묶은 이유](https://velog.io/@pacpik/%EA%B4%80%EC%8B%AC%EC%82%AC-%EC%A0%95%EB%B3%B4%EA%B0%80-%ED%9D%A9%EC%96%B4%EC%A7%80%EB%8A%94-%EB%AC%B8%EC%A0%9C%EB%A5%BC-Pack%EC%9C%BC%EB%A1%9C-%EB%AC%B6%EC%9D%80-%EC%9D%B4%EC%9C%A0) | [@pacpik](https://velog.io/@pacpik) |
+| 2026.09.09 | [팬게임 개발일지 2](https://velog.io/@yeonguk0201/%ED%8C%AC%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-2) | [@yeonguk0201](https://velog.io/@yeonguk0201) |
+| 2026.09.09 | [장애 전파 관점에서 바라본 서버 가용성](https://velog.io/@ghrudtla/%EC%88%98%EC%A0%95%EB%B3%B8-%EC%9E%A5%EC%95%A0-%EC%A0%84%ED%8C%8C-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%84%9C%EB%B2%84-%EA%B0%80%EC%9A%A9%EC%84%B1) | [@ghrudtla](https://velog.io/@ghrudtla) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
