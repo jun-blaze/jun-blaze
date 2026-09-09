@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.10 | [26S10a2](https://velog.io/@youngkyoo_kim/26S10a2) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
-| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
+| 2026.09.10 | [Attention is all you need 논문 리뷰](https://velog.io/@hayeoniii/Attention-is-all-you-need-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0) | [@hayeoniii](https://velog.io/@hayeoniii) |
+| 2026.09.10 | [비개발자의 개발자 취업 도전 10주차](https://velog.io/@ch_luminous/%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84-10%EC%A3%BC%EC%B0%A8) | [@ch_luminous](https://velog.io/@ch_luminous) |
+| 2026.09.10 | [C# 기본 정리1-1 (이것이 C#이다)](https://velog.io/@mustbehumble/C-%EA%B8%B0%EB%B3%B8-%EC%A0%95%EB%A6%AC1-1-%EC%9D%B4%EA%B2%83%EC%9D%B4-C%EC%9D%B4%EB%8B%A4) | [@mustbehumble](https://velog.io/@mustbehumble) |
+| 2026.09.10 | [전원 끄면 싹 잊어버리는 RAM은 과연 왜 필요할까?](https://velog.io/@hezsxo/%EC%A0%84%EC%9B%90-%EB%81%84%EB%A9%B4-%EC%8B%B9-%EC%9E%8A%EC%96%B4%EB%B2%84%EB%A6%AC%EB%8A%94-RAM%EC%9D%80-%EA%B3%BC%EC%97%B0-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C) | [@hezsxo](https://velog.io/@hezsxo) |
+| 2026.09.10 | [[C#] 값 형식과 참조 형식 정리](https://velog.io/@deliciousqoo/C-%EA%B0%92-%ED%98%95%EC%8B%9D%EA%B3%BC-%EC%B0%B8%EC%A1%B0-%ED%98%95%EC%8B%9D-%EC%A0%95%EB%A6%AC) | [@deliciousqoo](https://velog.io/@deliciousqoo) |
+| 2026.09.10 | [[프로그래머스] 금과 은 운반하기](https://velog.io/@j_keun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B8%88%EA%B3%BC-%EC%9D%80-%EC%9A%B4%EB%B0%98%ED%95%98%EA%B8%B0) | [@j_keun](https://velog.io/@j_keun) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
