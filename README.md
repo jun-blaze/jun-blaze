@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.11 | [프로그래머스 암호 해독](https://velog.io/@youngjun_10/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%95%94%ED%98%B8-%ED%95%B4%EB%8F%85) | [@youngjun_10](https://velog.io/@youngjun_10) |
-| 2026.09.11 | [`pipeline()` 한 줄 뒤에서 PyTorch가 하는 일](https://velog.io/@yangyang2/pipeline-%ED%95%9C-%EC%A4%84-%EB%92%A4%EC%97%90%EC%84%9C-PyTorch%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC) | [@yangyang2](https://velog.io/@yangyang2) |
-| 2026.09.11 | [리눅스 마스터 2급 2차 Day 4](https://velog.io/@hyunjun_kr/%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%A7%88%EC%8A%A4%ED%84%B0-2%EA%B8%89-2%EC%B0%A8-Day-4) | [@hyunjun_kr](https://velog.io/@hyunjun_kr) |
-| 2026.09.11 | [[OOP #7] interface / abstract class](https://velog.io/@tzamgo/OOP-7-interface-abstract-class) | [@tzamgo](https://velog.io/@tzamgo) |
-| 2026.09.11 | [AI 엔지니어 부트캠프 38일차[CNN 마무리, 기울기 손실]](https://velog.io/@jin_hong/AI-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-38%EC%9D%BC%EC%B0%A8CNN-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EA%B8%B0%EC%9A%B8%EA%B8%B0-%EC%86%90%EC%8B%A4) | [@jin_hong](https://velog.io/@jin_hong) |
-| 2026.09.11 | [Project Euler / 3](https://velog.io/@puante_314/Project-Euler-3) | [@puante_314](https://velog.io/@puante_314) |
+| 2026.09.11 | ["use client" 많이 쓰면 진짜로 안 좋은걸까?](https://velog.io/@sunoly/use-client-%EB%A7%8E%EC%9D%B4-%EC%93%B0%EB%A9%B4-%EC%A7%84%EC%A7%9C%EB%A1%9C-%EC%95%88-%EC%A2%8B%EC%9D%80%EA%B1%B8%EA%B9%8C) | [@sunoly](https://velog.io/@sunoly) |
+| 2026.09.11 | [AIO 프리코스 2일차 학습회고 ㅣ Python ch.4 (반복문 · 리스트 · 딕셔너리)](https://velog.io/@pdistudy_02/AIO-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%ED%95%99%EC%8A%B5-2%EC%9D%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-Python-ch.4-%EB%B0%98%EB%B3%B5%EB%AC%B8-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC) | [@pdistudy_02](https://velog.io/@pdistudy_02) |
+| 2026.09.11 | [FD(File Descriptor)란?](https://velog.io/@eunduk/FDFile-Descriptor%EB%9E%80) | [@eunduk](https://velog.io/@eunduk) |
+| 2026.09.11 | [c# 베이직 2일차](https://velog.io/@mustbehumble/c-%EB%B2%A0%EC%9D%B4%EC%A7%81-2%EC%9D%BC%EC%B0%A8) | [@mustbehumble](https://velog.io/@mustbehumble) |
+| 2026.09.11 | [RAG 기반 학습 지원 프론트엔드 #2 — 화면 흐름 설계와 Expo Router 파일 구조 구성](https://velog.io/@jin0503/RAG-%EA%B8%B0%EB%B0%98-%ED%95%99%EC%8A%B5-%EC%A7%80%EC%9B%90-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-2-%ED%99%94%EB%A9%B4-%ED%9D%90%EB%A6%84-%EC%84%A4%EA%B3%84%EC%99%80-Expo-Router-%ED%8C%8C%EC%9D%BC-%EA%B5%AC%EC%A1%B0-%EA%B5%AC%EC%84%B1) | [@jin0503](https://velog.io/@jin0503) |
+| 2026.09.11 | [[CS] "Every CS Major Should Know" 릴스 속 CS 질문 5가지 풀이](https://velog.io/@asb041022/CS-Every-CS-Major-Should-Know-%EB%A6%B4%EC%8A%A4-%EC%86%8D-CS-%EC%A7%88%EB%AC%B8-5%EA%B0%80%EC%A7%80-%ED%92%80%EC%9D%B4) | [@asb041022](https://velog.io/@asb041022) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
