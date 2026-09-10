@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.10 | [가속도계 시장 규모 및 성장: 동향, 기회 및 2026-2033년 전망](https://velog.io/@cmi-coherent-1/%EA%B0%80%EC%86%8D%EB%8F%84%EA%B3%84-%EC%8B%9C%EC%9E%A5-%EA%B7%9C%EB%AA%A8-%EB%B0%8F-%EC%84%B1%EC%9E%A5-%EB%8F%99%ED%96%A5-%EA%B8%B0%ED%9A%8C-%EB%B0%8F-2026-2033%EB%85%84-%EC%A0%84%EB%A7%9D) | [@cmi-coherent-1](https://velog.io/@cmi-coherent-1) |
-| 2026.09.10 | [[LG CNS 6기 TIL] Digital Insight 2 - DevOps 이해와 활용 : 31일차](https://velog.io/@greenmilk1122/LG-CNS-6%EA%B8%B0-TIL-AI-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%B0%B1%EC%97%94%EB%93%9C-II-31%EC%9D%BC%EC%B0%A8) | [@greenmilk1122](https://velog.io/@greenmilk1122) |
-| 2026.09.10 | [260910_우분투 개발 환경 세팅(Ubuntu 22.04 LTS + Isaac Sim 6.0.1 + ROS 2 Humble)](https://velog.io/@yjseo_log/260910%EC%9A%B0%EB%B6%84%ED%88%AC-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85Ubuntu-22.04-LTS-Isaac-Sim-6.0.1-ROS-2-Humble) | [@yjseo_log](https://velog.io/@yjseo_log) |
-| 2026.09.10 | [입사서류 작성법](https://velog.io/@ji-hyeon-im/%EC%9E%85%EC%82%AC%EC%84%9C%EB%A5%98-%EC%9E%91%EC%84%B1%EB%B2%95) | [@ji-hyeon-im](https://velog.io/@ji-hyeon-im) |
-| 2026.09.10 | [LeetCode 풀기 - 133. Clone Graph](https://velog.io/@jiu2161ob/LeetCode-%ED%92%80%EA%B8%B0-133.-Clone-Graph) | [@jiu2161ob](https://velog.io/@jiu2161ob) |
-| 2026.09.10 | [[Git]branch 요령과 github 활용](https://velog.io/@zoojjyu30/git) | [@zoojjyu30](https://velog.io/@zoojjyu30) |
+| 2026.09.11 | [프로그래머스 암호 해독](https://velog.io/@youngjun_10/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%95%94%ED%98%B8-%ED%95%B4%EB%8F%85) | [@youngjun_10](https://velog.io/@youngjun_10) |
+| 2026.09.11 | [`pipeline()` 한 줄 뒤에서 PyTorch가 하는 일](https://velog.io/@yangyang2/pipeline-%ED%95%9C-%EC%A4%84-%EB%92%A4%EC%97%90%EC%84%9C-PyTorch%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC) | [@yangyang2](https://velog.io/@yangyang2) |
+| 2026.09.11 | [리눅스 마스터 2급 2차 Day 4](https://velog.io/@hyunjun_kr/%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%A7%88%EC%8A%A4%ED%84%B0-2%EA%B8%89-2%EC%B0%A8-Day-4) | [@hyunjun_kr](https://velog.io/@hyunjun_kr) |
+| 2026.09.11 | [[OOP #7] interface / abstract class](https://velog.io/@tzamgo/OOP-7-interface-abstract-class) | [@tzamgo](https://velog.io/@tzamgo) |
+| 2026.09.11 | [AI 엔지니어 부트캠프 38일차[CNN 마무리, 기울기 손실]](https://velog.io/@jin_hong/AI-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-38%EC%9D%BC%EC%B0%A8CNN-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EA%B8%B0%EC%9A%B8%EA%B8%B0-%EC%86%90%EC%8B%A4) | [@jin_hong](https://velog.io/@jin_hong) |
+| 2026.09.11 | [Project Euler / 3](https://velog.io/@puante_314/Project-Euler-3) | [@puante_314](https://velog.io/@puante_314) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
