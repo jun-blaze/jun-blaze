@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.10 | [같은 스프레이 질감을 유지하면서 렌더 비용을 39% 줄인 과정](https://velog.io/@subjeelee/%EA%B0%99%EC%9D%80-%EC%8A%A4%ED%94%84%EB%A0%88%EC%9D%B4-%EC%A7%88%EA%B0%90%EC%9D%84-%EC%9C%A0%EC%A7%80%ED%95%98%EB%A9%B4%EC%84%9C-%EB%A0%8C%EB%8D%94-%EB%B9%84%EC%9A%A9%EC%9D%84-39-%EC%A4%84%EC%9D%B8-%EA%B3%BC%EC%A0%95) | [@subjeelee](https://velog.io/@subjeelee) |
-| 2026.09.10 | [직접 해보니 알았다 — 진짜 벽은 '코드'가 아니었고, 배포는 '끝'이 아니었다](https://velog.io/@jsk900210/%EC%A7%81%EC%A0%91-%ED%95%B4%EB%B3%B4%EB%8B%88-%EC%95%8C%EC%95%98%EB%8B%A4-%EC%A7%84%EC%A7%9C-%EB%B2%BD%EC%9D%80-%EC%BD%94%EB%93%9C%EA%B0%80-%EC%95%84%EB%8B%88%EC%97%88%EA%B3%A0-%EB%B0%B0%ED%8F%AC%EB%8A%94-%EB%81%9D%EC%9D%B4-%EC%95%84%EB%8B%88%EC%97%88%EB%8B%A4) | [@jsk900210](https://velog.io/@jsk900210) |
-| 2026.09.10 | [기술질문 대비](https://velog.io/@rlaehduq2640/%EA%B8%B0%EC%88%A0%EC%A7%88%EB%AC%B8-%EB%8C%80%EB%B9%84) | [@rlaehduq2640](https://velog.io/@rlaehduq2640) |
-| 2026.09.10 | [Stack 2](https://velog.io/@dajung/Stack-2) | [@dajung](https://velog.io/@dajung) |
-| 2026.09.10 | [[투빅스 4주차 정규세션] GenAI](https://velog.io/@robbers17/%ED%88%AC%EB%B9%85%EC%8A%A4-4%EC%A3%BC%EC%B0%A8-%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98-GenAI) | [@robbers17](https://velog.io/@robbers17) |
-| 2026.09.10 | [먹괴음 발광 오브젝트 5개 + 건물 구조물 6개, 하루 만에 블렌더로 뽑아본 날](https://velog.io/@hyungjin-yu/%EB%A8%B9%EA%B4%B4%EC%9D%8C-%EB%B0%9C%EA%B4%91-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-5%EA%B0%9C-%EA%B1%B4%EB%AC%BC-%EA%B5%AC%EC%A1%B0%EB%AC%BC-6%EA%B0%9C-%ED%95%98%EB%A3%A8-%EB%A7%8C%EC%97%90-%EB%B8%94%EB%A0%8C%EB%8D%94%EB%A1%9C-%EB%BD%91%EC%95%84%EB%B3%B8-%EB%82%A0) | [@hyungjin-yu](https://velog.io/@hyungjin-yu) |
+| 2026.09.10 | [가속도계 시장 규모 및 성장: 동향, 기회 및 2026-2033년 전망](https://velog.io/@cmi-coherent-1/%EA%B0%80%EC%86%8D%EB%8F%84%EA%B3%84-%EC%8B%9C%EC%9E%A5-%EA%B7%9C%EB%AA%A8-%EB%B0%8F-%EC%84%B1%EC%9E%A5-%EB%8F%99%ED%96%A5-%EA%B8%B0%ED%9A%8C-%EB%B0%8F-2026-2033%EB%85%84-%EC%A0%84%EB%A7%9D) | [@cmi-coherent-1](https://velog.io/@cmi-coherent-1) |
+| 2026.09.10 | [[LG CNS 6기 TIL] Digital Insight 2 - DevOps 이해와 활용 : 31일차](https://velog.io/@greenmilk1122/LG-CNS-6%EA%B8%B0-TIL-AI-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%B0%B1%EC%97%94%EB%93%9C-II-31%EC%9D%BC%EC%B0%A8) | [@greenmilk1122](https://velog.io/@greenmilk1122) |
+| 2026.09.10 | [260910_우분투 개발 환경 세팅(Ubuntu 22.04 LTS + Isaac Sim 6.0.1 + ROS 2 Humble)](https://velog.io/@yjseo_log/260910%EC%9A%B0%EB%B6%84%ED%88%AC-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85Ubuntu-22.04-LTS-Isaac-Sim-6.0.1-ROS-2-Humble) | [@yjseo_log](https://velog.io/@yjseo_log) |
+| 2026.09.10 | [입사서류 작성법](https://velog.io/@ji-hyeon-im/%EC%9E%85%EC%82%AC%EC%84%9C%EB%A5%98-%EC%9E%91%EC%84%B1%EB%B2%95) | [@ji-hyeon-im](https://velog.io/@ji-hyeon-im) |
+| 2026.09.10 | [LeetCode 풀기 - 133. Clone Graph](https://velog.io/@jiu2161ob/LeetCode-%ED%92%80%EA%B8%B0-133.-Clone-Graph) | [@jiu2161ob](https://velog.io/@jiu2161ob) |
+| 2026.09.10 | [[Git]branch 요령과 github 활용](https://velog.io/@zoojjyu30/git) | [@zoojjyu30](https://velog.io/@zoojjyu30) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
