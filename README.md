@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.12 | [Artwork : Halftone Pattern](https://velog.io/@ryoong1125/Artwork-Halftone-Pattern) | [@ryoong1125](https://velog.io/@ryoong1125) |
-| 2026.09.12 | [블로그에 색다른 시도를 해보자.](https://velog.io/@sunwoooh08/7sunwoo-1) | [@sunwoooh08](https://velog.io/@sunwoooh08) |
-| 2026.09.12 | [[LG CNS AM - TIL 32일차] Spring Boot REST API : Redis, Spring Security, 토큰 인증 및 보안](https://velog.io/@lvmnt2/LG-CNS-AM-TIL-32%EC%9D%BC%EC%B0%A8-Spring-Boot-REST-API-Redis-Spring-Security-%ED%86%A0%ED%81%B0-%EC%9D%B8%EC%A6%9D-%EB%B0%8F-%EB%B3%B4%EC%95%88) | [@lvmnt2](https://velog.io/@lvmnt2) |
-| 2026.09.12 | [당근마켓 MLE 인턴 후기-0](https://velog.io/@jshyunbin/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-MLE-%EC%9D%B8%ED%84%B4-%ED%9B%84%EA%B8%B0) | [@jshyunbin](https://velog.io/@jshyunbin) |
-| 2026.09.11 | [주문 생성 멱등성 키](https://velog.io/@inop159/%EC%A3%BC%EB%AC%B8-%EC%83%9D%EC%84%B1-%EB%A9%B1%EB%93%B1%EC%84%B1-%ED%82%A4) | [@inop159](https://velog.io/@inop159) |
-| 2026.09.11 | [[AWS] API Gateway란?](https://velog.io/@devhyun05/AWS-API-Gateway%EB%9E%80) | [@devhyun05](https://velog.io/@devhyun05) |
+| 2026.09.12 | [2026년 LG전자 채용연계학과 석사과정 후기](https://velog.io/@beaver_zip/2026%EB%85%84-LG%EC%A0%84%EC%9E%90-%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95-%EC%84%9D%EC%82%AC%EA%B3%BC%EC%A0%95-%ED%9B%84%EA%B8%B0-11yd6ktw) | [@beaver_zip](https://velog.io/@beaver_zip) |
+| 2026.09.12 | [[TIL] 20260911 \| 학습 기록](https://velog.io/@asb041022/TIL-20260911-%ED%95%99%EC%8A%B5-%EA%B8%B0%EB%A1%9D) | [@asb041022](https://velog.io/@asb041022) |
+| 2026.09.12 | [[Docker] 그래서 Docker가 뭐지?](https://velog.io/@devhyun05/Docker-%EA%B7%B8%EB%9E%98%EC%84%9C-Docker%EA%B0%80-%EB%AD%90%EC%A7%80) | [@devhyun05](https://velog.io/@devhyun05) |
+| 2026.09.12 | [현대자동차 소프티어 부트캠프 8기 DE 회고](https://velog.io/@minsuh99/%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8-%EC%86%8C%ED%94%84%ED%8B%B0%EC%96%B4-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-8%EA%B8%B0-DE-%ED%9A%8C%EA%B3%A0) | [@minsuh99](https://velog.io/@minsuh99) |
+| 2026.09.12 | [프로그래머스 - 없는 숫자 더하기(Java)](https://velog.io/@yunalstjs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%97%86%EB%8A%94-%EC%88%AB%EC%9E%90-%EB%8D%94%ED%95%98%EA%B8%B0Java) | [@yunalstjs](https://velog.io/@yunalstjs) |
+| 2026.09.12 | [CORS 에러는 왜 발생할까?](https://velog.io/@do2y/CORS-%EC%97%90%EB%9F%AC%EB%8A%94-%EC%99%9C-%EB%B0%9C%EC%83%9D%ED%95%A0%EA%B9%8C) | [@do2y](https://velog.io/@do2y) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
