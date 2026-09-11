@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.11 | [[논문 리뷰] Claude, GPT 모델 교체 시 '메모리'가 증발하는 기술적 이유](https://velog.io/@sue77/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-Claude-GPT-%EB%AA%A8%EB%8D%B8-%EA%B5%90%EC%B2%B4-%EC%8B%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B0%80-%EC%A6%9D%EB%B0%9C%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0%EC%A0%81-%EC%9D%B4%EC%9C%A0) | [@sue77](https://velog.io/@sue77) |
-| 2026.09.11 | [프로그래머스 - 뒤에 있는 큰 수 찾기](https://velog.io/@gwangmin-kim/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%92%A4%EC%97%90-%EC%9E%88%EB%8A%94-%ED%81%B0-%EC%88%98-%EC%B0%BE%EA%B8%B0) | [@gwangmin-kim](https://velog.io/@gwangmin-kim) |
-| 2026.09.11 | [Codex 0.154.0 Worktree: AI Agent 여러 개가 같은 Spring Boot 저장소를 건드릴 때 충돌을 막는 방법](https://velog.io/@gwanghun-choi/Codex-0.154.0-Worktree-AI-Agent-%EC%97%AC%EB%9F%AC-%EA%B0%9C%EA%B0%80-%EA%B0%99%EC%9D%80-Spring-Boot-%EC%A0%80%EC%9E%A5%EC%86%8C%EB%A5%BC-%EA%B1%B4%EB%93%9C%EB%A6%B4-%EB%95%8C-%EC%B6%A9%EB%8F%8C%EC%9D%84-%EB%A7%89%EB%8A%94-%EB%B0%A9%EB%B2%95) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
-| 2026.09.11 | [Gradle 9.8 RC1: Java 27 지원과 Maven Mirror 설정 재사용, 사내 빌드 인프라가 단순해진다](https://velog.io/@gwanghun-choi/Gradle-9.8-RC1-Java-27-%EC%A7%80%EC%9B%90%EA%B3%BC-Maven-Mirror-%EC%84%A4%EC%A0%95-%EC%9E%AC%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%82%B4-%EB%B9%8C%EB%93%9C-%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B0%80-%EB%8B%A8%EC%88%9C%ED%95%B4%EC%A7%84%EB%8B%A4) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
-| 2026.09.11 | [라즈베리 파이 AP 보안 강화와 트래픽 가시성 (3)](https://velog.io/@kyhw/pihole3) | [@kyhw](https://velog.io/@kyhw) |
-| 2026.09.11 | [[DirectX12] 17.1 사원수](https://velog.io/@rladuddbs/DirectX12-17.1-%EC%82%AC%EC%9B%90%EC%88%98) | [@rladuddbs](https://velog.io/@rladuddbs) |
+| 2026.09.11 | [[TIL]Redis로 RT관리, JWT 인증 필터 구현(DAY29)](https://velog.io/@ljw2869/TILDAY29) | [@ljw2869](https://velog.io/@ljw2869) |
+| 2026.09.11 | [[플레이데이터 SK네트웍스 Family AI 캠프 36기] DAY27 (2026.09.11)](https://velog.io/@doldolkoong/%ED%94%8C%EB%A0%88%EC%9D%B4%EB%8D%B0%EC%9D%B4%ED%84%B0-SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-AI-%EC%BA%A0%ED%94%84-36%EA%B8%B0-DAY25-2026.09.11) | [@doldolkoong](https://velog.io/@doldolkoong) |
+| 2026.09.11 | [[플레이데이터 SK네트웍스 Family AI 캠프 36기] DAY26 (2026.09.10)](https://velog.io/@doldolkoong/%ED%94%8C%EB%A0%88%EC%9D%B4%EB%8D%B0%EC%9D%B4%ED%84%B0-SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-AI-%EC%BA%A0%ED%94%84-36%EA%B8%B0-DAY24-2026.09.10) | [@doldolkoong](https://velog.io/@doldolkoong) |
+| 2026.09.11 | [Tailwind CSS 다크모드 구현 완벽 정리](https://velog.io/@zjqxbvidpp/tailwind-css-%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C-%EA%B5%AC%ED%98%84-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-20495) | [@zjqxbvidpp](https://velog.io/@zjqxbvidpp) |
+| 2026.09.11 | [2026/9/11(금) S.T.A Track 3기 5일차](https://velog.io/@dev-gony/2026911%EA%B8%88-S.T.A-Track-3%EA%B8%B0-5%EC%9D%BC%EC%B0%A8) | [@dev-gony](https://velog.io/@dev-gony) |
+| 2026.09.11 | [DHCP 설정](https://velog.io/@youz/DHCP-%EC%84%A4%EC%A0%95) | [@youz](https://velog.io/@youz) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
