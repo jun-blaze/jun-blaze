@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.11 | [[TIL]Redis로 RT관리, JWT 인증 필터 구현(DAY29)](https://velog.io/@ljw2869/TILDAY29) | [@ljw2869](https://velog.io/@ljw2869) |
-| 2026.09.11 | [[플레이데이터 SK네트웍스 Family AI 캠프 36기] DAY27 (2026.09.11)](https://velog.io/@doldolkoong/%ED%94%8C%EB%A0%88%EC%9D%B4%EB%8D%B0%EC%9D%B4%ED%84%B0-SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-AI-%EC%BA%A0%ED%94%84-36%EA%B8%B0-DAY25-2026.09.11) | [@doldolkoong](https://velog.io/@doldolkoong) |
-| 2026.09.11 | [[플레이데이터 SK네트웍스 Family AI 캠프 36기] DAY26 (2026.09.10)](https://velog.io/@doldolkoong/%ED%94%8C%EB%A0%88%EC%9D%B4%EB%8D%B0%EC%9D%B4%ED%84%B0-SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-AI-%EC%BA%A0%ED%94%84-36%EA%B8%B0-DAY24-2026.09.10) | [@doldolkoong](https://velog.io/@doldolkoong) |
-| 2026.09.11 | [Tailwind CSS 다크모드 구현 완벽 정리](https://velog.io/@zjqxbvidpp/tailwind-css-%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C-%EA%B5%AC%ED%98%84-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-20495) | [@zjqxbvidpp](https://velog.io/@zjqxbvidpp) |
-| 2026.09.11 | [2026/9/11(금) S.T.A Track 3기 5일차](https://velog.io/@dev-gony/2026911%EA%B8%88-S.T.A-Track-3%EA%B8%B0-5%EC%9D%BC%EC%B0%A8) | [@dev-gony](https://velog.io/@dev-gony) |
-| 2026.09.11 | [DHCP 설정](https://velog.io/@youz/DHCP-%EC%84%A4%EC%A0%95) | [@youz](https://velog.io/@youz) |
+| 2026.09.12 | [Artwork : Halftone Pattern](https://velog.io/@ryoong1125/Artwork-Halftone-Pattern) | [@ryoong1125](https://velog.io/@ryoong1125) |
+| 2026.09.12 | [블로그에 색다른 시도를 해보자.](https://velog.io/@sunwoooh08/7sunwoo-1) | [@sunwoooh08](https://velog.io/@sunwoooh08) |
+| 2026.09.12 | [[LG CNS AM - TIL 32일차] Spring Boot REST API : Redis, Spring Security, 토큰 인증 및 보안](https://velog.io/@lvmnt2/LG-CNS-AM-TIL-32%EC%9D%BC%EC%B0%A8-Spring-Boot-REST-API-Redis-Spring-Security-%ED%86%A0%ED%81%B0-%EC%9D%B8%EC%A6%9D-%EB%B0%8F-%EB%B3%B4%EC%95%88) | [@lvmnt2](https://velog.io/@lvmnt2) |
+| 2026.09.12 | [당근마켓 MLE 인턴 후기-0](https://velog.io/@jshyunbin/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-MLE-%EC%9D%B8%ED%84%B4-%ED%9B%84%EA%B8%B0) | [@jshyunbin](https://velog.io/@jshyunbin) |
+| 2026.09.11 | [주문 생성 멱등성 키](https://velog.io/@inop159/%EC%A3%BC%EB%AC%B8-%EC%83%9D%EC%84%B1-%EB%A9%B1%EB%93%B1%EC%84%B1-%ED%82%A4) | [@inop159](https://velog.io/@inop159) |
+| 2026.09.11 | [[AWS] API Gateway란?](https://velog.io/@devhyun05/AWS-API-Gateway%EB%9E%80) | [@devhyun05](https://velog.io/@devhyun05) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
