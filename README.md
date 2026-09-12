@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.12 | [2026년 LG전자 채용연계학과 석사과정 후기](https://velog.io/@beaver_zip/2026%EB%85%84-LG%EC%A0%84%EC%9E%90-%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95-%EC%84%9D%EC%82%AC%EA%B3%BC%EC%A0%95-%ED%9B%84%EA%B8%B0-11yd6ktw) | [@beaver_zip](https://velog.io/@beaver_zip) |
-| 2026.09.12 | [[TIL] 20260911 \| 학습 기록](https://velog.io/@asb041022/TIL-20260911-%ED%95%99%EC%8A%B5-%EA%B8%B0%EB%A1%9D) | [@asb041022](https://velog.io/@asb041022) |
-| 2026.09.12 | [[Docker] 그래서 Docker가 뭐지?](https://velog.io/@devhyun05/Docker-%EA%B7%B8%EB%9E%98%EC%84%9C-Docker%EA%B0%80-%EB%AD%90%EC%A7%80) | [@devhyun05](https://velog.io/@devhyun05) |
-| 2026.09.12 | [현대자동차 소프티어 부트캠프 8기 DE 회고](https://velog.io/@minsuh99/%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8-%EC%86%8C%ED%94%84%ED%8B%B0%EC%96%B4-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-8%EA%B8%B0-DE-%ED%9A%8C%EA%B3%A0) | [@minsuh99](https://velog.io/@minsuh99) |
-| 2026.09.12 | [프로그래머스 - 없는 숫자 더하기(Java)](https://velog.io/@yunalstjs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%97%86%EB%8A%94-%EC%88%AB%EC%9E%90-%EB%8D%94%ED%95%98%EA%B8%B0Java) | [@yunalstjs](https://velog.io/@yunalstjs) |
-| 2026.09.12 | [CORS 에러는 왜 발생할까?](https://velog.io/@do2y/CORS-%EC%97%90%EB%9F%AC%EB%8A%94-%EC%99%9C-%EB%B0%9C%EC%83%9D%ED%95%A0%EA%B9%8C) | [@do2y](https://velog.io/@do2y) |
+| 2026.09.12 | [정보처리기사 12일차 Java ch4. 객체 클래스](https://velog.io/@kdk1219/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-Java-ch4.-%EA%B0%9D%EC%B2%B4-%ED%81%B4%EB%9E%98%EC%8A%A4) | [@kdk1219](https://velog.io/@kdk1219) |
+| 2026.09.12 | [[LeetCode] Apply Operations to an Array](https://velog.io/@ardan0128/LeetCode-Apply-Operations-to-an-Array) | [@ardan0128](https://velog.io/@ardan0128) |
+| 2026.09.12 | [OCI 서버 생성 재시도기 만들기 — 타임아웃과 재시작을 다루는 법](https://velog.io/@anlee/oci-instance-retry-timeout-recovery) | [@anlee](https://velog.io/@anlee) |
+| 2026.09.12 | [사전미션5 [ 1. UI/UX 프로덕트 디자인 이모저모 ]](https://velog.io/@jjhh1315/%EC%82%AC%EC%A0%84%EB%AF%B8%EC%85%985-1.-UIUX-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%9D%B4%EB%AA%A8%EC%A0%80%EB%AA%A8) | [@jjhh1315](https://velog.io/@jjhh1315) |
+| 2026.09.12 | [Ubuntu 22.04.5 LTS 구축](https://velog.io/@ynh710/Ubuntu-22.04.5-LTS-%EA%B5%AC%EC%B6%95) | [@ynh710](https://velog.io/@ynh710) |
+| 2026.09.12 | [Artwork : Halftone Pattern 2](https://velog.io/@ryoong1125/Artwork-Halftone-Pattern-2) | [@ryoong1125](https://velog.io/@ryoong1125) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
