@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.12 | [[서브 쿼리] \| 중첩, 스칼라, 인라인 뷰 서브 쿼리](https://velog.io/@minbong/%EC%84%9C%EB%B8%8C-%EC%BF%BC%EB%A6%AC-%EC%A4%91%EC%B2%A9-%EC%8A%A4%EC%B9%BC%EB%9D%BC-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EB%B7%B0-%EC%84%9C%EB%B8%8C-%EC%BF%BC%EB%A6%AC) | [@minbong](https://velog.io/@minbong) |
-| 2026.09.12 | [언더독 웹 기초 챌린지 DAY-2](https://velog.io/@daniel1106-cloud/%EC%96%B8%EB%8D%94%EB%8F%85-%EC%9B%B9-%EA%B8%B0%EC%B4%88-%EC%B1%8C%EB%A6%B0%EC%A7%80-DAY-2) | [@daniel1106-cloud](https://velog.io/@daniel1106-cloud) |
-| 2026.09.12 | [기술부채도 이제 AI에게 티켓처럼 던진다](https://velog.io/@kyu_ios_dev/2609124) | [@kyu_ios_dev](https://velog.io/@kyu_ios_dev) |
-| 2026.09.12 | [Kotlin이 Swift 쪽으로 한 발 더 들어왔다](https://velog.io/@kyu_ios_dev/2609123) | [@kyu_ios_dev](https://velog.io/@kyu_ios_dev) |
-| 2026.09.12 | [[다시 초심으로 4]: API 설계 종류 - API Architecture types](https://velog.io/@elin16/%EB%8B%A4%EC%8B%9C-%EC%B4%88%EC%8B%AC%EC%9C%BC%EB%A1%9C-4-API-%EC%84%A4%EA%B3%84-%EC%A2%85%EB%A5%98-API-Architecture-types) | [@elin16](https://velog.io/@elin16) |
-| 2026.09.12 | [iOS 27.1 커스텀 탭바를 당장 버릴 필요는 없다](https://velog.io/@kyu_ios_dev/2609122) | [@kyu_ios_dev](https://velog.io/@kyu_ios_dev) |
+| 2026.09.12 | [kubernetes pod란?](https://velog.io/@dreaming/kubernetes-pod%EB%9E%80) | [@dreaming](https://velog.io/@dreaming) |
+| 2026.09.12 | [[PostgreSQL] 24. 물리 백업 (2) - pgBackRest: 백업과 복구](https://velog.io/@jinwoo_study/PostgreSQL-24.-%EB%AC%BC%EB%A6%AC-%EB%B0%B1%EC%97%85-2-pgBackRest-%EA%B8%B0%EB%B3%B8-%EB%B0%B1%EC%97%85%EA%B3%BC-%EB%B3%B5%EA%B5%AC) | [@jinwoo_study](https://velog.io/@jinwoo_study) |
+| 2026.09.12 | [앱스토어 리젝 3번 당하고 알게 된 것들 — 사유 코드가 아니라 스크린샷을 봐라](https://velog.io/@takixzsx/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4-%EB%A6%AC%EC%A0%9D-3%EB%B2%88-%EB%8B%B9%ED%95%98%EA%B3%A0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4-%EC%82%AC%EC%9C%A0-%EC%BD%94%EB%93%9C%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%EC%9D%84-%EB%B4%90%EB%9D%BC) | [@takixzsx](https://velog.io/@takixzsx) |
+| 2026.09.12 | [AI 답답해서 내가 정리하는TerraForm](https://velog.io/@jkijki12/AI-%EB%8B%B5%EB%8B%B5%ED%95%B4%EC%84%9C-%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94TerraForm) | [@jkijki12](https://velog.io/@jkijki12) |
+| 2026.09.12 | [NVIDIA는 커널을 부르고, Trainium은 프로그램을 올린다](https://velog.io/@victorjo/NVIDIA%EB%8A%94-%EC%BB%A4%EB%84%90%EC%9D%84-%EB%B6%80%EB%A5%B4%EA%B3%A0-Trainium%EC%9D%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84-%EC%98%AC%EB%A6%B0%EB%8B%A4) | [@victorjo](https://velog.io/@victorjo) |
+| 2026.09.12 | [Unity 타격감 구현 - 히트스톱,화면 흔들림,히트 플래시,사운드 동기화](https://velog.io/@byjun9804/Unity-%ED%83%80%EA%B2%A9%EA%B0%90-%EA%B5%AC%ED%98%84-%ED%9E%88%ED%8A%B8%EC%8A%A4%ED%86%B1%ED%99%94%EB%A9%B4-%ED%9D%94%EB%93%A4%EB%A6%BC%ED%9E%88%ED%8A%B8-%ED%94%8C%EB%9E%98%EC%8B%9C%EC%82%AC%EC%9A%B4%EB%93%9C-%EB%8F%99%EA%B8%B0%ED%99%94) | [@byjun9804](https://velog.io/@byjun9804) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
