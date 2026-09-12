@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.12 | [정보처리기사 12일차 Java ch4. 객체 클래스](https://velog.io/@kdk1219/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-Java-ch4.-%EA%B0%9D%EC%B2%B4-%ED%81%B4%EB%9E%98%EC%8A%A4) | [@kdk1219](https://velog.io/@kdk1219) |
-| 2026.09.12 | [[LeetCode] Apply Operations to an Array](https://velog.io/@ardan0128/LeetCode-Apply-Operations-to-an-Array) | [@ardan0128](https://velog.io/@ardan0128) |
-| 2026.09.12 | [OCI 서버 생성 재시도기 만들기 — 타임아웃과 재시작을 다루는 법](https://velog.io/@anlee/oci-instance-retry-timeout-recovery) | [@anlee](https://velog.io/@anlee) |
-| 2026.09.12 | [사전미션5 [ 1. UI/UX 프로덕트 디자인 이모저모 ]](https://velog.io/@jjhh1315/%EC%82%AC%EC%A0%84%EB%AF%B8%EC%85%985-1.-UIUX-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%9D%B4%EB%AA%A8%EC%A0%80%EB%AA%A8) | [@jjhh1315](https://velog.io/@jjhh1315) |
-| 2026.09.12 | [Ubuntu 22.04.5 LTS 구축](https://velog.io/@ynh710/Ubuntu-22.04.5-LTS-%EA%B5%AC%EC%B6%95) | [@ynh710](https://velog.io/@ynh710) |
-| 2026.09.12 | [Artwork : Halftone Pattern 2](https://velog.io/@ryoong1125/Artwork-Halftone-Pattern-2) | [@ryoong1125](https://velog.io/@ryoong1125) |
+| 2026.09.12 | [[서브 쿼리] \| 중첩, 스칼라, 인라인 뷰 서브 쿼리](https://velog.io/@minbong/%EC%84%9C%EB%B8%8C-%EC%BF%BC%EB%A6%AC-%EC%A4%91%EC%B2%A9-%EC%8A%A4%EC%B9%BC%EB%9D%BC-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EB%B7%B0-%EC%84%9C%EB%B8%8C-%EC%BF%BC%EB%A6%AC) | [@minbong](https://velog.io/@minbong) |
+| 2026.09.12 | [언더독 웹 기초 챌린지 DAY-2](https://velog.io/@daniel1106-cloud/%EC%96%B8%EB%8D%94%EB%8F%85-%EC%9B%B9-%EA%B8%B0%EC%B4%88-%EC%B1%8C%EB%A6%B0%EC%A7%80-DAY-2) | [@daniel1106-cloud](https://velog.io/@daniel1106-cloud) |
+| 2026.09.12 | [기술부채도 이제 AI에게 티켓처럼 던진다](https://velog.io/@kyu_ios_dev/2609124) | [@kyu_ios_dev](https://velog.io/@kyu_ios_dev) |
+| 2026.09.12 | [Kotlin이 Swift 쪽으로 한 발 더 들어왔다](https://velog.io/@kyu_ios_dev/2609123) | [@kyu_ios_dev](https://velog.io/@kyu_ios_dev) |
+| 2026.09.12 | [[다시 초심으로 4]: API 설계 종류 - API Architecture types](https://velog.io/@elin16/%EB%8B%A4%EC%8B%9C-%EC%B4%88%EC%8B%AC%EC%9C%BC%EB%A1%9C-4-API-%EC%84%A4%EA%B3%84-%EC%A2%85%EB%A5%98-API-Architecture-types) | [@elin16](https://velog.io/@elin16) |
+| 2026.09.12 | [iOS 27.1 커스텀 탭바를 당장 버릴 필요는 없다](https://velog.io/@kyu_ios_dev/2609122) | [@kyu_ios_dev](https://velog.io/@kyu_ios_dev) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
