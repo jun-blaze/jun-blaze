@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.13 | [품질 좋으라고 넣은 프롬프트가 AI 안전장치를 깨뜨리고 있다](https://velog.io/@nooyix/%ED%92%88%EC%A7%88-%EC%A2%8B%EC%9C%BC%EB%9D%BC%EA%B3%A0-%EB%84%A3%EC%9D%80-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EA%B0%80-AI-%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98%EB%A5%BC-%EA%B9%A8%EB%9C%A8%EB%A6%AC%EA%B3%A0-%EC%9E%88%EB%8B%A4) | [@nooyix](https://velog.io/@nooyix) |
-| 2026.09.13 | [파이토치 \| 2.2 nn.Module과 클래스로 구현하기](https://velog.io/@oljuyeon/%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98-2.2-nn.Module%EA%B3%BC-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) | [@oljuyeon](https://velog.io/@oljuyeon) |
-| 2026.09.13 | [Numpy 객체](https://velog.io/@jdy1142002/Numpy-%EA%B0%9D%EC%B2%B4) | [@jdy1142002](https://velog.io/@jdy1142002) |
-| 2026.09.13 | [[내일배움캠프] WIL - 29주차](https://velog.io/@minseong01/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-WIL-29%EC%A3%BC%EC%B0%A8) | [@minseong01](https://velog.io/@minseong01) |
-| 2026.09.13 | [2026 0924영상제 영상 공모전](https://velog.io/@korea2/2026-0924%EC%98%81%EC%83%81%EC%A0%9C-%EC%98%81%EC%83%81-%EA%B3%B5%EB%AA%A8%EC%A0%84) | [@korea2](https://velog.io/@korea2) |
-| 2026.09.13 | [LLM WIKI - 프로젝트 설계 초안](https://velog.io/@khhh9401/LLM-WIKI-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84-%EC%B4%88%EC%95%88) | [@khhh9401](https://velog.io/@khhh9401) |
+| 2026.09.14 | [전자책을 만들자!(3)](https://velog.io/@plectranthus/%EC%A0%84%EC%9E%90%EC%B1%85%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%9E%903) | [@plectranthus](https://velog.io/@plectranthus) |
+| 2026.09.14 | [Filter에서 Controller까지, 요청 하나가 통과하는 파이프라인](https://velog.io/@kimreenact/Web-Server%EC%97%90%EC%84%9C-Controller%EA%B9%8C%EC%A7%80-Spring-MVC-%EC%9A%94%EC%B2%AD-%EC%B2%98%EB%A6%AC-A-to-Z) | [@kimreenact](https://velog.io/@kimreenact) |
+| 2026.09.14 | [딥딥러닝 2회차 03-01(선형회귀와 자동 미분)](https://velog.io/@tmdwo1016/%EB%94%A5%EB%94%A5%EB%9F%AC%EB%8B%9D-2%ED%9A%8C%EC%B0%A8-03-01%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80%EC%99%80-%EC%9E%90%EB%8F%99-%EB%AF%B8%EB%B6%84) | [@tmdwo1016](https://velog.io/@tmdwo1016) |
+| 2026.09.14 | [[C#/꼬리잡기] Stack - LIFO에서 Stack Frame까지](https://velog.io/@songwol_/C%EA%BC%AC%EB%A6%AC%EC%9E%A1%EA%B8%B0-Stack-LIFO%EC%97%90%EC%84%9C-Stack-Frame%EA%B9%8C%EC%A7%80) | [@songwol_](https://velog.io/@songwol_) |
+| 2026.09.14 | [Claude Code로 이력서 웹 사이트 만들며 써본 ponytail, headroom](https://velog.io/@hjb825/Claude-Code%EB%A1%9C-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EC%8D%A8%EB%B3%B8-ponytail-headroom) | [@hjb825](https://velog.io/@hjb825) |
+| 2026.09.13 | [Java Class](https://velog.io/@yihyun_kwon/Java-Class) | [@yihyun_kwon](https://velog.io/@yihyun_kwon) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
