@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.13 | [국밥집 키우기 개발 일지 - 1](https://velog.io/@sbqsbqsbq/%EA%B5%AD%EB%B0%A5%EC%A7%91-%ED%82%A4%EC%9A%B0%EA%B8%B0-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-1) | [@sbqsbqsbq](https://velog.io/@sbqsbqsbq) |
-| 2026.09.13 | [[자료구조 / C언어] 시간 복잡도와 빅오 표기법 이해하기](https://velog.io/@namuking/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-C%EC%96%B8%EC%96%B4-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84%EC%99%80-%EB%B9%85%EC%98%A4-%ED%91%9C%EA%B8%B0%EB%B2%95-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@namuking](https://velog.io/@namuking) |
-| 2026.09.13 | [[스크랩] 2026.09.13 IBK기업은행의 여신심사 DX](https://velog.io/@darlian0889/%EC%8A%A4%ED%81%AC%EB%9E%A9-2026.09.13-IBK%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%EC%9D%98-%EC%97%AC%EC%8B%A0%EC%8B%AC%EC%82%AC-DX) | [@darlian0889](https://velog.io/@darlian0889) |
-| 2026.09.13 | [[자료구조] C언어로 이해하는 리스트와 연결 리스트](https://velog.io/@namuking/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-C%EC%96%B8%EC%96%B4%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B8) | [@namuking](https://velog.io/@namuking) |
-| 2026.09.13 | [문법 : 기본 수학 함수](https://velog.io/@ryoong1125/%EB%AC%B8%EB%B2%95-%EA%B8%B0%EB%B3%B8-%EC%88%98%ED%95%99-%ED%95%A8%EC%88%98) | [@ryoong1125](https://velog.io/@ryoong1125) |
-| 2026.09.13 | [드림핵 Addition calculator 풀이](https://velog.io/@junnyontop-pixel/%EB%93%9C%EB%A6%BC%ED%95%B5-Addition-calculator-%ED%92%80%EC%9D%B4) | [@junnyontop-pixel](https://velog.io/@junnyontop-pixel) |
+| 2026.09.13 | [품질 좋으라고 넣은 프롬프트가 AI 안전장치를 깨뜨리고 있다](https://velog.io/@nooyix/%ED%92%88%EC%A7%88-%EC%A2%8B%EC%9C%BC%EB%9D%BC%EA%B3%A0-%EB%84%A3%EC%9D%80-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EA%B0%80-AI-%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98%EB%A5%BC-%EA%B9%A8%EB%9C%A8%EB%A6%AC%EA%B3%A0-%EC%9E%88%EB%8B%A4) | [@nooyix](https://velog.io/@nooyix) |
+| 2026.09.13 | [파이토치 \| 2.2 nn.Module과 클래스로 구현하기](https://velog.io/@oljuyeon/%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98-2.2-nn.Module%EA%B3%BC-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) | [@oljuyeon](https://velog.io/@oljuyeon) |
+| 2026.09.13 | [Numpy 객체](https://velog.io/@jdy1142002/Numpy-%EA%B0%9D%EC%B2%B4) | [@jdy1142002](https://velog.io/@jdy1142002) |
+| 2026.09.13 | [[내일배움캠프] WIL - 29주차](https://velog.io/@minseong01/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-WIL-29%EC%A3%BC%EC%B0%A8) | [@minseong01](https://velog.io/@minseong01) |
+| 2026.09.13 | [2026 0924영상제 영상 공모전](https://velog.io/@korea2/2026-0924%EC%98%81%EC%83%81%EC%A0%9C-%EC%98%81%EC%83%81-%EA%B3%B5%EB%AA%A8%EC%A0%84) | [@korea2](https://velog.io/@korea2) |
+| 2026.09.13 | [LLM WIKI - 프로젝트 설계 초안](https://velog.io/@khhh9401/LLM-WIKI-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84-%EC%B4%88%EC%95%88) | [@khhh9401](https://velog.io/@khhh9401) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
