@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.14 | [전자책을 만들자!(3)](https://velog.io/@plectranthus/%EC%A0%84%EC%9E%90%EC%B1%85%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%9E%903) | [@plectranthus](https://velog.io/@plectranthus) |
-| 2026.09.14 | [Filter에서 Controller까지, 요청 하나가 통과하는 파이프라인](https://velog.io/@kimreenact/Web-Server%EC%97%90%EC%84%9C-Controller%EA%B9%8C%EC%A7%80-Spring-MVC-%EC%9A%94%EC%B2%AD-%EC%B2%98%EB%A6%AC-A-to-Z) | [@kimreenact](https://velog.io/@kimreenact) |
-| 2026.09.14 | [딥딥러닝 2회차 03-01(선형회귀와 자동 미분)](https://velog.io/@tmdwo1016/%EB%94%A5%EB%94%A5%EB%9F%AC%EB%8B%9D-2%ED%9A%8C%EC%B0%A8-03-01%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80%EC%99%80-%EC%9E%90%EB%8F%99-%EB%AF%B8%EB%B6%84) | [@tmdwo1016](https://velog.io/@tmdwo1016) |
-| 2026.09.14 | [[C#/꼬리잡기] Stack - LIFO에서 Stack Frame까지](https://velog.io/@songwol_/C%EA%BC%AC%EB%A6%AC%EC%9E%A1%EA%B8%B0-Stack-LIFO%EC%97%90%EC%84%9C-Stack-Frame%EA%B9%8C%EC%A7%80) | [@songwol_](https://velog.io/@songwol_) |
-| 2026.09.14 | [Claude Code로 이력서 웹 사이트 만들며 써본 ponytail, headroom](https://velog.io/@hjb825/Claude-Code%EB%A1%9C-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EC%8D%A8%EB%B3%B8-ponytail-headroom) | [@hjb825](https://velog.io/@hjb825) |
-| 2026.09.13 | [Java Class](https://velog.io/@yihyun_kwon/Java-Class) | [@yihyun_kwon](https://velog.io/@yihyun_kwon) |
+| 2026.09.14 | [Flux LoRA 온라인 워크플로와 모델 탐색의 미래](https://velog.io/@masonvideo/Flux-LoRA-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%99%80-%EB%AA%A8%EB%8D%B8-%ED%83%90%EC%83%89%EC%9D%98-%EB%AF%B8%EB%9E%98) | [@masonvideo](https://velog.io/@masonvideo) |
+| 2026.09.14 | [26S14e](https://velog.io/@youngkyoo_kim/26S14e) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.09.14 | [26S14d](https://velog.io/@youngkyoo_kim/26S14d) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.09.14 | [26S14c](https://velog.io/@youngkyoo_kim/26S14c) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.09.14 | [26S14b](https://velog.io/@youngkyoo_kim/26S14b) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.09.14 | [[UMC 11기] 홍익대(서울) Web 파트 서류·면접 합격 후기](https://velog.io/@ww123ok/UMC-11%EA%B8%B0-%ED%99%8D%EC%9D%B5%EB%8C%80%EC%84%9C%EC%9A%B8-Web-%ED%8C%8C%ED%8A%B8-%EC%84%9C%EB%A5%98%EB%A9%B4%EC%A0%91-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0) | [@ww123ok](https://velog.io/@ww123ok) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
