@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.13 | [AI 답답해서 내가 정리하는 K8S #1](https://velog.io/@jkijki12/AI-%EB%8B%B5%EB%8B%B5%ED%95%B4%EC%84%9C-%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94-K8S-1) | [@jkijki12](https://velog.io/@jkijki12) |
-| 2026.09.13 | [Intro. 유튜브 댓글 필터 확장 프로그램 만들기](https://velog.io/@loloy/Intro.-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EB%8C%93%EA%B8%80-%ED%95%84%ED%84%B0-%ED%99%95%EC%9E%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-%EA%B8%B0%ED%9A%8D%EA%B3%BC-%EA%B5%AC%EC%A1%B0) | [@loloy](https://velog.io/@loloy) |
-| 2026.09.13 | [[CSS] - Grid](https://velog.io/@tnalsdl114/CSS-Grid) | [@tnalsdl114](https://velog.io/@tnalsdl114) |
-| 2026.09.13 | [회원가입 없이 웹소설 무료로 볼 수 있는 곳 추천해요](https://velog.io/@bodanovel/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%97%86%EC%9D%B4-%EC%9B%B9%EC%86%8C%EC%84%A4-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EB%B3%BC-%EC%88%98-%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%9A%94) | [@bodanovel](https://velog.io/@bodanovel) |
-| 2026.09.13 | [2026.09.12](https://velog.io/@kjhalc/2026.09.12) | [@kjhalc](https://velog.io/@kjhalc) |
-| 2026.09.13 | [JWT의 서명은 어떻게 위·변조를 방지하는가](https://velog.io/@rlawnsdud05/JWT%EC%9D%98-%EC%84%9C%EB%AA%85%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9C%84%EB%B3%80%EC%A1%B0%EB%A5%BC-%EB%B0%A9%EC%A7%80%ED%95%98%EB%8A%94%EA%B0%80) | [@rlawnsdud05](https://velog.io/@rlawnsdud05) |
+| 2026.09.13 | [국밥집 키우기 개발 일지 - 1](https://velog.io/@sbqsbqsbq/%EA%B5%AD%EB%B0%A5%EC%A7%91-%ED%82%A4%EC%9A%B0%EA%B8%B0-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-1) | [@sbqsbqsbq](https://velog.io/@sbqsbqsbq) |
+| 2026.09.13 | [[자료구조 / C언어] 시간 복잡도와 빅오 표기법 이해하기](https://velog.io/@namuking/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-C%EC%96%B8%EC%96%B4-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84%EC%99%80-%EB%B9%85%EC%98%A4-%ED%91%9C%EA%B8%B0%EB%B2%95-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@namuking](https://velog.io/@namuking) |
+| 2026.09.13 | [[스크랩] 2026.09.13 IBK기업은행의 여신심사 DX](https://velog.io/@darlian0889/%EC%8A%A4%ED%81%AC%EB%9E%A9-2026.09.13-IBK%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%EC%9D%98-%EC%97%AC%EC%8B%A0%EC%8B%AC%EC%82%AC-DX) | [@darlian0889](https://velog.io/@darlian0889) |
+| 2026.09.13 | [[자료구조] C언어로 이해하는 리스트와 연결 리스트](https://velog.io/@namuking/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-C%EC%96%B8%EC%96%B4%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B8) | [@namuking](https://velog.io/@namuking) |
+| 2026.09.13 | [문법 : 기본 수학 함수](https://velog.io/@ryoong1125/%EB%AC%B8%EB%B2%95-%EA%B8%B0%EB%B3%B8-%EC%88%98%ED%95%99-%ED%95%A8%EC%88%98) | [@ryoong1125](https://velog.io/@ryoong1125) |
+| 2026.09.13 | [드림핵 Addition calculator 풀이](https://velog.io/@junnyontop-pixel/%EB%93%9C%EB%A6%BC%ED%95%B5-Addition-calculator-%ED%92%80%EC%9D%B4) | [@junnyontop-pixel](https://velog.io/@junnyontop-pixel) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
