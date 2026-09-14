@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.14 | [영어식 사고 통합 노트](https://velog.io/@nodehomenft/%EC%98%81%EC%96%B4%EC%8B%9D-%EC%82%AC%EA%B3%A0-%ED%86%B5%ED%95%A9-%EB%85%B8%ED%8A%B8) | [@nodehomenft](https://velog.io/@nodehomenft) |
-| 2026.09.14 | [현대 암산(멘탈매스) 완전 정복 가이드](https://velog.io/@nodehomenft/%ED%98%84%EB%8C%80-%EC%95%94%EC%82%B0%EB%A9%98%ED%83%88%EB%A7%A4%EC%8A%A4-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-%EA%B0%80%EC%9D%B4%EB%93%9C) | [@nodehomenft](https://velog.io/@nodehomenft) |
-| 2026.09.14 | [Claude Code Code Modernization Plugin: Spring Boot 2→3 마이그레이션을 분석부터 동등성 검증까지 자동화하기](https://velog.io/@gwanghun-choi/Claude-Code-Code-Modernization-Plugin-Spring-Boot-23-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%EC%9D%84-%EB%B6%84%EC%84%9D%EB%B6%80%ED%84%B0-%EB%8F%99%EB%93%B1%EC%84%B1-%EA%B2%80%EC%A6%9D%EA%B9%8C%EC%A7%80-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
-| 2026.09.14 | [실존주의](https://velog.io/@nodehomenft/%EC%8B%A4%EC%A1%B4%EC%A3%BC%EC%9D%98) | [@nodehomenft](https://velog.io/@nodehomenft) |
-| 2026.09.14 | [LangGraph4j 1.9 Beta 6: Java Agent에 Skill·Sub-agent·Checkpoint Versioning이 들어왔다](https://velog.io/@gwanghun-choi/LangGraph4j-1.9-Beta-6-Java-Agent%EC%97%90-SkillSub-agentCheckpoint-Versioning%EC%9D%B4-%EB%93%A4%EC%96%B4%EC%99%94%EB%8B%A4) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
-| 2026.09.14 | [Claude Code 2.1.265 `--plugin-dir`: 사내 Java 개발 Plugin 묶음을 한 폴더에서 Hot Load하기](https://velog.io/@gwanghun-choi/Claude-Code-2.1.265-plugin-dir-%EC%82%AC%EB%82%B4-Java-%EA%B0%9C%EB%B0%9C-Plugin-%EB%AC%B6%EC%9D%8C%EC%9D%84-%ED%95%9C-%ED%8F%B4%EB%8D%94%EC%97%90%EC%84%9C-Hot-Load%ED%95%98%EA%B8%B0) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
+| 2026.02.03 | [조선개발실록 - 제6화: 기룡지술 (騎龍之術)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C6%ED%99%94-%EA%B8%B0%EB%A3%A1%EC%A7%80%EC%88%A0-%E9%A8%8E%E9%BE%8D%E4%B9%8B%E8%A1%93-l6pjn8jj) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
