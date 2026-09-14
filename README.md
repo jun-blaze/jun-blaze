@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.15 | [🇺🇸 영어 독해 연습 \| Day 46일차 (2026-09-14 월)](https://velog.io/@mkyu0917/%EC%98%81%EC%96%B4-%EB%8F%85%ED%95%B4-%EC%97%B0%EC%8A%B5-Day-46%EC%9D%BC%EC%B0%A8-2026-09-14-%EC%9B%94) | [@mkyu0917](https://velog.io/@mkyu0917) |
-| 2026.09.15 | [Battle 리팩토링](https://velog.io/@darby221/Battle-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81) | [@darby221](https://velog.io/@darby221) |
-| 2026.09.15 | [2.4 소프트맥스 회귀 이해하기 (Softmax Regression)](https://velog.io/@antter5/2.4-%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4-%ED%9A%8C%EA%B7%80-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-Softmax-Regression) | [@antter5](https://velog.io/@antter5) |
-| 2026.09.15 | [Series, DataFrame](https://velog.io/@jdy1142002/Series-DataFrame) | [@jdy1142002](https://velog.io/@jdy1142002) |
-| 2026.09.15 | [[JAVA2] week2: JAVA Review](https://velog.io/@frogram/JAVA2-week2-JAVA-Review) | [@frogram](https://velog.io/@frogram) |
-| 2026.09.15 | [[SK네트웍스 Family AI 캠프] 35기 10주차 회고](https://velog.io/@wsc9150/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-AI-%EC%BA%A0%ED%94%84-35%EA%B8%B0-10%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [@wsc9150](https://velog.io/@wsc9150) |
+| 2026.09.15 | [# 2.4 소프트맥스 회귀 이해하기](https://velog.io/@shwinney-maker/2.4-%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4-%ED%9A%8C%EA%B7%80-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@shwinney-maker](https://velog.io/@shwinney-maker) |
+| 2026.09.15 | [# 2.3 미니 배치와 데이터 로더](https://velog.io/@shwinney-maker/2.3-%EB%AF%B8%EB%8B%88-%EB%B0%B0%EC%B9%98%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A1%9C%EB%8D%94) | [@shwinney-maker](https://velog.io/@shwinney-maker) |
+| 2026.09.15 | [AI가 짠 테스트 믿어도 될까](https://velog.io/@jyc_20240101/LLM-TEST) | [@jyc_20240101](https://velog.io/@jyc_20240101) |
+| 2026.09.15 | [ai가 감정을 가지게 되는 원리](https://velog.io/@0x60f/ai%EA%B0%80-%EA%B0%90%EC%A0%95%EC%9D%84-%EA%B0%80%EC%A7%80%EA%B2%8C-%EB%90%98%EB%8A%94-%EC%9B%90%EB%A6%AC) | [@0x60f](https://velog.io/@0x60f) |
+| 2026.09.15 | [[Spring Boot] Spring Event + @Async 기반 비동기 알림 및 이메일 발송 구현기 (트랜잭션 커밋 동기화 & 커넥션 풀 고갈 방지)](https://velog.io/@jyh0203/Spring-Boot-Spring-Event-Async-%EA%B8%B0%EB%B0%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%95%8C%EB%A6%BC-%EB%B0%8F-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%B0%9C%EC%86%A1-%EA%B5%AC%ED%98%84%EA%B8%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%BB%A4%EB%B0%8B-%EB%8F%99%EA%B8%B0%ED%99%94-%EC%BB%A4%EB%84%A5%EC%85%98-%ED%92%80-%EA%B3%A0%EA%B0%88-%EB%B0%A9%EC%A7%80) | [@jyh0203](https://velog.io/@jyh0203) |
+| 2026.09.15 | [[UMC 블로그 챌린지] Week 0. 웹 프론트엔드 기초](https://velog.io/@jiyoung12/Week-0.-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B8%B0%EC%B4%88) | [@jiyoung12](https://velog.io/@jiyoung12) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
