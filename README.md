@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.15 | [Java 계산기 과제 STEP 1 - 기본 계산기 구현](https://velog.io/@jun0zoo/Java-%EA%B3%84%EC%82%B0%EA%B8%B0-%EA%B3%BC%EC%A0%9C-STEP-1-%EA%B8%B0%EB%B3%B8-%EA%B3%84%EC%82%B0%EA%B8%B0-%EA%B5%AC%ED%98%84) | [@jun0zoo](https://velog.io/@jun0zoo) |
-| 2026.09.15 | [[LG CNS AM 6기] 33일차 TIL : ChatGPT API 붙이기 — 직접 호출, ChatClient, 그리고 구조화 출력](https://velog.io/@gyuseong2/cns-fx58cckm) | [@gyuseong2](https://velog.io/@gyuseong2) |
-| 2026.09.15 | [LG CNS AI Campus KG \| Numpy 벡터화 연산과 메모리 효율적 배열 처리 \| 09.14](https://velog.io/@yunglee/LG-CNS-AI-Campus-KG-Numpy-%EB%B2%A1%ED%84%B0%ED%99%94-%EC%97%B0%EC%82%B0%EA%B3%BC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81-%EB%B0%B0%EC%97%B4-%EC%B2%98%EB%A6%AC-09.14) | [@yunglee](https://velog.io/@yunglee) |
-| 2026.09.15 | [[TIL] 실험은 바꾸는 것보다 기준을 정하는 일_2026.09.15](https://velog.io/@crisyoon3/TIL-%EA%B0%9C%EC%84%A0%EC%95%88%EB%B3%B4%EB%8B%A4-%ED%8C%90%EB%8B%A8-%EA%B8%B0%EC%A4%80%EC%9D%84-%EB%A8%BC%EC%A0%80-%EC%A0%95%ED%95%98%EB%8A%94-%EC%9D%BC2026.09.15) | [@crisyoon3](https://velog.io/@crisyoon3) |
-| 2026.09.15 | [[LG CNS 6기 TIL] 코드 퀄리티 플랫폼 기반의 생성형 AI를 활용한 REST API 개발 : 33일차](https://velog.io/@greenmilk1122/LG-CNS-6%EA%B8%B0-TIL-%EC%BD%94%EB%93%9C-%ED%80%84%EB%A6%AC%ED%8B%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B8%B0%EB%B0%98%EC%9D%98-%EC%83%9D%EC%84%B1%ED%98%95-AI%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-REST-API-%EA%B0%9C%EB%B0%9C-33%EC%9D%BC%EC%B0%A8) | [@greenmilk1122](https://velog.io/@greenmilk1122) |
+| 2026.09.16 | [[Unity] LayerMask](https://velog.io/@woghks62/Unity-LayerMask) | [@woghks62](https://velog.io/@woghks62) |
+| 2026.09.16 | [[AI&GameDev] Spec Driven Development](https://velog.io/@imeamangryang/AIGameDev-Spec-Driven-Development) | [@imeamangryang](https://velog.io/@imeamangryang) |
 | 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
