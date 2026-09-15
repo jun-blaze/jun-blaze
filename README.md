@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.16 | [[Unity] LayerMask](https://velog.io/@woghks62/Unity-LayerMask) | [@woghks62](https://velog.io/@woghks62) |
-| 2026.09.16 | [[AI&GameDev] Spec Driven Development](https://velog.io/@imeamangryang/AIGameDev-Spec-Driven-Development) | [@imeamangryang](https://velog.io/@imeamangryang) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.09.16 | [첨단 배합 기술 트렌드가 주도하는 에폭시 경화제 시장의 성장](https://velog.io/@cmi-coherent-1/%EC%B2%A8%EB%8B%A8-%EB%B0%B0%ED%95%A9-%EA%B8%B0%EC%88%A0-%ED%8A%B8%EB%A0%8C%EB%93%9C%EA%B0%80-%EC%A3%BC%EB%8F%84%ED%95%98%EB%8A%94-%EC%97%90%ED%8F%AD%EC%8B%9C-%EA%B2%BD%ED%99%94%EC%A0%9C-%EC%8B%9C%EC%9E%A5%EC%9D%98-%EC%84%B1%EC%9E%A5) | [@cmi-coherent-1](https://velog.io/@cmi-coherent-1) |
+| 2026.09.16 | [리엑트react](https://velog.io/@1o1403/%EB%A6%AC%EC%97%91%ED%8A%B8react) | [@1o1403](https://velog.io/@1o1403) |
+| 2026.09.16 | ["Attention Is All You Need".회고.](https://velog.io/@jun-1993-p/Attention-Is-All-You-Need.%ED%9A%8C%EA%B3%A0) | [@jun-1993-p](https://velog.io/@jun-1993-p) |
+| 2026.09.16 | [웹개발 2주차 과제](https://velog.io/@jasmine1176/%EC%9B%B9%EA%B0%9C%EB%B0%9C-2%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C) | [@jasmine1176](https://velog.io/@jasmine1176) |
+| 2026.09.16 | [Packet Tracer/ 단계 별 패킷의 흐름](https://velog.io/@joonbeeee/Packet-Tracer-%EB%8B%A8%EA%B3%84-%EB%B3%84-%ED%8C%A8%ED%82%B7%EC%9D%98-%ED%9D%90%EB%A6%84) | [@joonbeeee](https://velog.io/@joonbeeee) |
+| 2026.09.16 | [유저 공간(User Space) vs 커널 공간(Kernel Space)](https://velog.io/@eunduk/%EC%9C%A0%EC%A0%80-%EA%B3%B5%EA%B0%84User-Space-vs-%EC%BB%A4%EB%84%90-%EA%B3%B5%EA%B0%84Kernel-Space) | [@eunduk](https://velog.io/@eunduk) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
