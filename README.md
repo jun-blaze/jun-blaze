@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.16 | [[Paper Review] - Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval](https://velog.io/@s_gyu/Paper-Review-Do-All-Visual-Tokens-Matter-Equally-Object-Evidence-Preserving-Token-Merging-for-Vision-Language-Retrieval) | [@s_gyu](https://velog.io/@s_gyu) |
-| 2026.09.16 | [[AI 프로젝트] 대사로운 생활 - AI 기반 맞춤형 건강 리포트 서비스](https://velog.io/@unble/AI-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%8C%80%EC%82%AC%EB%A1%9C%EC%9A%B4-%EC%83%9D%ED%99%9C-AI-%EA%B8%B0%EB%B0%98-%EB%A7%9E%EC%B6%A4%ED%98%95-%EA%B1%B4%EA%B0%95-%EB%A6%AC%ED%8F%AC%ED%8A%B8-%EC%84%9C%EB%B9%84%EC%8A%A4) | [@unble](https://velog.io/@unble) |
-| 2026.09.16 | [3상 3.0kW 4마력 전기 모터에 대한 상세 검토](https://velog.io/@thanhthaimotor/3%EC%83%81-3.0kW-4%EB%A7%88%EB%A0%A5-%EC%A0%84%EA%B8%B0-%EB%AA%A8%ED%84%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%81%EC%84%B8-%EA%B2%80%ED%86%A0) | [@thanhthaimotor](https://velog.io/@thanhthaimotor) |
-| 2026.09.16 | [DB 동시성 문제 해결사, 격리 수준(Isolation Level)의 4가지 단계 완벽 가이드](https://velog.io/@minjjing/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98-%EA%B2%A9%EB%A6%AC-%EC%88%98%EC%A4%80Isolation-Level) | [@minjjing](https://velog.io/@minjjing) |
-| 2026.09.16 | [싱글톤 패턴](https://velog.io/@ehddnrdlaos/%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4) | [@ehddnrdlaos](https://velog.io/@ehddnrdlaos) |
-| 2026.09.16 | [OpenClaw가 계속 돈을 가지고 가고 있었던 이유](https://velog.io/@js03210/OpenClaw%EA%B0%80-%EA%B3%84%EC%86%8D-%EB%8F%88%EC%9D%84-%EA%B0%80%EC%A7%80%EA%B3%A0-%EA%B0%80%EA%B3%A0-%EC%9E%88%EC%97%88%EB%8D%98-%EC%9D%B4%EC%9C%A0) | [@js03210](https://velog.io/@js03210) |
+| 2026.09.16 | [알고리즘 D-17](https://velog.io/@jdy1142002/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-D-17) | [@jdy1142002](https://velog.io/@jdy1142002) |
+| 2026.09.16 | [[260916] 데이터 분석 Chapter 4. 데이터 분석 기획서 뽀개기 - 1](https://velog.io/@jhskevin1999/260916-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-Chapter-4.-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%ED%9A%8D%EC%84%9C-%EB%BD%80%EA%B0%9C%EA%B8%B0-1) | [@jhskevin1999](https://velog.io/@jhskevin1999) |
+| 2026.09.16 | [09.16 팬게임 개발일지](https://velog.io/@yeonguk0201/09.16-%ED%8C%AC%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80) | [@yeonguk0201](https://velog.io/@yeonguk0201) |
+| 2026.09.16 | [전력 대여(렌탈) 시장: 유연한 전력 솔루션이 안정적인 에너지에 대한 증가하는 수요를 어떻게 충족시키고 있는가?](https://velog.io/@newstrendsglob/%EC%A0%84%EB%A0%A5-%EB%8C%80%EC%97%AC%EB%A0%8C%ED%83%88-%EC%8B%9C%EC%9E%A5-%EC%9C%A0%EC%97%B0%ED%95%9C-%EC%A0%84%EB%A0%A5-%EC%86%94%EB%A3%A8%EC%85%98%EC%9D%B4-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%97%90%EB%84%88%EC%A7%80%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94-%EC%88%98%EC%9A%94%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B6%A9%EC%A1%B1%EC%8B%9C%ED%82%A4%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80-kmlqjqff) | [@newstrendsglob](https://velog.io/@newstrendsglob) |
+| 2026.09.16 | [[TIL] BE-19 - AI Agent 구조, @Tool, ChatClient 설정](https://velog.io/@medtate/TIL-BE-19) | [@medtate](https://velog.io/@medtate) |
+| 2026.09.16 | [[TIL] QA가 직접 에러 화면 만드는 크롬 확장 프로그램 개발기](https://velog.io/@tnrud4685/TIL-QA%EA%B0%80-%EC%A7%81%EC%A0%91-%EC%97%90%EB%9F%AC-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EB%B0%9C%EA%B8%B0) | [@tnrud4685](https://velog.io/@tnrud4685) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
