@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.17 | [2026-2 UMC 스터디 1주차 Web WIL](https://velog.io/@c311122/2026-2-UMC-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8-Web-WIL) | [@c311122](https://velog.io/@c311122) |
-| 2026.09.17 | [프로그래머스 A로 B 만들기](https://velog.io/@youngjun_10/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-A%EB%A1%9C-B-%EB%A7%8C%EB%93%A4%EA%B8%B0) | [@youngjun_10](https://velog.io/@youngjun_10) |
-| 2026.09.17 | [TIL-260914](https://velog.io/@deguli/TIL-260914) | [@deguli](https://velog.io/@deguli) |
-| 2026.09.17 | [15일차. 실행 컨텍스트, 프로토타입, 비동기 프로그래밍](https://velog.io/@tnemnorivnelee/15%EC%9D%BC%EC%B0%A8.-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) | [@tnemnorivnelee](https://velog.io/@tnemnorivnelee) |
-| 2026.09.17 | [다형성 추상 인터페이스 메모](https://velog.io/@tanya/%EB%8B%A4%ED%98%95%EC%84%B1-%EC%B6%94%EC%83%81-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%A9%94%EB%AA%A8) | [@tanya](https://velog.io/@tanya) |
-| 2026.09.17 | [Docker iptables 정리](https://velog.io/@jungsangu/Docker-iptables-%EC%A0%95%EB%A6%AC) | [@jungsangu](https://velog.io/@jungsangu) |
+| 2026.09.17 | [[Spring] 스프링 기본2 - 싱글톤 컨테이너](https://velog.io/@jayaione_ele/Spring-%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B8%B0%EB%B3%B8-%EC%8B%B1%EA%B8%80%ED%86%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88) | [@jayaione_ele](https://velog.io/@jayaione_ele) |
+| 2026.09.17 | [[C#] checked](https://velog.io/@lshdevlog/C-checked) | [@lshdevlog](https://velog.io/@lshdevlog) |
+| 2026.09.17 | [[SlateKR #159] EOD 축을 20시 캔들로 — 하루 만의 정정과 기준가 컬럼](https://velog.io/@dh82680/SlateKR-159-EOD-%EC%B6%95%EC%9D%84-20%EC%8B%9C-%EC%BA%94%EB%93%A4%EB%A1%9C-%ED%95%98%EB%A3%A8-%EB%A7%8C%EC%9D%98-%EC%A0%95%EC%A0%95%EA%B3%BC-%EA%B8%B0%EC%A4%80%EA%B0%80-%EC%BB%AC%EB%9F%BC) | [@dh82680](https://velog.io/@dh82680) |
+| 2026.09.17 | [프로그래머스 - 나머지 구하기(Java)](https://velog.io/@yunalstjs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%82%98%EB%A8%B8%EC%A7%80-%EA%B5%AC%ED%95%98%EA%B8%B0Java) | [@yunalstjs](https://velog.io/@yunalstjs) |
+| 2026.09.17 | [[Multimodal] Hugging Face Community Computer Vision Course - Multimodal Tasks and Models](https://velog.io/@ilwha/Multimodal-Hugging-Face-Community-Computer-Vision-Course-Multimodal-Tasks-and-Models) | [@ilwha](https://velog.io/@ilwha) |
+| 2026.09.17 | [[4] Kubernetes - ConfigMap/Secret, Ingress, 그리고 클러스터 구조](https://velog.io/@dmsxor434/4-Kubernetes-ConfigMapSecret-Ingress-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%A1%B0) | [@dmsxor434](https://velog.io/@dmsxor434) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
