@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.16 | [알고리즘 D-17](https://velog.io/@jdy1142002/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-D-17) | [@jdy1142002](https://velog.io/@jdy1142002) |
-| 2026.09.16 | [[260916] 데이터 분석 Chapter 4. 데이터 분석 기획서 뽀개기 - 1](https://velog.io/@jhskevin1999/260916-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-Chapter-4.-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%ED%9A%8D%EC%84%9C-%EB%BD%80%EA%B0%9C%EA%B8%B0-1) | [@jhskevin1999](https://velog.io/@jhskevin1999) |
-| 2026.09.16 | [09.16 팬게임 개발일지](https://velog.io/@yeonguk0201/09.16-%ED%8C%AC%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80) | [@yeonguk0201](https://velog.io/@yeonguk0201) |
-| 2026.09.16 | [전력 대여(렌탈) 시장: 유연한 전력 솔루션이 안정적인 에너지에 대한 증가하는 수요를 어떻게 충족시키고 있는가?](https://velog.io/@newstrendsglob/%EC%A0%84%EB%A0%A5-%EB%8C%80%EC%97%AC%EB%A0%8C%ED%83%88-%EC%8B%9C%EC%9E%A5-%EC%9C%A0%EC%97%B0%ED%95%9C-%EC%A0%84%EB%A0%A5-%EC%86%94%EB%A3%A8%EC%85%98%EC%9D%B4-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%97%90%EB%84%88%EC%A7%80%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94-%EC%88%98%EC%9A%94%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B6%A9%EC%A1%B1%EC%8B%9C%ED%82%A4%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80-kmlqjqff) | [@newstrendsglob](https://velog.io/@newstrendsglob) |
-| 2026.09.16 | [[TIL] BE-19 - AI Agent 구조, @Tool, ChatClient 설정](https://velog.io/@medtate/TIL-BE-19) | [@medtate](https://velog.io/@medtate) |
-| 2026.09.16 | [[TIL] QA가 직접 에러 화면 만드는 크롬 확장 프로그램 개발기](https://velog.io/@tnrud4685/TIL-QA%EA%B0%80-%EC%A7%81%EC%A0%91-%EC%97%90%EB%9F%AC-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EB%B0%9C%EA%B8%B0) | [@tnrud4685](https://velog.io/@tnrud4685) |
+| 2026.09.17 | [2026-2 UMC 스터디 1주차 Web WIL](https://velog.io/@c311122/2026-2-UMC-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8-Web-WIL) | [@c311122](https://velog.io/@c311122) |
+| 2026.09.17 | [프로그래머스 A로 B 만들기](https://velog.io/@youngjun_10/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-A%EB%A1%9C-B-%EB%A7%8C%EB%93%A4%EA%B8%B0) | [@youngjun_10](https://velog.io/@youngjun_10) |
+| 2026.09.17 | [TIL-260914](https://velog.io/@deguli/TIL-260914) | [@deguli](https://velog.io/@deguli) |
+| 2026.09.17 | [15일차. 실행 컨텍스트, 프로토타입, 비동기 프로그래밍](https://velog.io/@tnemnorivnelee/15%EC%9D%BC%EC%B0%A8.-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) | [@tnemnorivnelee](https://velog.io/@tnemnorivnelee) |
+| 2026.09.17 | [다형성 추상 인터페이스 메모](https://velog.io/@tanya/%EB%8B%A4%ED%98%95%EC%84%B1-%EC%B6%94%EC%83%81-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%A9%94%EB%AA%A8) | [@tanya](https://velog.io/@tanya) |
+| 2026.09.17 | [Docker iptables 정리](https://velog.io/@jungsangu/Docker-iptables-%EC%A0%95%EB%A6%AC) | [@jungsangu](https://velog.io/@jungsangu) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
