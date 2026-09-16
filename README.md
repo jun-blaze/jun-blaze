@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.16 | [첨단 배합 기술 트렌드가 주도하는 에폭시 경화제 시장의 성장](https://velog.io/@cmi-coherent-1/%EC%B2%A8%EB%8B%A8-%EB%B0%B0%ED%95%A9-%EA%B8%B0%EC%88%A0-%ED%8A%B8%EB%A0%8C%EB%93%9C%EA%B0%80-%EC%A3%BC%EB%8F%84%ED%95%98%EB%8A%94-%EC%97%90%ED%8F%AD%EC%8B%9C-%EA%B2%BD%ED%99%94%EC%A0%9C-%EC%8B%9C%EC%9E%A5%EC%9D%98-%EC%84%B1%EC%9E%A5) | [@cmi-coherent-1](https://velog.io/@cmi-coherent-1) |
-| 2026.09.16 | [리엑트react](https://velog.io/@1o1403/%EB%A6%AC%EC%97%91%ED%8A%B8react) | [@1o1403](https://velog.io/@1o1403) |
-| 2026.09.16 | ["Attention Is All You Need".회고.](https://velog.io/@jun-1993-p/Attention-Is-All-You-Need.%ED%9A%8C%EA%B3%A0) | [@jun-1993-p](https://velog.io/@jun-1993-p) |
-| 2026.09.16 | [웹개발 2주차 과제](https://velog.io/@jasmine1176/%EC%9B%B9%EA%B0%9C%EB%B0%9C-2%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C) | [@jasmine1176](https://velog.io/@jasmine1176) |
-| 2026.09.16 | [Packet Tracer/ 단계 별 패킷의 흐름](https://velog.io/@joonbeeee/Packet-Tracer-%EB%8B%A8%EA%B3%84-%EB%B3%84-%ED%8C%A8%ED%82%B7%EC%9D%98-%ED%9D%90%EB%A6%84) | [@joonbeeee](https://velog.io/@joonbeeee) |
-| 2026.09.16 | [유저 공간(User Space) vs 커널 공간(Kernel Space)](https://velog.io/@eunduk/%EC%9C%A0%EC%A0%80-%EA%B3%B5%EA%B0%84User-Space-vs-%EC%BB%A4%EB%84%90-%EA%B3%B5%EA%B0%84Kernel-Space) | [@eunduk](https://velog.io/@eunduk) |
+| 2026.09.16 | [[Paper Review] - Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval](https://velog.io/@s_gyu/Paper-Review-Do-All-Visual-Tokens-Matter-Equally-Object-Evidence-Preserving-Token-Merging-for-Vision-Language-Retrieval) | [@s_gyu](https://velog.io/@s_gyu) |
+| 2026.09.16 | [[AI 프로젝트] 대사로운 생활 - AI 기반 맞춤형 건강 리포트 서비스](https://velog.io/@unble/AI-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%8C%80%EC%82%AC%EB%A1%9C%EC%9A%B4-%EC%83%9D%ED%99%9C-AI-%EA%B8%B0%EB%B0%98-%EB%A7%9E%EC%B6%A4%ED%98%95-%EA%B1%B4%EA%B0%95-%EB%A6%AC%ED%8F%AC%ED%8A%B8-%EC%84%9C%EB%B9%84%EC%8A%A4) | [@unble](https://velog.io/@unble) |
+| 2026.09.16 | [3상 3.0kW 4마력 전기 모터에 대한 상세 검토](https://velog.io/@thanhthaimotor/3%EC%83%81-3.0kW-4%EB%A7%88%EB%A0%A5-%EC%A0%84%EA%B8%B0-%EB%AA%A8%ED%84%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%81%EC%84%B8-%EA%B2%80%ED%86%A0) | [@thanhthaimotor](https://velog.io/@thanhthaimotor) |
+| 2026.09.16 | [DB 동시성 문제 해결사, 격리 수준(Isolation Level)의 4가지 단계 완벽 가이드](https://velog.io/@minjjing/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98-%EA%B2%A9%EB%A6%AC-%EC%88%98%EC%A4%80Isolation-Level) | [@minjjing](https://velog.io/@minjjing) |
+| 2026.09.16 | [싱글톤 패턴](https://velog.io/@ehddnrdlaos/%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4) | [@ehddnrdlaos](https://velog.io/@ehddnrdlaos) |
+| 2026.09.16 | [OpenClaw가 계속 돈을 가지고 가고 있었던 이유](https://velog.io/@js03210/OpenClaw%EA%B0%80-%EA%B3%84%EC%86%8D-%EB%8F%88%EC%9D%84-%EA%B0%80%EC%A7%80%EA%B3%A0-%EA%B0%80%EA%B3%A0-%EC%9E%88%EC%97%88%EB%8D%98-%EC%9D%B4%EC%9C%A0) | [@js03210](https://velog.io/@js03210) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
