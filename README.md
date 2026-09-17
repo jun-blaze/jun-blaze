@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.18 | [점프 투 파이썬 DAY8(if문)](https://velog.io/@pingu_122/%EC%A0%90%ED%94%84-%ED%88%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-DAY8if%EB%AC%B8) | [@pingu_122](https://velog.io/@pingu_122) |
-| 2026.09.18 | [머신러닝 개발 프로세스 (기초)](https://velog.io/@sce4487/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B8%B0%EC%B4%88) | [@sce4487](https://velog.io/@sce4487) |
-| 2026.09.18 | [[SlateKR #160] 정정본의 정체와 차트 범례 기준가 축](https://velog.io/@dh82680/SlateKR-160-%EC%A0%95%EC%A0%95%EB%B3%B8%EC%9D%98-%EC%A0%95%EC%B2%B4%EC%99%80-%EC%B0%A8%ED%8A%B8-%EB%B2%94%EB%A1%80-%EA%B8%B0%EC%A4%80%EA%B0%80-%EC%B6%95) | [@dh82680](https://velog.io/@dh82680) |
-| 2026.09.18 | [The prior can often only be understood in the context of the likelihood 요약](https://velog.io/@jadeym1222/The-prior-can-often-only-be-understood-in-the-context-of-the-likelihood-%EC%9A%94%EC%95%BD) | [@jadeym1222](https://velog.io/@jadeym1222) |
-| 2026.09.18 | [# [SQL 스터디] SELECT 세트 4일차 - 상위 N개, 조건부 COUNT](https://velog.io/@harve57/SQL-%EC%8A%A4%ED%84%B0%EB%94%94-SELECT-%EC%84%B8%ED%8A%B8-4%EC%9D%BC%EC%B0%A8-%EC%83%81%EC%9C%84-N%EA%B0%9C-%EC%A1%B0%EA%B1%B4%EB%B6%80-COUNT) | [@harve57](https://velog.io/@harve57) |
-| 2026.09.18 | [테크노트_AI파일럿 1기_MLOps 41일차](https://velog.io/@highnoon0521/%ED%85%8C%ED%81%AC%EB%85%B8%ED%8A%B8AI%ED%8C%8C%EC%9D%BC%EB%9F%BF-1%EA%B8%B0MLOps-41%EC%9D%BC%EC%B0%A8) | [@highnoon0521](https://velog.io/@highnoon0521) |
+| 2026.09.18 | [어필리에이트 마케팅 트래킹은 기술적으로 어떻게 작동할까](https://velog.io/@makarova044anna/%EC%96%B4%ED%95%84%EB%A6%AC%EC%97%90%EC%9D%B4%ED%8A%B8-%EB%A7%88%EC%BC%80%ED%8C%85-%ED%8A%B8%EB%9E%98%ED%82%B9%EC%9D%80-%EA%B8%B0%EC%88%A0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%A0%EA%B9%8C) | [@makarova044anna](https://velog.io/@makarova044anna) |
+| 2026.09.18 | [폭주하는 AI 개발 속도와 일상으로 파고든 에이전트](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8-%EB%8F%99%ED%96%A5-2026-09-18) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.18 | [1141 정올 문제풀이](https://velog.io/@namuking/1141-%ED%92%80%EC%9D%B4) | [@namuking](https://velog.io/@namuking) |
+| 2026.09.18 | [부트로더 공식 문서를 읽기 위한 간단 정리](https://velog.io/@almot0427/%EB%B6%80%ED%8A%B8%EB%A1%9C%EB%8D%94-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C%EB%A5%BC-%EC%9D%BD%EA%B8%B0-%EC%9C%84%ED%95%9C-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC) | [@almot0427](https://velog.io/@almot0427) |
+| 2026.09.18 | [운영체제 전반에 대해](https://velog.io/@sh23/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EC%A0%84%EB%B0%98%EC%97%90-%EB%8C%80%ED%95%B4) | [@sh23](https://velog.io/@sh23) |
+| 2026.09.18 | [[🥨TIL/Unity] #69 BSP 던전 생성 알고리즘](https://velog.io/@songwol_/TILUnity-69-BSP-%EB%8D%98%EC%A0%84-%EC%83%9D%EC%84%B1-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) | [@songwol_](https://velog.io/@songwol_) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
