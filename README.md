@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.17 | [안경 시장 규모 및 산업 성장을 견인하는 혁신적 트렌드](https://velog.io/@cmi-coherent-1/%EC%95%88%EA%B2%BD-%EC%8B%9C%EC%9E%A5-%EA%B7%9C%EB%AA%A8-%EB%B0%8F-%EC%82%B0%EC%97%85-%EC%84%B1%EC%9E%A5%EC%9D%84-%EA%B2%AC%EC%9D%B8%ED%95%98%EB%8A%94-%ED%98%81%EC%8B%A0%EC%A0%81-%ED%8A%B8%EB%A0%8C%EB%93%9C) | [@cmi-coherent-1](https://velog.io/@cmi-coherent-1) |
-| 2026.09.17 | [2026.09.16 1일 1로그](https://velog.io/@j8rl_chik/2026.09.16-1%EC%9D%BC-1%EB%A1%9C%EA%B7%B8) | [@j8rl_chik](https://velog.io/@j8rl_chik) |
-| 2026.09.17 | [[JAVA] 상속 - extends부터 오버로딩까지](https://velog.io/@seojung_/JAVA-%EC%83%81%EC%86%8D-extends%EB%B6%80%ED%84%B0-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%EA%B9%8C%EC%A7%80) | [@seojung_](https://velog.io/@seojung_) |
-| 2026.09.17 | [전산학개론-3](https://velog.io/@id3_16/%EC%A0%84%EC%82%B0%ED%95%99%EA%B0%9C%EB%A1%A0-3) | [@id3_16](https://velog.io/@id3_16) |
-| 2026.09.17 | [Java Stream: flatMap, reduce와 Collectors 조합](https://velog.io/@scie429/Java-Stream-flatMap-reduce%EC%99%80-Collectors-%EC%A1%B0%ED%95%A9) | [@scie429](https://velog.io/@scie429) |
-| 2026.09.17 | [먹튀 제보 14,709건을 수집하고 수법을 자동 분류한 방법](https://velog.io/@mtcut310/meoktwi-report-classification-method) | [@mtcut310](https://velog.io/@mtcut310) |
+| 2026.09.18 | [점프 투 파이썬 DAY8(if문)](https://velog.io/@pingu_122/%EC%A0%90%ED%94%84-%ED%88%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-DAY8if%EB%AC%B8) | [@pingu_122](https://velog.io/@pingu_122) |
+| 2026.09.18 | [머신러닝 개발 프로세스 (기초)](https://velog.io/@sce4487/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B8%B0%EC%B4%88) | [@sce4487](https://velog.io/@sce4487) |
+| 2026.09.18 | [[SlateKR #160] 정정본의 정체와 차트 범례 기준가 축](https://velog.io/@dh82680/SlateKR-160-%EC%A0%95%EC%A0%95%EB%B3%B8%EC%9D%98-%EC%A0%95%EC%B2%B4%EC%99%80-%EC%B0%A8%ED%8A%B8-%EB%B2%94%EB%A1%80-%EA%B8%B0%EC%A4%80%EA%B0%80-%EC%B6%95) | [@dh82680](https://velog.io/@dh82680) |
+| 2026.09.18 | [The prior can often only be understood in the context of the likelihood 요약](https://velog.io/@jadeym1222/The-prior-can-often-only-be-understood-in-the-context-of-the-likelihood-%EC%9A%94%EC%95%BD) | [@jadeym1222](https://velog.io/@jadeym1222) |
+| 2026.09.18 | [# [SQL 스터디] SELECT 세트 4일차 - 상위 N개, 조건부 COUNT](https://velog.io/@harve57/SQL-%EC%8A%A4%ED%84%B0%EB%94%94-SELECT-%EC%84%B8%ED%8A%B8-4%EC%9D%BC%EC%B0%A8-%EC%83%81%EC%9C%84-N%EA%B0%9C-%EC%A1%B0%EA%B1%B4%EB%B6%80-COUNT) | [@harve57](https://velog.io/@harve57) |
+| 2026.09.18 | [테크노트_AI파일럿 1기_MLOps 41일차](https://velog.io/@highnoon0521/%ED%85%8C%ED%81%AC%EB%85%B8%ED%8A%B8AI%ED%8C%8C%EC%9D%BC%EB%9F%BF-1%EA%B8%B0MLOps-41%EC%9D%BC%EC%B0%A8) | [@highnoon0521](https://velog.io/@highnoon0521) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
