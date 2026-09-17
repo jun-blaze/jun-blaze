@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.17 | [[Spring] 스프링 기본2 - 싱글톤 컨테이너](https://velog.io/@jayaione_ele/Spring-%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B8%B0%EB%B3%B8-%EC%8B%B1%EA%B8%80%ED%86%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88) | [@jayaione_ele](https://velog.io/@jayaione_ele) |
-| 2026.09.17 | [[C#] checked](https://velog.io/@lshdevlog/C-checked) | [@lshdevlog](https://velog.io/@lshdevlog) |
-| 2026.09.17 | [[SlateKR #159] EOD 축을 20시 캔들로 — 하루 만의 정정과 기준가 컬럼](https://velog.io/@dh82680/SlateKR-159-EOD-%EC%B6%95%EC%9D%84-20%EC%8B%9C-%EC%BA%94%EB%93%A4%EB%A1%9C-%ED%95%98%EB%A3%A8-%EB%A7%8C%EC%9D%98-%EC%A0%95%EC%A0%95%EA%B3%BC-%EA%B8%B0%EC%A4%80%EA%B0%80-%EC%BB%AC%EB%9F%BC) | [@dh82680](https://velog.io/@dh82680) |
-| 2026.09.17 | [프로그래머스 - 나머지 구하기(Java)](https://velog.io/@yunalstjs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%82%98%EB%A8%B8%EC%A7%80-%EA%B5%AC%ED%95%98%EA%B8%B0Java) | [@yunalstjs](https://velog.io/@yunalstjs) |
-| 2026.09.17 | [[Multimodal] Hugging Face Community Computer Vision Course - Multimodal Tasks and Models](https://velog.io/@ilwha/Multimodal-Hugging-Face-Community-Computer-Vision-Course-Multimodal-Tasks-and-Models) | [@ilwha](https://velog.io/@ilwha) |
-| 2026.09.17 | [[4] Kubernetes - ConfigMap/Secret, Ingress, 그리고 클러스터 구조](https://velog.io/@dmsxor434/4-Kubernetes-ConfigMapSecret-Ingress-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%A1%B0) | [@dmsxor434](https://velog.io/@dmsxor434) |
+| 2026.09.17 | [[어코드 계열] [(아레스)] 신규 첫충전 5+3 or 30% \| 모든 종목 매일첫충 15% 무한매충 10%](https://velog.io/@mot597346/%EC%96%B4%EC%BD%94%EB%93%9C-%EA%B3%84%EC%97%B4-%EC%95%84%EB%A0%88%EC%8A%A4-%EC%8B%A0%EA%B7%9C-%EC%B2%AB%EC%B6%A9%EC%A0%84-53-or-30-%EB%AA%A8%EB%93%A0-%EC%A2%85%EB%AA%A9-%EB%A7%A4%EC%9D%BC%EC%B2%AB%EC%B6%A9-15-%EB%AC%B4%ED%95%9C%EB%A7%A4%EC%B6%A9-10-0978yp95) | [@mot597346](https://velog.io/@mot597346) |
+| 2026.09.17 | [AI 연산 성능 최적화와 인프라 시장의 거대 변화](https://velog.io/@sdm77/%EA%B8%B0%ED%83%80-2026-09-17) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.17 | [내부 추론 은폐와 고의적 성능 속임이 불러온 AI 배포의 병목](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8-%EB%8F%99%ED%96%A5-2026-09-17) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.17 | [물리적 실험장비부터 문서 도구까지 인공지능으로 제어하는 방법](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-2026-09-17) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.17 | [격리된 AI 에이전트들이 스스로 만든 가상 사회와 해킹](https://velog.io/@sdm77/ai-%EC%BD%94%EB%94%A9%EB%B3%B4%EC%95%88-2026-09-17) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.17 | [자율 개발부터 팀 지식 공유까지 확장되는 AI 에이전트 환경의 진화](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EA%B3%84-2026-09-17) | [@sdm77](https://velog.io/@sdm77) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
