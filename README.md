@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.18 | [Linux 주요 로그 경로 정리 — /var/log 핵심 로그와 보안관제(SOC) 활용법](https://velog.io/@cs_security/Linux-%EC%A3%BC%EC%9A%94-%EB%A1%9C%EA%B7%B8-%EA%B2%BD%EB%A1%9C-%EC%A0%95%EB%A6%AC-varlog-%ED%95%B5%EC%8B%AC-%EB%A1%9C%EA%B7%B8%EC%99%80-%EB%B3%B4%EC%95%88%EA%B4%80%EC%A0%9CSOC-%ED%99%9C%EC%9A%A9%EB%B2%95-0cfq1l8v) | [@cs_security](https://velog.io/@cs_security) |
-| 2026.09.18 | [Linux 주요 로그 경로 정리 — /var/log 핵심 로그와 보안관제(SOC) 활용법](https://velog.io/@cs_security/Linux-%EC%A3%BC%EC%9A%94-%EB%A1%9C%EA%B7%B8-%EA%B2%BD%EB%A1%9C-%EC%A0%95%EB%A6%AC-varlog-%ED%95%B5%EC%8B%AC-%EB%A1%9C%EA%B7%B8%EC%99%80-%EB%B3%B4%EC%95%88%EA%B4%80%EC%A0%9CSOC-%ED%99%9C%EC%9A%A9%EB%B2%95) | [@cs_security](https://velog.io/@cs_security) |
-| 2026.09.18 | [Linux 시스템 보안 기초 — SOC 신입이 첫날부터 알아야 할 보안 설정](https://velog.io/@cs_security/Linux-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B3%B4%EC%95%88-%EA%B8%B0%EC%B4%88-SOC-%EC%8B%A0%EC%9E%85%EC%9D%B4-%EC%B2%AB%EB%82%A0%EB%B6%80%ED%84%B0-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95) | [@cs_security](https://velog.io/@cs_security) |
-| 2026.09.18 | [디벨로켓 언리얼5 강의 노트 포스팅 중단](https://velog.io/@m00nhyunw00/%EB%94%94%EB%B2%A8%EB%A1%9C%EC%BC%93-%EC%96%B8%EB%A6%AC%EC%96%BC5-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-%ED%8F%AC%EC%8A%A4%ED%8C%85-%EC%A4%91%EB%8B%A8) | [@m00nhyunw00](https://velog.io/@m00nhyunw00) |
-| 2026.09.18 | [Ubuntu ROS 실습(3)](https://velog.io/@zeusqoi/Ubuntu-ROS-%EC%8B%A4%EC%8A%B53) | [@zeusqoi](https://velog.io/@zeusqoi) |
-| 2026.09.18 | [Linux 서비스·프로세스 관리 — systemctl과 ps로 악성 프로세스 탐지하기](https://velog.io/@cs_security/Linux-%EC%84%9C%EB%B9%84%EC%8A%A4%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC-systemctl%EA%B3%BC-ps%EB%A1%9C-%EC%95%85%EC%84%B1-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%ED%83%90%EC%A7%80%ED%95%98%EA%B8%B0) | [@cs_security](https://velog.io/@cs_security) |
+| 2026.09.18 | [ASUS Laptop Price in BD and What You Get at Different Budgets](https://velog.io/@ethanzohn/ASUS-Laptop-Price-in-BD) | [@ethanzohn](https://velog.io/@ethanzohn) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
