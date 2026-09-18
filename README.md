@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.18 | [어필리에이트 마케팅 트래킹은 기술적으로 어떻게 작동할까](https://velog.io/@makarova044anna/%EC%96%B4%ED%95%84%EB%A6%AC%EC%97%90%EC%9D%B4%ED%8A%B8-%EB%A7%88%EC%BC%80%ED%8C%85-%ED%8A%B8%EB%9E%98%ED%82%B9%EC%9D%80-%EA%B8%B0%EC%88%A0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%A0%EA%B9%8C) | [@makarova044anna](https://velog.io/@makarova044anna) |
-| 2026.09.18 | [폭주하는 AI 개발 속도와 일상으로 파고든 에이전트](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8-%EB%8F%99%ED%96%A5-2026-09-18) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.09.18 | [1141 정올 문제풀이](https://velog.io/@namuking/1141-%ED%92%80%EC%9D%B4) | [@namuking](https://velog.io/@namuking) |
-| 2026.09.18 | [부트로더 공식 문서를 읽기 위한 간단 정리](https://velog.io/@almot0427/%EB%B6%80%ED%8A%B8%EB%A1%9C%EB%8D%94-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C%EB%A5%BC-%EC%9D%BD%EA%B8%B0-%EC%9C%84%ED%95%9C-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC) | [@almot0427](https://velog.io/@almot0427) |
-| 2026.09.18 | [운영체제 전반에 대해](https://velog.io/@sh23/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EC%A0%84%EB%B0%98%EC%97%90-%EB%8C%80%ED%95%B4) | [@sh23](https://velog.io/@sh23) |
-| 2026.09.18 | [[🥨TIL/Unity] #69 BSP 던전 생성 알고리즘](https://velog.io/@songwol_/TILUnity-69-BSP-%EB%8D%98%EC%A0%84-%EC%83%9D%EC%84%B1-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) | [@songwol_](https://velog.io/@songwol_) |
+| 2026.09.18 | [Linux 주요 로그 경로 정리 — /var/log 핵심 로그와 보안관제(SOC) 활용법](https://velog.io/@cs_security/Linux-%EC%A3%BC%EC%9A%94-%EB%A1%9C%EA%B7%B8-%EA%B2%BD%EB%A1%9C-%EC%A0%95%EB%A6%AC-varlog-%ED%95%B5%EC%8B%AC-%EB%A1%9C%EA%B7%B8%EC%99%80-%EB%B3%B4%EC%95%88%EA%B4%80%EC%A0%9CSOC-%ED%99%9C%EC%9A%A9%EB%B2%95-0cfq1l8v) | [@cs_security](https://velog.io/@cs_security) |
+| 2026.09.18 | [Linux 주요 로그 경로 정리 — /var/log 핵심 로그와 보안관제(SOC) 활용법](https://velog.io/@cs_security/Linux-%EC%A3%BC%EC%9A%94-%EB%A1%9C%EA%B7%B8-%EA%B2%BD%EB%A1%9C-%EC%A0%95%EB%A6%AC-varlog-%ED%95%B5%EC%8B%AC-%EB%A1%9C%EA%B7%B8%EC%99%80-%EB%B3%B4%EC%95%88%EA%B4%80%EC%A0%9CSOC-%ED%99%9C%EC%9A%A9%EB%B2%95) | [@cs_security](https://velog.io/@cs_security) |
+| 2026.09.18 | [Linux 시스템 보안 기초 — SOC 신입이 첫날부터 알아야 할 보안 설정](https://velog.io/@cs_security/Linux-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B3%B4%EC%95%88-%EA%B8%B0%EC%B4%88-SOC-%EC%8B%A0%EC%9E%85%EC%9D%B4-%EC%B2%AB%EB%82%A0%EB%B6%80%ED%84%B0-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95) | [@cs_security](https://velog.io/@cs_security) |
+| 2026.09.18 | [디벨로켓 언리얼5 강의 노트 포스팅 중단](https://velog.io/@m00nhyunw00/%EB%94%94%EB%B2%A8%EB%A1%9C%EC%BC%93-%EC%96%B8%EB%A6%AC%EC%96%BC5-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-%ED%8F%AC%EC%8A%A4%ED%8C%85-%EC%A4%91%EB%8B%A8) | [@m00nhyunw00](https://velog.io/@m00nhyunw00) |
+| 2026.09.18 | [Ubuntu ROS 실습(3)](https://velog.io/@zeusqoi/Ubuntu-ROS-%EC%8B%A4%EC%8A%B53) | [@zeusqoi](https://velog.io/@zeusqoi) |
+| 2026.09.18 | [Linux 서비스·프로세스 관리 — systemctl과 ps로 악성 프로세스 탐지하기](https://velog.io/@cs_security/Linux-%EC%84%9C%EB%B9%84%EC%8A%A4%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC-systemctl%EA%B3%BC-ps%EB%A1%9C-%EC%95%85%EC%84%B1-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%ED%83%90%EC%A7%80%ED%95%98%EA%B8%B0) | [@cs_security](https://velog.io/@cs_security) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
