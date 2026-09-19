@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.19 | [보안의 역사와 현존하는 이슈들, 보안의 3대 요소, 시스템 보안](https://velog.io/@eoyan/%EB%B3%B4%EC%95%88%EC%9D%98-%EC%97%AD%EC%82%AC%EC%99%80-%ED%98%84%EC%A1%B4%ED%95%98%EB%8A%94-%EC%9D%B4%EC%8A%88%EB%93%A4-%EB%B3%B4%EC%95%88%EC%9D%98-3%EB%8C%80-%EC%9A%94%EC%86%8C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B3%B4%EC%95%88) | [@eoyan](https://velog.io/@eoyan) |
-| 2026.09.19 | [Git & Terminal 기본 명령어 정리](https://velog.io/@eloisekha0928/Git-Terminal-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC) | [@eloisekha0928](https://velog.io/@eloisekha0928) |
-| 2026.09.19 | [Android 개발자 인증 — 패키지 이름 등록, 내 앱인데 등록이 안 되는 이유](https://velog.io/@yjcho9317/Android-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%EC%A6%9D-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%9D%B4%EB%A6%84-%EB%93%B1%EB%A1%9D-%EB%82%B4-%EC%95%B1%EC%9D%B8%EB%8D%B0-%EB%93%B1%EB%A1%9D%EC%9D%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0) | [@yjcho9317](https://velog.io/@yjcho9317) |
-| 2026.09.19 | [쉽게 배우는 R데이터 분석 01~03](https://velog.io/@jytree12/%EC%89%BD%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-R%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-0103) | [@jytree12](https://velog.io/@jytree12) |
-| 2026.09.19 | [AI컴퓨팅기초-3](https://velog.io/@id3_16/AI%EC%BB%B4%ED%93%A8%ED%8C%85%EA%B8%B0%EC%B4%88-3) | [@id3_16](https://velog.io/@id3_16) |
-| 2026.09.19 | [자바/스프링 Day1](https://velog.io/@khjoo1203/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-Day1) | [@khjoo1203](https://velog.io/@khjoo1203) |
+| 2026.09.20 | [1. 문자열 출력하기](https://velog.io/@rjadmsqka19/1.-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) | [@rjadmsqka19](https://velog.io/@rjadmsqka19) |
+| 2026.09.20 | [OBD(On Board Diagnostics)란?](https://velog.io/@eunduk/OBDOn-Board-Diagnostics%EB%9E%80) | [@eunduk](https://velog.io/@eunduk) |
+| 2026.09.20 | [병합과 컴파일러 속이기](https://velog.io/@kysth0707/%EB%B3%91%ED%95%A9%EA%B3%BC-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EC%86%8D%EC%9D%B4%EA%B8%B0) | [@kysth0707](https://velog.io/@kysth0707) |
+| 2026.09.20 | [[기후·환경 뉴스 브리핑] NASA·NOAA·UNFCCC 공식 채널로 본 기후 브리핑 공백 (9.19)](https://velog.io/@hyuckjin/climate-environment-briefing-2026-09-19-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
+| 2026.09.20 | [[과학 뉴스 브리핑] 알바니아 아르테미스 협정 서명 예고, NASA 우주 관측 소식도 (9.19)](https://velog.io/@hyuckjin/science-news-briefing-2026-09-19-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
+| 2026.09.20 | [[Korea Stocks] Yen Check, SOXL Buying Frame Korea Market Watch (9.19)](https://velog.io/@hyuckjin/kr-stocks-briefing-2026-09-19-en) | [@hyuckjin](https://velog.io/@hyuckjin) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
