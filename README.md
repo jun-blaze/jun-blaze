@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.19 | [[2주차] 260912 SQL 문법 심화반](https://velog.io/@smfqh0119/2%EC%A3%BC%EC%B0%A8-260912-SQL-%EB%AC%B8%EB%B2%95-%EC%8B%AC%ED%99%94%EB%B0%98) | [@smfqh0119](https://velog.io/@smfqh0119) |
-| 2026.09.19 | [loaded_model.predict](https://velog.io/@primesko/loadedmodel.predict) | [@primesko](https://velog.io/@primesko) |
-| 2026.09.19 | [joblib.load](https://velog.io/@primesko/joblib.load) | [@primesko](https://velog.io/@primesko) |
-| 2026.09.19 | [joblib.dump](https://velog.io/@primesko/joblib.dump) | [@primesko](https://velog.io/@primesko) |
-| 2026.09.19 | [mean_squared_error](https://velog.io/@primesko/meansquarederror) | [@primesko](https://velog.io/@primesko) |
-| 2026.09.19 | [model.predict](https://velog.io/@primesko/model.predict) | [@primesko](https://velog.io/@primesko) |
+| 2026.09.19 | [비동기는 기다리지 않고 다음 코드를 실행하는 것이 아니다](https://velog.io/@vxdeveloper/async) | [@vxdeveloper](https://velog.io/@vxdeveloper) |
+| 2026.09.19 | [[프로그래머스] 같은 숫자는 싫어 - Java](https://velog.io/@lacid00/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%99%EC%9D%80-%EC%88%AB%EC%9E%90%EB%8A%94-%EC%8B%AB%EC%96%B4-Java) | [@lacid00](https://velog.io/@lacid00) |
+| 2026.09.19 | [(TIL) 유니티 객체지향의 시작, 클래스](https://velog.io/@wjstkdrl123/TIL-%EC%9C%A0%EB%8B%88%ED%8B%B0-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%8B%9C%EC%9E%91-%ED%81%B4%EB%9E%98%EC%8A%A4) | [@wjstkdrl123](https://velog.io/@wjstkdrl123) |
+| 2026.09.19 | [[1주차] 암호학](https://velog.io/@sung-e-gkoght/1%EC%A3%BC%EC%B0%A8-%EC%95%94%ED%98%B8%ED%95%99) | [@sung-e-gkoght](https://velog.io/@sung-e-gkoght) |
+| 2026.09.19 | [넉 달 하락 끝에 터진 APT 돌파, 같은 날 AVAX까지 — L1이 동시에 깨어난 날](https://velog.io/@poevdy/trading-journal-2026-09-18) | [@poevdy](https://velog.io/@poevdy) |
+| 2026.09.19 | [[MAS 논문리뷰] ReAct: Synergizing Reasoning and Acting in Language Models](https://velog.io/@seoyeonkm/MAS-%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-ReAct-Synergizing-Reasoning-and-Acting-in-Language-Models) | [@seoyeonkm](https://velog.io/@seoyeonkm) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
