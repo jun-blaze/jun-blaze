@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.19 | [비동기는 기다리지 않고 다음 코드를 실행하는 것이 아니다](https://velog.io/@vxdeveloper/async) | [@vxdeveloper](https://velog.io/@vxdeveloper) |
-| 2026.09.19 | [[프로그래머스] 같은 숫자는 싫어 - Java](https://velog.io/@lacid00/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%99%EC%9D%80-%EC%88%AB%EC%9E%90%EB%8A%94-%EC%8B%AB%EC%96%B4-Java) | [@lacid00](https://velog.io/@lacid00) |
-| 2026.09.19 | [(TIL) 유니티 객체지향의 시작, 클래스](https://velog.io/@wjstkdrl123/TIL-%EC%9C%A0%EB%8B%88%ED%8B%B0-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%8B%9C%EC%9E%91-%ED%81%B4%EB%9E%98%EC%8A%A4) | [@wjstkdrl123](https://velog.io/@wjstkdrl123) |
-| 2026.09.19 | [[1주차] 암호학](https://velog.io/@sung-e-gkoght/1%EC%A3%BC%EC%B0%A8-%EC%95%94%ED%98%B8%ED%95%99) | [@sung-e-gkoght](https://velog.io/@sung-e-gkoght) |
-| 2026.09.19 | [넉 달 하락 끝에 터진 APT 돌파, 같은 날 AVAX까지 — L1이 동시에 깨어난 날](https://velog.io/@poevdy/trading-journal-2026-09-18) | [@poevdy](https://velog.io/@poevdy) |
-| 2026.09.19 | [[MAS 논문리뷰] ReAct: Synergizing Reasoning and Acting in Language Models](https://velog.io/@seoyeonkm/MAS-%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-ReAct-Synergizing-Reasoning-and-Acting-in-Language-Models) | [@seoyeonkm](https://velog.io/@seoyeonkm) |
+| 2026.09.19 | [JavaScript에서 배열 중복값 제거하는 3가지 방법](https://velog.io/@8_julieta_29/JavaScript%EC%97%90%EC%84%9C-%EB%B0%B0%EC%97%B4-%EC%A4%91%EB%B3%B5%EA%B0%92-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95) | [@8_julieta_29](https://velog.io/@8_julieta_29) |
+| 2026.09.19 | [이미지 처리 방식](https://velog.io/@neosiureu/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B2%98%EB%A6%AC-%EB%B0%A9%EC%8B%9D-uq2hq01e) | [@neosiureu](https://velog.io/@neosiureu) |
+| 2026.09.19 | [list - DAT 시작](https://velog.io/@dajung/list-DAT-%EC%8B%9C%EC%9E%91) | [@dajung](https://velog.io/@dajung) |
+| 2026.09.19 | [[Sumim 개발일지] #1 시작이 반이다](https://velog.io/@jereminie321/Sumim-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-1-%EC%8B%9C%EC%9E%91%EC%9D%B4-%EB%B0%98%EC%9D%B4%EB%8B%A4) | [@jereminie321](https://velog.io/@jereminie321) |
+| 2026.09.19 | [이번주의 삽질 : 인덱스와 코퍼스를 뒤집는 사람이 있다니 (It's Me!)](https://velog.io/@ansmeer008/%EC%9D%B4%EB%B2%88%EC%A3%BC%EC%9D%98-%EC%82%BD%EC%A7%88-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%99%80-%EC%BD%94%ED%8D%BC%EC%8A%A4%EB%A5%BC-%EB%92%A4%EC%A7%91%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9E%88%EB%8B%A4%EB%8B%88-Its-Me) | [@ansmeer008](https://velog.io/@ansmeer008) |
+| 2026.09.19 | [OS 공부 2일차 (0919)](https://velog.io/@najunho04/OS-%EA%B3%B5%EB%B6%80-2%EC%9D%BC%EC%B0%A8-0919) | [@najunho04](https://velog.io/@najunho04) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
