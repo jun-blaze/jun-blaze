@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.19 | [JavaScript에서 배열 중복값 제거하는 3가지 방법](https://velog.io/@8_julieta_29/JavaScript%EC%97%90%EC%84%9C-%EB%B0%B0%EC%97%B4-%EC%A4%91%EB%B3%B5%EA%B0%92-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95) | [@8_julieta_29](https://velog.io/@8_julieta_29) |
-| 2026.09.19 | [이미지 처리 방식](https://velog.io/@neosiureu/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B2%98%EB%A6%AC-%EB%B0%A9%EC%8B%9D-uq2hq01e) | [@neosiureu](https://velog.io/@neosiureu) |
-| 2026.09.19 | [list - DAT 시작](https://velog.io/@dajung/list-DAT-%EC%8B%9C%EC%9E%91) | [@dajung](https://velog.io/@dajung) |
-| 2026.09.19 | [[Sumim 개발일지] #1 시작이 반이다](https://velog.io/@jereminie321/Sumim-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-1-%EC%8B%9C%EC%9E%91%EC%9D%B4-%EB%B0%98%EC%9D%B4%EB%8B%A4) | [@jereminie321](https://velog.io/@jereminie321) |
-| 2026.09.19 | [이번주의 삽질 : 인덱스와 코퍼스를 뒤집는 사람이 있다니 (It's Me!)](https://velog.io/@ansmeer008/%EC%9D%B4%EB%B2%88%EC%A3%BC%EC%9D%98-%EC%82%BD%EC%A7%88-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%99%80-%EC%BD%94%ED%8D%BC%EC%8A%A4%EB%A5%BC-%EB%92%A4%EC%A7%91%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9E%88%EB%8B%A4%EB%8B%88-Its-Me) | [@ansmeer008](https://velog.io/@ansmeer008) |
-| 2026.09.19 | [OS 공부 2일차 (0919)](https://velog.io/@najunho04/OS-%EA%B3%B5%EB%B6%80-2%EC%9D%BC%EC%B0%A8-0919) | [@najunho04](https://velog.io/@najunho04) |
+| 2026.09.19 | [보안의 역사와 현존하는 이슈들, 보안의 3대 요소, 시스템 보안](https://velog.io/@eoyan/%EB%B3%B4%EC%95%88%EC%9D%98-%EC%97%AD%EC%82%AC%EC%99%80-%ED%98%84%EC%A1%B4%ED%95%98%EB%8A%94-%EC%9D%B4%EC%8A%88%EB%93%A4-%EB%B3%B4%EC%95%88%EC%9D%98-3%EB%8C%80-%EC%9A%94%EC%86%8C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B3%B4%EC%95%88) | [@eoyan](https://velog.io/@eoyan) |
+| 2026.09.19 | [Git & Terminal 기본 명령어 정리](https://velog.io/@eloisekha0928/Git-Terminal-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC) | [@eloisekha0928](https://velog.io/@eloisekha0928) |
+| 2026.09.19 | [Android 개발자 인증 — 패키지 이름 등록, 내 앱인데 등록이 안 되는 이유](https://velog.io/@yjcho9317/Android-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%EC%A6%9D-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%9D%B4%EB%A6%84-%EB%93%B1%EB%A1%9D-%EB%82%B4-%EC%95%B1%EC%9D%B8%EB%8D%B0-%EB%93%B1%EB%A1%9D%EC%9D%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0) | [@yjcho9317](https://velog.io/@yjcho9317) |
+| 2026.09.19 | [쉽게 배우는 R데이터 분석 01~03](https://velog.io/@jytree12/%EC%89%BD%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-R%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-0103) | [@jytree12](https://velog.io/@jytree12) |
+| 2026.09.19 | [AI컴퓨팅기초-3](https://velog.io/@id3_16/AI%EC%BB%B4%ED%93%A8%ED%8C%85%EA%B8%B0%EC%B4%88-3) | [@id3_16](https://velog.io/@id3_16) |
+| 2026.09.19 | [자바/스프링 Day1](https://velog.io/@khjoo1203/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-Day1) | [@khjoo1203](https://velog.io/@khjoo1203) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
