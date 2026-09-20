@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.20 | [1. 문자열 출력하기](https://velog.io/@rjadmsqka19/1.-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) | [@rjadmsqka19](https://velog.io/@rjadmsqka19) |
-| 2026.09.20 | [OBD(On Board Diagnostics)란?](https://velog.io/@eunduk/OBDOn-Board-Diagnostics%EB%9E%80) | [@eunduk](https://velog.io/@eunduk) |
-| 2026.09.20 | [병합과 컴파일러 속이기](https://velog.io/@kysth0707/%EB%B3%91%ED%95%A9%EA%B3%BC-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EC%86%8D%EC%9D%B4%EA%B8%B0) | [@kysth0707](https://velog.io/@kysth0707) |
-| 2026.09.20 | [[기후·환경 뉴스 브리핑] NASA·NOAA·UNFCCC 공식 채널로 본 기후 브리핑 공백 (9.19)](https://velog.io/@hyuckjin/climate-environment-briefing-2026-09-19-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
-| 2026.09.20 | [[과학 뉴스 브리핑] 알바니아 아르테미스 협정 서명 예고, NASA 우주 관측 소식도 (9.19)](https://velog.io/@hyuckjin/science-news-briefing-2026-09-19-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
-| 2026.09.20 | [[Korea Stocks] Yen Check, SOXL Buying Frame Korea Market Watch (9.19)](https://velog.io/@hyuckjin/kr-stocks-briefing-2026-09-19-en) | [@hyuckjin](https://velog.io/@hyuckjin) |
+| 2026.09.20 | [[Stack] Stack](https://velog.io/@kjw5912/Stack-Stack) | [@kjw5912](https://velog.io/@kjw5912) |
+| 2026.09.20 | [점프 투 파이썬 DAY11(파일 읽고 쓰기)](https://velog.io/@pingu_122/%EC%A0%90%ED%94%84-%ED%88%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-DAY11%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B0%EA%B8%B0) | [@pingu_122](https://velog.io/@pingu_122) |
+| 2026.09.20 | [OSTEP과 함께 가상화에 대해 알아보자 (5)](https://velog.io/@real_kkamack/OSTEP%EA%B3%BC-%ED%95%A8%EA%BB%98-%EA%B0%80%EC%83%81%ED%99%94%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-5) | [@real_kkamack](https://velog.io/@real_kkamack) |
+| 2026.09.20 | [[논문리뷰] Cross-Modal Attention Acts as a Frequency Filter: Why Verbose Prompts Improve Robustness in Vision-Language Models (장황한 프롬프트와 VLM 강건성)](https://velog.io/@mini_knows/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Cross-Modal-Attention-Acts-as-a-Frequency-Filter-Why-Verbose-Prompts-Improve-Robustness-in-Vision-Language-Models-%EC%9E%A5%ED%99%A9%ED%95%9C-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EC%99%80-VLM-%EA%B0%95%EA%B1%B4%EC%84%B1) | [@mini_knows](https://velog.io/@mini_knows) |
+| 2026.09.20 | [뇌과학 학습법 책](https://velog.io/@agnusdei1207/%EB%87%8C%EA%B3%BC%ED%95%99-%ED%95%99%EC%8A%B5%EB%B2%95-%EC%B1%85) | [@agnusdei1207](https://velog.io/@agnusdei1207) |
+| 2026.09.20 | [자바 생성자와 객체 초기화](https://velog.io/@timulys/%EC%9E%90%EB%B0%94-%EC%83%9D%EC%84%B1%EC%9E%90%EC%99%80-%EA%B0%9D%EC%B2%B4-%EC%B4%88%EA%B8%B0%ED%99%94) | [@timulys](https://velog.io/@timulys) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
