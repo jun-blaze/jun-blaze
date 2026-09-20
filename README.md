@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.20 | [환경-현장편](https://velog.io/@neosiureu/%ED%99%98%EA%B2%BD-%ED%98%84%EC%9E%A5%ED%8E%B8) | [@neosiureu](https://velog.io/@neosiureu) |
-| 2026.09.20 | [[스나이퍼팩토리] AIaaS 마스터 클래스 4주차 후기](https://velog.io/@blue00400/%EC%8A%A4%EB%82%98%EC%9D%B4%ED%8D%BC%ED%8C%A9%ED%86%A0%EB%A6%AC-AIaaS-%EB%A7%88%EC%8A%A4%ED%84%B0-%ED%81%B4%EB%9E%98%EC%8A%A4-4%EC%A3%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0) | [@blue00400](https://velog.io/@blue00400) |
-| 2026.09.20 | [2026.09.19-20 Day off 6주차 [NC AI] 커스텀 AI 서비스 개발자 양성과정](https://velog.io/@sbleeedu1-ai/2026.09.19-20-Day-off-6%EC%A3%BC%EC%B0%A8-NC-AI-%EC%BB%A4%EC%8A%A4%ED%85%80-AI-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95) | [@sbleeedu1-ai](https://velog.io/@sbleeedu1-ai) |
-| 2026.09.20 | [[CS] 운영체제 2 - Process / Thread](https://velog.io/@jhyunpark0729/CS-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-2-Process-Thread) | [@jhyunpark0729](https://velog.io/@jhyunpark0729) |
-| 2026.09.20 | [API](https://velog.io/@atory0206/API) | [@atory0206](https://velog.io/@atory0206) |
-| 2026.09.20 | [API가 대체 뭐길래? 일단 웹페이지부터 만들어봤습니다 2일차](https://velog.io/@akswjddl881/API%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%90%EA%B8%B8%EB%9E%98-%EC%9D%BC%EB%8B%A8-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-2%EC%9D%BC%EC%B0%A8) | [@akswjddl881](https://velog.io/@akswjddl881) |
+| 2026.09.21 | [Week 30: BAINT의 다음을 배우는 중](https://velog.io/@baintai/Week-30-BAINT%EC%9D%98-%EB%8B%A4%EC%9D%8C%EC%9D%84-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%A4%91) | [@baintai](https://velog.io/@baintai) |
+| 2026.09.21 | [[Dreamhack] csrf-2](https://velog.io/@gkarhkdxo1/Dreamhack-csrf-2) | [@gkarhkdxo1](https://velog.io/@gkarhkdxo1) |
+| 2026.09.21 | [일관된 코드베이스가 AI 기반 개발로 이어지기까지 — 어드민 모노레포 구축기](https://velog.io/@hellojoyworldz/%EC%9D%BC%EA%B4%80%EB%90%9C-%EC%BD%94%EB%93%9C%EB%B2%A0%EC%9D%B4%EC%8A%A4%EA%B0%80-AI-%EA%B8%B0%EB%B0%98-%EA%B0%9C%EB%B0%9C%EB%A1%9C-%EC%9D%B4%EC%96%B4%EC%A7%80%EA%B8%B0%EA%B9%8C%EC%A7%80-%EC%96%B4%EB%93%9C%EB%AF%BC-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%EA%B5%AC%EC%B6%95%EA%B8%B0) | [@hellojoyworldz](https://velog.io/@hellojoyworldz) |
+| 2026.09.21 | [[SK네트웍스 Family 엔코아AI캠퍼스] AI 오케스트레이션 캠프 3기_9월 17일 회고](https://velog.io/@pdistudy_02/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%BA%A0%ED%94%84-3%EA%B8%B09%EC%9B%94-17%EC%9D%BC-%ED%9A%8C%EA%B3%A0) | [@pdistudy_02](https://velog.io/@pdistudy_02) |
+| 2026.09.21 | [[C++ 68] - static 키워드](https://velog.io/@gyulari/C-68-static-%ED%82%A4%EC%9B%8C%EB%93%9C) | [@gyulari](https://velog.io/@gyulari) |
+| 2026.09.21 | [네트워크 심화 문제 풀이](https://velog.io/@dmxoo/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8B%AC%ED%99%94-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4) | [@dmxoo](https://velog.io/@dmxoo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
