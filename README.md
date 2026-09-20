@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.20 | [위클리페이퍼 01](https://velog.io/@baan9753/%EC%9C%84%ED%81%B4%EB%A6%AC%ED%8E%98%EC%9D%B4%ED%8D%BC-01) | [@baan9753](https://velog.io/@baan9753) |
-| 2026.09.20 | [[1주차 토픽] 0인데 왜 1이 될까? `\|\|`와 `??`로 알아보는 기본값 처리](https://velog.io/@shinisme/1%EC%A3%BC%EC%B0%A8-%ED%86%A0%ED%94%BD-0%EC%9D%B8%EB%8D%B0-%EC%99%9C-1%EC%9D%B4-%EB%90%A0%EA%B9%8C-%EC%99%80-%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EA%B8%B0%EB%B3%B8%EA%B0%92-%EC%B2%98%EB%A6%AC) | [@shinisme](https://velog.io/@shinisme) |
-| 2026.09.20 | [[스프린트 풀스텍 과정] 중급 팀프로젝트 개발 리포트](https://velog.io/@yyjinjin/%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%92%80%EC%8A%A4%ED%85%8D-%EA%B3%BC%EC%A0%95-%EC%A4%91%EA%B8%89-%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0) | [@yyjinjin](https://velog.io/@yyjinjin) |
-| 2026.09.20 | [[1주차] 회원 조회 미션으로 이해하는 TypeScript 타입 좁히기](https://velog.io/@shinisme/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EC%9B%90-%EC%A1%B0%ED%9A%8C-%EB%AF%B8%EC%85%98%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-TypeScript-%ED%83%80%EC%9E%85-%EC%A2%81%ED%9E%88%EA%B8%B0) | [@shinisme](https://velog.io/@shinisme) |
-| 2026.09.20 | [[SK네트웍스 Family 엔코아AI캠퍼스] AI 머신러닝 캠프 1기_9월 3주차 회고](https://velog.io/@gahyune/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BA%A0%ED%94%84-1%EA%B8%B09%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | [@gahyune](https://velog.io/@gahyune) |
-| 2026.09.20 | [[Physical AI 강남 3기] Day 10 — 이미지는 배열이다, 다만 순서가 전부 다르다](https://velog.io/@glorybell1984/physical-ai-day10-opencv-numpy-bgr) | [@glorybell1984](https://velog.io/@glorybell1984) |
+| 2026.09.20 | [환경-현장편](https://velog.io/@neosiureu/%ED%99%98%EA%B2%BD-%ED%98%84%EC%9E%A5%ED%8E%B8) | [@neosiureu](https://velog.io/@neosiureu) |
+| 2026.09.20 | [[스나이퍼팩토리] AIaaS 마스터 클래스 4주차 후기](https://velog.io/@blue00400/%EC%8A%A4%EB%82%98%EC%9D%B4%ED%8D%BC%ED%8C%A9%ED%86%A0%EB%A6%AC-AIaaS-%EB%A7%88%EC%8A%A4%ED%84%B0-%ED%81%B4%EB%9E%98%EC%8A%A4-4%EC%A3%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0) | [@blue00400](https://velog.io/@blue00400) |
+| 2026.09.20 | [2026.09.19-20 Day off 6주차 [NC AI] 커스텀 AI 서비스 개발자 양성과정](https://velog.io/@sbleeedu1-ai/2026.09.19-20-Day-off-6%EC%A3%BC%EC%B0%A8-NC-AI-%EC%BB%A4%EC%8A%A4%ED%85%80-AI-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95) | [@sbleeedu1-ai](https://velog.io/@sbleeedu1-ai) |
+| 2026.09.20 | [[CS] 운영체제 2 - Process / Thread](https://velog.io/@jhyunpark0729/CS-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-2-Process-Thread) | [@jhyunpark0729](https://velog.io/@jhyunpark0729) |
+| 2026.09.20 | [API](https://velog.io/@atory0206/API) | [@atory0206](https://velog.io/@atory0206) |
+| 2026.09.20 | [API가 대체 뭐길래? 일단 웹페이지부터 만들어봤습니다 2일차](https://velog.io/@akswjddl881/API%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%90%EA%B8%B8%EB%9E%98-%EC%9D%BC%EB%8B%A8-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-2%EC%9D%BC%EC%B0%A8) | [@akswjddl881](https://velog.io/@akswjddl881) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
