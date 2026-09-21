@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.22 | [X 인용 게시물에서 미디어가 어디에 있는지 판별하기](https://velog.io/@evanmercerdev/X-%EC%9D%B8%EC%9A%A9-%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%97%90%EC%84%9C-%EB%AF%B8%EB%94%94%EC%96%B4%EA%B0%80-%EC%96%B4%EB%94%94%EC%97%90-%EC%9E%88%EB%8A%94%EC%A7%80-%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0) | [@evanmercerdev](https://velog.io/@evanmercerdev) |
-| 2026.09.22 | [[기후·환경 뉴스 브리핑] 슈퍼 엘니뇨 기록 경신, 퀘벡 순록·도싯 해초 복원 과제 (9.21)](https://velog.io/@hyuckjin/climate-environment-briefing-2026-09-21-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.09.22 | [1일 1 CS-50 검색의 종류](https://velog.io/@studyreadbook4ev/1%EC%9D%BC-1-CS-50-%EA%B2%80%EC%83%89%EC%9D%98-%EC%A2%85%EB%A5%98) | [@studyreadbook4ev](https://velog.io/@studyreadbook4ev) |
+| 2026.09.22 | [텍스트 생성을 버린 초고속 판단 모델과 글로벌 AI 동향](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-09-22) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.22 | [AI 시대 글쓰기와 비즈니스 해자 구축 전략](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-09-22) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.22 | [초대형 AI 모델을 로컬에서 다루는 법과 멀티 에이전트 협업의 미래](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%99%9C%EC%9A%A9-2026-09-22) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.22 | [비용과 지연시간을 극대화하여 해결하는 실전 에이전트 및 워크플로 설계](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-09-22) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.22 | [감상글 상세 API 행 락 삽질기](https://velog.io/@edenriel/API-%ED%96%89-%EB%9D%BD-%EC%82%BD%EC%A7%88%EA%B8%B0) | [@edenriel](https://velog.io/@edenriel) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
