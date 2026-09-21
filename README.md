@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.21 | [Week 30: BAINT의 다음을 배우는 중](https://velog.io/@baintai/Week-30-BAINT%EC%9D%98-%EB%8B%A4%EC%9D%8C%EC%9D%84-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%A4%91) | [@baintai](https://velog.io/@baintai) |
-| 2026.09.21 | [[Dreamhack] csrf-2](https://velog.io/@gkarhkdxo1/Dreamhack-csrf-2) | [@gkarhkdxo1](https://velog.io/@gkarhkdxo1) |
-| 2026.09.21 | [일관된 코드베이스가 AI 기반 개발로 이어지기까지 — 어드민 모노레포 구축기](https://velog.io/@hellojoyworldz/%EC%9D%BC%EA%B4%80%EB%90%9C-%EC%BD%94%EB%93%9C%EB%B2%A0%EC%9D%B4%EC%8A%A4%EA%B0%80-AI-%EA%B8%B0%EB%B0%98-%EA%B0%9C%EB%B0%9C%EB%A1%9C-%EC%9D%B4%EC%96%B4%EC%A7%80%EA%B8%B0%EA%B9%8C%EC%A7%80-%EC%96%B4%EB%93%9C%EB%AF%BC-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%EA%B5%AC%EC%B6%95%EA%B8%B0) | [@hellojoyworldz](https://velog.io/@hellojoyworldz) |
-| 2026.09.21 | [[SK네트웍스 Family 엔코아AI캠퍼스] AI 오케스트레이션 캠프 3기_9월 17일 회고](https://velog.io/@pdistudy_02/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%BA%A0%ED%94%84-3%EA%B8%B09%EC%9B%94-17%EC%9D%BC-%ED%9A%8C%EA%B3%A0) | [@pdistudy_02](https://velog.io/@pdistudy_02) |
-| 2026.09.21 | [[C++ 68] - static 키워드](https://velog.io/@gyulari/C-68-static-%ED%82%A4%EC%9B%8C%EB%93%9C) | [@gyulari](https://velog.io/@gyulari) |
-| 2026.09.21 | [네트워크 심화 문제 풀이](https://velog.io/@dmxoo/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8B%AC%ED%99%94-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4) | [@dmxoo](https://velog.io/@dmxoo) |
+| 2026.09.21 | [처음 만든 오디오 플러그인: Gain에서 Biquad EQ까지](https://velog.io/@tejava7177/%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%93%A0-%EC%98%A4%EB%94%94%EC%98%A4-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-Gain%EC%97%90%EC%84%9C-Biquad-EQ%EA%B9%8C%EC%A7%80) | [@tejava7177](https://velog.io/@tejava7177) |
+| 2026.09.21 | [26S21a](https://velog.io/@youngkyoo_kim/26S21a) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.09.21 | [C#에서 XLS와 XLSX 파일을 상호 변환하는 방법](https://velog.io/@pilalo884/convert-xls-to-xlsx-in-csharp) | [@pilalo884](https://velog.io/@pilalo884) |
+| 2026.09.21 | [Claude Code 2.1.278 Auto Mode: 안전성 분류 비용을 서버로 옮긴 이유](https://velog.io/@gwanghun-choi/Claude-Code-2.1.278-Auto-Mode-%EC%95%88%EC%A0%84%EC%84%B1-%EB%B6%84%EB%A5%98-%EB%B9%84%EC%9A%A9%EC%9D%84-%EC%84%9C%EB%B2%84%EB%A1%9C-%EC%98%AE%EA%B8%B4-%EC%9D%B4%EC%9C%A0) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
+| 2026.09.21 | [Java 27의 Compact Object Headers 기본 활성화: Spring Boot 컨테이너의 Heap 밀도가 달라진다](https://velog.io/@gwanghun-choi/Java-27%EC%9D%98-Compact-Object-Headers-%EA%B8%B0%EB%B3%B8-%ED%99%9C%EC%84%B1%ED%99%94-Spring-Boot-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%9D%98-Heap-%EB%B0%80%EB%8F%84%EA%B0%80-%EB%8B%AC%EB%9D%BC%EC%A7%84%EB%8B%A4) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
+| 2026.09.21 | [Claude Code 2.1.277의 AGENTS.md 지원: Codex와 Claude의 프로젝트 규칙을 하나로 관리할 수 있을까](https://velog.io/@gwanghun-choi/Claude-Code-2.1.277%EC%9D%98-AGENTS.md-%EC%A7%80%EC%9B%90-Codex%EC%99%80-Claude%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B7%9C%EC%B9%99%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
