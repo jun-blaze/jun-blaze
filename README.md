@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.21 | [처음 만든 오디오 플러그인: Gain에서 Biquad EQ까지](https://velog.io/@tejava7177/%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%93%A0-%EC%98%A4%EB%94%94%EC%98%A4-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-Gain%EC%97%90%EC%84%9C-Biquad-EQ%EA%B9%8C%EC%A7%80) | [@tejava7177](https://velog.io/@tejava7177) |
-| 2026.09.21 | [26S21a](https://velog.io/@youngkyoo_kim/26S21a) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.09.21 | [C#에서 XLS와 XLSX 파일을 상호 변환하는 방법](https://velog.io/@pilalo884/convert-xls-to-xlsx-in-csharp) | [@pilalo884](https://velog.io/@pilalo884) |
-| 2026.09.21 | [Claude Code 2.1.278 Auto Mode: 안전성 분류 비용을 서버로 옮긴 이유](https://velog.io/@gwanghun-choi/Claude-Code-2.1.278-Auto-Mode-%EC%95%88%EC%A0%84%EC%84%B1-%EB%B6%84%EB%A5%98-%EB%B9%84%EC%9A%A9%EC%9D%84-%EC%84%9C%EB%B2%84%EB%A1%9C-%EC%98%AE%EA%B8%B4-%EC%9D%B4%EC%9C%A0) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
-| 2026.09.21 | [Java 27의 Compact Object Headers 기본 활성화: Spring Boot 컨테이너의 Heap 밀도가 달라진다](https://velog.io/@gwanghun-choi/Java-27%EC%9D%98-Compact-Object-Headers-%EA%B8%B0%EB%B3%B8-%ED%99%9C%EC%84%B1%ED%99%94-Spring-Boot-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%9D%98-Heap-%EB%B0%80%EB%8F%84%EA%B0%80-%EB%8B%AC%EB%9D%BC%EC%A7%84%EB%8B%A4) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
-| 2026.09.21 | [Claude Code 2.1.277의 AGENTS.md 지원: Codex와 Claude의 프로젝트 규칙을 하나로 관리할 수 있을까](https://velog.io/@gwanghun-choi/Claude-Code-2.1.277%EC%9D%98-AGENTS.md-%EC%A7%80%EC%9B%90-Codex%EC%99%80-Claude%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B7%9C%EC%B9%99%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
+| 2026.09.21 | [데이터 베이스 6주차](https://velog.io/@sssooolllooo/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-6%EC%A3%BC%EC%B0%A8) | [@sssooolllooo](https://velog.io/@sssooolllooo) |
+| 2026.09.21 | [Java Enum과 Generic 이해하고 계산기에 적용하기](https://velog.io/@jun0zoo/Java-Enum%EA%B3%BC-Generic-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EA%B3%84%EC%82%B0%EA%B8%B0%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) | [@jun0zoo](https://velog.io/@jun0zoo) |
+| 2026.09.21 | [[TIL]2026.09.21](https://velog.io/@abocado/TIL2026.09.21) | [@abocado](https://velog.io/@abocado) |
+| 2026.09.21 | [프로그래머스 백트래킹 문제집](https://velog.io/@wlgns12370/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EB%AC%B8%EC%A0%9C%EC%A7%91) | [@wlgns12370](https://velog.io/@wlgns12370) |
+| 2026.09.21 | [WireGuard와 V2Ray의 차이점: VPN 프로토콜을 쉽게 이해하기](https://velog.io/@rapidping/WireGuard%EC%99%80-V2Ray%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-VPN-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%84-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@rapidping](https://velog.io/@rapidping) |
+| 2026.09.21 | [TS - 타입스크립트 기본 타입](https://velog.io/@jihyun418/TS-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85) | [@jihyun418](https://velog.io/@jihyun418) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
