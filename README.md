@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.21 | [데이터 베이스 6주차](https://velog.io/@sssooolllooo/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-6%EC%A3%BC%EC%B0%A8) | [@sssooolllooo](https://velog.io/@sssooolllooo) |
-| 2026.09.21 | [Java Enum과 Generic 이해하고 계산기에 적용하기](https://velog.io/@jun0zoo/Java-Enum%EA%B3%BC-Generic-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EA%B3%84%EC%82%B0%EA%B8%B0%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) | [@jun0zoo](https://velog.io/@jun0zoo) |
-| 2026.09.21 | [[TIL]2026.09.21](https://velog.io/@abocado/TIL2026.09.21) | [@abocado](https://velog.io/@abocado) |
-| 2026.09.21 | [프로그래머스 백트래킹 문제집](https://velog.io/@wlgns12370/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EB%AC%B8%EC%A0%9C%EC%A7%91) | [@wlgns12370](https://velog.io/@wlgns12370) |
-| 2026.09.21 | [WireGuard와 V2Ray의 차이점: VPN 프로토콜을 쉽게 이해하기](https://velog.io/@rapidping/WireGuard%EC%99%80-V2Ray%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-VPN-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%84-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@rapidping](https://velog.io/@rapidping) |
-| 2026.09.21 | [TS - 타입스크립트 기본 타입](https://velog.io/@jihyun418/TS-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85) | [@jihyun418](https://velog.io/@jihyun418) |
+| 2026.09.22 | [X 인용 게시물에서 미디어가 어디에 있는지 판별하기](https://velog.io/@evanmercerdev/X-%EC%9D%B8%EC%9A%A9-%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%97%90%EC%84%9C-%EB%AF%B8%EB%94%94%EC%96%B4%EA%B0%80-%EC%96%B4%EB%94%94%EC%97%90-%EC%9E%88%EB%8A%94%EC%A7%80-%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0) | [@evanmercerdev](https://velog.io/@evanmercerdev) |
+| 2026.09.22 | [[기후·환경 뉴스 브리핑] 슈퍼 엘니뇨 기록 경신, 퀘벡 순록·도싯 해초 복원 과제 (9.21)](https://velog.io/@hyuckjin/climate-environment-briefing-2026-09-21-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
