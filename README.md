@@ -82,8 +82,8 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.22 | [2027 이기적 프로그래밍기능사 필기 기본서 서평 \| 기출 + 꼼꼼한 해설 + CBT로 효율적인 필기 준비](https://velog.io/@seonhye/2027-%EC%9D%B4%EA%B8%B0%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B8%B0%EB%8A%A5%EC%82%AC-%ED%95%84%EA%B8%B0-%EA%B8%B0%EB%B3%B8%EC%84%9C-%EC%84%9C%ED%8F%89-%EA%B8%B0%EC%B6%9C-%EA%BC%BC%EA%BC%BC%ED%95%9C-%ED%95%B4%EC%84%A4-CBT%EB%A1%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%95%84%EA%B8%B0-%EC%A4%80%EB%B9%84) | [@seonhye](https://velog.io/@seonhye) |
-| 2026.09.22 | [자동차 에어백 시장 규모, 성장 및 전략적 전망 (2026-2033)](https://velog.io/@coherentmi67/%EC%9E%90%EB%8F%99%EC%B0%A8-%EC%97%90%EC%96%B4%EB%B0%B1-%EC%8B%9C%EC%9E%A5-%EA%B7%9C%EB%AA%A8-%EC%84%B1%EC%9E%A5-%EB%B0%8F-%EC%A0%84%EB%9E%B5%EC%A0%81-%EC%A0%84%EB%A7%9D-2026-2033) | [@coherentmi67](https://velog.io/@coherentmi67) |
+| 2026.09.23 | [Rust로 배우는 자료구조와 알고리즘 1편: Big-O와 Rust 표준 컬렉션 지도](https://velog.io/@subi_ahn/Rust%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1%ED%8E%B8-Big-O%EC%99%80-Rust-%ED%91%9C%EC%A4%80-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%A7%80%EB%8F%84) | [@subi_ahn](https://velog.io/@subi_ahn) |
+| 2026.09.23 | [MiniMax H3 Max는 어디서 사용할 수 있을까? 온라인 플랫폼 7곳 비교](https://velog.io/@kiraplane/Where-to-Use-MiniMax-H3-Max) | [@kiraplane](https://velog.io/@kiraplane) |
 | 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 | 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
 | 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
