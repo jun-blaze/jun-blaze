@@ -82,12 +82,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.22 | [📌 프로그래머스 - 삼각 달팽이 (2차원 배열 + 좌표 이동)](https://velog.io/@sang5517/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%82%BC%EA%B0%81-%EB%8B%AC%ED%8C%BD%EC%9D%B4-2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4-%EC%A2%8C%ED%91%9C-%EC%9D%B4%EB%8F%99) | [@sang5517](https://velog.io/@sang5517) |
-| 2026.09.22 | [[LeetCode] Intersection of Two Arrays II](https://velog.io/@jineey/LeetCode-Intersection-of-Two-Arrays-II) | [@jineey](https://velog.io/@jineey) |
-| 2026.09.22 | [[Spring/DB/Java DAY2]  - @Transactional 은 누가 실행하는걸까? Spring Proxy와 트랜잭션 내부 동작](https://velog.io/@qlrxn115/SpringDBJava-DAY2-Transactional-%EC%9D%80-%EB%88%84%EA%B0%80-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94%EA%B1%B8%EA%B9%8C-Spring-Proxy%EC%99%80-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91) | [@qlrxn115](https://velog.io/@qlrxn115) |
-| 2026.09.22 | [매일 1% 성장하기 DAY-24](https://velog.io/@pingu_122/%EB%A7%A4%EC%9D%BC-1-%EC%84%B1%EC%9E%A5%ED%95%98%EA%B8%B0-DAY-24) | [@pingu_122](https://velog.io/@pingu_122) |
-| 2026.09.22 | [[논문리뷰] MAGIC: Marginal-Guided Compression with Optimal Transport for Efficient Visual Document Retrieval (최적수송 기반 문서 임베딩 압축)](https://velog.io/@mini_knows/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-MAGIC-Marginal-Guided-Compression-with-Optimal-Transport-for-Efficient-Visual-Document-Retrieval-%EC%B5%9C%EC%A0%81%EC%88%98%EC%86%A1-%EA%B8%B0%EB%B0%98-%EB%AC%B8%EC%84%9C-%EC%9E%84%EB%B2%A0%EB%94%A9-%EC%95%95%EC%B6%95) | [@mini_knows](https://velog.io/@mini_knows) |
-| 2026.09.22 | [문맥교환(Context Switching), IVT, ISR](https://velog.io/@mogaeso/%EB%AC%B8%EB%A7%A5%EA%B5%90%ED%99%98Context-Switching-IVT-ISR) | [@mogaeso](https://velog.io/@mogaeso) |
+| 2026.09.22 | [2027 이기적 프로그래밍기능사 필기 기본서 서평 \| 기출 + 꼼꼼한 해설 + CBT로 효율적인 필기 준비](https://velog.io/@seonhye/2027-%EC%9D%B4%EA%B8%B0%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B8%B0%EB%8A%A5%EC%82%AC-%ED%95%84%EA%B8%B0-%EA%B8%B0%EB%B3%B8%EC%84%9C-%EC%84%9C%ED%8F%89-%EA%B8%B0%EC%B6%9C-%EA%BC%BC%EA%BC%BC%ED%95%9C-%ED%95%B4%EC%84%A4-CBT%EB%A1%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%95%84%EA%B8%B0-%EC%A4%80%EB%B9%84) | [@seonhye](https://velog.io/@seonhye) |
+| 2026.09.22 | [자동차 에어백 시장 규모, 성장 및 전략적 전망 (2026-2033)](https://velog.io/@coherentmi67/%EC%9E%90%EB%8F%99%EC%B0%A8-%EC%97%90%EC%96%B4%EB%B0%B1-%EC%8B%9C%EC%9E%A5-%EA%B7%9C%EB%AA%A8-%EC%84%B1%EC%9E%A5-%EB%B0%8F-%EC%A0%84%EB%9E%B5%EC%A0%81-%EC%A0%84%EB%A7%9D-2026-2033) | [@coherentmi67](https://velog.io/@coherentmi67) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
