@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.23 | [Unreal 팀 프로젝트 - 오브젝트 풀링 발사체 오류 수정 및 Git LFS 에셋 복구](https://velog.io/@keunhwan/Unreal-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%ED%92%80%EB%A7%81-%EB%B0%9C%EC%82%AC%EC%B2%B4-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95-%EB%B0%8F-Git-LFS-%EC%97%90%EC%85%8B-%EB%B3%B5%EA%B5%AC) | [@keunhwan](https://velog.io/@keunhwan) |
-| 2026.09.23 | [논문 리뷰(18) - Emerging Properties in Self-Supervised Vision Transformers](https://velog.io/@danlee0113/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B018-Emerging-Properties-in-Self-Supervised-Vision-Transformers) | [@danlee0113](https://velog.io/@danlee0113) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.09.24 | [프로그래머스 겹치는 선분의 길이](https://velog.io/@youngjun_10/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B2%B9%EC%B9%98%EB%8A%94-%EC%84%A0%EB%B6%84%EC%9D%98-%EA%B8%B8%EC%9D%B4) | [@youngjun_10](https://velog.io/@youngjun_10) |
+| 2026.09.24 | [😈 AppSec #1. DOM XSS](https://velog.io/@wwkdrndishfwkk/AppSec-1-DOM-XSS) | [@wwkdrndishfwkk](https://velog.io/@wwkdrndishfwkk) |
+| 2026.09.24 | [#2 상자 밖에 있는 사람](https://velog.io/@hyeonzip/2-%EC%83%81%EC%9E%90-%EB%B0%96%EC%97%90-%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C) | [@hyeonzip](https://velog.io/@hyeonzip) |
+| 2026.09.24 | [[Spring Study Day 16] Spring AOP Proxy — `@Transactional`과 self-invocation](https://velog.io/@snowmile1224/Spring-Study-Day-16-Spring-AOP-Proxy-Transactional%EA%B3%BC-self-invocation-qa5mm4uz) | [@snowmile1224](https://velog.io/@snowmile1224) |
+| 2026.09.24 | [[Spring Study Day 15] Transaction Boundary — flush·commit·rollback](https://velog.io/@snowmile1224/Spring-Study-Day-15-Transaction-Boundary-flushcommitrollback) | [@snowmile1224](https://velog.io/@snowmile1224) |
+| 2026.09.24 | [[Spring Study Day 14] 2주차 버퍼 — ddl-auto validate와 CHECK Constraint](https://velog.io/@snowmile1224/Spring-Study-Day-14-2%EC%A3%BC%EC%B0%A8-%EB%B2%84%ED%8D%BC-ddl-auto-validate%EC%99%80-CHECK-Constraint-2qkpzdx0) | [@snowmile1224](https://velog.io/@snowmile1224) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
