@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.23 | [오픈소스와 프론티어 AI가 개척하는 에이전틱 코딩의 미래](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-09-23) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.09.23 | [LLM의 리스크 관리와 백테스팅 능력이 가르는 예측 시장 트레이딩 성패](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-09-23) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.09.23 | [(BDAI 12기 SQL 입문반_1) 데이터 로딩 절차, ERD 해석방법, EDA (CTE, SELECT절, WHERE절 서브쿼리, CASE WHEN, 윈도우 순위함수 활용)](https://velog.io/@chaehwanjung/BDAI-12%EA%B8%B0-SQL-%EC%9E%85%EB%AC%B8%EB%B0%981-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A1%9C%EB%94%A9-%EC%A0%88%EC%B0%A8-ERD-%ED%95%B4%EC%84%9D%EB%B0%A9%EB%B2%95-EDA-CTE-SELECT%EC%A0%88-WHERE%EC%A0%88-%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC-CASE-WHEN-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%88%9C%EC%9C%84%ED%95%A8%EC%88%98-%ED%99%9C%EC%9A%A9) | [@chaehwanjung](https://velog.io/@chaehwanjung) |
-| 2026.09.23 | [JP 런칭 회고](https://velog.io/@sonomoo/JP-%E3%84%B9%E3%85%93%E3%84%B4%E3%85%8A%E3%85%A3%E3%85%87-%E3%85%8E%E3%85%97%E3%85%A3%E3%84%B1%E3%85%97) | [@sonomoo](https://velog.io/@sonomoo) |
-| 2026.09.23 | [감정평가법인 전산담당자가 AI로 IT 인프라를 혁신하기 프로젝트에 들어서다](https://velog.io/@jelmano/%EA%B0%90%EC%A0%95%ED%8F%89%EA%B0%80%EB%B2%95%EC%9D%B8-%EC%A0%84%EC%82%B0%EB%8B%B4%EB%8B%B9%EC%9E%90%EA%B0%80-AI%EB%A1%9C-IT-%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A5%BC-%ED%98%81%EC%8B%A0%ED%95%98%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EB%93%A4%EC%96%B4%EC%84%9C%EB%8B%A4) | [@jelmano](https://velog.io/@jelmano) |
-| 2026.09.23 | [(Spring Boot) JwtToken을 이용하여 로그인, 로그아웃 구현하기](https://velog.io/@hellocode54/Spring-Boot-JwtToken%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) | [@hellocode54](https://velog.io/@hellocode54) |
+| 2026.09.23 | [How Kafka ③ — Outbox 이벤트는 어떻게 발행할까? (Polling vs CDC)](https://velog.io/@dangddoong/How-Kafka-Outbox-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%9C%ED%96%89%ED%95%A0%EA%B9%8C-Polling-vs-CDC) | [@dangddoong](https://velog.io/@dangddoong) |
+| 2026.09.23 | [API 8개면 끝인 줄 알았다 — 프론트 개발자의 첫 백엔드](https://velog.io/@seungminng123/API-8%EA%B0%9C%EB%A9%B4-%EB%81%9D%EC%9D%B8-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%EB%B0%B1%EC%97%94%EB%93%9C) | [@seungminng123](https://velog.io/@seungminng123) |
+| 2026.09.23 | [GPT-6 Sol·Luna 출시: 달라진 GPT 모델 선택 기준](https://velog.io/@okorion/GPT-6-SolLuna-%EC%B6%9C%EC%8B%9C-%EB%8B%AC%EB%9D%BC%EC%A7%84-GPT-%EB%AA%A8%EB%8D%B8-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80) | [@okorion](https://velog.io/@okorion) |
+| 2026.09.23 | [C#에서 Excel을 HTML로 변환할 때 이미지 임베딩하기](https://velog.io/@pilalo884/embed-image-in-html-when-converting-excel-to-html) | [@pilalo884](https://velog.io/@pilalo884) |
+| 2026.09.23 | [[자료구조] HashTable](https://velog.io/@ljjlm726/HashTable) | [@ljjlm726](https://velog.io/@ljjlm726) |
+| 2026.09.23 | [내가 보려고 정리한 unity animator 개념](https://velog.io/@simrok/%EB%82%B4%EA%B0%80-%EB%B3%B4%EB%A0%A4%EA%B3%A0-%EC%A0%95%EB%A6%AC%ED%95%9C-unity-animator-%EA%B0%9C%EB%85%90) | [@simrok](https://velog.io/@simrok) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
