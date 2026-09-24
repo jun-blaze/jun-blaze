@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.24 | [[[홍보대행 1등업체]] 토토홍보 \| 카지노홍보 \| 커뮤니티홍보 \| 구름광고](https://velog.io/@meo1212/%ED%99%8D%EB%B3%B4%EB%8C%80%ED%96%89-1%EB%93%B1%EC%97%85%EC%B2%B4-%ED%86%A0%ED%86%A0%ED%99%8D%EB%B3%B4-%EC%B9%B4%EC%A7%80%EB%85%B8%ED%99%8D%EB%B3%B4-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%ED%99%8D%EB%B3%B4-%EA%B5%AC%EB%A6%84%EA%B4%91%EA%B3%A0-9ryv9seb) | [@meo1212](https://velog.io/@meo1212) |
-| 2026.09.24 | [생명과학 분석 시장 점유율, 분석, 향후 전망(2034년까지)](https://velog.io/@sakshist2605/%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99-%EB%B6%84%EC%84%9D-%EC%8B%9C%EC%9E%A5-%EC%A0%90%EC%9C%A0%EC%9C%A8-%EB%B6%84%EC%84%9D-%ED%96%A5%ED%9B%84-%EC%A0%84%EB%A7%9D2034%EB%85%84%EA%B9%8C%EC%A7%80) | [@sakshist2605](https://velog.io/@sakshist2605) |
-| 2026.09.24 | [[PS] JadenCase 문자열 만들기](https://velog.io/@prid1306/PS-JadenCase-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0) | [@prid1306](https://velog.io/@prid1306) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.09.25 | [2만 장의 PDF 레포트 생성 시간을 5시간→1시간대로 줄였다](https://velog.io/@snghyun331/20kscalepdffaster) | [@snghyun331](https://velog.io/@snghyun331) |
+| 2026.09.25 | [Hands-On ML (1.4 ~ 1.4.1)(미완성)](https://velog.io/@hyun_731/Hands-On-ML-1.4) | [@hyun_731](https://velog.io/@hyun_731) |
+| 2026.09.25 | [《정의의 여신》 개발일지 - 여신 모델링부터 Unity 적용까지](https://velog.io/@wlsdnr3564/NC-AI-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%AA%A8%EB%8D%B8%EB%A7%81) | [@wlsdnr3564](https://velog.io/@wlsdnr3564) |
+| 2026.09.25 | [2026.09.24 1일 1로그](https://velog.io/@j8rl_chik/2026.09.24-1%EC%9D%BC-1%EB%A1%9C%EA%B7%B8) | [@j8rl_chik](https://velog.io/@j8rl_chik) |
+| 2026.09.25 | [깃허브 6장](https://velog.io/@ym0318/%EA%B9%83%ED%97%88%EB%B8%8C-6%EC%9E%A5) | [@ym0318](https://velog.io/@ym0318) |
+| 2026.09.25 | [일변량 시각화: 범주형과 연속형 데이터를 그래프로 이해하는 방법](https://velog.io/@dev_alchemist/%EC%9D%BC%EB%B3%80%EB%9F%89-%EC%8B%9C%EA%B0%81%ED%99%94-%EB%B2%94%EC%A3%BC%ED%98%95%EA%B3%BC-%EC%97%B0%EC%86%8D%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) | [@dev_alchemist](https://velog.io/@dev_alchemist) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
