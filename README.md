@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.25 | [2만 장의 PDF 레포트 생성 시간을 5시간→1시간대로 줄였다](https://velog.io/@snghyun331/20kscalepdffaster) | [@snghyun331](https://velog.io/@snghyun331) |
-| 2026.09.25 | [Hands-On ML (1.4 ~ 1.4.1)(미완성)](https://velog.io/@hyun_731/Hands-On-ML-1.4) | [@hyun_731](https://velog.io/@hyun_731) |
-| 2026.09.25 | [《정의의 여신》 개발일지 - 여신 모델링부터 Unity 적용까지](https://velog.io/@wlsdnr3564/NC-AI-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%AA%A8%EB%8D%B8%EB%A7%81) | [@wlsdnr3564](https://velog.io/@wlsdnr3564) |
-| 2026.09.25 | [2026.09.24 1일 1로그](https://velog.io/@j8rl_chik/2026.09.24-1%EC%9D%BC-1%EB%A1%9C%EA%B7%B8) | [@j8rl_chik](https://velog.io/@j8rl_chik) |
-| 2026.09.25 | [깃허브 6장](https://velog.io/@ym0318/%EA%B9%83%ED%97%88%EB%B8%8C-6%EC%9E%A5) | [@ym0318](https://velog.io/@ym0318) |
-| 2026.09.25 | [일변량 시각화: 범주형과 연속형 데이터를 그래프로 이해하는 방법](https://velog.io/@dev_alchemist/%EC%9D%BC%EB%B3%80%EB%9F%89-%EC%8B%9C%EA%B0%81%ED%99%94-%EB%B2%94%EC%A3%BC%ED%98%95%EA%B3%BC-%EC%97%B0%EC%86%8D%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) | [@dev_alchemist](https://velog.io/@dev_alchemist) |
+| 2026.09.25 | [코딩 테스트 - 숫자 야구](https://velog.io/@minehye720/%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%88%AB%EC%9E%90-%EC%95%BC%EA%B5%AC) | [@minehye720](https://velog.io/@minehye720) |
+| 2026.09.25 | [우주에 대한 생각](https://velog.io/@park2do/%EC%9A%B0%EC%A3%BC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81) | [@park2do](https://velog.io/@park2do) |
+| 2026.09.25 | [[유니티] 점수, 시간 UI, 일시정지 버튼, 게임매니저와 싱글톤](https://velog.io/@donghj03/%EC%9C%A0%EB%8B%88%ED%8B%B0-UI%EC%99%80-%EA%B2%8C%EC%9E%84%EB%A7%A4%EB%8B%88%EC%A0%80) | [@donghj03](https://velog.io/@donghj03) |
+| 2026.09.25 | [[테스트 주도 개발 시작하기] 5장](https://velog.io/@eluda/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-5%EC%9E%A5) | [@eluda](https://velog.io/@eluda) |
+| 2026.09.25 | [커밋 무시 후 git pull, 병합 후 git pull](https://velog.io/@donghj03/%ED%98%84%EC%9E%AC-%EC%BB%A4%EB%B0%8B%EC%9D%84-%EB%AC%B4%EC%8B%9C%ED%95%98%EA%B3%A0-git-pull-%ED%95%98%EA%B8%B0) | [@donghj03](https://velog.io/@donghj03) |
+| 2026.09.25 | [OpenAI Academy \| AI Foundations — Module 3: Prompting and Evaluation](https://velog.io/@famegon/openai-academy-foundations-prompting-evaluation) | [@famegon](https://velog.io/@famegon) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
