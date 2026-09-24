@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.24 | [S3에 포트폴리오 올리기 (느린 문제 해결> CloudFront)](https://velog.io/@o980204/S3%EC%97%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%98%AC%EB%A6%AC%EA%B8%B0-%EB%8A%90%EB%A6%B0-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-CloudFront) | [@o980204](https://velog.io/@o980204) |
-| 2026.09.24 | [[SlateKR #165] 6시 축 잔재 판정과 컨벤션 전수 probe](https://velog.io/@dh82680/SlateKR-165-6%EC%8B%9C-%EC%B6%95-%EC%9E%94%EC%9E%AC-%ED%8C%90%EC%A0%95%EA%B3%BC-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%A0%84%EC%88%98-probe) | [@dh82680](https://velog.io/@dh82680) |
-| 2026.09.24 | [2026-09-22 부동산공법 건축법~농지법 4회독](https://velog.io/@hyungyugod/2026-09-22-%EB%B6%80%EB%8F%99%EC%82%B0%EA%B3%B5%EB%B2%95-%EA%B1%B4%EC%B6%95%EB%B2%95%EB%86%8D%EC%A7%80%EB%B2%95-4%ED%9A%8C%EB%8F%85) | [@hyungyugod](https://velog.io/@hyungyugod) |
-| 2026.09.24 | [3. 포인터 멤버의 필요성과 주의점, 매개변수와 인자, Pass-by-value vs Pass-by-reference, 상수성(Constness), Pointer to constant value와 constant pointer to value, 매개변수와 리턴 타입의 constness, 매개변수 순서, 상수성 활용 코딩스타일, RVO](https://velog.io/@woon2lavi/3.-%ED%8F%AC%EC%9D%B8%ED%84%B0-%EB%A9%A4%EB%B2%84%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1%EA%B3%BC-%EC%A3%BC%EC%9D%98%EC%A0%90-Pass-by-value-vs-Pass-by-reference-%EC%83%81%EC%88%98%EC%84%B1Constness-Pointer-to-constant-value%EC%99%80-constant-pointer-to-value-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EC%99%80-%EB%A6%AC%ED%84%B4-%ED%83%80%EC%9E%85%EC%9D%98-constness-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%EC%88%9C%EC%84%9C-%EC%83%81%EC%88%98%EC%84%B1-%ED%99%9C%EC%9A%A9-%EC%BD%94%EB%94%A9%EC%8A%A4%ED%83%80%EC%9D%BC-RVO) | [@woon2lavi](https://velog.io/@woon2lavi) |
-| 2026.09.24 | [@ExceptionHandler가 많아질 때 BusinessException으로 정리하기](https://velog.io/@sleekydevzero86/ExceptionHandler%EA%B0%80-%EB%A7%8E%EC%95%84%EC%A7%88-%EB%95%8C-BusinessException%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0) | [@sleekydevzero86](https://velog.io/@sleekydevzero86) |
-| 2026.09.24 | [[코딩테스트] Python 필수 문법 총정리](https://velog.io/@lareina7486/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Python-%ED%95%84%EC%88%98-%EB%AC%B8%EB%B2%95-%EC%B4%9D%EC%A0%95%EB%A6%AC) | [@lareina7486](https://velog.io/@lareina7486) |
+| 2026.09.24 | [연결 리스트는 배열보다 삽입이 빠른 자료구조가 아니다](https://velog.io/@vxdeveloper/algorithm22) | [@vxdeveloper](https://velog.io/@vxdeveloper) |
+| 2026.09.24 | [테넌트와 테넌시란 무엇일까요?](https://velog.io/@oneook/%ED%85%8C%EB%84%8C%ED%8A%B8%EC%99%80-%ED%85%8C%EB%84%8C%EC%8B%9C%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94) | [@oneook](https://velog.io/@oneook) |
+| 2026.09.24 | [ID는 데이터를 구분하는 번호가 아니다](https://velog.io/@vxdeveloper/id) | [@vxdeveloper](https://velog.io/@vxdeveloper) |
+| 2026.09.24 | [# 개인용 PDF를 판매용 상품으로 바꾸며 겪은 문제들 (2편)](https://velog.io/@ghksalswkd1213/%EA%B0%9C%EC%9D%B8%EC%9A%A9-PDF%EB%A5%BC-%ED%8C%90%EB%A7%A4%EC%9A%A9-%EC%83%81%ED%92%88%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%A9%B0-%EA%B2%AA%EC%9D%80-%EB%AC%B8%EC%A0%9C%EB%93%A4-2%ED%8E%B8) | [@ghksalswkd1213](https://velog.io/@ghksalswkd1213) |
+| 2026.09.24 | [2026.09.23](https://velog.io/@kjhalc/2026.09.23) | [@kjhalc](https://velog.io/@kjhalc) |
+| 2026.09.24 | [[Git/GitHub] gh auth switch 오류 원인과 해결 방법 (feat. GitHub CLI 계정 교체)](https://velog.io/@poohoot/GitGitHub-gh-auth-switch-%EC%98%A4%EB%A5%98-%EC%9B%90%EC%9D%B8%EA%B3%BC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95-feat.-GitHub-CLI-%EA%B3%84%EC%A0%95-%EA%B5%90%EC%B2%B4) | [@poohoot](https://velog.io/@poohoot) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
