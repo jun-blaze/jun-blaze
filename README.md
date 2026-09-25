@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.25 | [[Cloud Club] Agent](https://velog.io/@dmswl139/Cloud-Club-Agent) | [@dmswl139](https://velog.io/@dmswl139) |
-| 2026.09.25 | [Week4 개념](https://velog.io/@seahhna/Week4-%EA%B0%9C%EB%85%90) | [@seahhna](https://velog.io/@seahhna) |
-| 2026.09.25 | [피지컬 AI 시스템 설계](https://velog.io/@erdosnumber0/%ED%94%BC%EC%A7%80%EC%BB%AC-AI-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84) | [@erdosnumber0](https://velog.io/@erdosnumber0) |
-| 2026.09.25 | [[TIL] 260925 회고](https://velog.io/@devhyun05/WIL-260925-%ED%9A%8C%EA%B3%A0) | [@devhyun05](https://velog.io/@devhyun05) |
-| 2026.09.25 | [[프로그래머스] 모음사전 - 완전탐색/C++](https://velog.io/@melonhong46/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89C) | [@melonhong46](https://velog.io/@melonhong46) |
-| 2026.09.25 | [검색 결과가 0건인 이유: 페이지네이션이 아니라 후보 상한이었다](https://velog.io/@cokid7979/%EA%B2%80%EC%83%89-%EA%B2%B0%EA%B3%BC%EA%B0%80-0%EA%B1%B4%EC%9D%B8-%EC%9D%B4%EC%9C%A0-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%ED%9B%84%EB%B3%B4-%EC%83%81%ED%95%9C%EC%9D%B4%EC%97%88%EB%8B%A4) | [@cokid7979](https://velog.io/@cokid7979) |
+| 2026.09.26 | [온몸 비틀기로 서버 구데기 서버 사용하기](https://velog.io/@siheun9/%EC%98%A8%EB%AA%B8%EB%B9%84%ED%8B%80%EA%B8%B0%EB%A1%9C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EB%8D%B0%EA%B8%B0%EC%84%9C%EB%B2%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) | [@siheun9](https://velog.io/@siheun9) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
