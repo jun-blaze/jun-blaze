@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.25 | [온라인 쇼핑몰을 만들면서 생각해 본 사용자 경험과 이커머스](https://velog.io/@rafi4050/%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%87%BC%ED%95%91%EB%AA%B0%EC%9D%84-%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-%EC%83%9D%EA%B0%81%ED%95%B4-%EB%B3%B8-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B2%BD%ED%97%98%EA%B3%BC-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4) | [@rafi4050](https://velog.io/@rafi4050) |
-| 2026.09.25 | [가설 검정과 독립표본 t-test: A/B 테스트에서 두 집단 평균을 비교하는 방법](https://velog.io/@dev_alchemist/%EA%B0%80%EC%84%A4-%EA%B2%80%EC%A0%95%EA%B3%BC-%EB%8F%85%EB%A6%BD%ED%91%9C%EB%B3%B8-t-test-AB-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EB%91%90-%EC%A7%91%EB%8B%A8-%ED%8F%89%EA%B7%A0%EC%9D%84-%EB%B9%84%EA%B5%90%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) | [@dev_alchemist](https://velog.io/@dev_alchemist) |
-| 2026.09.25 | [드림핵 youth-Case 풀이](https://velog.io/@junnyontop-pixel/%EB%93%9C%EB%A6%BC%ED%95%B5-youth-Case-%ED%92%80%EC%9D%B4) | [@junnyontop-pixel](https://velog.io/@junnyontop-pixel) |
-| 2026.09.25 | [# [둘만 개발기 #4] 내가 만든 앱을 내가 턴다: 셀프 보안 리뷰](https://velog.io/@hgoose/%EB%91%98%EB%A7%8C-%EA%B0%9C%EB%B0%9C%EA%B8%B0-4-%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%93%A0-%EC%95%B1%EC%9D%84-%EB%82%B4%EA%B0%80-%ED%84%B4%EB%8B%A4-%EC%85%80%ED%94%84-%EB%B3%B4%EC%95%88-%EB%A6%AC%EB%B7%B0) | [@hgoose](https://velog.io/@hgoose) |
-| 2026.09.25 | [[논문리뷰] EvoOntology: A Self-Evolving Ontology Layer for Data Agents (자기진화 온톨로지 레이어)](https://velog.io/@mini_knows/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-EvoOntology-A-Self-Evolving-Ontology-Layer-for-Data-Agents-%EC%9E%90%EA%B8%B0%EC%A7%84%ED%99%94-%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80-%EB%A0%88%EC%9D%B4%EC%96%B4) | [@mini_knows](https://velog.io/@mini_knows) |
-| 2026.09.25 | [260925(Fri) Salesforce Admin(ADX201) 시험 공부 - 23](https://velog.io/@yujinxliln/260925Fri-Salesforce-AdminADX201-%EC%8B%9C%ED%97%98-%EA%B3%B5%EB%B6%80-23) | [@yujinxliln](https://velog.io/@yujinxliln) |
+| 2026.09.25 | [[Cloud Club] Agent](https://velog.io/@dmswl139/Cloud-Club-Agent) | [@dmswl139](https://velog.io/@dmswl139) |
+| 2026.09.25 | [Week4 개념](https://velog.io/@seahhna/Week4-%EA%B0%9C%EB%85%90) | [@seahhna](https://velog.io/@seahhna) |
+| 2026.09.25 | [피지컬 AI 시스템 설계](https://velog.io/@erdosnumber0/%ED%94%BC%EC%A7%80%EC%BB%AC-AI-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84) | [@erdosnumber0](https://velog.io/@erdosnumber0) |
+| 2026.09.25 | [[TIL] 260925 회고](https://velog.io/@devhyun05/WIL-260925-%ED%9A%8C%EA%B3%A0) | [@devhyun05](https://velog.io/@devhyun05) |
+| 2026.09.25 | [[프로그래머스] 모음사전 - 완전탐색/C++](https://velog.io/@melonhong46/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89C) | [@melonhong46](https://velog.io/@melonhong46) |
+| 2026.09.25 | [검색 결과가 0건인 이유: 페이지네이션이 아니라 후보 상한이었다](https://velog.io/@cokid7979/%EA%B2%80%EC%83%89-%EA%B2%B0%EA%B3%BC%EA%B0%80-0%EA%B1%B4%EC%9D%B8-%EC%9D%B4%EC%9C%A0-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%ED%9B%84%EB%B3%B4-%EC%83%81%ED%95%9C%EC%9D%B4%EC%97%88%EB%8B%A4) | [@cokid7979](https://velog.io/@cokid7979) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
