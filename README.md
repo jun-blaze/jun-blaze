@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.26 | [온몸 비틀기로 서버 구데기 서버 사용하기](https://velog.io/@siheun9/%EC%98%A8%EB%AA%B8%EB%B9%84%ED%8B%80%EA%B8%B0%EB%A1%9C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EB%8D%B0%EA%B8%B0%EC%84%9C%EB%B2%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) | [@siheun9](https://velog.io/@siheun9) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
-| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
+| 2026.09.26 | [[Dreamhack] Access Control 1: Dream NAS](https://velog.io/@gkarhkdxo1/Dreamhack-Access-Control-1-Dream-NAS) | [@gkarhkdxo1](https://velog.io/@gkarhkdxo1) |
+| 2026.09.26 | [[HashMap] Problems](https://velog.io/@kjw5912/HashMap-Problems) | [@kjw5912](https://velog.io/@kjw5912) |
+| 2026.09.26 | [[1-day] OpenCode Issue #26514](https://velog.io/@shxz9u/1-day-OpenCode-26514) | [@shxz9u](https://velog.io/@shxz9u) |
+| 2026.09.26 | [??? : 뭐여 인터넷 그거 하늘에 떠있는거 아녔냐](https://velog.io/@makarong2281/%EB%AD%90%EC%97%AC-%EC%9D%B8%ED%84%B0%EB%84%B7-%EA%B7%B8%EA%B1%B0-%ED%95%98%EB%8A%98%EC%97%90-%EB%96%A0%EC%9E%88%EB%8A%94%EA%B1%B0-%EC%95%84%EB%85%94%EB%83%90) | [@makarong2281](https://velog.io/@makarong2281) |
+| 2026.09.26 | [Spring 레거시와 Spring Boot](https://velog.io/@neosiureu/Spring-%EB%A0%88%EA%B1%B0%EC%8B%9C%EC%99%80-Spring-Boot) | [@neosiureu](https://velog.io/@neosiureu) |
+| 2026.09.26 | [컴퓨터는 어떻게 프로그램을 실행할까? \| 컴퓨터 구조부터 명령어와 폰 노이만 구조까지](https://velog.io/@daehyun_lee/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84-%EC%8B%A4%ED%96%89%ED%95%A0%EA%B9%8C-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0%EB%B6%80%ED%84%B0-%EB%AA%85%EB%A0%B9%EC%96%B4%EC%99%80-%ED%8F%B0-%EB%85%B8%EC%9D%B4%EB%A7%8C-%EA%B5%AC%EC%A1%B0%EA%B9%8C%EC%A7%80) | [@daehyun_lee](https://velog.io/@daehyun_lee) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
