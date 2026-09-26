@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.26 | [전 세계 카지노 커뮤니티의 모습: 글로벌 카지노 문화와 이용자 네트워크 분석](https://velog.io/@outlookindiama/%EC%A0%84-%EC%84%B8%EA%B3%84-%EC%B9%B4%EC%A7%80%EB%85%B8-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-mfnyw4ks) | [@outlookindiama](https://velog.io/@outlookindiama) |
-| 2026.09.26 | [[기후·환경 뉴스 브리핑] 남극 해빙 겨울 최대치 역대 세 번째 저점, 해수면 선언 채택 (9.25)](https://velog.io/@hyuckjin/climate-environment-briefing-2026-09-25-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
-| 2026.09.26 | [현대 카지노 경영의 과제와 해결 방안: 변화하는 산업 환경의 도전](https://velog.io/@outlookindiama/%ED%98%84%EB%8C%80-%EC%B9%B4%EC%A7%80%EB%85%B8-%EA%B4%80%EB%A6%AC-%EB%AC%B8%EC%A0%9C-u096gl3e) | [@outlookindiama](https://velog.io/@outlookindiama) |
-| 2026.09.26 | [게임 산업의 미래 과제: 변화하는 시장 환경과 새로운 도전](https://velog.io/@outlookindiama/%EA%B2%8C%EC%9E%84%EC%9D%98-%EB%AF%B8%EB%9E%98-%EB%8F%84%EC%A0%84-%EA%B3%BC%EC%A0%9C-emdb7jp7) | [@outlookindiama](https://velog.io/@outlookindiama) |
-| 2026.09.26 | [카지노 산업 통계 완벽 해설: 데이터로 보는 글로벌 카지노 시장](https://velog.io/@outlookindiama/%EC%B9%B4%EC%A7%80%EB%85%B8-%EC%82%B0%EC%97%85-%ED%86%B5%EA%B3%84-%EC%84%A4%EB%AA%85-w0wfya9y) | [@outlookindiama](https://velog.io/@outlookindiama) |
-| 2026.09.26 | [미래 도박 산업 연구 분야: 기술과 소비자 변화가 만드는 새로운 가능성](https://velog.io/@outlookindiama/%EB%8F%84%EB%B0%95%EC%9D%98-%EB%AF%B8%EB%9E%98-%EC%97%B0%EA%B5%AC-%EB%B6%84%EC%95%BC-0r0csw5a) | [@outlookindiama](https://velog.io/@outlookindiama) |
+| 2026.09.26 | [컴퓨터 구조](https://velog.io/@gjdpwjd2/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0) | [@gjdpwjd2](https://velog.io/@gjdpwjd2) |
+| 2026.09.26 | [스코프와 실행 컨텍스트](https://velog.io/@jang1305q/%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8) | [@jang1305q](https://velog.io/@jang1305q) |
+| 2026.09.26 | [03. 네트워크_ 물리 계층](https://velog.io/@zzanii/03.-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%AC%BC%EB%A6%AC-%EA%B3%84%EC%B8%B5) | [@zzanii](https://velog.io/@zzanii) |
+| 2026.09.26 | [종합Project(ACE) - 발급부분 - 3 - Spring Batch - Chunk, Cursor](https://velog.io/@jungchoi1/%EC%A2%85%ED%95%A9ProjectACE-%EB%B0%9C%EA%B8%89%EB%B6%80%EB%B6%84-3-Spring-Batch-Chunk-Cursor) | [@jungchoi1](https://velog.io/@jungchoi1) |
+| 2026.09.26 | [[UMC 블로그챌린지] Week 3. SQL에서 API로 — NestJS 3계층 아키텍처와 Raw SQL 실습](https://velog.io/@kimjaebeom/UMC-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%B1%8C%EB%A6%B0%EC%A7%80-Week-3.-SQL%EC%97%90%EC%84%9C-API%EB%A1%9C-NestJS-3%EA%B3%84%EC%B8%B5-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%99%80-Raw-SQL-%EC%8B%A4%EC%8A%B5) | [@kimjaebeom](https://velog.io/@kimjaebeom) |
+| 2026.09.26 | [🌐 [UMC 블로그챌린지] Week 3. URL에서 화면까지 — TanStack Router와 Tailwind CSS로 UMCine 확장하기](https://velog.io/@kimjaebeom/UMC-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%B1%8C%EB%A6%B0%EC%A7%80-Week-3.-URL%EC%97%90%EC%84%9C-%ED%99%94%EB%A9%B4%EA%B9%8C%EC%A7%80-TanStack-Router%EC%99%80-Tailwind-CSS%EB%A1%9C-UMCine-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0) | [@kimjaebeom](https://velog.io/@kimjaebeom) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
