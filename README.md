@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.26 | [컴퓨터 구조](https://velog.io/@gjdpwjd2/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0) | [@gjdpwjd2](https://velog.io/@gjdpwjd2) |
-| 2026.09.26 | [스코프와 실행 컨텍스트](https://velog.io/@jang1305q/%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8) | [@jang1305q](https://velog.io/@jang1305q) |
-| 2026.09.26 | [03. 네트워크_ 물리 계층](https://velog.io/@zzanii/03.-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%AC%BC%EB%A6%AC-%EA%B3%84%EC%B8%B5) | [@zzanii](https://velog.io/@zzanii) |
-| 2026.09.26 | [종합Project(ACE) - 발급부분 - 3 - Spring Batch - Chunk, Cursor](https://velog.io/@jungchoi1/%EC%A2%85%ED%95%A9ProjectACE-%EB%B0%9C%EA%B8%89%EB%B6%80%EB%B6%84-3-Spring-Batch-Chunk-Cursor) | [@jungchoi1](https://velog.io/@jungchoi1) |
-| 2026.09.26 | [[UMC 블로그챌린지] Week 3. SQL에서 API로 — NestJS 3계층 아키텍처와 Raw SQL 실습](https://velog.io/@kimjaebeom/UMC-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%B1%8C%EB%A6%B0%EC%A7%80-Week-3.-SQL%EC%97%90%EC%84%9C-API%EB%A1%9C-NestJS-3%EA%B3%84%EC%B8%B5-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%99%80-Raw-SQL-%EC%8B%A4%EC%8A%B5) | [@kimjaebeom](https://velog.io/@kimjaebeom) |
-| 2026.09.26 | [🌐 [UMC 블로그챌린지] Week 3. URL에서 화면까지 — TanStack Router와 Tailwind CSS로 UMCine 확장하기](https://velog.io/@kimjaebeom/UMC-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%B1%8C%EB%A6%B0%EC%A7%80-Week-3.-URL%EC%97%90%EC%84%9C-%ED%99%94%EB%A9%B4%EA%B9%8C%EC%A7%80-TanStack-Router%EC%99%80-Tailwind-CSS%EB%A1%9C-UMCine-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0) | [@kimjaebeom](https://velog.io/@kimjaebeom) |
+| 2026.09.27 | [[신뢰성공학 3/4] 고장나지 않은 제품도 데이터다: 관측중단과 MLE](https://velog.io/@goleta413/reliability-03-censoring-and-mle) | [@goleta413](https://velog.io/@goleta413) |
+| 2026.09.27 | [[DB] Relational Model](https://velog.io/@likell1/DB-Relational-Model) | [@likell1](https://velog.io/@likell1) |
+| 2026.09.27 | [[신뢰성공학 2/4] Weibull과 B10, 평균수명 하나로 설명할 수 없는 것들](https://velog.io/@goleta413/reliability-02-weibull-and-b10) | [@goleta413](https://velog.io/@goleta413) |
+| 2026.09.27 | [[DB] Intro to DB](https://velog.io/@likell1/DB-Intro-to-DB) | [@likell1](https://velog.io/@likell1) |
+| 2026.09.27 | [Valkey 9.0과 9.1 비교: 실제 변경점과 업그레이드 판단](https://velog.io/@dokdok2/Valkey-9.0%EA%B3%BC-9.1-%EB%B9%84%EA%B5%90-%EC%8B%A4%EC%A0%9C-%EB%B3%80%EA%B2%BD%EC%A0%90%EA%B3%BC-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%ED%8C%90%EB%8B%A8) | [@dokdok2](https://velog.io/@dokdok2) |
+| 2026.09.27 | [[신뢰성공학 1/4] 신뢰도와 고장률, 같은 고장을 다르게 보는 법](https://velog.io/@goleta413/reliability-01-functions-and-hazard) | [@goleta413](https://velog.io/@goleta413) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
