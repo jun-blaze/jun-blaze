@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.27 | [[신뢰성공학 3/4] 고장나지 않은 제품도 데이터다: 관측중단과 MLE](https://velog.io/@goleta413/reliability-03-censoring-and-mle) | [@goleta413](https://velog.io/@goleta413) |
-| 2026.09.27 | [[DB] Relational Model](https://velog.io/@likell1/DB-Relational-Model) | [@likell1](https://velog.io/@likell1) |
-| 2026.09.27 | [[신뢰성공학 2/4] Weibull과 B10, 평균수명 하나로 설명할 수 없는 것들](https://velog.io/@goleta413/reliability-02-weibull-and-b10) | [@goleta413](https://velog.io/@goleta413) |
-| 2026.09.27 | [[DB] Intro to DB](https://velog.io/@likell1/DB-Intro-to-DB) | [@likell1](https://velog.io/@likell1) |
-| 2026.09.27 | [Valkey 9.0과 9.1 비교: 실제 변경점과 업그레이드 판단](https://velog.io/@dokdok2/Valkey-9.0%EA%B3%BC-9.1-%EB%B9%84%EA%B5%90-%EC%8B%A4%EC%A0%9C-%EB%B3%80%EA%B2%BD%EC%A0%90%EA%B3%BC-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%ED%8C%90%EB%8B%A8) | [@dokdok2](https://velog.io/@dokdok2) |
-| 2026.09.27 | [[신뢰성공학 1/4] 신뢰도와 고장률, 같은 고장을 다르게 보는 법](https://velog.io/@goleta413/reliability-01-functions-and-hazard) | [@goleta413](https://velog.io/@goleta413) |
+| 2026.09.27 | [AI 장벽을 허무는 혁신: 4비트 학습의 비밀과 하드웨어·소프트웨어 에이전트의 진화](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-09-27) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.27 | [AI 에이전트로 확장하는 1인 기업과 실전 자동화 파이프라인](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-09-27) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.27 | [코드와 에이전트로 제어하는 멀티모달 자동화 생태계](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%99%9C%EC%9A%A9-2026-09-27) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.27 | [자율 에이전트의 병목을 돌파하는 계층적 분업과 최적화](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-09-27) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.09.27 | [[C++ 74] - 클래스 템플릿의 특수화와 상속](https://velog.io/@gyulari/C-74-%ED%81%B4%EB%9E%98%EC%8A%A4-%ED%85%9C%ED%94%8C%EB%A6%BF%EC%9D%98-%ED%8A%B9%EC%88%98%ED%99%94%EC%99%80-%EC%83%81%EC%86%8D) | [@gyulari](https://velog.io/@gyulari) |
+| 2026.09.27 | [[Spring 기본] 순수 Java로 회원·주문 도메인 구현하기 - 역할과 구현, 테스트까지](https://velog.io/@philbae0/Spring-%EA%B0%95%EC%9D%98-%EC%88%9C%EC%88%98-Java%EB%A1%9C-%ED%9A%8C%EC%9B%90%EC%A3%BC%EB%AC%B8-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-%EC%97%AD%ED%95%A0%EA%B3%BC-%EA%B5%AC%ED%98%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B9%8C%EC%A7%80) | [@philbae0](https://velog.io/@philbae0) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
