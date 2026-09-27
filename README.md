@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.27 | [AI 장벽을 허무는 혁신: 4비트 학습의 비밀과 하드웨어·소프트웨어 에이전트의 진화](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-09-27) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.09.27 | [AI 에이전트로 확장하는 1인 기업과 실전 자동화 파이프라인](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-09-27) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.09.27 | [코드와 에이전트로 제어하는 멀티모달 자동화 생태계](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%99%9C%EC%9A%A9-2026-09-27) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.09.27 | [자율 에이전트의 병목을 돌파하는 계층적 분업과 최적화](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-09-27) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.09.27 | [[C++ 74] - 클래스 템플릿의 특수화와 상속](https://velog.io/@gyulari/C-74-%ED%81%B4%EB%9E%98%EC%8A%A4-%ED%85%9C%ED%94%8C%EB%A6%BF%EC%9D%98-%ED%8A%B9%EC%88%98%ED%99%94%EC%99%80-%EC%83%81%EC%86%8D) | [@gyulari](https://velog.io/@gyulari) |
-| 2026.09.27 | [[Spring 기본] 순수 Java로 회원·주문 도메인 구현하기 - 역할과 구현, 테스트까지](https://velog.io/@philbae0/Spring-%EA%B0%95%EC%9D%98-%EC%88%9C%EC%88%98-Java%EB%A1%9C-%ED%9A%8C%EC%9B%90%EC%A3%BC%EB%AC%B8-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-%EC%97%AD%ED%95%A0%EA%B3%BC-%EA%B5%AC%ED%98%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B9%8C%EC%A7%80) | [@philbae0](https://velog.io/@philbae0) |
+| 2026.09.27 | [논문스터디 - Reflexion: Language Agents with Verbal Reinforcement Learning](https://velog.io/@kimdappi/%EB%85%BC%EB%AC%B8%EC%8A%A4%ED%84%B0%EB%94%94-Reflexion-Language-Agents-with-Verbal-Reinforcement-Learning) | [@kimdappi](https://velog.io/@kimdappi) |
+| 2026.09.27 | [[프로그래머스] 70128 - 내적](https://velog.io/@dkegldh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-70128-%EB%82%B4%EC%A0%81) | [@dkegldh](https://velog.io/@dkegldh) |
+| 2026.09.27 | [[System Design] OLTP vs OLAP](https://velog.io/@elin16/System-Design-OLTP-vs-OLAP) | [@elin16](https://velog.io/@elin16) |
+| 2026.09.27 | [[C++ 77] - 변수 템플릿(variable template)](https://velog.io/@gyulari/C-77-%EB%B3%80%EC%88%98-%ED%85%9C%ED%94%8C%EB%A6%BFvariable-template) | [@gyulari](https://velog.io/@gyulari) |
+| 2026.09.27 | [[프로그래머스] 12948 - 핸드폰 번호 가리기](https://velog.io/@dkegldh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12948-%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EA%B0%80%EB%A6%AC%EA%B8%B0) | [@dkegldh](https://velog.io/@dkegldh) |
+| 2026.09.27 | [[Daon 개발기 #2] 위기 탐지 게이트](https://velog.io/@sjmn-zip/Daon-%EA%B0%9C%EB%B0%9C%EA%B8%B0-2-%EC%9C%84%EA%B8%B0-%ED%83%90%EC%A7%80-%EA%B2%8C%EC%9D%B4%ED%8A%B8) | [@sjmn-zip](https://velog.io/@sjmn-zip) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
