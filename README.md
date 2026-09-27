@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.27 | [논문스터디 - Reflexion: Language Agents with Verbal Reinforcement Learning](https://velog.io/@kimdappi/%EB%85%BC%EB%AC%B8%EC%8A%A4%ED%84%B0%EB%94%94-Reflexion-Language-Agents-with-Verbal-Reinforcement-Learning) | [@kimdappi](https://velog.io/@kimdappi) |
-| 2026.09.27 | [[프로그래머스] 70128 - 내적](https://velog.io/@dkegldh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-70128-%EB%82%B4%EC%A0%81) | [@dkegldh](https://velog.io/@dkegldh) |
-| 2026.09.27 | [[System Design] OLTP vs OLAP](https://velog.io/@elin16/System-Design-OLTP-vs-OLAP) | [@elin16](https://velog.io/@elin16) |
-| 2026.09.27 | [[C++ 77] - 변수 템플릿(variable template)](https://velog.io/@gyulari/C-77-%EB%B3%80%EC%88%98-%ED%85%9C%ED%94%8C%EB%A6%BFvariable-template) | [@gyulari](https://velog.io/@gyulari) |
-| 2026.09.27 | [[프로그래머스] 12948 - 핸드폰 번호 가리기](https://velog.io/@dkegldh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12948-%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EA%B0%80%EB%A6%AC%EA%B8%B0) | [@dkegldh](https://velog.io/@dkegldh) |
-| 2026.09.27 | [[Daon 개발기 #2] 위기 탐지 게이트](https://velog.io/@sjmn-zip/Daon-%EA%B0%9C%EB%B0%9C%EA%B8%B0-2-%EC%9C%84%EA%B8%B0-%ED%83%90%EC%A7%80-%EA%B2%8C%EC%9D%B4%ED%8A%B8) | [@sjmn-zip](https://velog.io/@sjmn-zip) |
+| 2026.09.27 | [[ECB CBC WTF] write-up](https://velog.io/@dltldus2005/ECB-CBC-WTF-write-up) | [@dltldus2005](https://velog.io/@dltldus2005) |
+| 2026.09.27 | [[분반 세션] AWS+Docker(1) 세션](https://velog.io/@hufsglobal/%EB%B6%84%EB%B0%98-%EC%84%B8%EC%85%98-%ED%95%9C%EA%B5%AD%EC%99%B8%EB%8C%80%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC) | [@hufsglobal](https://velog.io/@hufsglobal) |
+| 2026.09.27 | [3.6 기울기 소실과 폭주](https://velog.io/@aynan030/3.6-%EA%B8%B0%EC%9A%B8%EA%B8%B0-%EC%86%8C%EC%8B%A4%EA%B3%BC-%ED%8F%AD%EC%A3%BC) | [@aynan030](https://velog.io/@aynan030) |
+| 2026.09.27 | [3.5 과적합을 막는 방법들](https://velog.io/@aynan030/3.5-%EA%B3%BC%EC%A0%81%ED%95%A9%EC%9D%84-%EB%A7%89%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4) | [@aynan030](https://velog.io/@aynan030) |
+| 2026.09.27 | [3.4 다층 퍼셉트론으로 손글씨 분류하기](https://velog.io/@aynan030/3.4-%EB%8B%A4%EC%B8%B5-%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%EC%9C%BC%EB%A1%9C-%EC%86%90%EA%B8%80%EC%94%A8-%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0) | [@aynan030](https://velog.io/@aynan030) |
+| 2026.09.27 | [Jev 란? - [AI Model]](https://velog.io/@navy22-anchor/Jev-%EB%9E%80-AI-Model) | [@navy22-anchor](https://velog.io/@navy22-anchor) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
