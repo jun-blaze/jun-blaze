@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.27 | [[ECB CBC WTF] write-up](https://velog.io/@dltldus2005/ECB-CBC-WTF-write-up) | [@dltldus2005](https://velog.io/@dltldus2005) |
-| 2026.09.27 | [[분반 세션] AWS+Docker(1) 세션](https://velog.io/@hufsglobal/%EB%B6%84%EB%B0%98-%EC%84%B8%EC%85%98-%ED%95%9C%EA%B5%AD%EC%99%B8%EB%8C%80%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC) | [@hufsglobal](https://velog.io/@hufsglobal) |
-| 2026.09.27 | [3.6 기울기 소실과 폭주](https://velog.io/@aynan030/3.6-%EA%B8%B0%EC%9A%B8%EA%B8%B0-%EC%86%8C%EC%8B%A4%EA%B3%BC-%ED%8F%AD%EC%A3%BC) | [@aynan030](https://velog.io/@aynan030) |
-| 2026.09.27 | [3.5 과적합을 막는 방법들](https://velog.io/@aynan030/3.5-%EA%B3%BC%EC%A0%81%ED%95%A9%EC%9D%84-%EB%A7%89%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4) | [@aynan030](https://velog.io/@aynan030) |
-| 2026.09.27 | [3.4 다층 퍼셉트론으로 손글씨 분류하기](https://velog.io/@aynan030/3.4-%EB%8B%A4%EC%B8%B5-%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%EC%9C%BC%EB%A1%9C-%EC%86%90%EA%B8%80%EC%94%A8-%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0) | [@aynan030](https://velog.io/@aynan030) |
-| 2026.09.27 | [Jev 란? - [AI Model]](https://velog.io/@navy22-anchor/Jev-%EB%9E%80-AI-Model) | [@navy22-anchor](https://velog.io/@navy22-anchor) |
+| 2026.09.28 | [클링(Kling) 4.0 프리뷰 화면 유출…30초 생성·키프레임 10개, AI 영상 '감독 시대' 성큼](https://velog.io/@aiinsider1bd/%ED%81%B4%EB%A7%81Kling-4.0-%ED%94%84%EB%A6%AC%EB%B7%B0-%ED%99%94%EB%A9%B4-%EC%9C%A0%EC%B6%9C30%EC%B4%88-%EC%83%9D%EC%84%B1%ED%82%A4%ED%94%84%EB%A0%88%EC%9E%84-10%EA%B0%9C-AI-%EC%98%81%EC%83%81-%EA%B0%90%EB%8F%85-%EC%8B%9C%EB%8C%80-%EC%84%B1%ED%81%BC) | [@aiinsider1bd](https://velog.io/@aiinsider1bd) |
+| 2026.09.28 | [동시성 vs 병행성](https://velog.io/@niki8533/%EB%8F%99%EC%8B%9C%EC%84%B1-vs-%EB%B3%91%ED%96%89%EC%84%B1) | [@niki8533](https://velog.io/@niki8533) |
+| 2026.09.28 | [종합Project(ACE) - 발급부분 - 5 - 초기 convention세팅(git hook )](https://velog.io/@jungchoi1/%EC%A2%85%ED%95%A9ProjectACE-%EB%B0%9C%EA%B8%89%EB%B6%80%EB%B6%84-5-%EC%B4%88%EA%B8%B0-convention%EC%84%B8%ED%8C%85git-hook) | [@jungchoi1](https://velog.io/@jungchoi1) |
+| 2026.09.28 | [[부트캠프 회고] TypeScript 고급 문법부터 React·Express 적용까지 한 흐름으로 이해하기](https://velog.io/@yangjoonwon/%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-%ED%9A%8C%EA%B3%A0-TypeScript-%EA%B3%A0%EA%B8%89-%EB%AC%B8%EB%B2%95%EB%B6%80%ED%84%B0-ReactExpress-%EC%A0%81%EC%9A%A9%EA%B9%8C%EC%A7%80-%ED%95%9C-%ED%9D%90%EB%A6%84%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@yangjoonwon](https://velog.io/@yangjoonwon) |
+| 2026.09.28 | [Samsung Cloud Platform[Terraform]: 실습 - Terraform 설치 + Provider 설정 + VPC 생성](https://velog.io/@moonabcd/Samsung-Cloud-PlatformTerraform-%EC%8B%A4%EC%8A%B5-Terraform-%EC%84%A4%EC%B9%98-Provider-%EC%84%A4%EC%A0%95-VPC-%EC%83%9D%EC%84%B1) | [@moonabcd](https://velog.io/@moonabcd) |
+| 2026.09.28 | [Amazon SQS와 SNS 정리](https://velog.io/@jennie-infra/Amazon-SQS%EC%99%80-SNS-%EC%A0%95%EB%A6%AC) | [@jennie-infra](https://velog.io/@jennie-infra) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
