@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.28 | [알고리즘 이론 공부 - Tree](https://velog.io/@wlalsgur1226/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EB%A1%A0-%EA%B3%B5%EB%B6%80-Tree) | [@wlalsgur1226](https://velog.io/@wlalsgur1226) |
-| 2026.09.28 | [[Pwnable Study] 2. 리버싱 기초](https://velog.io/@panorama/Pwnable-Study-2.-%EB%A6%AC%EB%B2%84%EC%8B%B1-%EA%B8%B0%EC%B4%88) | [@panorama](https://velog.io/@panorama) |
-| 2026.09.28 | [석유 및 가스 제조 시장 규모, 성장 및 전망 (2026~2034년)](https://velog.io/@fortune_26/%EC%84%9D%EC%9C%A0-%EB%B0%8F-%EA%B0%80%EC%8A%A4-%EC%A0%9C%EC%A1%B0-%EC%8B%9C%EC%9E%A5-%EA%B7%9C%EB%AA%A8-%EC%84%B1%EC%9E%A5-%EB%B0%8F-%EC%A0%84%EB%A7%9D-20262034%EB%85%84) | [@fortune_26](https://velog.io/@fortune_26) |
-| 2026.09.28 | [우리는 자격이 안 됐다](https://velog.io/@dodokim_lab/what-i-actually-wanted) | [@dodokim_lab](https://velog.io/@dodokim_lab) |
-| 2026.09.28 | [[과제] CH2 커머스](https://velog.io/@myhyeoeo/%EA%B3%BC%EC%A0%9C-CH2-%EC%BB%A4%EB%A8%B8%EC%8A%A4) | [@myhyeoeo](https://velog.io/@myhyeoeo) |
-| 2026.09.28 | [TIL \| 클래스 객체 이해와 JVM heap 구조 [26.09.22]](https://velog.io/@datamong/TIL-%ED%81%B4%EB%9E%98%EC%8A%A4-%EA%B0%9D%EC%B2%B4-%EC%9D%B4%ED%95%B4%EC%99%80-JVM-heap-%EA%B5%AC%EC%A1%B0-26.09.22) | [@datamong](https://velog.io/@datamong) |
+| 2026.09.29 | [오픈AI, 코드명 'o' 상시 구동 AI 비서 공개 임박…메타 '뮤즈' 정조준](https://velog.io/@bbzjun/%EC%98%A4%ED%94%88ai-%EC%BD%94%EB%93%9C%EB%AA%85-o-%EC%83%81%EC%8B%9C-%EA%B5%AC%EB%8F%99-ai-%EB%B9%84%EC%84%9C-%EA%B3%B5%EA%B0%9C-%EC%9E%84%EB%B0%95%EB%A9%94%ED%83%80-%EB%AE%A4%EC%A6%88-%EC%A0%95%EC%A1%B0%EC%A4%80-2026-09-28) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.09.29 | [개인비서 AI 스타트업 '인스팅트', 한달 만에 몸값 4배 뛰어 10조원대 시리즈C 유치](https://velog.io/@bbzjun/%EA%B0%9C%EC%9D%B8%EB%B9%84%EC%84%9C-ai-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%9D%B8%EC%8A%A4%ED%8C%85%ED%8A%B8-%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%97%90-%EB%AA%B8%EA%B0%92-4%EB%B0%B0-%EB%9B%B0%EC%96%B4-10%EC%A1%B0%EC%9B%90%EB%8C%80-%EC%8B%9C%EB%A6%AC%EC%A6%88c-%EC%9C%A0%EC%B9%98-2026-09-28) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.09.29 | [메타, '뮤즈' 앞세워 기업용 AI 시장 정조준…몽고DB 前 CEO 영입해 새 사업부 출범](https://velog.io/@bbzjun/%EB%A9%94%ED%83%80-%EB%AE%A4%EC%A6%88-%EC%95%9E%EC%84%B8%EC%9B%8C-%EA%B8%B0%EC%97%85%EC%9A%A9-ai-%EC%8B%9C%EC%9E%A5-%EC%A0%95%EC%A1%B0%EC%A4%80%EB%AA%BD%EA%B3%A0db-%E5%89%8D-ceo-%EC%98%81%EC%9E%85%ED%95%B4-%EC%83%88-%EC%82%AC%EC%97%85%EB%B6%80-%EC%B6%9C%EB%B2%94-2026-09-28) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.09.29 | [26S29c](https://velog.io/@youngkyoo_kim/26S29c) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.09.29 | [26S29b](https://velog.io/@youngkyoo_kim/26S29b) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.09.29 | [26S29a](https://velog.io/@youngkyoo_kim/26S29a) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
