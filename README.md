@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.28 | [L2(Data Link Layer)와 L3(Network Layer)의 차이](https://velog.io/@seulgi90/L2Data-Link-Layer%EC%99%80-L3Network-Layer%EC%9D%98-%EC%B0%A8%EC%9D%B4) | [@seulgi90](https://velog.io/@seulgi90) |
-| 2026.09.28 | [구현 시작_ 개발환경 셋팅](https://velog.io/@yx_vin/%EA%B5%AC%ED%98%84-%EC%8B%9C%EC%9E%91-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%85%8B%ED%8C%85) | [@yx_vin](https://velog.io/@yx_vin) |
-| 2026.09.28 | [ChatGPT한테 "다운로드 폴더 정리해줘" 했더니 진짜 내 Mac에서 정리됐다 (MCP로 만든 BCD)](https://velog.io/@mikey9220/ChatGPT%ED%95%9C%ED%85%8C-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%ED%8F%B4%EB%8D%94-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%98-%ED%96%88%EB%8D%94%EB%8B%88-%EC%A7%84%EC%A7%9C-%EB%82%B4-Mac%EC%97%90%EC%84%9C-%EC%A0%95%EB%A6%AC%EB%90%90%EB%8B%A4-MCP%EB%A1%9C-%EB%A7%8C%EB%93%A0-BCD) | [@mikey9220](https://velog.io/@mikey9220) |
-| 2026.09.28 | [LLAVA - Visual Instruction Tuning (NeurIPS 2023)](https://velog.io/@onpo/LLAVA-Visual-Instruction-Tuning) | [@onpo](https://velog.io/@onpo) |
-| 2026.09.28 | [[Ubuntu 26.04] Greenbone OpenVAS 설치](https://velog.io/@mimic1995/Ubuntu-26.04-Greenbone-OpenVAS-%EC%84%A4%EC%B9%98) | [@mimic1995](https://velog.io/@mimic1995) |
-| 2026.09.28 | [Kafka랑 YARN 중에 고르는 줄 알았다 — 서비스 뒤의 구조를 알아가는 중](https://velog.io/@hyunsik97/Kafka%EB%9E%91-YARN-%EC%A4%91%EC%97%90-%EA%B3%A0%EB%A5%B4%EB%8A%94-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%92%A4%EC%9D%98-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EA%B0%80%EB%8A%94-%EC%A4%91) | [@hyunsik97](https://velog.io/@hyunsik97) |
+| 2026.09.28 | [알고리즘 이론 공부 - Tree](https://velog.io/@wlalsgur1226/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EB%A1%A0-%EA%B3%B5%EB%B6%80-Tree) | [@wlalsgur1226](https://velog.io/@wlalsgur1226) |
+| 2026.09.28 | [[Pwnable Study] 2. 리버싱 기초](https://velog.io/@panorama/Pwnable-Study-2.-%EB%A6%AC%EB%B2%84%EC%8B%B1-%EA%B8%B0%EC%B4%88) | [@panorama](https://velog.io/@panorama) |
+| 2026.09.28 | [석유 및 가스 제조 시장 규모, 성장 및 전망 (2026~2034년)](https://velog.io/@fortune_26/%EC%84%9D%EC%9C%A0-%EB%B0%8F-%EA%B0%80%EC%8A%A4-%EC%A0%9C%EC%A1%B0-%EC%8B%9C%EC%9E%A5-%EA%B7%9C%EB%AA%A8-%EC%84%B1%EC%9E%A5-%EB%B0%8F-%EC%A0%84%EB%A7%9D-20262034%EB%85%84) | [@fortune_26](https://velog.io/@fortune_26) |
+| 2026.09.28 | [우리는 자격이 안 됐다](https://velog.io/@dodokim_lab/what-i-actually-wanted) | [@dodokim_lab](https://velog.io/@dodokim_lab) |
+| 2026.09.28 | [[과제] CH2 커머스](https://velog.io/@myhyeoeo/%EA%B3%BC%EC%A0%9C-CH2-%EC%BB%A4%EB%A8%B8%EC%8A%A4) | [@myhyeoeo](https://velog.io/@myhyeoeo) |
+| 2026.09.28 | [TIL \| 클래스 객체 이해와 JVM heap 구조 [26.09.22]](https://velog.io/@datamong/TIL-%ED%81%B4%EB%9E%98%EC%8A%A4-%EA%B0%9D%EC%B2%B4-%EC%9D%B4%ED%95%B4%EC%99%80-JVM-heap-%EA%B5%AC%EC%A1%B0-26.09.22) | [@datamong](https://velog.io/@datamong) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
