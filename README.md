@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.28 | [AI 뉴스 소비를 멈추고 세일즈를 익혀야 하는 이유](https://velog.io/@sdm77/%EA%B8%B0%ED%83%80-2026-09-28) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.09.28 | [상시 구동 에이전트와 초고속 추론 인프라가 여는 새 국면](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-09-28) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.09.28 | [텍스트 생성을 넘어 초고속 구조화 의사결정으로](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-09-28) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.09.28 | [단일 스트림으로 통합된 실시간 AI 아바타 아키텍처](https://velog.io/@sdm77/llm-%EC%95%B1rag-%EA%B5%AC%ED%98%84-2026-09-28) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.09.28 | [[PostgreSQL 12/12] 업무 DB에서 RAG까지: PGMQ·문서 버전·하이브리드 검색](https://velog.io/@goleta413/postgresql-12-rag-pgmq-hybrid-search) | [@goleta413](https://velog.io/@goleta413) |
-| 2026.09.28 | [[PostgreSQL 11/12] pgvector의 HNSW·IVFFlat: 정확도와 탐색 비용](https://velog.io/@goleta413/postgresql-11-pgvector-hnsw-ivfflat) | [@goleta413](https://velog.io/@goleta413) |
+| 2026.09.28 | [L2(Data Link Layer)와 L3(Network Layer)의 차이](https://velog.io/@seulgi90/L2Data-Link-Layer%EC%99%80-L3Network-Layer%EC%9D%98-%EC%B0%A8%EC%9D%B4) | [@seulgi90](https://velog.io/@seulgi90) |
+| 2026.09.28 | [구현 시작_ 개발환경 셋팅](https://velog.io/@yx_vin/%EA%B5%AC%ED%98%84-%EC%8B%9C%EC%9E%91-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%85%8B%ED%8C%85) | [@yx_vin](https://velog.io/@yx_vin) |
+| 2026.09.28 | [ChatGPT한테 "다운로드 폴더 정리해줘" 했더니 진짜 내 Mac에서 정리됐다 (MCP로 만든 BCD)](https://velog.io/@mikey9220/ChatGPT%ED%95%9C%ED%85%8C-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%ED%8F%B4%EB%8D%94-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%98-%ED%96%88%EB%8D%94%EB%8B%88-%EC%A7%84%EC%A7%9C-%EB%82%B4-Mac%EC%97%90%EC%84%9C-%EC%A0%95%EB%A6%AC%EB%90%90%EB%8B%A4-MCP%EB%A1%9C-%EB%A7%8C%EB%93%A0-BCD) | [@mikey9220](https://velog.io/@mikey9220) |
+| 2026.09.28 | [LLAVA - Visual Instruction Tuning (NeurIPS 2023)](https://velog.io/@onpo/LLAVA-Visual-Instruction-Tuning) | [@onpo](https://velog.io/@onpo) |
+| 2026.09.28 | [[Ubuntu 26.04] Greenbone OpenVAS 설치](https://velog.io/@mimic1995/Ubuntu-26.04-Greenbone-OpenVAS-%EC%84%A4%EC%B9%98) | [@mimic1995](https://velog.io/@mimic1995) |
+| 2026.09.28 | [Kafka랑 YARN 중에 고르는 줄 알았다 — 서비스 뒤의 구조를 알아가는 중](https://velog.io/@hyunsik97/Kafka%EB%9E%91-YARN-%EC%A4%91%EC%97%90-%EA%B3%A0%EB%A5%B4%EB%8A%94-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%92%A4%EC%9D%98-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EA%B0%80%EB%8A%94-%EC%A4%91) | [@hyunsik97](https://velog.io/@hyunsik97) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
