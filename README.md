@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.29 | [[TIL] 26/09/29 - JVM](https://velog.io/@myhyeoeo/TIL-260929-JVM) | [@myhyeoeo](https://velog.io/@myhyeoeo) |
-| 2026.09.29 | [에러 한 줄 없이 SSH가 죽던 노드 3대 — 원인은 rp_filter였습니다](https://velog.io/@maxhwang24/%EC%97%90%EB%9F%AC-%ED%95%9C-%EC%A4%84-%EC%97%86%EC%9D%B4-SSH%EA%B0%80-%EC%A3%BD%EB%8D%98-%EB%85%B8%EB%93%9C-3%EB%8C%80-%EC%9B%90%EC%9D%B8%EC%9D%80-rpfilter%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4) | [@maxhwang24](https://velog.io/@maxhwang24) |
+| 2026.09.30 | [스스로 일하고, 함께 일하는 훅](https://velog.io/@vlmbuyd/%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%9D%BC%ED%95%98%EA%B3%A0-%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EB%8A%94-%ED%9B%85) | [@vlmbuyd](https://velog.io/@vlmbuyd) |
+| 2026.09.30 | [[Next.js] 공식 튜토리얼 진행 중 마주친 개념 정리 & 트러블슈팅 일지](https://velog.io/@tpgus72513/Next.js-%EA%B3%B5%EC%8B%9D-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EC%A7%84%ED%96%89-%EC%A4%91-%EB%A7%88%EC%A3%BC%EC%B9%9C-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-%EC%9D%BC%EC%A7%80) | [@tpgus72513](https://velog.io/@tpgus72513) |
+| 2026.09.30 | [26S30k](https://velog.io/@youngkyoo_kim/26S30k) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.09.30 | [[69일차]  텍스트 벡터화와 RNN 시계열 예측](https://velog.io/@j_keun/69%EC%9D%BC%EC%B0%A8-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%B2%A1%ED%84%B0%ED%99%94%EC%99%80-RNN-%EC%8B%9C%EA%B3%84%EC%97%B4-%EC%98%88%EC%B8%A1) | [@j_keun](https://velog.io/@j_keun) |
 | 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 | 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
