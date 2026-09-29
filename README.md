@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.29 | [오픈AI, 코드명 'o' 상시 구동 AI 비서 공개 임박…메타 '뮤즈' 정조준](https://velog.io/@bbzjun/%EC%98%A4%ED%94%88ai-%EC%BD%94%EB%93%9C%EB%AA%85-o-%EC%83%81%EC%8B%9C-%EA%B5%AC%EB%8F%99-ai-%EB%B9%84%EC%84%9C-%EA%B3%B5%EA%B0%9C-%EC%9E%84%EB%B0%95%EB%A9%94%ED%83%80-%EB%AE%A4%EC%A6%88-%EC%A0%95%EC%A1%B0%EC%A4%80-2026-09-28) | [@bbzjun](https://velog.io/@bbzjun) |
-| 2026.09.29 | [개인비서 AI 스타트업 '인스팅트', 한달 만에 몸값 4배 뛰어 10조원대 시리즈C 유치](https://velog.io/@bbzjun/%EA%B0%9C%EC%9D%B8%EB%B9%84%EC%84%9C-ai-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%9D%B8%EC%8A%A4%ED%8C%85%ED%8A%B8-%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%97%90-%EB%AA%B8%EA%B0%92-4%EB%B0%B0-%EB%9B%B0%EC%96%B4-10%EC%A1%B0%EC%9B%90%EB%8C%80-%EC%8B%9C%EB%A6%AC%EC%A6%88c-%EC%9C%A0%EC%B9%98-2026-09-28) | [@bbzjun](https://velog.io/@bbzjun) |
-| 2026.09.29 | [메타, '뮤즈' 앞세워 기업용 AI 시장 정조준…몽고DB 前 CEO 영입해 새 사업부 출범](https://velog.io/@bbzjun/%EB%A9%94%ED%83%80-%EB%AE%A4%EC%A6%88-%EC%95%9E%EC%84%B8%EC%9B%8C-%EA%B8%B0%EC%97%85%EC%9A%A9-ai-%EC%8B%9C%EC%9E%A5-%EC%A0%95%EC%A1%B0%EC%A4%80%EB%AA%BD%EA%B3%A0db-%E5%89%8D-ceo-%EC%98%81%EC%9E%85%ED%95%B4-%EC%83%88-%EC%82%AC%EC%97%85%EB%B6%80-%EC%B6%9C%EB%B2%94-2026-09-28) | [@bbzjun](https://velog.io/@bbzjun) |
-| 2026.09.29 | [26S29c](https://velog.io/@youngkyoo_kim/26S29c) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.09.29 | [26S29b](https://velog.io/@youngkyoo_kim/26S29b) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.09.29 | [26S29a](https://velog.io/@youngkyoo_kim/26S29a) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.09.29 | [DAY 22. 디지털 화면 설계 기초](https://velog.io/@ran032415/DAY-22) | [@ran032415](https://velog.io/@ran032415) |
+| 2026.09.29 | [고스트 CMS 다국어 블로그: 3. Language selector 추가](https://velog.io/@sanghunkang/multilingual-ghost-cms-3-language-selector-ko) | [@sanghunkang](https://velog.io/@sanghunkang) |
+| 2026.09.29 | [[Next.js] 1장_09.29](https://velog.io/@gogohyunjin/Next.js-1%EC%9E%A509.29) | [@gogohyunjin](https://velog.io/@gogohyunjin) |
+| 2026.09.29 | [01. 타이포의 힘](https://velog.io/@ran032415/01.-%ED%83%80%EC%9D%B4%ED%8F%AC%EC%9D%98-%ED%9E%98) | [@ran032415](https://velog.io/@ran032415) |
+| 2026.09.29 | [(다크호스)(모든파워볼다있음)(단폴더무제재)(최대당첨금2천만)(플레이홀덤)](https://velog.io/@mot597346/%EB%8B%A4%ED%81%AC%ED%98%B8%EC%8A%A4%EB%AA%A8%EB%93%A0%ED%8C%8C%EC%9B%8C%EB%B3%BC%EB%8B%A4%EC%9E%88%EC%9D%8C%EB%8B%A8%ED%8F%B4%EB%8D%94%EB%AC%B4%EC%A0%9C%EC%9E%AC%EC%B5%9C%EB%8C%80%EB%8B%B9%EC%B2%A8%EA%B8%882%EC%B2%9C%EB%A7%8C%ED%94%8C%EB%A0%88%EC%9D%B4%ED%99%80%EB%8D%A4-9flaowm3) | [@mot597346](https://velog.io/@mot597346) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
