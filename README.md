@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
-| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
-| 2026.02.03 | [조선개발실록 - 제6화: 기룡지술 (騎龍之術)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C6%ED%99%94-%EA%B8%B0%EB%A3%A1%EC%A7%80%EC%88%A0-%E9%A8%8E%E9%BE%8D%E4%B9%8B%E8%A1%93-l6pjn8jj) | [@teo](https://velog.io/@teo) |
+| 2026.10.01 | [[리눅스] 프로그램 설치 명령 dpkg](https://velog.io/@chianddo223/%EB%A6%AC%EB%88%85%EC%8A%A4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98-%EB%AA%85%EB%A0%B9-dpkg) | [@chianddo223](https://velog.io/@chianddo223) |
+| 2026.10.01 | [HTML/CSS/JS 스터디 세션 후기](https://velog.io/@segretoo/HTMLCSSJS-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%84%B8%EC%85%98-%ED%9B%84%EA%B8%B0) | [@segretoo](https://velog.io/@segretoo) |
+| 2026.10.01 | [깃허브 pull 받고 라이브러리 error 해결 안 될 때](https://velog.io/@dddddabin/%EA%B9%83%ED%97%88%EB%B8%8C-pull-%EB%B0%9B%EA%B3%A0-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-error-%ED%95%B4%EA%B2%B0-%EC%95%88-%EB%90%A0-%EB%95%8C) | [@dddddabin](https://velog.io/@dddddabin) |
+| 2026.10.01 | [성분핏 개요](https://velog.io/@segretoo/%EC%84%B1%EB%B6%84%ED%95%8F-%EA%B0%9C%EC%9A%94) | [@segretoo](https://velog.io/@segretoo) |
+| 2026.10.01 | [[넓얕컴지 #8] TypeScript: JavaScript에 타입을 더하면 무엇이 달라질까](https://velog.io/@lareina7486/%EB%84%93%EC%96%95%EC%BB%B4%EC%A7%80-8-TypeScript-JavaScript%EC%97%90-%ED%83%80%EC%9E%85%EC%9D%84-%EB%8D%94%ED%95%98%EB%A9%B4-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%AC%EB%9D%BC%EC%A7%88%EA%B9%8C) | [@lareina7486](https://velog.io/@lareina7486) |
+| 2026.10.01 | [[넓얕컴지 #7] JavaScript ③ 비동기는 어떻게 실행될까: Promise, 이벤트 루프, Node.js와 Stream](https://velog.io/@lareina7486/%EB%84%93%EC%96%95%EC%BB%B4%EC%A7%80-7-JavaScript-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89%EB%90%A0%EA%B9%8C-Promise-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84-Node.js%EC%99%80-Stream) | [@lareina7486](https://velog.io/@lareina7486) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
