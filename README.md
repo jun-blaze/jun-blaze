@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.09.30 | [혼자공부하는 네트워크 복습 DAY1](https://velog.io/@pingu_122/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%B5%EC%8A%B5-DAY1-tnr33lwa) | [@pingu_122](https://velog.io/@pingu_122) |
-| 2026.09.30 | [매일 1% 성장하기 DAY-29](https://velog.io/@pingu_122/%EB%A7%A4%EC%9D%BC-1-%EC%84%B1%EC%9E%A5%ED%95%98%EA%B8%B0-DAY-29) | [@pingu_122](https://velog.io/@pingu_122) |
-| 2026.09.30 | [[프로그래머스/JAVA] 모의고사](https://velog.io/@threejjj333/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC) | [@threejjj333](https://velog.io/@threejjj333) |
-| 2026.09.30 | [[넓얕컴지 #6] JavaScript ② 객체는 어떻게 동작할까: 프로토타입, 클래스, 배열, 이터러블과 모듈](https://velog.io/@lareina7486/%EB%84%93%EC%96%95%EC%BB%B4%EC%A7%80-6-JavaScript-%EA%B0%9D%EC%B2%B4%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%A0%EA%B9%8C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%B0%B0%EC%97%B4-%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94%EA%B3%BC-%EB%AA%A8%EB%93%88) | [@lareina7486](https://velog.io/@lareina7486) |
-| 2026.09.30 | [[이음] `getRemoteAddr()`는 왜 운영에서 틀렸을까? HMAC으로 공인 IP를 검증하기](https://velog.io/@jjuwoni/%EC%9D%B4%EC%9D%8C-getRemoteAddr%EB%8A%94-%EC%99%9C-%EC%9A%B4%EC%98%81%EC%97%90%EC%84%9C-%ED%8B%80%EB%A0%B8%EC%9D%84%EA%B9%8C-HMAC%EC%9C%BC%EB%A1%9C-%EA%B3%B5%EC%9D%B8-IP%EB%A5%BC-%EA%B2%80%EC%A6%9D%ED%95%98%EA%B8%B0) | [@jjuwoni](https://velog.io/@jjuwoni) |
-| 2026.09.30 | [SVM](https://velog.io/@02yena03/SVM-61o46ucx) | [@02yena03](https://velog.io/@02yena03) |
+| 2026.09.30 | [네트워크: IP는 되는데 도메인은 안 될 때](https://velog.io/@hyeonminee/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-IP%EB%8A%94-%EB%90%98%EB%8A%94%EB%8D%B0-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%80-%EC%95%88-%EB%90%A0-%EB%95%8C) | [@hyeonminee](https://velog.io/@hyeonminee) |
+| 2026.09.30 | [((원데이)) 핸디캡/언더오버 연장미포함 \| 무기명 테더가입가능](https://velog.io/@meo1212/%EC%9B%90%EB%8D%B0%EC%9D%B4-%ED%95%B8%EB%94%94%EC%BA%A1%EC%96%B8%EB%8D%94%EC%98%A4%EB%B2%84-%EC%97%B0%EC%9E%A5%EB%AF%B8%ED%8F%AC%ED%95%A8-%EB%AC%B4%EA%B8%B0%EB%AA%85-%ED%85%8C%EB%8D%94%EA%B0%80%EC%9E%85%EA%B0%80%EB%8A%A5-4wh9xmxk) | [@meo1212](https://velog.io/@meo1212) |
+| 2026.09.30 | [[Java] 프로그래머스 2단계: 올바른 괄호](https://velog.io/@kn9012/Java-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-2%EB%8B%A8%EA%B3%84-%EC%98%AC%EB%B0%94%EB%A5%B8-%EA%B4%84%ED%98%B8) | [@kn9012](https://velog.io/@kn9012) |
+| 2026.09.30 | [Robotics - roboarm(2)](https://velog.io/@quesiman/Robotics-roboarm2) | [@quesiman](https://velog.io/@quesiman) |
+| 2026.09.30 | [#02 Quality Engineering in AI](https://velog.io/@newnha/02-Quality-Engineering-in-AI) | [@newnha](https://velog.io/@newnha) |
+| 2026.09.30 | [CISC-S'26 한국정보보호학회 하계학술대회](https://velog.io/@tae_me/CISC-S26-%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%ED%9A%8C-%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C) | [@tae_me](https://velog.io/@tae_me) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
