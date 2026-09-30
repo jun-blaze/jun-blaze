@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.01 | [[리눅스] 프로그램 설치 명령 dpkg](https://velog.io/@chianddo223/%EB%A6%AC%EB%88%85%EC%8A%A4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98-%EB%AA%85%EB%A0%B9-dpkg) | [@chianddo223](https://velog.io/@chianddo223) |
-| 2026.10.01 | [HTML/CSS/JS 스터디 세션 후기](https://velog.io/@segretoo/HTMLCSSJS-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%84%B8%EC%85%98-%ED%9B%84%EA%B8%B0) | [@segretoo](https://velog.io/@segretoo) |
-| 2026.10.01 | [깃허브 pull 받고 라이브러리 error 해결 안 될 때](https://velog.io/@dddddabin/%EA%B9%83%ED%97%88%EB%B8%8C-pull-%EB%B0%9B%EA%B3%A0-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-error-%ED%95%B4%EA%B2%B0-%EC%95%88-%EB%90%A0-%EB%95%8C) | [@dddddabin](https://velog.io/@dddddabin) |
-| 2026.10.01 | [성분핏 개요](https://velog.io/@segretoo/%EC%84%B1%EB%B6%84%ED%95%8F-%EA%B0%9C%EC%9A%94) | [@segretoo](https://velog.io/@segretoo) |
-| 2026.10.01 | [[넓얕컴지 #8] TypeScript: JavaScript에 타입을 더하면 무엇이 달라질까](https://velog.io/@lareina7486/%EB%84%93%EC%96%95%EC%BB%B4%EC%A7%80-8-TypeScript-JavaScript%EC%97%90-%ED%83%80%EC%9E%85%EC%9D%84-%EB%8D%94%ED%95%98%EB%A9%B4-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%AC%EB%9D%BC%EC%A7%88%EA%B9%8C) | [@lareina7486](https://velog.io/@lareina7486) |
-| 2026.10.01 | [[넓얕컴지 #7] JavaScript ③ 비동기는 어떻게 실행될까: Promise, 이벤트 루프, Node.js와 Stream](https://velog.io/@lareina7486/%EB%84%93%EC%96%95%EC%BB%B4%EC%A7%80-7-JavaScript-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89%EB%90%A0%EA%B9%8C-Promise-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84-Node.js%EC%99%80-Stream) | [@lareina7486](https://velog.io/@lareina7486) |
+| 2026.10.01 | [에이전트를 어느 높이에서 다룰 것인가](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-01) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.01 | [데스크톱 AI와 시스템 제어 기반의 개인 생산성 자동화](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-10-01) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.01 | [맞춤형 바이브 코딩과 상시형 에이전트가 만드는 AI 생태계의 판도 변화](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%99%9C%EC%9A%A9-2026-10-01) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.01 | [예측 시장의 왜곡을 잡는 AI 초예측과 실무형 에이전트의 현주소](https://velog.io/@sdm77/llm-%EC%95%B1rag-%EA%B5%AC%ED%98%84-2026-10-01) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.01 | [에이전트와 워크플로 설계의 새로운 패러다임](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-10-01) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.01 | [로그인은 아이디와 비밀번호를 확인하는 기능이 아니다](https://velog.io/@vxdeveloper/login) | [@vxdeveloper](https://velog.io/@vxdeveloper) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
