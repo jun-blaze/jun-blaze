@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.01 | [에이전트를 어느 높이에서 다룰 것인가](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-01) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.01 | [데스크톱 AI와 시스템 제어 기반의 개인 생산성 자동화](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-10-01) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.01 | [맞춤형 바이브 코딩과 상시형 에이전트가 만드는 AI 생태계의 판도 변화](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%99%9C%EC%9A%A9-2026-10-01) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.01 | [예측 시장의 왜곡을 잡는 AI 초예측과 실무형 에이전트의 현주소](https://velog.io/@sdm77/llm-%EC%95%B1rag-%EA%B5%AC%ED%98%84-2026-10-01) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.01 | [에이전트와 워크플로 설계의 새로운 패러다임](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-10-01) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.01 | [로그인은 아이디와 비밀번호를 확인하는 기능이 아니다](https://velog.io/@vxdeveloper/login) | [@vxdeveloper](https://velog.io/@vxdeveloper) |
+| 2026.10.01 | [교육 107일차 (01/10/26): Next.js](https://velog.io/@misumisou/%EA%B5%90%EC%9C%A1-107%EC%9D%BC%EC%B0%A8-011026-Next.js) | [@misumisou](https://velog.io/@misumisou) |
+| 2026.10.01 | [[클라우드] AWS 보안: Security Group과 NACL (1)](https://velog.io/@yerinny/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-AWS-%EB%B3%B4%EC%95%88-Security-Group%EA%B3%BC-NACL-1) | [@yerinny](https://velog.io/@yerinny) |
+| 2026.10.01 | [Day2](https://velog.io/@pink-frog/Day2-vt986fdg) | [@pink-frog](https://velog.io/@pink-frog) |
+| 2026.10.01 | [Multi-Agent \| Agent 하나가 실패하면 전체 Workflow도 멈춰야 할까?](https://velog.io/@jbbdyee/Multi-Agent-Agent-%ED%95%98%EB%82%98%EA%B0%80-%EC%8B%A4%ED%8C%A8%ED%95%98%EB%A9%B4-%EC%A0%84%EC%B2%B4-Workflow%EB%8F%84-%EB%A9%88%EC%B6%B0%EC%95%BC-%ED%95%A0%EA%B9%8C) | [@jbbdyee](https://velog.io/@jbbdyee) |
+| 2026.10.01 | [2026 - 오픈소스 에이전트 프레임워크 비교하기 (1) - Agent Loop](https://velog.io/@davdabgu/2026-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-1) | [@davdabgu](https://velog.io/@davdabgu) |
+| 2026.10.01 | [[웹 보안] 관리자 이메일 발송 이력에서 발견한 Stored XSS 취약점 조치기 (feat. dangerouslySetInnerHTML의 유혹)](https://velog.io/@broyears/%EC%9B%B9-%EB%B3%B4%EC%95%88-%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%B0%9C%EC%86%A1-%EC%9D%B4%EB%A0%A5%EC%97%90%EC%84%9C-%EB%B0%9C%EA%B2%AC%ED%95%9C-Stored-XSS-%EC%B7%A8%EC%95%BD%EC%A0%90-%EC%A1%B0%EC%B9%98%EA%B8%B0-feat.-dangerouslySetInnerHTML%EC%9D%98-%EC%9C%A0%ED%98%B9) | [@broyears](https://velog.io/@broyears) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
