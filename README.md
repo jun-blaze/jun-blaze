@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.02 | [[프로그래머스] 고고학 최고의 발견](https://velog.io/@j_keun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B3%A0%EA%B3%A0%ED%95%99-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EB%B0%9C%EA%B2%AC) | [@j_keun](https://velog.io/@j_keun) |
-| 2026.10.02 | [[71일차] Transformer 구조와 AutoEncoder](https://velog.io/@j_keun/71%EC%9D%BC%EC%B0%A8-Transformer-%EA%B5%AC%EC%A1%B0%EC%99%80-AutoEncoder) | [@j_keun](https://velog.io/@j_keun) |
-| 2026.10.02 | [화면 꾸미기 및 Xcode 단축키 정리](https://velog.io/@m0olg/%ED%99%94%EB%A9%B4-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B0%8F-Xcode-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%A6%AC) | [@m0olg](https://velog.io/@m0olg) |
-| 2026.10.02 | [[Fjällräven Classic Sweden] #3. DAY 0 - 스톡홀롬에서 키루나까지](https://velog.io/@stleee/Fjllrven-Classic-Sweden-3.-DAY-0-%EC%8A%A4%ED%86%A1%ED%99%80%EB%A1%AC%EC%97%90%EC%84%9C-%ED%82%A4%EB%A3%A8%EB%82%98%EA%B9%8C%EC%A7%80) | [@stleee](https://velog.io/@stleee) |
-| 2026.10.02 | [[LG CNS AM 6기] 35일차 TIL : Microservice와와 Spring Cloud 개념](https://velog.io/@jeongun-real/LG-CNS-AM-6%EA%B8%B0-35%EC%9D%BC%EC%B0%A8-TIL-Microservice%EC%99%80%EC%99%80-Spring-Cloud-%EA%B0%9C%EB%85%90) | [@jeongun-real](https://velog.io/@jeongun-real) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.10.02 | [## 4.5 LSTM을 이용한 네이버 영화 리뷰 분류](https://velog.io/@tmdwo1016/4.5-LSTM%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%98%81%ED%99%94-%EB%A6%AC%EB%B7%B0-%EB%B6%84%EB%A5%98) | [@tmdwo1016](https://velog.io/@tmdwo1016) |
+| 2026.10.02 | [26O01e](https://velog.io/@youngkyoo_kim/26O01e) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.02 | [26O01d](https://velog.io/@youngkyoo_kim/26O01d) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.02 | [당연하게 쓰던 ‘서버’와 ‘백엔드’를 다시 이해해보기](https://velog.io/@gunuzello/%EB%8B%B9%EC%97%B0%ED%95%98%EA%B2%8C-%EC%93%B0%EB%8D%98-%EC%84%9C%EB%B2%84%EC%99%80-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EB%8B%A4%EC%8B%9C-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EA%B8%B0) | [@gunuzello](https://velog.io/@gunuzello) |
+| 2026.10.02 | [26O01c](https://velog.io/@youngkyoo_kim/26O01c) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.02 | [26O01b](https://velog.io/@youngkyoo_kim/26O01b) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
