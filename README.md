@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.01 | [교육 107일차 (01/10/26): Next.js](https://velog.io/@misumisou/%EA%B5%90%EC%9C%A1-107%EC%9D%BC%EC%B0%A8-011026-Next.js) | [@misumisou](https://velog.io/@misumisou) |
-| 2026.10.01 | [[클라우드] AWS 보안: Security Group과 NACL (1)](https://velog.io/@yerinny/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-AWS-%EB%B3%B4%EC%95%88-Security-Group%EA%B3%BC-NACL-1) | [@yerinny](https://velog.io/@yerinny) |
-| 2026.10.01 | [Day2](https://velog.io/@pink-frog/Day2-vt986fdg) | [@pink-frog](https://velog.io/@pink-frog) |
-| 2026.10.01 | [Multi-Agent \| Agent 하나가 실패하면 전체 Workflow도 멈춰야 할까?](https://velog.io/@jbbdyee/Multi-Agent-Agent-%ED%95%98%EB%82%98%EA%B0%80-%EC%8B%A4%ED%8C%A8%ED%95%98%EB%A9%B4-%EC%A0%84%EC%B2%B4-Workflow%EB%8F%84-%EB%A9%88%EC%B6%B0%EC%95%BC-%ED%95%A0%EA%B9%8C) | [@jbbdyee](https://velog.io/@jbbdyee) |
-| 2026.10.01 | [2026 - 오픈소스 에이전트 프레임워크 비교하기 (1) - Agent Loop](https://velog.io/@davdabgu/2026-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-1) | [@davdabgu](https://velog.io/@davdabgu) |
-| 2026.10.01 | [[웹 보안] 관리자 이메일 발송 이력에서 발견한 Stored XSS 취약점 조치기 (feat. dangerouslySetInnerHTML의 유혹)](https://velog.io/@broyears/%EC%9B%B9-%EB%B3%B4%EC%95%88-%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%B0%9C%EC%86%A1-%EC%9D%B4%EB%A0%A5%EC%97%90%EC%84%9C-%EB%B0%9C%EA%B2%AC%ED%95%9C-Stored-XSS-%EC%B7%A8%EC%95%BD%EC%A0%90-%EC%A1%B0%EC%B9%98%EA%B8%B0-feat.-dangerouslySetInnerHTML%EC%9D%98-%EC%9C%A0%ED%98%B9) | [@broyears](https://velog.io/@broyears) |
+| 2026.10.01 | [[내일배움캠프 사전캠프] Spring 입문주차](https://velog.io/@rkddk7165/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-%EC%82%AC%EC%A0%84%EC%BA%A0%ED%94%84-Spring-%EC%9E%85%EB%AC%B8%EC%A3%BC%EC%B0%A8) | [@rkddk7165](https://velog.io/@rkddk7165) |
+| 2026.10.01 | [[코드잇 데이터분석가 부트캠프][강의] 8일차 시각화 라이브러리 비교](https://velog.io/@kuuou_59/%EC%BD%94%EB%93%9C%EC%9E%87-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%EA%B0%95%EC%9D%98-8%EC%9D%BC%EC%B0%A8-%EC%8B%9C%EA%B0%81%ED%99%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B9%84%EA%B5%90) | [@kuuou_59](https://velog.io/@kuuou_59) |
+| 2026.10.01 | [[1일 1프로젝트] venv 버리고 uv로 갈아탄 후기](https://velog.io/@psyrod1112/1%EC%9D%BC-1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-venv-%EB%B2%84%EB%A6%AC%EA%B3%A0-uv%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-%ED%9B%84%EA%B8%B0) | [@psyrod1112](https://velog.io/@psyrod1112) |
+| 2026.10.01 | [JPA Query Method 문법 정리](https://velog.io/@uhae451/JPA-Query-Method-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC) | [@uhae451](https://velog.io/@uhae451) |
+| 2026.10.01 | [[코드잇 데이터분석가 부트캠프][강의] 7일차 전처리와 결합](https://velog.io/@kuuou_59/%EC%BD%94%EB%93%9C%EC%9E%87-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%EA%B0%95%EC%9D%98-7%EC%9D%BC%EC%B0%A8-%EC%A0%84%EC%B2%98%EB%A6%AC%EC%99%80-%EA%B2%B0%ED%95%A9) | [@kuuou_59](https://velog.io/@kuuou_59) |
+| 2026.10.01 | [[SWEA] 7465 창용 마을 무리의 개수](https://velog.io/@l-wanderer01/SWEA-7465-%EC%B0%BD%EC%9A%A9-%EB%A7%88%EC%9D%84-%EB%AC%B4%EB%A6%AC%EC%9D%98-%EA%B0%9C%EC%88%98) | [@l-wanderer01](https://velog.io/@l-wanderer01) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
