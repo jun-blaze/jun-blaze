@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.01 | [[내일배움캠프 사전캠프] Spring 입문주차](https://velog.io/@rkddk7165/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-%EC%82%AC%EC%A0%84%EC%BA%A0%ED%94%84-Spring-%EC%9E%85%EB%AC%B8%EC%A3%BC%EC%B0%A8) | [@rkddk7165](https://velog.io/@rkddk7165) |
-| 2026.10.01 | [[코드잇 데이터분석가 부트캠프][강의] 8일차 시각화 라이브러리 비교](https://velog.io/@kuuou_59/%EC%BD%94%EB%93%9C%EC%9E%87-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%EA%B0%95%EC%9D%98-8%EC%9D%BC%EC%B0%A8-%EC%8B%9C%EA%B0%81%ED%99%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B9%84%EA%B5%90) | [@kuuou_59](https://velog.io/@kuuou_59) |
-| 2026.10.01 | [[1일 1프로젝트] venv 버리고 uv로 갈아탄 후기](https://velog.io/@psyrod1112/1%EC%9D%BC-1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-venv-%EB%B2%84%EB%A6%AC%EA%B3%A0-uv%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-%ED%9B%84%EA%B8%B0) | [@psyrod1112](https://velog.io/@psyrod1112) |
-| 2026.10.01 | [JPA Query Method 문법 정리](https://velog.io/@uhae451/JPA-Query-Method-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC) | [@uhae451](https://velog.io/@uhae451) |
-| 2026.10.01 | [[코드잇 데이터분석가 부트캠프][강의] 7일차 전처리와 결합](https://velog.io/@kuuou_59/%EC%BD%94%EB%93%9C%EC%9E%87-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%EA%B0%95%EC%9D%98-7%EC%9D%BC%EC%B0%A8-%EC%A0%84%EC%B2%98%EB%A6%AC%EC%99%80-%EA%B2%B0%ED%95%A9) | [@kuuou_59](https://velog.io/@kuuou_59) |
-| 2026.10.01 | [[SWEA] 7465 창용 마을 무리의 개수](https://velog.io/@l-wanderer01/SWEA-7465-%EC%B0%BD%EC%9A%A9-%EB%A7%88%EC%9D%84-%EB%AC%B4%EB%A6%AC%EC%9D%98-%EA%B0%9C%EC%88%98) | [@l-wanderer01](https://velog.io/@l-wanderer01) |
+| 2026.10.02 | [[프로그래머스] 고고학 최고의 발견](https://velog.io/@j_keun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B3%A0%EA%B3%A0%ED%95%99-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EB%B0%9C%EA%B2%AC) | [@j_keun](https://velog.io/@j_keun) |
+| 2026.10.02 | [[71일차] Transformer 구조와 AutoEncoder](https://velog.io/@j_keun/71%EC%9D%BC%EC%B0%A8-Transformer-%EA%B5%AC%EC%A1%B0%EC%99%80-AutoEncoder) | [@j_keun](https://velog.io/@j_keun) |
+| 2026.10.02 | [화면 꾸미기 및 Xcode 단축키 정리](https://velog.io/@m0olg/%ED%99%94%EB%A9%B4-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B0%8F-Xcode-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%A6%AC) | [@m0olg](https://velog.io/@m0olg) |
+| 2026.10.02 | [[Fjällräven Classic Sweden] #3. DAY 0 - 스톡홀롬에서 키루나까지](https://velog.io/@stleee/Fjllrven-Classic-Sweden-3.-DAY-0-%EC%8A%A4%ED%86%A1%ED%99%80%EB%A1%AC%EC%97%90%EC%84%9C-%ED%82%A4%EB%A3%A8%EB%82%98%EA%B9%8C%EC%A7%80) | [@stleee](https://velog.io/@stleee) |
+| 2026.10.02 | [[LG CNS AM 6기] 35일차 TIL : Microservice와와 Spring Cloud 개념](https://velog.io/@jeongun-real/LG-CNS-AM-6%EA%B8%B0-35%EC%9D%BC%EC%B0%A8-TIL-Microservice%EC%99%80%EC%99%80-Spring-Cloud-%EA%B0%9C%EB%85%90) | [@jeongun-real](https://velog.io/@jeongun-real) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
