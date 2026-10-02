@@ -81,13 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.02 | [반복문 조건 이해하기](https://velog.io/@jun0zoo/%EB%B0%98%EB%B3%B5%EB%AC%B8-%EC%A1%B0%EA%B1%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@jun0zoo](https://velog.io/@jun0zoo) |
-| 2026.10.02 | [빌더 패턴](https://velog.io/@xevbn/%EB%B9%8C%EB%8D%94-%ED%8C%A8%ED%84%B4) | [@xevbn](https://velog.io/@xevbn) |
-| 2026.10.02 | [[인턴 9주차] Stage 0 통과, 그리고 추석_인사이드아웃 IT 인턴형 프로그램 2기](https://velog.io/@leemanjae02/%EC%9D%B8%ED%84%B4-9%EC%A3%BC%EC%B0%A8-Stage-0-%ED%86%B5%EA%B3%BC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%B6%94%EC%84%9D%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C%EC%95%84%EC%9B%83-IT-%EC%9D%B8%ED%84%B4%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-2%EA%B8%B0-t4vj0ltr) | [@leemanjae02](https://velog.io/@leemanjae02) |
-| 2026.10.02 | [안전한 시스템을 만드는 12가지 보안 설계 원칙](https://velog.io/@yso3377/%EC%95%88%EC%A0%84%ED%95%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-12%EA%B0%80%EC%A7%80-%EB%B3%B4%EC%95%88-%EC%84%A4%EA%B3%84-%EC%9B%90%EC%B9%99) | [@yso3377](https://velog.io/@yso3377) |
-| 2026.10.02 | [프로그래머스 코딩 기초 트레이닝
-주사위 게임 3 코딩 풀이](https://velog.io/@jiminly/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9-%EA%B8%B0%EC%B4%88-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D%EC%A3%BC%EC%82%AC%EC%9C%84-%EA%B2%8C%EC%9E%84-3-%EC%BD%94%EB%94%A9-%ED%92%80%EC%9D%B4) | [@jiminly](https://velog.io/@jiminly) |
-| 2026.10.02 | [[CEOS 프론트엔드 3주차] 메모 서비스에 로그인과 API 연결하기](https://velog.io/@choism0423/CEOS-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-3%EC%A3%BC%EC%B0%A8-%EB%A9%94%EB%AA%A8-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8%EA%B3%BC-API-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0) | [@choism0423](https://velog.io/@choism0423) |
+| 2026.10.03 | [범용 클라우드의 종말: 2026년 기업의 생존을 결정할 '차별화된 클라우드' 전략](https://velog.io/@blueday/%EB%B2%94%EC%9A%A9-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%9D%98-%EC%A2%85%EB%A7%90-2026%EB%85%84-%EA%B8%B0%EC%97%85%EC%9D%98-%EC%83%9D%EC%A1%B4%EC%9D%84-%EA%B2%B0%EC%A0%95%ED%95%A0-%EC%B0%A8%EB%B3%84%ED%99%94%EB%90%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%84%EB%9E%B5) | [@blueday](https://velog.io/@blueday) |
+| 2026.10.03 | [LLM 프롬프트에 JSON 넣으면 CSV보다 토큰 3배: 7개 포맷 직접 재봤습니다](https://velog.io/@yunany90/LLM-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EC%97%90-JSON-%EB%84%A3%EC%9C%BC%EB%A9%B4-CSV%EB%B3%B4%EB%8B%A4-%ED%86%A0%ED%81%B0-3%EB%B0%B0-7%EA%B0%9C-%ED%8F%AC%EB%A7%B7-%EC%A7%81%EC%A0%91-%EC%9E%AC%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4) | [@yunany90](https://velog.io/@yunany90) |
+| 2026.10.03 | [하드웨어 교체 없이 성능을 65% 높이는 Windows Server 2025 도입 가이드](https://velog.io/@blueday/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EA%B5%90%EC%B2%B4-%EC%97%86%EC%9D%B4-%EC%84%B1%EB%8A%A5%EC%9D%84-65-%EB%86%92%EC%9D%B4%EB%8A%94-Windows-Server-2025-%EB%8F%84%EC%9E%85-%EA%B0%80%EC%9D%B4%EB%93%9C) | [@blueday](https://velog.io/@blueday) |
+| 2026.10.03 | [Python_Day.8](https://velog.io/@appie936544/PythonDay.8) | [@appie936544](https://velog.io/@appie936544) |
+| 2026.10.03 | [2026-09-29 부동산공법 파이널 100선 문제풀이 파트1](https://velog.io/@hyungyugod/2026-09-29-%EB%B6%80%EB%8F%99%EC%82%B0%EA%B3%B5%EB%B2%95-%ED%8C%8C%EC%9D%B4%EB%84%90-100%EC%84%A0-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%ED%8C%8C%ED%8A%B81) | [@hyungyugod](https://velog.io/@hyungyugod) |
+| 2026.10.03 | [프로그래머스 - 음양 더하기 (Java)](https://velog.io/@yunalstjs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9D%8C%EC%96%91-%EB%8D%94%ED%95%98%EA%B8%B0-Java) | [@yunalstjs](https://velog.io/@yunalstjs) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
