@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.02 | [## 4.5 LSTM을 이용한 네이버 영화 리뷰 분류](https://velog.io/@tmdwo1016/4.5-LSTM%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%98%81%ED%99%94-%EB%A6%AC%EB%B7%B0-%EB%B6%84%EB%A5%98) | [@tmdwo1016](https://velog.io/@tmdwo1016) |
-| 2026.10.02 | [26O01e](https://velog.io/@youngkyoo_kim/26O01e) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.10.02 | [26O01d](https://velog.io/@youngkyoo_kim/26O01d) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.10.02 | [당연하게 쓰던 ‘서버’와 ‘백엔드’를 다시 이해해보기](https://velog.io/@gunuzello/%EB%8B%B9%EC%97%B0%ED%95%98%EA%B2%8C-%EC%93%B0%EB%8D%98-%EC%84%9C%EB%B2%84%EC%99%80-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EB%8B%A4%EC%8B%9C-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EA%B8%B0) | [@gunuzello](https://velog.io/@gunuzello) |
-| 2026.10.02 | [26O01c](https://velog.io/@youngkyoo_kim/26O01c) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.10.02 | [26O01b](https://velog.io/@youngkyoo_kim/26O01b) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.02 | [2026 클라우드 솔루션 리포트 (8) — AI 에이전트 플랫폼](https://velog.io/@chaesang/2026-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%86%94%EB%A3%A8%EC%85%98-%EB%A6%AC%ED%8F%AC%ED%8A%B8-8-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC) | [@chaesang](https://velog.io/@chaesang) |
+| 2026.10.02 | [Spring 심화 (CloudWatch)](https://velog.io/@gwangmin-kim/Spring-%EC%8B%AC%ED%99%94-CloudWatch) | [@gwangmin-kim](https://velog.io/@gwangmin-kim) |
+| 2026.10.02 | [리눅스-네트워크(10/2)](https://velog.io/@dreaming/%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC102) | [@dreaming](https://velog.io/@dreaming) |
+| 2026.10.02 | [Multi-Agent \| Handoff에서 Agent의 책임을 바로 넘기지 않은 이유](https://velog.io/@jbbdyee/Multi-Agent-Handoff%EC%97%90%EC%84%9C-Agent%EC%9D%98-%EC%B1%85%EC%9E%84%EC%9D%84-%EB%B0%94%EB%A1%9C-%EB%84%98%EA%B8%B0%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%9D%B4%EC%9C%A0) | [@jbbdyee](https://velog.io/@jbbdyee) |
+| 2026.10.02 | [Spring 심화 (로드 밸런싱)](https://velog.io/@gwangmin-kim/Spring-%EC%8B%AC%ED%99%94-%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%8B%B1) | [@gwangmin-kim](https://velog.io/@gwangmin-kim) |
+| 2026.10.02 | [Ubuntu ROS 실습(17)](https://velog.io/@zeusqoi/Ubuntu-ROS-%EC%8B%A4%EC%8A%B517) | [@zeusqoi](https://velog.io/@zeusqoi) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
