@@ -81,12 +81,13 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.02 | [2026 클라우드 솔루션 리포트 (8) — AI 에이전트 플랫폼](https://velog.io/@chaesang/2026-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%86%94%EB%A3%A8%EC%85%98-%EB%A6%AC%ED%8F%AC%ED%8A%B8-8-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC) | [@chaesang](https://velog.io/@chaesang) |
-| 2026.10.02 | [Spring 심화 (CloudWatch)](https://velog.io/@gwangmin-kim/Spring-%EC%8B%AC%ED%99%94-CloudWatch) | [@gwangmin-kim](https://velog.io/@gwangmin-kim) |
-| 2026.10.02 | [리눅스-네트워크(10/2)](https://velog.io/@dreaming/%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC102) | [@dreaming](https://velog.io/@dreaming) |
-| 2026.10.02 | [Multi-Agent \| Handoff에서 Agent의 책임을 바로 넘기지 않은 이유](https://velog.io/@jbbdyee/Multi-Agent-Handoff%EC%97%90%EC%84%9C-Agent%EC%9D%98-%EC%B1%85%EC%9E%84%EC%9D%84-%EB%B0%94%EB%A1%9C-%EB%84%98%EA%B8%B0%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%9D%B4%EC%9C%A0) | [@jbbdyee](https://velog.io/@jbbdyee) |
-| 2026.10.02 | [Spring 심화 (로드 밸런싱)](https://velog.io/@gwangmin-kim/Spring-%EC%8B%AC%ED%99%94-%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%8B%B1) | [@gwangmin-kim](https://velog.io/@gwangmin-kim) |
-| 2026.10.02 | [Ubuntu ROS 실습(17)](https://velog.io/@zeusqoi/Ubuntu-ROS-%EC%8B%A4%EC%8A%B517) | [@zeusqoi](https://velog.io/@zeusqoi) |
+| 2026.10.02 | [반복문 조건 이해하기](https://velog.io/@jun0zoo/%EB%B0%98%EB%B3%B5%EB%AC%B8-%EC%A1%B0%EA%B1%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@jun0zoo](https://velog.io/@jun0zoo) |
+| 2026.10.02 | [빌더 패턴](https://velog.io/@xevbn/%EB%B9%8C%EB%8D%94-%ED%8C%A8%ED%84%B4) | [@xevbn](https://velog.io/@xevbn) |
+| 2026.10.02 | [[인턴 9주차] Stage 0 통과, 그리고 추석_인사이드아웃 IT 인턴형 프로그램 2기](https://velog.io/@leemanjae02/%EC%9D%B8%ED%84%B4-9%EC%A3%BC%EC%B0%A8-Stage-0-%ED%86%B5%EA%B3%BC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%B6%94%EC%84%9D%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C%EC%95%84%EC%9B%83-IT-%EC%9D%B8%ED%84%B4%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-2%EA%B8%B0-t4vj0ltr) | [@leemanjae02](https://velog.io/@leemanjae02) |
+| 2026.10.02 | [안전한 시스템을 만드는 12가지 보안 설계 원칙](https://velog.io/@yso3377/%EC%95%88%EC%A0%84%ED%95%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-12%EA%B0%80%EC%A7%80-%EB%B3%B4%EC%95%88-%EC%84%A4%EA%B3%84-%EC%9B%90%EC%B9%99) | [@yso3377](https://velog.io/@yso3377) |
+| 2026.10.02 | [프로그래머스 코딩 기초 트레이닝
+주사위 게임 3 코딩 풀이](https://velog.io/@jiminly/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9-%EA%B8%B0%EC%B4%88-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D%EC%A3%BC%EC%82%AC%EC%9C%84-%EA%B2%8C%EC%9E%84-3-%EC%BD%94%EB%94%A9-%ED%92%80%EC%9D%B4) | [@jiminly](https://velog.io/@jiminly) |
+| 2026.10.02 | [[CEOS 프론트엔드 3주차] 메모 서비스에 로그인과 API 연결하기](https://velog.io/@choism0423/CEOS-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-3%EC%A3%BC%EC%B0%A8-%EB%A9%94%EB%AA%A8-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8%EA%B3%BC-API-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0) | [@choism0423](https://velog.io/@choism0423) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
