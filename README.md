@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.03 | [범용 클라우드의 종말: 2026년 기업의 생존을 결정할 '차별화된 클라우드' 전략](https://velog.io/@blueday/%EB%B2%94%EC%9A%A9-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%9D%98-%EC%A2%85%EB%A7%90-2026%EB%85%84-%EA%B8%B0%EC%97%85%EC%9D%98-%EC%83%9D%EC%A1%B4%EC%9D%84-%EA%B2%B0%EC%A0%95%ED%95%A0-%EC%B0%A8%EB%B3%84%ED%99%94%EB%90%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%84%EB%9E%B5) | [@blueday](https://velog.io/@blueday) |
-| 2026.10.03 | [LLM 프롬프트에 JSON 넣으면 CSV보다 토큰 3배: 7개 포맷 직접 재봤습니다](https://velog.io/@yunany90/LLM-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EC%97%90-JSON-%EB%84%A3%EC%9C%BC%EB%A9%B4-CSV%EB%B3%B4%EB%8B%A4-%ED%86%A0%ED%81%B0-3%EB%B0%B0-7%EA%B0%9C-%ED%8F%AC%EB%A7%B7-%EC%A7%81%EC%A0%91-%EC%9E%AC%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4) | [@yunany90](https://velog.io/@yunany90) |
-| 2026.10.03 | [하드웨어 교체 없이 성능을 65% 높이는 Windows Server 2025 도입 가이드](https://velog.io/@blueday/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EA%B5%90%EC%B2%B4-%EC%97%86%EC%9D%B4-%EC%84%B1%EB%8A%A5%EC%9D%84-65-%EB%86%92%EC%9D%B4%EB%8A%94-Windows-Server-2025-%EB%8F%84%EC%9E%85-%EA%B0%80%EC%9D%B4%EB%93%9C) | [@blueday](https://velog.io/@blueday) |
-| 2026.10.03 | [Python_Day.8](https://velog.io/@appie936544/PythonDay.8) | [@appie936544](https://velog.io/@appie936544) |
-| 2026.10.03 | [2026-09-29 부동산공법 파이널 100선 문제풀이 파트1](https://velog.io/@hyungyugod/2026-09-29-%EB%B6%80%EB%8F%99%EC%82%B0%EA%B3%B5%EB%B2%95-%ED%8C%8C%EC%9D%B4%EB%84%90-100%EC%84%A0-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%ED%8C%8C%ED%8A%B81) | [@hyungyugod](https://velog.io/@hyungyugod) |
-| 2026.10.03 | [프로그래머스 - 음양 더하기 (Java)](https://velog.io/@yunalstjs/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9D%8C%EC%96%91-%EB%8D%94%ED%95%98%EA%B8%B0-Java) | [@yunalstjs](https://velog.io/@yunalstjs) |
+| 2026.10.03 | [켈빈 색온도를 sRGB 색으로 바꾸기: Tanner Helland의 근사식](https://velog.io/@trysundown/%EC%BC%88%EB%B9%88-%EC%83%89%EC%98%A8%EB%8F%84%EB%A5%BC-sRGB-%EC%83%89%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0-Tanner-Helland%EC%9D%98-%EA%B7%BC%EC%82%AC%EC%8B%9D) | [@trysundown](https://velog.io/@trysundown) |
+| 2026.10.03 | [AI한테 존댓말 쓰면 돈이 더 들까? 반말·반존대·극존대 토큰 직접 재봤다](https://velog.io/@yunany90/AI%ED%95%9C%ED%85%8C-%EC%A1%B4%EB%8C%93%EB%A7%90-%EC%93%B0%EB%A9%B4-%EB%8F%88%EC%9D%B4-%EB%8D%94-%EB%93%A4%EA%B9%8C-%EB%B0%98%EB%A7%90%EB%B0%98%EC%A1%B4%EB%8C%80%EA%B7%B9%EC%A1%B4%EB%8C%80-%ED%86%A0%ED%81%B0-%EC%A7%81%EC%A0%91-%EC%9E%AC%EB%B4%A4%EB%8B%A4) | [@yunany90](https://velog.io/@yunany90) |
+| 2026.10.03 | [단일 응답 100만 토큰과 멀티스레드 위임이 이끄는 에이전트 패러다임](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-03) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.03 | [상시 가동 AI 에이전트로 일상 업무와 모니터링 통합하기](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-10-03) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.03 | [코드 한 줄 없이 만드는 네이티브 앱과 OCR 없는 RPA 비전 판정](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%99%9C%EC%9A%A9-2026-10-03) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.03 | [단 20분 만에 실전 금융 연동 C++ 타이쿤 게임을 빌드하는 프롬프트 기반 개발의 과정](https://velog.io/@sdm77/llm-%EC%95%B1rag-%EA%B5%AC%ED%98%84-2026-10-03) | [@sdm77](https://velog.io/@sdm77) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
