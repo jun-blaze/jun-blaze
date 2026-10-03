@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.04 | [TIL - 20261003](https://velog.io/@sdj3959/TIL-20261003) | [@sdj3959](https://velog.io/@sdj3959) |
-| 2026.10.04 | [[Code Review] 복잡한 Gin 백엔드 코드 분석하기](https://velog.io/@m161awm/Code-Review-Gin) | [@m161awm](https://velog.io/@m161awm) |
-| 2026.10.04 | [디자인 시스템 없이 자란 앱, AI 세션 6개로 하루 만에 리브랜딩하기](https://velog.io/@dch0202/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%97%86%EC%9D%B4-%EC%9E%90%EB%9E%80-%EC%95%B1-ai-%EC%84%B8%EC%85%98-6%EA%B0%9C%EB%A1%9C-%ED%95%98%EB%A3%A8-%EB%A7%8C%EC%97%90-%EB%A6%AC%EB%B8%8C%EB%9E%9C%EB%94%A9%ED%95%98%EA%B8%B0) | [@dch0202](https://velog.io/@dch0202) |
-| 2026.10.04 | [26.10.03 일기](https://velog.io/@aquan5584/26.10.03-%EC%9D%BC%EA%B8%B0) | [@aquan5584](https://velog.io/@aquan5584) |
-| 2026.10.04 | [MyBatis와 JPA, 같은 CRUD를 다루는 방식 비교](https://velog.io/@bono404/MyBatis%EC%99%80-JPA-%EA%B0%99%EC%9D%80-CRUD%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EB%B0%A9%EC%8B%9D-%EB%B9%84%EA%B5%90) | [@bono404](https://velog.io/@bono404) |
-| 2026.10.04 | [AI 엔지니어 부트캠프 61일차[미션7. Object Detection 2]](https://velog.io/@jin_hong/AI-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-61%EC%9D%BC%EC%B0%A8%EB%AF%B8%EC%85%987.-Object-Detection-2) | [@jin_hong](https://velog.io/@jin_hong) |
+| 2026.10.04 | [에이전트 생태계로 진화하는 ChatGPT와 개발자 도구](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-04) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.04 | [로컬 파일 시스템 기반의 자율 에이전트 운영체제 구현](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%99%9C%EC%9A%A9-2026-10-04-2) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.04 | [내부 런타임을 장악하는 확장 체계: Claude Code 모드(Mods)](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%99%9C%EC%9A%A9-2026-10-04) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.04 | [텍스트 생성을 버리고 단일 패스 결정으로 전환하는 법](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-10-04) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.04 | [[Unity/개인프로젝트] #7 플레이어 애니메이션 (5)](https://velog.io/@songwol_/Unity%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-7-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-5) | [@songwol_](https://velog.io/@songwol_) |
+| 2026.10.04 | [비즈니스 지표의 역설과 원인 분해](https://velog.io/@dallok97/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%A7%80%ED%91%9C%EC%9D%98-%EC%97%AD%EC%84%A4%EA%B3%BC-%EC%9B%90%EC%9D%B8-%EB%B6%84%ED%95%B4) | [@dallok97](https://velog.io/@dallok97) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
