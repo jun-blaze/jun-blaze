@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.04 | [드림핵 basic_exploitation_000 풀이](https://velog.io/@junnyontop-pixel/%EB%93%9C%EB%A6%BC%ED%95%B5-basicexploitation000-%ED%92%80%EC%9D%B4) | [@junnyontop-pixel](https://velog.io/@junnyontop-pixel) |
-| 2026.10.04 | [AI가 만든 코드에도 같은 규칙을 — ArchUnit과 Spring Modulith로 경계 지키기](https://velog.io/@gmlgjs11/AI%EA%B0%80-%EB%A7%8C%EB%93%A0-%EC%BD%94%EB%93%9C%EC%97%90%EB%8F%84-%EA%B0%99%EC%9D%80-%EA%B7%9C%EC%B9%99%EC%9D%84-ArchUnit%EA%B3%BC-Spring-Modulith%EB%A1%9C-%EA%B2%BD%EA%B3%84-%EC%A7%80%ED%82%A4%EA%B8%B0) | [@gmlgjs11](https://velog.io/@gmlgjs11) |
-| 2026.10.04 | [[CNCF 하드닝 07] 인증서 자동 갱신이면 끝일까요? cert-manager와 개인 키 보호](https://velog.io/@albon/CNCF-%ED%95%98%EB%93%9C%EB%8B%9D-07-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%9E%90%EB%8F%99-%EA%B0%B1%EC%8B%A0%EC%9D%B4%EB%A9%B4-%EB%81%9D%EC%9D%BC%EA%B9%8C%EC%9A%94-cert-manager%EC%99%80-%EA%B0%9C%EC%9D%B8-%ED%82%A4-%EB%B3%B4%ED%98%B8) | [@albon](https://velog.io/@albon) |
-| 2026.10.04 | [[프로그래머스] 12969 - 행렬의 덧셈](https://velog.io/@dkegldh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12969-%ED%96%89%EB%A0%AC%EC%9D%98-%EB%8D%A7%EC%85%88) | [@dkegldh](https://velog.io/@dkegldh) |
-| 2026.10.04 | [[CNCF 하드닝 06] mTLS면 누구든 들어와도 될까요? Istio 인증과 인가](https://velog.io/@albon/CNCF-%ED%95%98%EB%93%9C%EB%8B%9D-06-mTLS%EB%A9%B4-%EB%88%84%EA%B5%AC%EB%93%A0-%EB%93%A4%EC%96%B4%EC%99%80%EB%8F%84-%EB%90%A0%EA%B9%8C%EC%9A%94-Istio-%EC%9D%B8%EC%A6%9D%EA%B3%BC-%EC%9D%B8%EA%B0%80) | [@albon](https://velog.io/@albon) |
-| 2026.10.04 | [[CNCF 하드닝 05] Git에 올렸다고 어디든 배포해도 될까요? Argo CD의 세 경계](https://velog.io/@albon/CNCF-%ED%95%98%EB%93%9C%EB%8B%9D-05-Git%EC%97%90-%EC%98%AC%EB%A0%B8%EB%8B%A4%EA%B3%A0-%EC%96%B4%EB%94%94%EB%93%A0-%EB%B0%B0%ED%8F%AC%ED%95%B4%EB%8F%84-%EB%90%A0%EA%B9%8C%EC%9A%94-Argo-CD%EC%9D%98-%EC%84%B8-%EA%B2%BD%EA%B3%84) | [@albon](https://velog.io/@albon) |
+| 2026.10.04 | [[코드잇 데이터분석가 부트캠프][강의] 14일차 Tableau](https://velog.io/@kuuou_59/%EC%BD%94%EB%93%9C%EC%9E%87-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%EA%B0%95%EC%9D%98-14%EC%9D%BC%EC%B0%A8-Tableau) | [@kuuou_59](https://velog.io/@kuuou_59) |
+| 2026.10.04 | [[ARP] ARP 기본 개념](https://velog.io/@kym0165640/ARP-ARP-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90) | [@kym0165640](https://velog.io/@kym0165640) |
+| 2026.10.04 | [싱글벙글 정글에서 살아남기 Jungle/4w](https://velog.io/@pancheble_/%EC%8B%B1%EA%B8%80%EB%B2%99%EA%B8%80-%EC%A0%95%EA%B8%80%EC%97%90%EC%84%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0-Jungle4w) | [@pancheble_](https://velog.io/@pancheble_) |
+| 2026.10.04 | [Queue는 왜 포인터가 두 개 필요할까? \| Generics부터 기본 정렬과 Shellsort까지](https://velog.io/@daehyun_lee/Queue%EB%8A%94-%EC%99%9C-%ED%8F%AC%EC%9D%B8%ED%84%B0%EA%B0%80-%EB%91%90-%EA%B0%9C-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C-Generics%EB%B6%80%ED%84%B0-%EA%B8%B0%EB%B3%B8-%EC%A0%95%EB%A0%AC%EA%B3%BC-Shellsort%EA%B9%8C%EC%A7%80) | [@daehyun_lee](https://velog.io/@daehyun_lee) |
+| 2026.10.04 | [24개 지방의회 회의록, 의안 링크, Python으로 바로 사용하기](https://velog.io/@jalhana/24%EA%B0%9C-%EC%A7%80%EB%B0%A9%EC%9D%98%ED%9A%8C-%ED%9A%8C%EC%9D%98%EB%A1%9D-%EC%9D%98%EC%95%88-%EB%A7%81%ED%81%AC-Python%EC%9C%BC%EB%A1%9C-%EB%B0%94%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) | [@jalhana](https://velog.io/@jalhana) |
+| 2026.10.04 | [[ML공부]회귀 알고리즘-『혼자 공부하는 머신러닝+딥러닝』](https://velog.io/@yewon_h/ML%EA%B3%B5%EB%B6%80%ED%9A%8C%EA%B7%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%E3%80%8E%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D%E3%80%8F) | [@yewon_h](https://velog.io/@yewon_h) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
