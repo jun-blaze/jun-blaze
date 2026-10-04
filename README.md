@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.04 | [에이전트 생태계로 진화하는 ChatGPT와 개발자 도구](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-04) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.04 | [로컬 파일 시스템 기반의 자율 에이전트 운영체제 구현](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%99%9C%EC%9A%A9-2026-10-04-2) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.04 | [내부 런타임을 장악하는 확장 체계: Claude Code 모드(Mods)](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%99%9C%EC%9A%A9-2026-10-04) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.04 | [텍스트 생성을 버리고 단일 패스 결정으로 전환하는 법](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-10-04) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.04 | [[Unity/개인프로젝트] #7 플레이어 애니메이션 (5)](https://velog.io/@songwol_/Unity%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-7-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-5) | [@songwol_](https://velog.io/@songwol_) |
-| 2026.10.04 | [비즈니스 지표의 역설과 원인 분해](https://velog.io/@dallok97/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%A7%80%ED%91%9C%EC%9D%98-%EC%97%AD%EC%84%A4%EA%B3%BC-%EC%9B%90%EC%9D%B8-%EB%B6%84%ED%95%B4) | [@dallok97](https://velog.io/@dallok97) |
+| 2026.10.04 | [드림핵 basic_exploitation_000 풀이](https://velog.io/@junnyontop-pixel/%EB%93%9C%EB%A6%BC%ED%95%B5-basicexploitation000-%ED%92%80%EC%9D%B4) | [@junnyontop-pixel](https://velog.io/@junnyontop-pixel) |
+| 2026.10.04 | [AI가 만든 코드에도 같은 규칙을 — ArchUnit과 Spring Modulith로 경계 지키기](https://velog.io/@gmlgjs11/AI%EA%B0%80-%EB%A7%8C%EB%93%A0-%EC%BD%94%EB%93%9C%EC%97%90%EB%8F%84-%EA%B0%99%EC%9D%80-%EA%B7%9C%EC%B9%99%EC%9D%84-ArchUnit%EA%B3%BC-Spring-Modulith%EB%A1%9C-%EA%B2%BD%EA%B3%84-%EC%A7%80%ED%82%A4%EA%B8%B0) | [@gmlgjs11](https://velog.io/@gmlgjs11) |
+| 2026.10.04 | [[CNCF 하드닝 07] 인증서 자동 갱신이면 끝일까요? cert-manager와 개인 키 보호](https://velog.io/@albon/CNCF-%ED%95%98%EB%93%9C%EB%8B%9D-07-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%9E%90%EB%8F%99-%EA%B0%B1%EC%8B%A0%EC%9D%B4%EB%A9%B4-%EB%81%9D%EC%9D%BC%EA%B9%8C%EC%9A%94-cert-manager%EC%99%80-%EA%B0%9C%EC%9D%B8-%ED%82%A4-%EB%B3%B4%ED%98%B8) | [@albon](https://velog.io/@albon) |
+| 2026.10.04 | [[프로그래머스] 12969 - 행렬의 덧셈](https://velog.io/@dkegldh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12969-%ED%96%89%EB%A0%AC%EC%9D%98-%EB%8D%A7%EC%85%88) | [@dkegldh](https://velog.io/@dkegldh) |
+| 2026.10.04 | [[CNCF 하드닝 06] mTLS면 누구든 들어와도 될까요? Istio 인증과 인가](https://velog.io/@albon/CNCF-%ED%95%98%EB%93%9C%EB%8B%9D-06-mTLS%EB%A9%B4-%EB%88%84%EA%B5%AC%EB%93%A0-%EB%93%A4%EC%96%B4%EC%99%80%EB%8F%84-%EB%90%A0%EA%B9%8C%EC%9A%94-Istio-%EC%9D%B8%EC%A6%9D%EA%B3%BC-%EC%9D%B8%EA%B0%80) | [@albon](https://velog.io/@albon) |
+| 2026.10.04 | [[CNCF 하드닝 05] Git에 올렸다고 어디든 배포해도 될까요? Argo CD의 세 경계](https://velog.io/@albon/CNCF-%ED%95%98%EB%93%9C%EB%8B%9D-05-Git%EC%97%90-%EC%98%AC%EB%A0%B8%EB%8B%A4%EA%B3%A0-%EC%96%B4%EB%94%94%EB%93%A0-%EB%B0%B0%ED%8F%AC%ED%95%B4%EB%8F%84-%EB%90%A0%EA%B9%8C%EC%9A%94-Argo-CD%EC%9D%98-%EC%84%B8-%EA%B2%BD%EA%B3%84) | [@albon](https://velog.io/@albon) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
