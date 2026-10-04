@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.04 | [[코드잇 데이터분석가 부트캠프][강의] 14일차 Tableau](https://velog.io/@kuuou_59/%EC%BD%94%EB%93%9C%EC%9E%87-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%EA%B0%95%EC%9D%98-14%EC%9D%BC%EC%B0%A8-Tableau) | [@kuuou_59](https://velog.io/@kuuou_59) |
-| 2026.10.04 | [[ARP] ARP 기본 개념](https://velog.io/@kym0165640/ARP-ARP-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90) | [@kym0165640](https://velog.io/@kym0165640) |
-| 2026.10.04 | [싱글벙글 정글에서 살아남기 Jungle/4w](https://velog.io/@pancheble_/%EC%8B%B1%EA%B8%80%EB%B2%99%EA%B8%80-%EC%A0%95%EA%B8%80%EC%97%90%EC%84%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0-Jungle4w) | [@pancheble_](https://velog.io/@pancheble_) |
-| 2026.10.04 | [Queue는 왜 포인터가 두 개 필요할까? \| Generics부터 기본 정렬과 Shellsort까지](https://velog.io/@daehyun_lee/Queue%EB%8A%94-%EC%99%9C-%ED%8F%AC%EC%9D%B8%ED%84%B0%EA%B0%80-%EB%91%90-%EA%B0%9C-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C-Generics%EB%B6%80%ED%84%B0-%EA%B8%B0%EB%B3%B8-%EC%A0%95%EB%A0%AC%EA%B3%BC-Shellsort%EA%B9%8C%EC%A7%80) | [@daehyun_lee](https://velog.io/@daehyun_lee) |
-| 2026.10.04 | [24개 지방의회 회의록, 의안 링크, Python으로 바로 사용하기](https://velog.io/@jalhana/24%EA%B0%9C-%EC%A7%80%EB%B0%A9%EC%9D%98%ED%9A%8C-%ED%9A%8C%EC%9D%98%EB%A1%9D-%EC%9D%98%EC%95%88-%EB%A7%81%ED%81%AC-Python%EC%9C%BC%EB%A1%9C-%EB%B0%94%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) | [@jalhana](https://velog.io/@jalhana) |
-| 2026.10.04 | [[ML공부]회귀 알고리즘-『혼자 공부하는 머신러닝+딥러닝』](https://velog.io/@yewon_h/ML%EA%B3%B5%EB%B6%80%ED%9A%8C%EA%B7%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%E3%80%8E%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D%E3%80%8F) | [@yewon_h](https://velog.io/@yewon_h) |
+| 2026.10.05 | [2학기 4주차 과제-디지털 증거](https://velog.io/@yan0_0/2%ED%95%99%EA%B8%B0-4%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-%EB%94%94%EC%A7%80%ED%84%B8-%EC%A6%9D%EA%B1%B0) | [@yan0_0](https://velog.io/@yan0_0) |
+| 2026.10.05 | [[R-LOG] 서평단 / 비제이퍼블릭 / 코드를넘어서 판단하는 개발자](https://velog.io/@dev-yihyun/R-LOG-%EC%84%9C%ED%8F%89%EB%8B%A8-%EB%B9%84%EC%A0%9C%EC%9D%B4%ED%8D%BC%EB%B8%94%EB%A6%AD-%EC%BD%94%EB%93%9C%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C-%ED%8C%90%EB%8B%A8%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90) | [@dev-yihyun](https://velog.io/@dev-yihyun) |
+| 2026.10.05 | [26.10.05 일기](https://velog.io/@aquan5584/26.10.05-%EC%9D%BC%EA%B8%B0) | [@aquan5584](https://velog.io/@aquan5584) |
+| 2026.10.05 | [[STP] BPDU Guard](https://velog.io/@kym0165640/STP-BPDU-Guard) | [@kym0165640](https://velog.io/@kym0165640) |
+| 2026.10.05 | [AI 엔지니어 부트캠프 62일차[미션7. Object Detection 3]](https://velog.io/@jin_hong/AI-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-62%EC%9D%BC%EC%B0%A8%EB%AF%B8%EC%85%987.-Object-Detection-3) | [@jin_hong](https://velog.io/@jin_hong) |
+| 2026.10.05 | [코드 정리, 예외 처리와 Ctrl+C 처리](https://velog.io/@elder-node/%EC%BD%94%EB%93%9C-%EC%A0%95%EB%A6%AC-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC%EC%99%80-Ctrl-C-%EC%B2%98%EB%A6%AC) | [@elder-node](https://velog.io/@elder-node) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
