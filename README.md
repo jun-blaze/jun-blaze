@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.05 | [2학기 4주차 과제-디지털 증거](https://velog.io/@yan0_0/2%ED%95%99%EA%B8%B0-4%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-%EB%94%94%EC%A7%80%ED%84%B8-%EC%A6%9D%EA%B1%B0) | [@yan0_0](https://velog.io/@yan0_0) |
-| 2026.10.05 | [[R-LOG] 서평단 / 비제이퍼블릭 / 코드를넘어서 판단하는 개발자](https://velog.io/@dev-yihyun/R-LOG-%EC%84%9C%ED%8F%89%EB%8B%A8-%EB%B9%84%EC%A0%9C%EC%9D%B4%ED%8D%BC%EB%B8%94%EB%A6%AD-%EC%BD%94%EB%93%9C%EB%A5%BC%EB%84%98%EC%96%B4%EC%84%9C-%ED%8C%90%EB%8B%A8%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90) | [@dev-yihyun](https://velog.io/@dev-yihyun) |
-| 2026.10.05 | [26.10.05 일기](https://velog.io/@aquan5584/26.10.05-%EC%9D%BC%EA%B8%B0) | [@aquan5584](https://velog.io/@aquan5584) |
-| 2026.10.05 | [[STP] BPDU Guard](https://velog.io/@kym0165640/STP-BPDU-Guard) | [@kym0165640](https://velog.io/@kym0165640) |
-| 2026.10.05 | [AI 엔지니어 부트캠프 62일차[미션7. Object Detection 3]](https://velog.io/@jin_hong/AI-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-62%EC%9D%BC%EC%B0%A8%EB%AF%B8%EC%85%987.-Object-Detection-3) | [@jin_hong](https://velog.io/@jin_hong) |
-| 2026.10.05 | [코드 정리, 예외 처리와 Ctrl+C 처리](https://velog.io/@elder-node/%EC%BD%94%EB%93%9C-%EC%A0%95%EB%A6%AC-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC%EC%99%80-Ctrl-C-%EC%B2%98%EB%A6%AC) | [@elder-node](https://velog.io/@elder-node) |
+| 2026.10.05 | [[프로그래머스] 카운트 다운](https://velog.io/@j_keun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%B9%B4%EC%9A%B4%ED%8A%B8-%EB%8B%A4%EC%9A%B4) | [@j_keun](https://velog.io/@j_keun) |
+| 2026.10.05 | [26O05e](https://velog.io/@youngkyoo_kim/26O05e) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.05 | [[프로그래머스] 연속 펄스 부분 수열의 합](https://velog.io/@j_keun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%97%B0%EC%86%8D-%ED%8E%84%EC%8A%A4-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9) | [@j_keun](https://velog.io/@j_keun) |
+| 2026.10.05 | [[Malware]](https://velog.io/@everysnsrkf/2026-10-05) | [@everysnsrkf](https://velog.io/@everysnsrkf) |
+| 2026.10.05 | [[VPN]](https://velog.io/@everysnsrkf/VPN) | [@everysnsrkf](https://velog.io/@everysnsrkf) |
+| 2026.10.05 | [통제를 벗어난 지능과 플랫폼의 쇄국](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-05) | [@sdm77](https://velog.io/@sdm77) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
