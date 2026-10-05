@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.05 | [[C#] 가장 가까운 높은 관측소](https://velog.io/@tonny0305/C-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EB%86%92%EC%9D%80-%EA%B4%80%EC%B8%A1%EC%86%8C) | [@tonny0305](https://velog.io/@tonny0305) |
-| 2026.10.05 | [Threshing Day Game: 선택형 웹게임을 UX 관점에서 읽기](https://velog.io/@drewgrant616/Threshing-Day-Game-%EC%84%A0%ED%83%9D%ED%98%95-%EC%9B%B9%EA%B2%8C%EC%9E%84%EC%9D%84-UX-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EC%9D%BD%EA%B8%B0) | [@drewgrant616](https://velog.io/@drewgrant616) |
-| 2026.10.05 | ["이 형량 맞아?" 그 질문을 끝까지 따라가 보기로 했습니다](https://velog.io/@naerawnambul/%EC%9D%B4-%ED%98%95%EB%9F%89-%EB%A7%9E%EC%95%84-%EA%B7%B8-%EC%A7%88%EB%AC%B8%EC%9D%84-%EB%81%9D%EA%B9%8C%EC%A7%80-%EB%94%B0%EB%9D%BC%EA%B0%80-%EB%B3%B4%EA%B8%B0%EB%A1%9C-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4) | [@naerawnambul](https://velog.io/@naerawnambul) |
-| 2026.10.05 | [[Network] Maintenance](https://velog.io/@kym0165640/Network-Maintenance) | [@kym0165640](https://velog.io/@kym0165640) |
-| 2026.10.05 | [[회고] 레디스 구조](https://velog.io/@joho54/%ED%9A%8C%EA%B3%A0-%EB%A0%88%EB%94%94%EC%8A%A4-%EA%B5%AC%EC%A1%B0) | [@joho54](https://velog.io/@joho54) |
-| 2026.10.05 | [2034년까지의 유리섬유 강화 플라스틱(GFRP) 복합소재 시장 동향, 점유율 및 수요](https://velog.io/@industry/2034%EB%85%84%EA%B9%8C%EC%A7%80%EC%9D%98-%EC%9C%A0%EB%A6%AC%EC%84%AC%EC%9C%A0-%EA%B0%95%ED%99%94-%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1GFRP-%EB%B3%B5%ED%95%A9%EC%86%8C%EC%9E%AC-%EC%8B%9C%EC%9E%A5-%EB%8F%99%ED%96%A5-%EC%A0%90%EC%9C%A0%EC%9C%A8-%EB%B0%8F-%EC%88%98%EC%9A%94-nb4efmu6) | [@industry](https://velog.io/@industry) |
+| 2026.10.06 | [AI 도입을 결정하기 전에 어떤 운영 조건을 점검할까](https://velog.io/@bbqgo807/ai-%EB%8F%84%EC%9E%85%EC%9D%84-%EA%B2%B0%EC%A0%95%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%96%B4%EB%96%A4-%EC%9A%B4%EC%98%81-%EC%A1%B0%EA%B1%B4%EC%9D%84-%EC%A0%90%EA%B2%80%ED%95%A0%EA%B9%8C-e13290) | [@bbqgo807](https://velog.io/@bbqgo807) |
+| 2026.10.06 | [[정보처리기사] 데이터 모델 3요소와 DB 설계 단계](https://velog.io/@jedi/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8-3%EC%9A%94%EC%86%8C%EC%99%80-DB-%EC%84%A4%EA%B3%84-%EB%8B%A8%EA%B3%84) | [@jedi](https://velog.io/@jedi) |
+| 2026.10.06 | [엔비디아가 투자한 리플렉션AI, 501B 파라미터 오픈웨이트 모델 '빔' 공개](https://velog.io/@bbzjun/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%EA%B0%80-%ED%88%AC%EC%9E%90%ED%95%9C-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98ai-501b-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EC%98%A4%ED%94%88%EC%9B%A8%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EB%8D%B8-%EB%B9%94-%EA%B3%B5%EA%B0%9C-2026-10-05) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.10.06 | [일기장처럼 쓴 클로드가 신고했다…앤트로픽 제보로 중범죄 기소된 플로리다 여성](https://velog.io/@bbzjun/%EC%9D%BC%EA%B8%B0%EC%9E%A5%EC%B2%98%EB%9F%BC-%EC%93%B4-%ED%81%B4%EB%A1%9C%EB%93%9C%EA%B0%80-%EC%8B%A0%EA%B3%A0%ED%96%88%EB%8B%A4%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD-%EC%A0%9C%EB%B3%B4%EB%A1%9C-%EC%A4%91%EB%B2%94%EC%A3%84-%EA%B8%B0%EC%86%8C%EB%90%9C-%ED%94%8C%EB%A1%9C%EB%A6%AC%EB%8B%A4-%EC%97%AC%EC%84%B1-2026-10-05) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.10.06 | [직접 만들고, 부딪히고, 기록하기](https://velog.io/@jedi/%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EB%B6%80%EB%94%AA%ED%9E%88%EA%B3%A0-%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B8%B0) | [@jedi](https://velog.io/@jedi) |
+| 2026.10.06 | [신한·KB국민은행까지 뚫렸다…AI 공격도구 'ARTEX'發 전 금융권 보안 비상](https://velog.io/@bbzjun/%EC%8B%A0%ED%95%9Ckb%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89%EA%B9%8C%EC%A7%80-%EB%9A%AB%EB%A0%B8%EB%8B%A4ai-%EA%B3%B5%EA%B2%A9%EB%8F%84%EA%B5%AC-artex%E7%99%BC-%EC%A0%84-%EA%B8%88%EC%9C%B5%EA%B6%8C-%EB%B3%B4%EC%95%88-%EB%B9%84%EC%83%81-2026-10-05) | [@bbzjun](https://velog.io/@bbzjun) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
