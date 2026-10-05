@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.05 | [[프로그래머스] 카운트 다운](https://velog.io/@j_keun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%B9%B4%EC%9A%B4%ED%8A%B8-%EB%8B%A4%EC%9A%B4) | [@j_keun](https://velog.io/@j_keun) |
-| 2026.10.05 | [26O05e](https://velog.io/@youngkyoo_kim/26O05e) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.10.05 | [[프로그래머스] 연속 펄스 부분 수열의 합](https://velog.io/@j_keun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%97%B0%EC%86%8D-%ED%8E%84%EC%8A%A4-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9) | [@j_keun](https://velog.io/@j_keun) |
-| 2026.10.05 | [[Malware]](https://velog.io/@everysnsrkf/2026-10-05) | [@everysnsrkf](https://velog.io/@everysnsrkf) |
-| 2026.10.05 | [[VPN]](https://velog.io/@everysnsrkf/VPN) | [@everysnsrkf](https://velog.io/@everysnsrkf) |
-| 2026.10.05 | [통제를 벗어난 지능과 플랫폼의 쇄국](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-05) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.05 | [k진수에서 소수 개수 구하기_복습3](https://velog.io/@hi_soap/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C-%EC%86%8C%EC%88%98-%EA%B0%9C%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0%EB%B3%B5%EC%8A%B53) | [@hi_soap](https://velog.io/@hi_soap) |
+| 2026.10.05 | [Crypto Review (1)](https://velog.io/@dltldus2005/Crypto-Review-1) | [@dltldus2005](https://velog.io/@dltldus2005) |
+| 2026.10.05 | [Real MySQL InnoDB 버퍼 풀 · 리두 로그 · 더블라이트 버퍼](https://velog.io/@quill_kim/Real-MySQL-InnoDB-%EB%B2%84%ED%8D%BC-%ED%92%80-%EB%A6%AC%EB%91%90-%EB%A1%9C%EA%B7%B8-%EB%8D%94%EB%B8%94%EB%9D%BC%EC%9D%B4%ED%8A%B8-%EB%B2%84%ED%8D%BC) | [@quill_kim](https://velog.io/@quill_kim) |
+| 2026.10.05 | [[C++ 서버] Overlapped 확장 구조체와 비동기 객체 생명주기 관리](https://velog.io/@sketchylabs/C-%EC%84%9C%EB%B2%84-Overlapped-%ED%99%95%EC%9E%A5-%EA%B5%AC%EC%A1%B0%EC%B2%B4%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EA%B4%80%EB%A6%AC) | [@sketchylabs](https://velog.io/@sketchylabs) |
+| 2026.10.05 | [Mimic Joint 동작 문제](https://velog.io/@elder-node/Mimic-Joint-%EB%8F%99%EC%9E%91-%EB%AC%B8%EC%A0%9C) | [@elder-node](https://velog.io/@elder-node) |
+| 2026.10.05 | [[논문리뷰] GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis (증거 그래프 기반 실무 에이전트 데이터 합성)](https://velog.io/@mini_knows/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-GraphForge-Training-Working-Agents-with-Graph-Anchored-Workspace-Synthesis-%EC%A6%9D%EA%B1%B0-%EA%B7%B8%EB%9E%98%ED%94%84-%EA%B8%B0%EB%B0%98-%EC%8B%A4%EB%AC%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%A9%EC%84%B1) | [@mini_knows](https://velog.io/@mini_knows) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
