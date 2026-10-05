@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.05 | [k진수에서 소수 개수 구하기_복습3](https://velog.io/@hi_soap/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C-%EC%86%8C%EC%88%98-%EA%B0%9C%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0%EB%B3%B5%EC%8A%B53) | [@hi_soap](https://velog.io/@hi_soap) |
-| 2026.10.05 | [Crypto Review (1)](https://velog.io/@dltldus2005/Crypto-Review-1) | [@dltldus2005](https://velog.io/@dltldus2005) |
-| 2026.10.05 | [Real MySQL InnoDB 버퍼 풀 · 리두 로그 · 더블라이트 버퍼](https://velog.io/@quill_kim/Real-MySQL-InnoDB-%EB%B2%84%ED%8D%BC-%ED%92%80-%EB%A6%AC%EB%91%90-%EB%A1%9C%EA%B7%B8-%EB%8D%94%EB%B8%94%EB%9D%BC%EC%9D%B4%ED%8A%B8-%EB%B2%84%ED%8D%BC) | [@quill_kim](https://velog.io/@quill_kim) |
-| 2026.10.05 | [[C++ 서버] Overlapped 확장 구조체와 비동기 객체 생명주기 관리](https://velog.io/@sketchylabs/C-%EC%84%9C%EB%B2%84-Overlapped-%ED%99%95%EC%9E%A5-%EA%B5%AC%EC%A1%B0%EC%B2%B4%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EA%B4%80%EB%A6%AC) | [@sketchylabs](https://velog.io/@sketchylabs) |
-| 2026.10.05 | [Mimic Joint 동작 문제](https://velog.io/@elder-node/Mimic-Joint-%EB%8F%99%EC%9E%91-%EB%AC%B8%EC%A0%9C) | [@elder-node](https://velog.io/@elder-node) |
-| 2026.10.05 | [[논문리뷰] GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis (증거 그래프 기반 실무 에이전트 데이터 합성)](https://velog.io/@mini_knows/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-GraphForge-Training-Working-Agents-with-Graph-Anchored-Workspace-Synthesis-%EC%A6%9D%EA%B1%B0-%EA%B7%B8%EB%9E%98%ED%94%84-%EA%B8%B0%EB%B0%98-%EC%8B%A4%EB%AC%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%A9%EC%84%B1) | [@mini_knows](https://velog.io/@mini_knows) |
+| 2026.10.05 | [[C#] 가장 가까운 높은 관측소](https://velog.io/@tonny0305/C-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EB%86%92%EC%9D%80-%EA%B4%80%EC%B8%A1%EC%86%8C) | [@tonny0305](https://velog.io/@tonny0305) |
+| 2026.10.05 | [Threshing Day Game: 선택형 웹게임을 UX 관점에서 읽기](https://velog.io/@drewgrant616/Threshing-Day-Game-%EC%84%A0%ED%83%9D%ED%98%95-%EC%9B%B9%EA%B2%8C%EC%9E%84%EC%9D%84-UX-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EC%9D%BD%EA%B8%B0) | [@drewgrant616](https://velog.io/@drewgrant616) |
+| 2026.10.05 | ["이 형량 맞아?" 그 질문을 끝까지 따라가 보기로 했습니다](https://velog.io/@naerawnambul/%EC%9D%B4-%ED%98%95%EB%9F%89-%EB%A7%9E%EC%95%84-%EA%B7%B8-%EC%A7%88%EB%AC%B8%EC%9D%84-%EB%81%9D%EA%B9%8C%EC%A7%80-%EB%94%B0%EB%9D%BC%EA%B0%80-%EB%B3%B4%EA%B8%B0%EB%A1%9C-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4) | [@naerawnambul](https://velog.io/@naerawnambul) |
+| 2026.10.05 | [[Network] Maintenance](https://velog.io/@kym0165640/Network-Maintenance) | [@kym0165640](https://velog.io/@kym0165640) |
+| 2026.10.05 | [[회고] 레디스 구조](https://velog.io/@joho54/%ED%9A%8C%EA%B3%A0-%EB%A0%88%EB%94%94%EC%8A%A4-%EA%B5%AC%EC%A1%B0) | [@joho54](https://velog.io/@joho54) |
+| 2026.10.05 | [2034년까지의 유리섬유 강화 플라스틱(GFRP) 복합소재 시장 동향, 점유율 및 수요](https://velog.io/@industry/2034%EB%85%84%EA%B9%8C%EC%A7%80%EC%9D%98-%EC%9C%A0%EB%A6%AC%EC%84%AC%EC%9C%A0-%EA%B0%95%ED%99%94-%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1GFRP-%EB%B3%B5%ED%95%A9%EC%86%8C%EC%9E%AC-%EC%8B%9C%EC%9E%A5-%EB%8F%99%ED%96%A5-%EC%A0%90%EC%9C%A0%EC%9C%A8-%EB%B0%8F-%EC%88%98%EC%9A%94-nb4efmu6) | [@industry](https://velog.io/@industry) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
