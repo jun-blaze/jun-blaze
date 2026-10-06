@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.06 | [파인튜닝 - 2단계: SFT 데이터와 loss를 이해한다](https://velog.io/@fpalzntm/%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D-2%EB%8B%A8%EA%B3%84-SFT-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-loss%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%9C%EB%8B%A4) | [@fpalzntm](https://velog.io/@fpalzntm) |
-| 2026.10.06 | [파인튜닝 - 1단계: 사전학습, SFT, PEFT를 구분한다](https://velog.io/@fpalzntm/%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D-1%EB%8B%A8%EA%B3%84-%EC%82%AC%EC%A0%84%ED%95%99%EC%8A%B5-SFT-PEFT%EB%A5%BC-%EA%B5%AC%EB%B6%84%ED%95%9C%EB%8B%A4) | [@fpalzntm](https://velog.io/@fpalzntm) |
-| 2026.10.06 | [(원데이[무기명 테더가입가능]) 핸디캡/언더오버 연장미포함](https://velog.io/@mot597346/%EC%9B%90%EB%8D%B0%EC%9D%B4%EB%AC%B4%EA%B8%B0%EB%AA%85-%ED%85%8C%EB%8D%94%EA%B0%80%EC%9E%85%EA%B0%80%EB%8A%A5-%ED%95%B8%EB%94%94%EC%BA%A1%EC%96%B8%EB%8D%94%EC%98%A4%EB%B2%84-%EC%97%B0%EC%9E%A5%EB%AF%B8%ED%8F%AC%ED%95%A8-dsavu6g1) | [@mot597346](https://velog.io/@mot597346) |
-| 2026.10.06 | [HBM과 반도체 섹터는 왜 주목받는가](https://velog.io/@jangjb_115/HBM%EA%B3%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%84%B9%ED%84%B0%EB%8A%94-%EC%99%9C-%EC%A3%BC%EB%AA%A9%EB%B0%9B%EB%8A%94%EA%B0%80) | [@jangjb_115](https://velog.io/@jangjb_115) |
-| 2026.10.06 | [땅따먹기_복습3](https://velog.io/@hi_soap/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0%EB%B3%B5%EC%8A%B53) | [@hi_soap](https://velog.io/@hi_soap) |
-| 2026.10.06 | [겨울철 코 건조와 물때 걱정 한 번에 잡는 에어메이드 아쿠아마린 9002 가습기](https://velog.io/@luisuh/%EA%B2%A8%EC%9A%B8%EC%B2%A0-%EC%BD%94-%EA%B1%B4%EC%A1%B0%EC%99%80-%EB%AC%BC%EB%95%8C-%EA%B1%B1%EC%A0%95-%ED%95%9C-%EB%B2%88%EC%97%90-%EC%9E%A1%EB%8A%94-%EC%97%90%EC%96%B4%EB%A9%94%EC%9D%B4%EB%93%9C-%EC%95%84%EC%BF%A0%EC%95%84%EB%A7%88%EB%A6%B0-9002-%EA%B0%80%EC%8A%B5%EA%B8%B0-pn5sx5sq) | [@luisuh](https://velog.io/@luisuh) |
+| 2026.10.06 | [Cat Jump write up](https://velog.io/@zzsla/Cat-Jump-write-up) | [@zzsla](https://velog.io/@zzsla) |
+| 2026.10.06 | [2026-10-06 TIL](https://velog.io/@pastfood/2026-10-06-TIL) | [@pastfood](https://velog.io/@pastfood) |
+| 2026.10.06 | [261006 TIL](https://velog.io/@jennypsh/261006-TIL) | [@jennypsh](https://velog.io/@jennypsh) |
+| 2026.10.06 | [[TIL] PM 수업 33일차 \| 바이브 코딩과 내 서비스를 이해하는 데 필요한 기술 개념](https://velog.io/@so_so_hanna31/TIL-PM-%EC%88%98%EC%97%85-33%EC%9D%BC%EC%B0%A8-%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EA%B3%BC-%EB%82%B4-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%8D%B0-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B8%B0%EC%88%A0-%EA%B0%9C%EB%85%90) | [@so_so_hanna31](https://velog.io/@so_so_hanna31) |
+| 2026.10.06 | [하루에 끝내는 체험 수업](https://velog.io/@tonny0305/%ED%95%98%EB%A3%A8%EC%97%90-%EB%81%9D%EB%82%B4%EB%8A%94-%EC%B2%B4%ED%97%98-%EC%88%98%EC%97%85-zg7ponyk) | [@tonny0305](https://velog.io/@tonny0305) |
+| 2026.10.06 | [하루에 끝내는 체험 수업](https://velog.io/@tonny0305/%ED%95%98%EB%A3%A8%EC%97%90-%EB%81%9D%EB%82%B4%EB%8A%94-%EC%B2%B4%ED%97%98-%EC%88%98%EC%97%85) | [@tonny0305](https://velog.io/@tonny0305) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
