@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.06 | [Cat Jump write up](https://velog.io/@zzsla/Cat-Jump-write-up) | [@zzsla](https://velog.io/@zzsla) |
-| 2026.10.06 | [2026-10-06 TIL](https://velog.io/@pastfood/2026-10-06-TIL) | [@pastfood](https://velog.io/@pastfood) |
-| 2026.10.06 | [261006 TIL](https://velog.io/@jennypsh/261006-TIL) | [@jennypsh](https://velog.io/@jennypsh) |
-| 2026.10.06 | [[TIL] PM 수업 33일차 \| 바이브 코딩과 내 서비스를 이해하는 데 필요한 기술 개념](https://velog.io/@so_so_hanna31/TIL-PM-%EC%88%98%EC%97%85-33%EC%9D%BC%EC%B0%A8-%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EA%B3%BC-%EB%82%B4-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%8D%B0-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B8%B0%EC%88%A0-%EA%B0%9C%EB%85%90) | [@so_so_hanna31](https://velog.io/@so_so_hanna31) |
-| 2026.10.06 | [하루에 끝내는 체험 수업](https://velog.io/@tonny0305/%ED%95%98%EB%A3%A8%EC%97%90-%EB%81%9D%EB%82%B4%EB%8A%94-%EC%B2%B4%ED%97%98-%EC%88%98%EC%97%85-zg7ponyk) | [@tonny0305](https://velog.io/@tonny0305) |
-| 2026.10.06 | [하루에 끝내는 체험 수업](https://velog.io/@tonny0305/%ED%95%98%EB%A3%A8%EC%97%90-%EB%81%9D%EB%82%B4%EB%8A%94-%EC%B2%B4%ED%97%98-%EC%88%98%EC%97%85) | [@tonny0305](https://velog.io/@tonny0305) |
+| 2026.10.07 | [LLM Wiki 구축기 - 문서 266개, 저장할 때마다 13종 검사를 통과해야 한다.](https://velog.io/@kyeong9743/LLM-Wiki-%EA%B5%AC%EC%B6%95%EA%B8%B0-%EB%AC%B8%EC%84%9C-266%EA%B0%9C-%EC%A0%80%EC%9E%A5%ED%95%A0-%EB%95%8C%EB%A7%88%EB%8B%A4-13%EC%A2%85-%EA%B2%80%EC%82%AC%EB%A5%BC-%ED%86%B5%EA%B3%BC%ED%95%B4%EC%95%BC-%ED%95%9C%EB%8B%A4) | [@kyeong9743](https://velog.io/@kyeong9743) |
+| 2026.10.07 | [매일 1% 성장하기 DAY-36](https://velog.io/@pingu_122/%EB%A7%A4%EC%9D%BC-1-%EC%84%B1%EC%9E%A5%ED%95%98%EA%B8%B0-DAY-36) | [@pingu_122](https://velog.io/@pingu_122) |
+| 2026.10.07 | [26O06c](https://velog.io/@youngkyoo_kim/26O06c) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.07 | [26O06b2](https://velog.io/@youngkyoo_kim/26O06b2) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.07 | [정보처리기사 실기 결합도 응집도 순서(문제 풀이)](https://velog.io/@pingu_122/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B2%B0%ED%95%A9%EB%8F%84-%EC%9D%91%EC%A7%91%EB%8F%84-%EC%88%9C%EC%84%9C%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4) | [@pingu_122](https://velog.io/@pingu_122) |
+| 2026.10.07 | [26O06b1](https://velog.io/@youngkyoo_kim/26O06b1) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
