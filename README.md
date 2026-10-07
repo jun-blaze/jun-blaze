@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.07 | [[ 졸업작품 기록 (69) ]](https://velog.io/@xorms/%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88-%EA%B8%B0%EB%A1%9D-69) | [@xorms](https://velog.io/@xorms) |
-| 2026.10.07 | [영상 인코딩을 빠르게 하기 위한 노력들](https://velog.io/@ssomae/%EC%98%81%EC%83%81-%EC%9D%B8%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%85%B8%EB%A0%A5%EB%93%A4-jm5s6egg) | [@ssomae](https://velog.io/@ssomae) |
-| 2026.10.07 | [Next.js 이렇게 쓰면 느립니다 3 — Suspense](https://velog.io/@k-svelte-master/nextjs-slow-3-suspense-streaming-waterfall) | [@k-svelte-master](https://velog.io/@k-svelte-master) |
-| 2026.10.07 | [캐시 히트율 6%와 오해(1)](https://velog.io/@whatmakesaman/%EC%BA%90%EC%8B%9C-%ED%9E%88%ED%8A%B8%EC%9C%A8-6%EC%99%80-%EC%98%A4%ED%95%B4) | [@whatmakesaman](https://velog.io/@whatmakesaman) |
-| 2026.10.07 | [2026.10.07](https://velog.io/@jabcho7/2026.10.07) | [@jabcho7](https://velog.io/@jabcho7) |
-| 2026.10.07 | [[ 졸업작품 기록 (68) ]](https://velog.io/@xorms/%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88-%EA%B8%B0%EB%A1%9D-68) | [@xorms](https://velog.io/@xorms) |
+| 2026.10.07 | [맥에서 PostgreSQL 설치 후 Spring Boot 연동하기](https://velog.io/@hy337/%EB%A7%A5%EC%97%90%EC%84%9C-PostgreSQL-%EC%84%A4%EC%B9%98-%ED%9B%84-Spring-Boot-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0) | [@hy337](https://velog.io/@hy337) |
+| 2026.10.07 | [[테라폼폼푸린] CI/CD 제약 설정](https://velog.io/@jihyeon02/%ED%85%8C%EB%9D%BC%ED%8F%BC%ED%8F%BC%ED%91%B8%EB%A6%B0-CICD-%EC%A0%9C%EC%95%BD-%EC%84%A4%EC%A0%95-jdeqna12) | [@jihyeon02](https://velog.io/@jihyeon02) |
+| 2026.10.07 | [혼자공부하는 네트워크 복습 DAY6](https://velog.io/@pingu_122/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%B5%EC%8A%B5-DAY6) | [@pingu_122](https://velog.io/@pingu_122) |
+| 2026.10.07 | [작성한 HTML과 CSS는 어떻게 화면이 될까?](https://velog.io/@minsik1014/%EC%9E%91%EC%84%B1%ED%95%9C-HTML%EA%B3%BC-CSS%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%99%94%EB%A9%B4%EC%9D%B4-%EB%90%A0%EA%B9%8C) | [@minsik1014](https://velog.io/@minsik1014) |
+| 2026.10.07 | [[객체지향설계] 커머스 과제로 이해하는 객체지향 설계 원칙](https://velog.io/@juhan913/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%84%A4%EA%B3%84-%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EA%B3%BC%EC%A0%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-%EC%9B%90%EC%B9%99) | [@juhan913](https://velog.io/@juhan913) |
+| 2026.10.07 | [[A/B test] 실제 실험 운영 설계](https://velog.io/@woolljy/AB-test-%EC%8B%A4%EC%A0%9C-%EC%8B%A4%ED%97%98-%EC%9A%B4%EC%98%81-%EC%84%A4%EA%B3%84) | [@woolljy](https://velog.io/@woolljy) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
