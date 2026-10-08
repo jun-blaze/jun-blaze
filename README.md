@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.08 | [26O07n2](https://velog.io/@youngkyoo_kim/26O07n2) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.10.08 | [📕언리얼엔진5로 개발하는 멀티플레이 게임 - 5](https://velog.io/@eorua1102/%EC%96%B8%EB%A6%AC%EC%96%BC%EC%97%94%EC%A7%845%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94-%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%88%EC%9D%B4-%EA%B2%8C%EC%9E%84-5) | [@eorua1102](https://velog.io/@eorua1102) |
-| 2026.10.08 | [3만 픽셀짜리 웹툰을 말풍선 안 자르고 나누는 법 (OCR 전처리)](https://velog.io/@peterslab/webtoon-slicing-ocr) | [@peterslab](https://velog.io/@peterslab) |
-| 2026.10.08 | [[TIL-261008] java 4~6강](https://velog.io/@dong11ro/TIL-261008-java-46%EA%B0%95) | [@dong11ro](https://velog.io/@dong11ro) |
-| 2026.10.08 | [[Zero to ML Master #05] 미분 쉽게 이해하기 — 수치미분·연쇄법칙·그래디언트 (딥러닝 수학, 1부)](https://velog.io/@otololism/zero-to-ml-master-05-derivative-chain-rule-gradient) | [@otololism](https://velog.io/@otololism) |
-| 2026.10.08 | [memory basic](https://velog.io/@houston_guy2/memory-basic) | [@houston_guy2](https://velog.io/@houston_guy2) |
+| 2026.10.08 | [Pod 배포부터 CrashLoopBackOff 해결까지, K8s Games로 쿠버네티스 배우기](https://velog.io/@okorion/Pod-%EB%B0%B0%ED%8F%AC%EB%B6%80%ED%84%B0-CrashLoopBackOff-%ED%95%B4%EA%B2%B0%EA%B9%8C%EC%A7%80-K8s-Games%EB%A1%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EB%B0%B0%EC%9A%B0%EA%B8%B0) | [@okorion](https://velog.io/@okorion) |
+| 2026.10.08 | [LMQL, LLM 출력 형식을 코드로 제어하는 Python 기반 언어](https://velog.io/@okorion/LMQL-LLM-%EC%B6%9C%EB%A0%A5-%ED%98%95%EC%8B%9D%EC%9D%84-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94-Python-%EA%B8%B0%EB%B0%98-%EC%96%B8%EC%96%B4-p721ee6j) | [@okorion](https://velog.io/@okorion) |
+| 2026.10.08 | [도메인 이해 : POD 서비스의 이해와 개발자의 역할](https://velog.io/@rsy991225/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%9D%B4%ED%95%B4-POD-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94) | [@rsy991225](https://velog.io/@rsy991225) |
+| 2026.10.08 | [Penpot, CSS Grid와 디자인 토큰으로 개발까지 연결하는 오픈소스 Figma](https://velog.io/@okorion/Penpot-CSS-Grid%EC%99%80-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%86%A0%ED%81%B0%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C%EA%B9%8C%EC%A7%80-%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-Figma) | [@okorion](https://velog.io/@okorion) |
+| 2026.10.08 | [[투빅스 6주차 정규세션] 멀티모달 심화](https://velog.io/@jiye0710/%ED%88%AC%EB%B9%85%EC%8A%A4-6%EC%A3%BC%EC%B0%A8-%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%8B%AC%ED%99%94) | [@jiye0710](https://velog.io/@jiye0710) |
+| 2026.10.08 | [Agentlas OS, Codex·Claude에서 AI 전문가 팀을 꾸리는 멀티 에이전트](https://velog.io/@okorion/Agentlas-OS-CodexClaude%EC%97%90%EC%84%9C-%EC%9E%91%EC%97%85%EB%A7%88%EB%8B%A4-AI-%EC%A0%84%EB%AC%B8%EA%B0%80-%ED%8C%80%EC%9D%84-%EA%BE%B8%EB%A6%AC%EB%8A%94-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8) | [@okorion](https://velog.io/@okorion) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
