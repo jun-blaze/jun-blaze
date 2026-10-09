@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.09 | [1352D. Alice, Bob and Candies](https://velog.io/@justbestryuna/1352D) | [@justbestryuna](https://velog.io/@justbestryuna) |
-| 2026.10.09 | [의료 분야 블록체인 시장: 안전하고 투명하며 상호 연결된 의료 데이터 솔루션의 도입을 견인하는 요인은 무엇인가?](https://velog.io/@newstrendsglob/%EC%9D%98%EB%A3%8C-%EB%B6%84%EC%95%BC-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%8B%9C%EC%9E%A5-%EC%95%88%EC%A0%84%ED%95%98%EA%B3%A0-%ED%88%AC%EB%AA%85%ED%95%98%EB%A9%B0-%EC%83%81%ED%98%B8-%EC%97%B0%EA%B2%B0%EB%90%9C-%EC%9D%98%EB%A3%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%86%94%EB%A3%A8%EC%85%98%EC%9D%98-%EB%8F%84%EC%9E%85%EC%9D%84-%EA%B2%AC%EC%9D%B8%ED%95%98%EB%8A%94-%EC%9A%94%EC%9D%B8%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80) | [@newstrendsglob](https://velog.io/@newstrendsglob) |
-| 2026.10.09 | [[Elixir for Sale 개발일지 #5] 시안을 양조장 안에 놓아봤다](https://velog.io/@antonio129/Elixir-for-Sale-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-5-%EC%8B%9C%EC%95%88%EC%9D%84-%EC%96%91%EC%A1%B0%EC%9E%A5-%EC%95%88%EC%97%90-%EB%86%93%EC%95%84%EB%B4%A4%EB%8B%A4) | [@antonio129](https://velog.io/@antonio129) |
-| 2026.10.09 | [ABC136D. Gathering Children](https://velog.io/@justbestryuna/ABC136D) | [@justbestryuna](https://velog.io/@justbestryuna) |
-| 2026.10.09 | [HTML이 화면이 되기까지: 브라우저 렌더링 과정](https://velog.io/@ziq0ui/HTML%EC%9D%B4-%ED%99%94%EB%A9%B4%EC%9D%B4-%EB%90%98%EA%B8%B0%EA%B9%8C%EC%A7%80-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95) | [@ziq0ui](https://velog.io/@ziq0ui) |
-| 2026.10.09 | [Event Sourcing에서 CQRS까지 (1) - 문제 인지](https://velog.io/@modev7943/Event-Sourcing%EC%97%90%EC%84%9C-CQRS%EA%B9%8C%EC%A7%80-1-%EB%AC%B8%EC%A0%9C-%EC%9D%B8%EC%A7%80) | [@modev7943](https://velog.io/@modev7943) |
+| 2026.10.10 | [PortSwigger Academy - Authentication](https://velog.io/@skiende74/PortSwigger-Academy-Authentication) | [@skiende74](https://velog.io/@skiende74) |
+| 2026.10.10 | [ONGRID 아키텍처 분석: 3D 그래프에서 0토큰 판정까지](https://velog.io/@aitechjo/ONGRID-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B6%84%EC%84%9D-3D-%EA%B7%B8%EB%9E%98%ED%94%84%EC%97%90%EC%84%9C-0%ED%86%A0%ED%81%B0-%ED%8C%90%EC%A0%95%EA%B9%8C%EC%A7%80) | [@aitechjo](https://velog.io/@aitechjo) |
+| 2026.10.10 | [[TTS Overlay 제작기] 합성 360개를 측정하고, 연결한 모델 두 개를 다시 되돌렸다 - 2편](https://velog.io/@kyeong9743/TTS-Overlay-2) | [@kyeong9743](https://velog.io/@kyeong9743) |
+| 2026.10.10 | [[TTS Overlay 제작기] 0.13초 만에 말한다, 그 전에 문제가 13번 있었다 - 1편](https://velog.io/@kyeong9743/TTS-Overlay-1) | [@kyeong9743](https://velog.io/@kyeong9743) |
+| 2026.10.10 | [텍스트 응답을 넘어선 온디맨드 소프트웨어와 생태계 통합](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-10) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.10 | [가상 컴퓨터를 품은 개인용 에이전트의 실무 완결법](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-10-10) | [@sdm77](https://velog.io/@sdm77) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
