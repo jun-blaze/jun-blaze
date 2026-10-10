@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.11 | [[장애 주입 6] Chaos Mesh 기능 가이드 — 장애 유형부터 Workflow까지](https://velog.io/@goleta413/fault-injection-6-chaos-mesh-features) | [@goleta413](https://velog.io/@goleta413) |
-| 2026.10.11 | [[장애 주입 5] Chaos Mesh 실전 검증과 관측·권한 테스트](https://velog.io/@goleta413/fault-injection-5-observation-rbac) | [@goleta413](https://velog.io/@goleta413) |
-| 2026.10.11 | [[장애 주입 4] LiteLLM과 WireMock으로 Retry·Fallback 검증하기](https://velog.io/@goleta413/fault-injection-4-litellm-wiremock) | [@goleta413](https://velog.io/@goleta413) |
-| 2026.10.11 | [[장애 주입 3] AIOps 평가와 UNKNOWN·복구 판정 설계](https://velog.io/@goleta413/fault-injection-3-aiops-evaluation) | [@goleta413](https://velog.io/@goleta413) |
-| 2026.10.11 | [가드 훅이 무해한 명령을 막았다 — 교차 절 오탐을 절 단위 판정으로 고치기](https://velog.io/@dch0202/%EA%B0%80%EB%93%9C-%ED%9B%85%EC%9D%B4-%EB%AC%B4%ED%95%B4%ED%95%9C-%EB%AA%85%EB%A0%B9%EC%9D%84-%EB%A7%89%EC%95%98%EB%8B%A4-%EA%B5%90%EC%B0%A8-%EC%A0%88-%EC%98%A4%ED%83%90%EC%9D%84-%EC%A0%88-%EB%8B%A8%EC%9C%84-%ED%8C%90%EC%A0%95%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EC%B9%98%EA%B8%B0-h5r8yvh6) | [@dch0202](https://velog.io/@dch0202) |
-| 2026.10.11 | [[장애 주입 2] Chaos Mesh 설치와 Dashboard 실습](https://velog.io/@goleta413/fault-injection-2-chaos-mesh-lab) | [@goleta413](https://velog.io/@goleta413) |
+| 2026.10.11 | [소프트웨어 복제와 자동 코딩이 가져온 지능의 재귀적 진화](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-11-3) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.11 | [에이전트 시대의 비용 병목을 뚫는 아키텍처 최적화](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-11-2) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.11 | [차세대 AI 모델과 자가 개선 기술의 도약 그리고 2026년 AI 트렌드](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-11) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.11 | [고성능 LLM과 음성 프롬프팅을 활용한 실시간 웹 게임 개발 워크플로](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-10-11) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.11 | [원자력발전소와 원자력잠수함 추진 동력](https://velog.io/@sechun/%EC%9B%90%EC%9E%90%EB%A0%A5%EB%B0%9C%EC%A0%84%EC%86%8C%EC%99%80-%EC%9B%90%EC%9E%90%EB%A0%A5%EC%B6%94%EC%A7%84%EC%9E%A0%EC%88%98%ED%95%A8) | [@sechun](https://velog.io/@sechun) |
+| 2026.10.11 | [[SlateKR #179] 홈 캐러셀 정비와 캐시되지 않던 다우 시세](https://velog.io/@dh82680/SlateKR-179-%ED%99%88-%EC%BA%90%EB%9F%AC%EC%85%80-%EC%A0%95%EB%B9%84%EC%99%80-%EC%BA%90%EC%8B%9C%EB%90%98%EC%A7%80-%EC%95%8A%EB%8D%98-%EB%8B%A4%EC%9A%B0-%EC%8B%9C%EC%84%B8) | [@dh82680](https://velog.io/@dh82680) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
