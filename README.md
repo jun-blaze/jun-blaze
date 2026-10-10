@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.10 | [PortSwigger Academy - Authentication](https://velog.io/@skiende74/PortSwigger-Academy-Authentication) | [@skiende74](https://velog.io/@skiende74) |
-| 2026.10.10 | [ONGRID 아키텍처 분석: 3D 그래프에서 0토큰 판정까지](https://velog.io/@aitechjo/ONGRID-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B6%84%EC%84%9D-3D-%EA%B7%B8%EB%9E%98%ED%94%84%EC%97%90%EC%84%9C-0%ED%86%A0%ED%81%B0-%ED%8C%90%EC%A0%95%EA%B9%8C%EC%A7%80) | [@aitechjo](https://velog.io/@aitechjo) |
-| 2026.10.10 | [[TTS Overlay 제작기] 합성 360개를 측정하고, 연결한 모델 두 개를 다시 되돌렸다 - 2편](https://velog.io/@kyeong9743/TTS-Overlay-2) | [@kyeong9743](https://velog.io/@kyeong9743) |
-| 2026.10.10 | [[TTS Overlay 제작기] 0.13초 만에 말한다, 그 전에 문제가 13번 있었다 - 1편](https://velog.io/@kyeong9743/TTS-Overlay-1) | [@kyeong9743](https://velog.io/@kyeong9743) |
-| 2026.10.10 | [텍스트 응답을 넘어선 온디맨드 소프트웨어와 생태계 통합](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-10) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.10 | [가상 컴퓨터를 품은 개인용 에이전트의 실무 완결법](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-10-10) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.10 | [Queue 요세푸스 문제](https://velog.io/@xxsungh0/Queue-%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4-%EB%AC%B8%EC%A0%9C) | [@xxsungh0](https://velog.io/@xxsungh0) |
+| 2026.10.10 | [2026.10.10 디벨로켓 언리얼5 개인 프로젝트 개발 노트](https://velog.io/@m00nhyunw00/2026.10.10-%EB%94%94%EB%B2%A8%EB%A1%9C%EC%BC%93-%EC%96%B8%EB%A6%AC%EC%96%BC5-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EB%85%B8%ED%8A%B8) | [@m00nhyunw00](https://velog.io/@m00nhyunw00) |
+| 2026.10.10 | [2026.10.10 Summary](https://velog.io/@m00nhyunw00/2026.10.10-Summary) | [@m00nhyunw00](https://velog.io/@m00nhyunw00) |
+| 2026.10.10 | [[[명품놀이터 시원상사]] 신규입플 3+2/5+3/10+5 \| 당첨상한3천만 \| 라이브베팅 조합가능](https://velog.io/@mot597346/%EB%AA%85%ED%92%88%EB%86%80%EC%9D%B4%ED%84%B0-%EC%8B%9C%EC%9B%90%EC%83%81%EC%82%AC-%EC%8B%A0%EA%B7%9C%EC%9E%85%ED%94%8C-3253105-%EB%8B%B9%EC%B2%A8%EC%83%81%ED%95%9C3%EC%B2%9C%EB%A7%8C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%B2%A0%ED%8C%85-%EC%A1%B0%ED%95%A9%EA%B0%80%EB%8A%A5-l44htzxd) | [@mot597346](https://velog.io/@mot597346) |
+| 2026.10.10 | [[DXStudy - DirectX 11] 두 텍스처를 합성하는 멀티 텍스처링](https://velog.io/@elvpfhhrm/DXStudy-DirectX-11-%EB%91%90-%ED%85%8D%EC%8A%A4%EC%B2%98%EB%A5%BC-%ED%95%A9%EC%84%B1%ED%95%98%EB%8A%94-%EB%A9%80%ED%8B%B0-%ED%85%8D%EC%8A%A4%EC%B2%98%EB%A7%81) | [@elvpfhhrm](https://velog.io/@elvpfhhrm) |
+| 2026.10.10 | [[Mid/Side]](https://velog.io/@tejava7177/MidSide) | [@tejava7177](https://velog.io/@tejava7177) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
