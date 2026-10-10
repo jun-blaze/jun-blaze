@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.10 | [CSS 캐스케이딩과 시맨틱 태그](https://velog.io/@enrlvy1022/CSS-%EC%BA%90%EC%8A%A4%EC%BC%80%EC%9D%B4%EB%94%A9%EA%B3%BC-%EC%8B%9C%EB%A7%A8%ED%8B%B1-%ED%83%9C%EA%B7%B8) | [@enrlvy1022](https://velog.io/@enrlvy1022) |
-| 2026.10.10 | [[SK네트웍스 Family 엔코아AI캠퍼스] AI 오케스트레이션 캠프 3기_10월 6~7일 회고](https://velog.io/@pdistudy_02/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%BA%A0%ED%94%84-3%EA%B8%B010%EC%9B%94-67%EC%9D%BC-%ED%9A%8C%EA%B3%A0) | [@pdistudy_02](https://velog.io/@pdistudy_02) |
-| 2026.10.10 | [스프링 입문](https://velog.io/@ysh200/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8) | [@ysh200](https://velog.io/@ysh200) |
-| 2026.10.10 | [SPA·CSR·SSR 완벽 정리 - SEO, 성능, SSG·ISR까지 연결해서 이해하기](https://velog.io/@proella8/SPACSRSSR-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-SEO-%EC%84%B1%EB%8A%A5-SSGISR%EA%B9%8C%EC%A7%80-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@proella8](https://velog.io/@proella8) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.10.11 | [[장애 주입 6] Chaos Mesh 기능 가이드 — 장애 유형부터 Workflow까지](https://velog.io/@goleta413/fault-injection-6-chaos-mesh-features) | [@goleta413](https://velog.io/@goleta413) |
+| 2026.10.11 | [[장애 주입 5] Chaos Mesh 실전 검증과 관측·권한 테스트](https://velog.io/@goleta413/fault-injection-5-observation-rbac) | [@goleta413](https://velog.io/@goleta413) |
+| 2026.10.11 | [[장애 주입 4] LiteLLM과 WireMock으로 Retry·Fallback 검증하기](https://velog.io/@goleta413/fault-injection-4-litellm-wiremock) | [@goleta413](https://velog.io/@goleta413) |
+| 2026.10.11 | [[장애 주입 3] AIOps 평가와 UNKNOWN·복구 판정 설계](https://velog.io/@goleta413/fault-injection-3-aiops-evaluation) | [@goleta413](https://velog.io/@goleta413) |
+| 2026.10.11 | [가드 훅이 무해한 명령을 막았다 — 교차 절 오탐을 절 단위 판정으로 고치기](https://velog.io/@dch0202/%EA%B0%80%EB%93%9C-%ED%9B%85%EC%9D%B4-%EB%AC%B4%ED%95%B4%ED%95%9C-%EB%AA%85%EB%A0%B9%EC%9D%84-%EB%A7%89%EC%95%98%EB%8B%A4-%EA%B5%90%EC%B0%A8-%EC%A0%88-%EC%98%A4%ED%83%90%EC%9D%84-%EC%A0%88-%EB%8B%A8%EC%9C%84-%ED%8C%90%EC%A0%95%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EC%B9%98%EA%B8%B0-h5r8yvh6) | [@dch0202](https://velog.io/@dch0202) |
+| 2026.10.11 | [[장애 주입 2] Chaos Mesh 설치와 Dashboard 실습](https://velog.io/@goleta413/fault-injection-2-chaos-mesh-lab) | [@goleta413](https://velog.io/@goleta413) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
