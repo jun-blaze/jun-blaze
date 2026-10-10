@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.10 | [Queue 요세푸스 문제](https://velog.io/@xxsungh0/Queue-%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4-%EB%AC%B8%EC%A0%9C) | [@xxsungh0](https://velog.io/@xxsungh0) |
-| 2026.10.10 | [2026.10.10 디벨로켓 언리얼5 개인 프로젝트 개발 노트](https://velog.io/@m00nhyunw00/2026.10.10-%EB%94%94%EB%B2%A8%EB%A1%9C%EC%BC%93-%EC%96%B8%EB%A6%AC%EC%96%BC5-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EB%85%B8%ED%8A%B8) | [@m00nhyunw00](https://velog.io/@m00nhyunw00) |
-| 2026.10.10 | [2026.10.10 Summary](https://velog.io/@m00nhyunw00/2026.10.10-Summary) | [@m00nhyunw00](https://velog.io/@m00nhyunw00) |
-| 2026.10.10 | [[[명품놀이터 시원상사]] 신규입플 3+2/5+3/10+5 \| 당첨상한3천만 \| 라이브베팅 조합가능](https://velog.io/@mot597346/%EB%AA%85%ED%92%88%EB%86%80%EC%9D%B4%ED%84%B0-%EC%8B%9C%EC%9B%90%EC%83%81%EC%82%AC-%EC%8B%A0%EA%B7%9C%EC%9E%85%ED%94%8C-3253105-%EB%8B%B9%EC%B2%A8%EC%83%81%ED%95%9C3%EC%B2%9C%EB%A7%8C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%B2%A0%ED%8C%85-%EC%A1%B0%ED%95%A9%EA%B0%80%EB%8A%A5-l44htzxd) | [@mot597346](https://velog.io/@mot597346) |
-| 2026.10.10 | [[DXStudy - DirectX 11] 두 텍스처를 합성하는 멀티 텍스처링](https://velog.io/@elvpfhhrm/DXStudy-DirectX-11-%EB%91%90-%ED%85%8D%EC%8A%A4%EC%B2%98%EB%A5%BC-%ED%95%A9%EC%84%B1%ED%95%98%EB%8A%94-%EB%A9%80%ED%8B%B0-%ED%85%8D%EC%8A%A4%EC%B2%98%EB%A7%81) | [@elvpfhhrm](https://velog.io/@elvpfhhrm) |
-| 2026.10.10 | [[Mid/Side]](https://velog.io/@tejava7177/MidSide) | [@tejava7177](https://velog.io/@tejava7177) |
+| 2026.10.10 | [CSS 캐스케이딩과 시맨틱 태그](https://velog.io/@enrlvy1022/CSS-%EC%BA%90%EC%8A%A4%EC%BC%80%EC%9D%B4%EB%94%A9%EA%B3%BC-%EC%8B%9C%EB%A7%A8%ED%8B%B1-%ED%83%9C%EA%B7%B8) | [@enrlvy1022](https://velog.io/@enrlvy1022) |
+| 2026.10.10 | [[SK네트웍스 Family 엔코아AI캠퍼스] AI 오케스트레이션 캠프 3기_10월 6~7일 회고](https://velog.io/@pdistudy_02/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-%EC%97%94%EC%BD%94%EC%95%84AI%EC%BA%A0%ED%8D%BC%EC%8A%A4-AI-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%BA%A0%ED%94%84-3%EA%B8%B010%EC%9B%94-67%EC%9D%BC-%ED%9A%8C%EA%B3%A0) | [@pdistudy_02](https://velog.io/@pdistudy_02) |
+| 2026.10.10 | [스프링 입문](https://velog.io/@ysh200/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8) | [@ysh200](https://velog.io/@ysh200) |
+| 2026.10.10 | [SPA·CSR·SSR 완벽 정리 - SEO, 성능, SSG·ISR까지 연결해서 이해하기](https://velog.io/@proella8/SPACSRSSR-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-SEO-%EC%84%B1%EB%8A%A5-SSGISR%EA%B9%8C%EC%A7%80-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@proella8](https://velog.io/@proella8) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
