@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.11 | [Advanced RAG - Query Rewriting과 Multi-Query로 검색 질문 개선하기](https://velog.io/@jujuju0/Advanced-RAG-Query-Rewriting%EA%B3%BC-Multi-Query%EB%A1%9C-%EA%B2%80%EC%83%89-%EC%A7%88%EB%AC%B8-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0) | [@jujuju0](https://velog.io/@jujuju0) |
-| 2026.10.11 | [Advanced RAG - Docling 구조 기반 청킹](https://velog.io/@jujuju0/Advanced-RAG-Docling-%EA%B5%AC%EC%A1%B0-%EA%B8%B0%EB%B0%98-%EC%B2%AD%ED%82%B9) | [@jujuju0](https://velog.io/@jujuju0) |
-| 2026.10.11 | [사진 2장으로 AI 랩 영상을 만들 수 있을까? RapDuo AI 활용법](https://velog.io/@daily_ai_fun/%EC%82%AC%EC%A7%84-2%EC%9E%A5%EC%9C%BC%EB%A1%9C-AI-%EB%9E%A9-%EC%98%81%EC%83%81%EC%9D%84-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-RapDuo-AI-%ED%99%9C%EC%9A%A9%EB%B2%95) | [@daily_ai_fun](https://velog.io/@daily_ai_fun) |
-| 2026.10.11 | [Naive RAG - Retriever와 LCEL로 RAG 파이프라인 완성하기](https://velog.io/@jujuju0/Naive-RAG-Retriever%EC%99%80-LCEL%EB%A1%9C-RAG-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%99%84%EC%84%B1%ED%95%98%EA%B8%B0) | [@jujuju0](https://velog.io/@jujuju0) |
-| 2026.10.11 | [Naive RAG - Embedding과 Vector DB(FAISS, Chroma) 이해하기](https://velog.io/@jujuju0/Naive-RAG-Embedding%EA%B3%BC-Vector-DBFAISS-Chroma-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@jujuju0](https://velog.io/@jujuju0) |
-| 2026.10.11 | [[TIL-261011] React 1~5강](https://velog.io/@dong11ro/TIL-261011-React-15%EA%B0%95) | [@dong11ro](https://velog.io/@dong11ro) |
+| 2026.10.11 | [Claude 리워드 해킹 사례 4건 — web_fetch 가드레일로 에이전트 인터넷 접근 잠그기](https://velog.io/@mini_knows/anthropic-internet-cutoff-reward-hacking-web-fetch) | [@mini_knows](https://velog.io/@mini_knows) |
+| 2026.10.11 | [YOLO11로 이안류 CCTV 객체 탐지하기](https://velog.io/@j_keun/YOLO11%EB%A1%9C-%EC%9D%B4%EC%95%88%EB%A5%98-CCTV-%EA%B0%9D%EC%B2%B4-%ED%83%90%EC%A7%80%ED%95%98%EA%B8%B0) | [@j_keun](https://velog.io/@j_keun) |
+| 2026.10.11 | [[UNION] 상속](https://velog.io/@peoplehumanman/UNION-%EC%83%81%EC%86%8D) | [@peoplehumanman](https://velog.io/@peoplehumanman) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
