@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.12 | [디자인패턴 공부하기](https://velog.io/@recording/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0) | [@recording](https://velog.io/@recording) |
-| 2026.10.12 | [[Kubernetes/Storage] StatefulSet과 PersistentVolume(PV/PVC)의 내부 동작 원리](https://velog.io/@eraaster/KubernetesStorage-StatefulSet%EA%B3%BC-PersistentVolumePVPVC%EC%9D%98-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC) | [@eraaster](https://velog.io/@eraaster) |
-| 2026.10.12 | [Next.js + Supabase 앱을 배포하기 전에 꼭 넣어야 할 RLS 정책 5가지](https://velog.io/@massvaiteam/Next.js-Supabase-%EC%95%B1%EC%9D%84-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EA%BC%AD-%EB%84%A3%EC%96%B4%EC%95%BC-%ED%95%A0-RLS-%EC%A0%95%EC%B1%85-5%EA%B0%80%EC%A7%80) | [@massvaiteam](https://velog.io/@massvaiteam) |
-| 2026.10.12 | [그린고래 설명 겸 병목 쿼리](https://velog.io/@gabury1/%EA%B7%B8%EB%A6%B0%EA%B3%A0%EB%9E%98-%EC%84%A4%EB%AA%85-%EA%B2%B8-%EB%B3%91%EB%AA%A9-%EC%BF%BC%EB%A6%AC) | [@gabury1](https://velog.io/@gabury1) |
-| 2026.10.12 | [[Spring] Spring AOP란?](https://velog.io/@kdoby/Spring-AOP-%EA%B4%80%EC%A0%90-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80) | [@kdoby](https://velog.io/@kdoby) |
-| 2026.10.12 | [MVC (Model-View-Controller)](https://velog.io/@cycling-lion-cub/MVC-Model-View-Controller) | [@cycling-lion-cub](https://velog.io/@cycling-lion-cub) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
+| 2026.02.03 | [조선개발실록 - 제6화: 기룡지술 (騎龍之術)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C6%ED%99%94-%EA%B8%B0%EB%A3%A1%EC%A7%80%EC%88%A0-%E9%A8%8E%E9%BE%8D%E4%B9%8B%E8%A1%93-l6pjn8jj) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
