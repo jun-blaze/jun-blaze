@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.11 | [소프트웨어 복제와 자동 코딩이 가져온 지능의 재귀적 진화](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-11-3) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.11 | [에이전트 시대의 비용 병목을 뚫는 아키텍처 최적화](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-11-2) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.11 | [차세대 AI 모델과 자가 개선 기술의 도약 그리고 2026년 AI 트렌드](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-11) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.11 | [고성능 LLM과 음성 프롬프팅을 활용한 실시간 웹 게임 개발 워크플로](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-10-11) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.11 | [원자력발전소와 원자력잠수함 추진 동력](https://velog.io/@sechun/%EC%9B%90%EC%9E%90%EB%A0%A5%EB%B0%9C%EC%A0%84%EC%86%8C%EC%99%80-%EC%9B%90%EC%9E%90%EB%A0%A5%EC%B6%94%EC%A7%84%EC%9E%A0%EC%88%98%ED%95%A8) | [@sechun](https://velog.io/@sechun) |
-| 2026.10.11 | [[SlateKR #179] 홈 캐러셀 정비와 캐시되지 않던 다우 시세](https://velog.io/@dh82680/SlateKR-179-%ED%99%88-%EC%BA%90%EB%9F%AC%EC%85%80-%EC%A0%95%EB%B9%84%EC%99%80-%EC%BA%90%EC%8B%9C%EB%90%98%EC%A7%80-%EC%95%8A%EB%8D%98-%EB%8B%A4%EC%9A%B0-%EC%8B%9C%EC%84%B8) | [@dh82680](https://velog.io/@dh82680) |
+| 2026.10.11 | [Advanced RAG - Query Rewriting과 Multi-Query로 검색 질문 개선하기](https://velog.io/@jujuju0/Advanced-RAG-Query-Rewriting%EA%B3%BC-Multi-Query%EB%A1%9C-%EA%B2%80%EC%83%89-%EC%A7%88%EB%AC%B8-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0) | [@jujuju0](https://velog.io/@jujuju0) |
+| 2026.10.11 | [Advanced RAG - Docling 구조 기반 청킹](https://velog.io/@jujuju0/Advanced-RAG-Docling-%EA%B5%AC%EC%A1%B0-%EA%B8%B0%EB%B0%98-%EC%B2%AD%ED%82%B9) | [@jujuju0](https://velog.io/@jujuju0) |
+| 2026.10.11 | [사진 2장으로 AI 랩 영상을 만들 수 있을까? RapDuo AI 활용법](https://velog.io/@daily_ai_fun/%EC%82%AC%EC%A7%84-2%EC%9E%A5%EC%9C%BC%EB%A1%9C-AI-%EB%9E%A9-%EC%98%81%EC%83%81%EC%9D%84-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-RapDuo-AI-%ED%99%9C%EC%9A%A9%EB%B2%95) | [@daily_ai_fun](https://velog.io/@daily_ai_fun) |
+| 2026.10.11 | [Naive RAG - Retriever와 LCEL로 RAG 파이프라인 완성하기](https://velog.io/@jujuju0/Naive-RAG-Retriever%EC%99%80-LCEL%EB%A1%9C-RAG-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%99%84%EC%84%B1%ED%95%98%EA%B8%B0) | [@jujuju0](https://velog.io/@jujuju0) |
+| 2026.10.11 | [Naive RAG - Embedding과 Vector DB(FAISS, Chroma) 이해하기](https://velog.io/@jujuju0/Naive-RAG-Embedding%EA%B3%BC-Vector-DBFAISS-Chroma-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@jujuju0](https://velog.io/@jujuju0) |
+| 2026.10.11 | [[TIL-261011] React 1~5강](https://velog.io/@dong11ro/TIL-261011-React-15%EA%B0%95) | [@dong11ro](https://velog.io/@dong11ro) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
