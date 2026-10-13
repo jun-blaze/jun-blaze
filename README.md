@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.13 | [FULL-TEXT INDEX 문제 해결](https://velog.io/@whd8200/FULL-TEXT-INDEX-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0) | [@whd8200](https://velog.io/@whd8200) |
-| 2026.10.13 | [비드래프트 VKORE 기술 해설: NPU LoRA와 Darwin ZTC를 연결하는 조건](https://velog.io/@aitechjo/vidraft-vkore-npu-lora-decision-model-analysis) | [@aitechjo](https://velog.io/@aitechjo) |
-| 2026.10.13 | [[2462일]A. Cupboards(성공)](https://velog.io/@powerlsj7/2462%EC%9D%BCA.-Cupboards%EC%84%B1%EA%B3%B5) | [@powerlsj7](https://velog.io/@powerlsj7) |
-| 2026.10.13 | [[LeetCode] 820. Short Encoding of Words](https://velog.io/@kwb020312/LeetCode-820.-Short-Encoding-of-Words) | [@kwb020312](https://velog.io/@kwb020312) |
-| 2026.10.13 | [PyTorch 딥러닝 모델 구현 실습: 선형회귀부터 ANN 학습·평가까지](https://velog.io/@haru02/PyTorch-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84-%EC%8B%A4%EC%8A%B5-%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80%EB%B6%80%ED%84%B0-ANN-%ED%95%99%EC%8A%B5%ED%8F%89%EA%B0%80%EA%B9%8C%EC%A7%80) | [@haru02](https://velog.io/@haru02) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.10.13 | [Dreamhack 워게임 - rev-basic-1](https://velog.io/@sakan/Dreamhack-%EC%9B%8C%EA%B2%8C%EC%9E%84-rev-basic-1) | [@sakan](https://velog.io/@sakan) |
+| 2026.10.13 | [2주차 HTTP 캐싱과 CDN](https://velog.io/@aquaman122/2%EC%A3%BC%EC%B0%A8-HTTP-%EC%BA%90%EC%8B%B1%EA%B3%BC-CDN) | [@aquaman122](https://velog.io/@aquaman122) |
+| 2026.10.13 | [객체지향설계(OOD) (2)](https://velog.io/@juyeong0311/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%84%A4%EA%B3%84OOD-2) | [@juyeong0311](https://velog.io/@juyeong0311) |
+| 2026.10.13 | [구글 계정을 골랐는데 로그인이 안 된다 — Android 구글 로그인 삽질기](https://velog.io/@dofl8549/Android-google-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0) | [@dofl8549](https://velog.io/@dofl8549) |
+| 2026.10.13 | [NotebookLM Deep Research: 아키텍처를 알면 프롬프트가 달라진다](https://velog.io/@blueday/NotebookLM-Deep-Research-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A5%BC-%EC%95%8C%EB%A9%B4-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EA%B0%80-%EB%8B%AC%EB%9D%BC%EC%A7%84%EB%8B%A4) | [@blueday](https://velog.io/@blueday) |
+| 2026.10.13 | [처음 HMI를 만들며 배운 것들](https://velog.io/@msm4167/%EC%B2%98%EC%9D%8C-HMI%EB%A5%BC-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4) | [@msm4167](https://velog.io/@msm4167) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
