@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.13 | [Dreamhack 워게임 - rev-basic-1](https://velog.io/@sakan/Dreamhack-%EC%9B%8C%EA%B2%8C%EC%9E%84-rev-basic-1) | [@sakan](https://velog.io/@sakan) |
-| 2026.10.13 | [2주차 HTTP 캐싱과 CDN](https://velog.io/@aquaman122/2%EC%A3%BC%EC%B0%A8-HTTP-%EC%BA%90%EC%8B%B1%EA%B3%BC-CDN) | [@aquaman122](https://velog.io/@aquaman122) |
-| 2026.10.13 | [객체지향설계(OOD) (2)](https://velog.io/@juyeong0311/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%84%A4%EA%B3%84OOD-2) | [@juyeong0311](https://velog.io/@juyeong0311) |
-| 2026.10.13 | [구글 계정을 골랐는데 로그인이 안 된다 — Android 구글 로그인 삽질기](https://velog.io/@dofl8549/Android-google-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0) | [@dofl8549](https://velog.io/@dofl8549) |
-| 2026.10.13 | [NotebookLM Deep Research: 아키텍처를 알면 프롬프트가 달라진다](https://velog.io/@blueday/NotebookLM-Deep-Research-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A5%BC-%EC%95%8C%EB%A9%B4-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EA%B0%80-%EB%8B%AC%EB%9D%BC%EC%A7%84%EB%8B%A4) | [@blueday](https://velog.io/@blueday) |
-| 2026.10.13 | [처음 HMI를 만들며 배운 것들](https://velog.io/@msm4167/%EC%B2%98%EC%9D%8C-HMI%EB%A5%BC-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4) | [@msm4167](https://velog.io/@msm4167) |
+| 2026.10.14 | [초당 20명씩 들여보내기: Redis ZSET 기반 선착순 대기열  구축기](https://velog.io/@jyh0203/%EC%B4%88%EB%8B%B9-20%EB%AA%85%EC%94%A9-%EB%93%A4%EC%97%AC%EB%B3%B4%EB%82%B4%EA%B8%B0-Redis-ZSET-%EA%B8%B0%EB%B0%98-%EC%84%A0%EC%B0%A9%EC%88%9C-%EB%8C%80%EA%B8%B0%EC%97%B4-%EA%B5%AC%EC%B6%95%EA%B8%B0) | [@jyh0203](https://velog.io/@jyh0203) |
+| 2026.10.14 | [[React Native] NativeWind v4 설치](https://velog.io/@u_gangg3/React-Native-NativeWind-v4-%EC%84%A4%EC%B9%98) | [@u_gangg3](https://velog.io/@u_gangg3) |
+| 2026.10.14 | [[Zero to ML Master #13] 머신러닝 공식 100선 읽기 — 선형대수·정보이론·어텐션·강화학습·평가지표 (2부)](https://velog.io/@otololism/zero-to-ml-master-13-ml-formulas-attention-reinforcement-learning) | [@otololism](https://velog.io/@otololism) |
+| 2026.10.14 | [매일 확인하는 웹 데이터, 자동으로 가져올 수 있을까?](https://velog.io/@hycho/%EB%A7%A4%EC%9D%BC-%ED%99%95%EC%9D%B8%ED%95%98%EB%8A%94-%EC%9B%B9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EA%B0%80%EC%A0%B8%EC%98%AC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C) | [@hycho](https://velog.io/@hycho) |
+| 2026.10.14 | [26O13b](https://velog.io/@youngkyoo_kim/26O13b) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.14 | [26O13a](https://velog.io/@youngkyoo_kim/26O13a) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
