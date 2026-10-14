@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.14 | [초당 20명씩 들여보내기: Redis ZSET 기반 선착순 대기열  구축기](https://velog.io/@jyh0203/%EC%B4%88%EB%8B%B9-20%EB%AA%85%EC%94%A9-%EB%93%A4%EC%97%AC%EB%B3%B4%EB%82%B4%EA%B8%B0-Redis-ZSET-%EA%B8%B0%EB%B0%98-%EC%84%A0%EC%B0%A9%EC%88%9C-%EB%8C%80%EA%B8%B0%EC%97%B4-%EA%B5%AC%EC%B6%95%EA%B8%B0) | [@jyh0203](https://velog.io/@jyh0203) |
-| 2026.10.14 | [[React Native] NativeWind v4 설치](https://velog.io/@u_gangg3/React-Native-NativeWind-v4-%EC%84%A4%EC%B9%98) | [@u_gangg3](https://velog.io/@u_gangg3) |
-| 2026.10.14 | [[Zero to ML Master #13] 머신러닝 공식 100선 읽기 — 선형대수·정보이론·어텐션·강화학습·평가지표 (2부)](https://velog.io/@otololism/zero-to-ml-master-13-ml-formulas-attention-reinforcement-learning) | [@otololism](https://velog.io/@otololism) |
-| 2026.10.14 | [매일 확인하는 웹 데이터, 자동으로 가져올 수 있을까?](https://velog.io/@hycho/%EB%A7%A4%EC%9D%BC-%ED%99%95%EC%9D%B8%ED%95%98%EB%8A%94-%EC%9B%B9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EA%B0%80%EC%A0%B8%EC%98%AC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C) | [@hycho](https://velog.io/@hycho) |
-| 2026.10.14 | [26O13b](https://velog.io/@youngkyoo_kim/26O13b) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.10.14 | [26O13a](https://velog.io/@youngkyoo_kim/26O13a) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.14 | [[2463일]A. I_love_%username%(성공)](https://velog.io/@powerlsj7/2463%EC%9D%BCA.-Iloveusername%EC%84%B1%EA%B3%B5) | [@powerlsj7](https://velog.io/@powerlsj7) |
+| 2026.10.14 | [트랜잭션 ACID · 격리수준](https://velog.io/@shyunii/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-ACID-%EA%B2%A9%EB%A6%AC%EC%88%98%EC%A4%80) | [@shyunii](https://velog.io/@shyunii) |
+| 2026.10.14 | [PostgreSQL 데이터베이스 생성 및 연결](https://velog.io/@gajigaji04/PostgreSQL-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%97%B0%EA%B2%B0) | [@gajigaji04](https://velog.io/@gajigaji04) |
+| 2026.10.14 | [리포트쿼리에 Zoom 달기](https://velog.io/@hyunm1n-o/%EB%A6%AC%ED%8F%AC%ED%8A%B8%EC%BF%BC%EB%A6%AC%EC%97%90-Zoom-%EB%8B%AC%EA%B8%B0) | [@hyunm1n-o](https://velog.io/@hyunm1n-o) |
+| 2026.10.14 | [일일 보고서 26-10-08](https://velog.io/@tmdgml3355/%EC%9D%BC%EC%9D%BC-%EB%B3%B4%EA%B3%A0%EC%84%9C-26-10-08) | [@tmdgml3355](https://velog.io/@tmdgml3355) |
+| 2026.10.14 | [AI가 코드를 작성할수록 도메인 주도 설계가 중요해진다](https://velog.io/@straycat405/AI%EA%B0%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%A0%EC%88%98%EB%A1%9D-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84%EA%B0%80-%EC%A4%91%EC%9A%94%ED%95%B4%EC%A7%84%EB%8B%A4) | [@straycat405](https://velog.io/@straycat405) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
