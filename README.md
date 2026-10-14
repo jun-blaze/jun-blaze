@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.15 | [이젠 영화까지 만들어주는 AI](https://velog.io/@kangtw22_/%EC%9D%B4%EC%A0%A0-%EC%98%81%ED%99%94%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A3%BC%EB%8A%94-AI) | [@kangtw22_](https://velog.io/@kangtw22_) |
-| 2026.10.15 | [Android 이미지 버튼](https://velog.io/@yhkim819/Android-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B2%84%ED%8A%BC) | [@yhkim819](https://velog.io/@yhkim819) |
-| 2026.10.15 | [2026.10.14 1일 1로그](https://velog.io/@j8rl_chik/2026.10.14-1%EC%9D%BC-1%EB%A1%9C%EA%B7%B8) | [@j8rl_chik](https://velog.io/@j8rl_chik) |
-| 2026.10.15 | [26O14c](https://velog.io/@youngkyoo_kim/26O14c-puj0nidg) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.10.15 | [26O14c](https://velog.io/@youngkyoo_kim/26O14c) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.10.15 | [26O14b](https://velog.io/@youngkyoo_kim/26O14b) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.15 | [2026.10.14](https://velog.io/@kjhalc/2026.10.14) | [@kjhalc](https://velog.io/@kjhalc) |
+| 2026.10.15 | [프론티어 코딩 모델 경쟁과 빅테크 내부 보안의 균열](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-15) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.15 | [텍스트를 넘어 이미지와 음악, 영상까지 확장된 멀티모달 생성 기술](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-10-15) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.15 | [프롬프트와 코드로 완성하는 실시간 모션 그래픽 비디오](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%99%9C%EC%9A%A9-2026-10-15) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.15 | [장기 자율 에이전트 운영을 위한 한계 돌파와 평가 설계](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-10-15) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.10.15 | [프롬프트 3줄 썼는데 AI 쇼츠 작 후기 알려드림](https://velog.io/@linkshimcat/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-3%EC%A4%84-%EC%8D%BC%EB%8A%94%EB%8D%B0-AI-%EC%87%BC%EC%B8%A0-%EC%9E%91-%ED%9B%84%EA%B8%B0-%EC%95%8C%EB%A0%A4%EB%93%9C%EB%A6%BC) | [@linkshimcat](https://velog.io/@linkshimcat) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
