@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.14 | [inheritable에 넣은 capability는 왜 exec 뒤에 사라지는가 — Linux execve 변환 공식과 ambient set](https://velog.io/@jungseonw00/linux-capabilities-execve-ambient) | [@jungseonw00](https://velog.io/@jungseonw00) |
-| 2026.10.14 | [[프로그래머스] 138476 - 귤 고르기](https://velog.io/@dkegldh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-138476-%EA%B7%A4-%EA%B3%A0%EB%A5%B4%EA%B8%B0) | [@dkegldh](https://velog.io/@dkegldh) |
-| 2026.10.14 | [[공격 징후 탐지 001] 보안관제에서 공격 징후를 판단하는 기본 원칙](https://velog.io/@cs_security/%EA%B3%B5%EA%B2%A9-%EC%A7%95%ED%9B%84-%ED%83%90%EC%A7%80-001-%EB%B3%B4%EC%95%88%EA%B4%80%EC%A0%9C%EC%97%90%EC%84%9C-%EA%B3%B5%EA%B2%A9-%EC%A7%95%ED%9B%84%EB%A5%BC-%ED%8C%90%EB%8B%A8%ED%95%98%EB%8A%94-%EA%B8%B0%EB%B3%B8-%EC%9B%90%EC%B9%99) | [@cs_security](https://velog.io/@cs_security) |
-| 2026.10.14 | [ai 영상 이거 진짜에요?](https://velog.io/@s2610/ai-%EC%98%81%EC%83%81-%EC%9D%B4%EA%B1%B0-%EC%A7%84%EC%A7%9C%EC%97%90%EC%9A%94) | [@s2610](https://velog.io/@s2610) |
-| 2026.10.14 | [26.10.14 / Wed](https://velog.io/@_bao_/26.10.14-Wed) | [@_bao_](https://velog.io/@_bao_) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.10.15 | [이젠 영화까지 만들어주는 AI](https://velog.io/@kangtw22_/%EC%9D%B4%EC%A0%A0-%EC%98%81%ED%99%94%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A3%BC%EB%8A%94-AI) | [@kangtw22_](https://velog.io/@kangtw22_) |
+| 2026.10.15 | [Android 이미지 버튼](https://velog.io/@yhkim819/Android-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B2%84%ED%8A%BC) | [@yhkim819](https://velog.io/@yhkim819) |
+| 2026.10.15 | [2026.10.14 1일 1로그](https://velog.io/@j8rl_chik/2026.10.14-1%EC%9D%BC-1%EB%A1%9C%EA%B7%B8) | [@j8rl_chik](https://velog.io/@j8rl_chik) |
+| 2026.10.15 | [26O14c](https://velog.io/@youngkyoo_kim/26O14c-puj0nidg) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.15 | [26O14c](https://velog.io/@youngkyoo_kim/26O14c) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.15 | [26O14b](https://velog.io/@youngkyoo_kim/26O14b) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
