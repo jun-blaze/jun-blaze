@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.15 | [[ 졸업작품 기록 (91) ]](https://velog.io/@xorms/%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88-%EA%B8%B0%EB%A1%9D-91) | [@xorms](https://velog.io/@xorms) |
-| 2026.10.15 | [SK 네트웍스 Family AI 캠프 32기\| 113일차](https://velog.io/@chaengloper/SK-%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-AI-%EC%BA%A0%ED%94%84-32%EA%B8%B0-1%EC%9D%BC%EC%B0%A8-gypqrv4r) | [@chaengloper](https://velog.io/@chaengloper) |
+| 2026.10.16 | [03-2. 소프트웨어 공학과 개발 프로세스](https://velog.io/@alkh6397/03-2.-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99%EA%B3%BC-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4) | [@alkh6397](https://velog.io/@alkh6397) |
+| 2026.10.16 | [프로그래머스 공 던지기](https://velog.io/@youngjun_10/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B3%B5-%EB%8D%98%EC%A7%80%EA%B8%B0) | [@youngjun_10](https://velog.io/@youngjun_10) |
+| 2026.10.16 | [[Lec 5] 암호학](https://velog.io/@sung-e-gkoght/Lec-5-%EC%95%94%ED%98%B8%ED%95%99) | [@sung-e-gkoght](https://velog.io/@sung-e-gkoght) |
+| 2026.10.16 | [[Swift] Array는 내부에서 어떻게 동작할까? (요소가 많아질 때)](https://velog.io/@rudy009/Swift-Array%EB%8A%94-%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%A0%EA%B9%8C-%EC%9A%94%EC%86%8C%EA%B0%80-%EB%A7%8E%EC%95%84%EC%A7%88-%EB%95%8C) | [@rudy009](https://velog.io/@rudy009) |
+| 2026.10.16 | [EC2 + MySQL에서 Vercel + Neon으로 이전 - 테이블 하나짜리 서비스의 인프라 줄이기](https://velog.io/@dh82680/EC2-MySQL%EC%97%90%EC%84%9C-Vercel-Neon%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%A0%84-%ED%85%8C%EC%9D%B4%EB%B8%94-%ED%95%98%EB%82%98%EC%A7%9C%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%A4%84%EC%9D%B4%EA%B8%B0) | [@dh82680](https://velog.io/@dh82680) |
 | 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
