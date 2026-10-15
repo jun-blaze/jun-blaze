@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.15 | [D2B는 호출 횟수도 관리해야 했다](https://velog.io/@snowballnote/D2B%EB%8A%94-%ED%98%B8%EC%B6%9C-%ED%9A%9F%EC%88%98%EB%8F%84-%EA%B4%80%EB%A6%AC%ED%95%B4%EC%95%BC-%ED%96%88%EB%8B%A4) | [@snowballnote](https://velog.io/@snowballnote) |
-| 2026.10.15 | [[CSS] 라디오와 체크박스, 옛 코드는 왜 가짜를 그렸을까](https://velog.io/@wow_da65/%EB%9D%BC%EB%94%94%EC%98%A4%EC%B2%B4%ED%81%AC%EB%B0%95%EC%8A%A4-%EC%99%9C-%EC%98%9B-%EC%BD%94%EB%93%9C%EB%8A%94-%EA%B0%80%EC%A7%9C%EB%A5%BC-%EA%B7%B8%EB%A0%B8%EC%9D%84%EA%B9%8C) | [@wow_da65](https://velog.io/@wow_da65) |
-| 2026.10.15 | [메인페이지 초기 로딩 성능 개선](https://velog.io/@ichenny/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%B4%88%EA%B8%B0-%EB%A1%9C%EB%94%A9-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0) | [@ichenny](https://velog.io/@ichenny) |
-| 2026.10.15 | [[GitHub Trending] REA 분석 — AI가 소스코드 없는 프로그램을 역공학하는 방법](https://velog.io/@taehoon1223/GitHub-Trending-REA-%EB%B6%84%EC%84%9D-AI%EA%B0%80-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EC%97%86%EB%8A%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84-%EC%97%AD%EA%B3%B5%ED%95%99%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) | [@taehoon1223](https://velog.io/@taehoon1223) |
-| 2026.10.15 | [PyTorch Transformer로 한영 번역 모델 만들기](https://velog.io/@pink-frog/PyTorch-Transformer%EB%A1%9C-%ED%95%9C%EC%98%81-%EB%B2%88%EC%97%AD-%EB%AA%A8%EB%8D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0) | [@pink-frog](https://velog.io/@pink-frog) |
-| 2026.10.15 | [[TAVE] Spring Boot 게시판을 Docker로 EC2에 배포하고 k6로 캐시 효과 측정하기](https://velog.io/@yi_isnotlee/TAVE-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC) | [@yi_isnotlee](https://velog.io/@yi_isnotlee) |
+| 2026.10.15 | [[ 졸업작품 기록 (91) ]](https://velog.io/@xorms/%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88-%EA%B8%B0%EB%A1%9D-91) | [@xorms](https://velog.io/@xorms) |
+| 2026.10.15 | [SK 네트웍스 Family AI 캠프 32기\| 113일차](https://velog.io/@chaengloper/SK-%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-Family-AI-%EC%BA%A0%ED%94%84-32%EA%B8%B0-1%EC%9D%BC%EC%B0%A8-gypqrv4r) | [@chaengloper](https://velog.io/@chaengloper) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
