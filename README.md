@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.15 | [2026.10.14](https://velog.io/@kjhalc/2026.10.14) | [@kjhalc](https://velog.io/@kjhalc) |
-| 2026.10.15 | [프론티어 코딩 모델 경쟁과 빅테크 내부 보안의 균열](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-15) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.15 | [텍스트를 넘어 이미지와 음악, 영상까지 확장된 멀티모달 생성 기술](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-10-15) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.15 | [프롬프트와 코드로 완성하는 실시간 모션 그래픽 비디오](https://velog.io/@sdm77/%EB%8F%84%EA%B5%AC%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%99%9C%EC%9A%A9-2026-10-15) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.15 | [장기 자율 에이전트 운영을 위한 한계 돌파와 평가 설계](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-10-15) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.15 | [프롬프트 3줄 썼는데 AI 쇼츠 작 후기 알려드림](https://velog.io/@linkshimcat/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-3%EC%A4%84-%EC%8D%BC%EB%8A%94%EB%8D%B0-AI-%EC%87%BC%EC%B8%A0-%EC%9E%91-%ED%9B%84%EA%B8%B0-%EC%95%8C%EB%A0%A4%EB%93%9C%EB%A6%BC) | [@linkshimcat](https://velog.io/@linkshimcat) |
+| 2026.10.15 | [D2B는 호출 횟수도 관리해야 했다](https://velog.io/@snowballnote/D2B%EB%8A%94-%ED%98%B8%EC%B6%9C-%ED%9A%9F%EC%88%98%EB%8F%84-%EA%B4%80%EB%A6%AC%ED%95%B4%EC%95%BC-%ED%96%88%EB%8B%A4) | [@snowballnote](https://velog.io/@snowballnote) |
+| 2026.10.15 | [[CSS] 라디오와 체크박스, 옛 코드는 왜 가짜를 그렸을까](https://velog.io/@wow_da65/%EB%9D%BC%EB%94%94%EC%98%A4%EC%B2%B4%ED%81%AC%EB%B0%95%EC%8A%A4-%EC%99%9C-%EC%98%9B-%EC%BD%94%EB%93%9C%EB%8A%94-%EA%B0%80%EC%A7%9C%EB%A5%BC-%EA%B7%B8%EB%A0%B8%EC%9D%84%EA%B9%8C) | [@wow_da65](https://velog.io/@wow_da65) |
+| 2026.10.15 | [메인페이지 초기 로딩 성능 개선](https://velog.io/@ichenny/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%B4%88%EA%B8%B0-%EB%A1%9C%EB%94%A9-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0) | [@ichenny](https://velog.io/@ichenny) |
+| 2026.10.15 | [[GitHub Trending] REA 분석 — AI가 소스코드 없는 프로그램을 역공학하는 방법](https://velog.io/@taehoon1223/GitHub-Trending-REA-%EB%B6%84%EC%84%9D-AI%EA%B0%80-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EC%97%86%EB%8A%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84-%EC%97%AD%EA%B3%B5%ED%95%99%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) | [@taehoon1223](https://velog.io/@taehoon1223) |
+| 2026.10.15 | [PyTorch Transformer로 한영 번역 모델 만들기](https://velog.io/@pink-frog/PyTorch-Transformer%EB%A1%9C-%ED%95%9C%EC%98%81-%EB%B2%88%EC%97%AD-%EB%AA%A8%EB%8D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0) | [@pink-frog](https://velog.io/@pink-frog) |
+| 2026.10.15 | [[TAVE] Spring Boot 게시판을 Docker로 EC2에 배포하고 k6로 캐시 효과 측정하기](https://velog.io/@yi_isnotlee/TAVE-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC) | [@yi_isnotlee](https://velog.io/@yi_isnotlee) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
