@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.16 | [행이 아니라 참조를 넘겨라: MCP 위에서 에이전트 계산을 위한 데이터 아티팩트](https://velog.io/@yshurik/%ED%96%89%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%EB%84%98%EA%B2%A8%EB%9D%BC-MCP-%EC%9C%84%EC%97%90%EC%84%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B3%84%EC%82%B0%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%95%84%ED%8B%B0%ED%8C%A9%ED%8A%B8-mfd461m3) | [@yshurik](https://velog.io/@yshurik) |
-| 2026.10.16 | [AI 에이전트에게 안전한 파이썬 놀이터 주기: MCP 위의 샌드박스 코드 실행](https://velog.io/@yshurik/AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90%EA%B2%8C-%EC%95%88%EC%A0%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%86%80%EC%9D%B4%ED%84%B0-%EC%A3%BC%EA%B8%B0-MCP-%EC%9C%84%EC%9D%98-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%8B%A4%ED%96%89-bwwfbr1y) | [@yshurik](https://velog.io/@yshurik) |
-| 2026.10.16 | [자바스크립트 런타임 전쟁의 종식과 노드의 생존](https://velog.io/@sdm77/%EB%AA%A8%EB%8D%B8%EC%97%85%EA%B3%84-%EB%8F%99%ED%96%A5-2026-10-16) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.16 | [스스로 실행하는 AI 에이전트와 업무 방식의 전환](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-10-16) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.10.16 | [2023년 생성형 AI 창업교육에서 정리한 문제와 고객](https://velog.io/@minjeong0070/2023%EB%85%84-%EC%83%9D%EC%84%B1%ED%98%95-AI-%EC%B0%BD%EC%97%85%EA%B5%90%EC%9C%A1%EC%97%90%EC%84%9C-%EC%A0%95%EB%A6%AC%ED%95%9C-%EB%AC%B8%EC%A0%9C%EC%99%80-%EA%B3%A0%EA%B0%9D) | [@minjeong0070](https://velog.io/@minjeong0070) |
+| 2026.10.16 | [오래된 1세대 사이트 [(어코드)] 가입기간 \| 신규입플 5+5 \| 업계최고배당](https://velog.io/@meo1212/%EC%98%A4%EB%9E%98%EB%90%9C-1%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%96%B4%EC%BD%94%EB%93%9C-%EA%B0%80%EC%9E%85%EA%B8%B0%EA%B0%84-%EC%8B%A0%EA%B7%9C%EC%9E%85%ED%94%8C-55-%EC%97%85%EA%B3%84%EC%B5%9C%EA%B3%A0%EB%B0%B0%EB%8B%B9-1uld3x5i) | [@meo1212](https://velog.io/@meo1212) |
+| 2026.10.16 | [학습과 프로젝트 경험을 구체적으로 설명하는 방법](https://velog.io/@minjeong0070/%ED%95%99%EC%8A%B5%EA%B3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B2%BD%ED%97%98%EC%9D%84-%EA%B5%AC%EC%B2%B4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-lnmdckhg) | [@minjeong0070](https://velog.io/@minjeong0070) |
+| 2026.10.16 | [SIEM](https://velog.io/@yunejaega/SIEM) | [@yunejaega](https://velog.io/@yunejaega) |
+| 2026.10.16 | [3D 모델이 출력물이 되기까지의 과정](https://velog.io/@minjeong0070/3D-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EC%B6%9C%EB%A0%A5%EB%AC%BC%EC%9D%B4-%EB%90%98%EA%B8%B0%EA%B9%8C%EC%A7%80%EC%9D%98-%EA%B3%BC%EC%A0%95-72whbofr) | [@minjeong0070](https://velog.io/@minjeong0070) |
+| 2026.10.16 | [기본키와 외래키로 데이터의 관계와 규칙 표현하기](https://velog.io/@minjeong0070/%EA%B8%B0%EB%B3%B8%ED%82%A4%EC%99%80-%EC%99%B8%EB%9E%98%ED%82%A4%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98-%EA%B4%80%EA%B3%84%EC%99%80-%EA%B7%9C%EC%B9%99-%ED%91%9C%ED%98%84%ED%95%98%EA%B8%B0-j6lxzvn9) | [@minjeong0070](https://velog.io/@minjeong0070) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
