@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.17 | [Schema Library 없이 TypeScript에서 `unknown`을 검증하려면? 🛡️](https://velog.io/@nyaoamru/Schema-Library-%EC%97%86%EC%9D%B4-TypeScript%EC%97%90%EC%84%9C-unknown%EC%9D%84-%EA%B2%80%EC%A6%9D%ED%95%98%EB%A0%A4%EB%A9%B4) | [@nyaoamru](https://velog.io/@nyaoamru) |
-| 2026.10.17 | [[C++] 객체지향 프로그래밍(OOP) :: 4가지 특징과 게임 개발에서의 OOP](https://velog.io/@sehee-jj/C-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DOOP-4%EA%B0%80%EC%A7%80-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C%EC%97%90%EC%84%9C%EC%9D%98-OOP) | [@sehee-jj](https://velog.io/@sehee-jj) |
+| 2026.10.17 | [[Spring Boot] Redis TTL + Gmail SMTP 이메일 인증 구현 및 대기열 Fast-Path, Locust 테스트 수정 기록](https://velog.io/@jyh0203/Spring-Boot-Redis-TTL-Gmail-SMTP-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-%EB%B0%8F-%EB%8C%80%EA%B8%B0%EC%97%B4-Fast-Path-Locust-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%88%98%EC%A0%95-%EA%B8%B0%EB%A1%9D) | [@jyh0203](https://velog.io/@jyh0203) |
 | 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
 | 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 | 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
 | 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
