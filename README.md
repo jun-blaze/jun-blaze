@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.17 | [fail2ban 도입기 (3) — 정상 사용자가 차단된 장애와 해결](https://velog.io/@quill_kim/fail2ban-%EB%8F%84%EC%9E%85%EA%B8%B0-3-%EC%A0%95%EC%83%81-%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80-%EC%B0%A8%EB%8B%A8%EB%90%9C-%EC%9E%A5%EC%95%A0%EC%99%80-%ED%95%B4%EA%B2%B0) | [@quill_kim](https://velog.io/@quill_kim) |
-| 2026.10.17 | [test](https://velog.io/@jeonseoknam/test) | [@jeonseoknam](https://velog.io/@jeonseoknam) |
-| 2026.10.17 | [fail2ban 도입기 (2) — 차단 테스트](https://velog.io/@quill_kim/fail2ban-%EB%8F%84%EC%9E%85%EA%B8%B0-2-%EC%B0%A8%EB%8B%A8-%ED%85%8C%EC%8A%A4%ED%8A%B8) | [@quill_kim](https://velog.io/@quill_kim) |
-| 2026.10.17 | [2026.10.16](https://velog.io/@kjhalc/2026.10.16-zf7wbrfl) | [@kjhalc](https://velog.io/@kjhalc) |
-| 2026.10.17 | [기술을 위한 기술](https://velog.io/@minsing-jin/%EA%B8%B0%EC%88%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%88%A0) | [@minsing-jin](https://velog.io/@minsing-jin) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.10.17 | [[프로그래머스] 12914 - 멀리 뛰기](https://velog.io/@dkegldh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12914-%EB%A9%80%EB%A6%AC-%EB%9B%B0%EA%B8%B0) | [@dkegldh](https://velog.io/@dkegldh) |
+| 2026.10.17 | [외부 API 연동 최적화기 (3) - 이체망 규격을 지키는 유량 조절과 '요청 중' 건의 복구](https://velog.io/@backend-jonghyun/%EC%99%B8%EB%B6%80-API-%EC%97%B0%EB%8F%99-%EC%B5%9C%EC%A0%81%ED%99%94%EA%B8%B0-3-%EC%9D%B4%EC%B2%B4%EB%A7%9D-%EA%B7%9C%EA%B2%A9%EC%9D%84-%EC%A7%80%ED%82%A4%EB%8A%94-%EC%9C%A0%EB%9F%89-%EC%A1%B0%EC%A0%88%EA%B3%BC-%EC%9A%94%EC%B2%AD-%EC%A4%91-%EA%B1%B4%EC%9D%98-%EB%B3%B5%EA%B5%AC) | [@backend-jonghyun](https://velog.io/@backend-jonghyun) |
+| 2026.10.17 | [[프로그래머스 lv.1] K번째 수](https://velog.io/@im_lost/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-lv.1-K%EB%B2%88%EC%A7%B8-%EC%88%98) | [@im_lost](https://velog.io/@im_lost) |
+| 2026.10.17 | [[MT3121ASBR] 2.5MHz / 2.5~6V / 2A / SOT23-5 스텝다운 DC-DC](https://velog.io/@juniorchu/MT3121ASBR-2.5MHz-2.56V-2A-SOT23-5-%EC%8A%A4%ED%85%9D%EB%8B%A4%EC%9A%B4-DC-DC) | [@juniorchu](https://velog.io/@juniorchu) |
+| 2026.10.17 | [[디자인 시스템] RN에서 TDS 디자인 토큰 적용](https://velog.io/@u_gangg3/RN%EC%97%90%EC%84%9C-TDS-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%86%A0%ED%81%B0-%EC%A0%81%EC%9A%A9) | [@u_gangg3](https://velog.io/@u_gangg3) |
+| 2026.10.17 | [(다크호스)(모든파워볼다있음)(단폴더무제재)(최대당첨금2천만)(플레이홀덤)](https://velog.io/@meo1212/%EB%8B%A4%ED%81%AC%ED%98%B8%EC%8A%A4%EB%AA%A8%EB%93%A0%ED%8C%8C%EC%9B%8C%EB%B3%BC%EB%8B%A4%EC%9E%88%EC%9D%8C%EB%8B%A8%ED%8F%B4%EB%8D%94%EB%AC%B4%EC%A0%9C%EC%9E%AC%EC%B5%9C%EB%8C%80%EB%8B%B9%EC%B2%A8%EA%B8%882%EC%B2%9C%EB%A7%8C%ED%94%8C%EB%A0%88%EC%9D%B4%ED%99%80%EB%8D%A4-h9pvh66u) | [@meo1212](https://velog.io/@meo1212) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
