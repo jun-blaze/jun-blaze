@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.17 | [[프로그래머스] 12914 - 멀리 뛰기](https://velog.io/@dkegldh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12914-%EB%A9%80%EB%A6%AC-%EB%9B%B0%EA%B8%B0) | [@dkegldh](https://velog.io/@dkegldh) |
-| 2026.10.17 | [외부 API 연동 최적화기 (3) - 이체망 규격을 지키는 유량 조절과 '요청 중' 건의 복구](https://velog.io/@backend-jonghyun/%EC%99%B8%EB%B6%80-API-%EC%97%B0%EB%8F%99-%EC%B5%9C%EC%A0%81%ED%99%94%EA%B8%B0-3-%EC%9D%B4%EC%B2%B4%EB%A7%9D-%EA%B7%9C%EA%B2%A9%EC%9D%84-%EC%A7%80%ED%82%A4%EB%8A%94-%EC%9C%A0%EB%9F%89-%EC%A1%B0%EC%A0%88%EA%B3%BC-%EC%9A%94%EC%B2%AD-%EC%A4%91-%EA%B1%B4%EC%9D%98-%EB%B3%B5%EA%B5%AC) | [@backend-jonghyun](https://velog.io/@backend-jonghyun) |
-| 2026.10.17 | [[프로그래머스 lv.1] K번째 수](https://velog.io/@im_lost/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-lv.1-K%EB%B2%88%EC%A7%B8-%EC%88%98) | [@im_lost](https://velog.io/@im_lost) |
-| 2026.10.17 | [[MT3121ASBR] 2.5MHz / 2.5~6V / 2A / SOT23-5 스텝다운 DC-DC](https://velog.io/@juniorchu/MT3121ASBR-2.5MHz-2.56V-2A-SOT23-5-%EC%8A%A4%ED%85%9D%EB%8B%A4%EC%9A%B4-DC-DC) | [@juniorchu](https://velog.io/@juniorchu) |
-| 2026.10.17 | [[디자인 시스템] RN에서 TDS 디자인 토큰 적용](https://velog.io/@u_gangg3/RN%EC%97%90%EC%84%9C-TDS-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%86%A0%ED%81%B0-%EC%A0%81%EC%9A%A9) | [@u_gangg3](https://velog.io/@u_gangg3) |
-| 2026.10.17 | [(다크호스)(모든파워볼다있음)(단폴더무제재)(최대당첨금2천만)(플레이홀덤)](https://velog.io/@meo1212/%EB%8B%A4%ED%81%AC%ED%98%B8%EC%8A%A4%EB%AA%A8%EB%93%A0%ED%8C%8C%EC%9B%8C%EB%B3%BC%EB%8B%A4%EC%9E%88%EC%9D%8C%EB%8B%A8%ED%8F%B4%EB%8D%94%EB%AC%B4%EC%A0%9C%EC%9E%AC%EC%B5%9C%EB%8C%80%EB%8B%B9%EC%B2%A8%EA%B8%882%EC%B2%9C%EB%A7%8C%ED%94%8C%EB%A0%88%EC%9D%B4%ED%99%80%EB%8D%A4-h9pvh66u) | [@meo1212](https://velog.io/@meo1212) |
+| 2026.10.17 | [[k8s 개념] CRI-2. OCI(Open Container Initiative)'s Specification](https://velog.io/@ptt9965/k8s-%EA%B0%9C%EB%85%90-CRI-2.-OCIOpen-Container-Initiatives-Specification) | [@ptt9965](https://velog.io/@ptt9965) |
+| 2026.10.17 | [롤링 업데이트 중에 새 버전이 죽으면 서비스는 어떻게 되는가](https://velog.io/@jennie-infra/%EB%A1%A4%EB%A7%81-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%A4%91%EC%97%90-%EC%83%88-%EB%B2%84%EC%A0%84%EC%9D%B4-%EC%A3%BD%EC%9C%BC%EB%A9%B4-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%8A%94%EA%B0%80) | [@jennie-infra](https://velog.io/@jennie-infra) |
+| 2026.10.17 | [사진 용량 100KB로 줄이는 법: 이미지 100KB·50KB·20KB 압축 방법 총정리](https://velog.io/@zippic/%EC%82%AC%EC%A7%84-%EC%9A%A9%EB%9F%89-100KB%EB%A1%9C-%EC%A4%84%EC%9D%B4%EB%8A%94-%EB%B2%95-%EC%9D%B4%EB%AF%B8%EC%A7%80-100KB50KB20KB-%EC%95%95%EC%B6%95-%EB%B0%A9%EB%B2%95-%EC%B4%9D%EC%A0%95%EB%A6%AC) | [@zippic](https://velog.io/@zippic) |
+| 2026.10.17 | [개·고양이 얼굴 탐지: SSDLite320과 YOLOv8n을 같은 조건에서 비교하기](https://velog.io/@def_uk/%EA%B0%9C%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%96%BC%EA%B5%B4-%ED%83%90%EC%A7%80-SSDLite320%EA%B3%BC-YOLOv8n%EC%9D%84-%EA%B0%99%EC%9D%80-%EC%A1%B0%EA%B1%B4%EC%97%90%EC%84%9C-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0) | [@def_uk](https://velog.io/@def_uk) |
+| 2026.10.17 | [Zustand store](https://velog.io/@goodbonakim3/Zustand-store) | [@goodbonakim3](https://velog.io/@goodbonakim3) |
+| 2026.10.17 | [정보처리기사 실기 - DB 개요 2: 데이터베이스 모델과 키, 무결성 및 데이터 객체](https://velog.io/@cookiemiro/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-DB-%EA%B0%9C%EC%9A%94-2-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EA%B3%BC-%ED%82%A4-%EB%AC%B4%EA%B2%B0%EC%84%B1-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%9D%EC%B2%B4) | [@cookiemiro](https://velog.io/@cookiemiro) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
