@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
+| 2026.10.18 | [LLM 비용은 1/10로, 정확도는 극대화하는 엔터프라이즈 GraphRAG 구축 전략](https://velog.io/@blueday/LLM-%EB%B9%84%EC%9A%A9%EC%9D%80-110%EB%A1%9C-%EC%A0%95%ED%99%95%EB%8F%84%EB%8A%94-%EA%B7%B9%EB%8C%80%ED%99%94%ED%95%98%EB%8A%94-%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-GraphRAG-%EA%B5%AC%EC%B6%95-%EC%A0%84%EB%9E%B5) | [@blueday](https://velog.io/@blueday) |
+| 2026.10.18 | [호스팅어 요금 3단계 비교, 첫 화면 월 2.99달러는 48개월 결제 전용이었다](https://velog.io/@wonizz/%ED%98%B8%EC%8A%A4%ED%8C%85%EC%96%B4-%EC%9A%94%EA%B8%88-3%EB%8B%A8%EA%B3%84-%EB%B9%84%EA%B5%90-%EC%B2%AB-%ED%99%94%EB%A9%B4-%EC%9B%94-2.99%EB%8B%AC%EB%9F%AC%EB%8A%94-48%EA%B0%9C%EC%9B%94-%EA%B2%B0%EC%A0%9C-%EC%A0%84%EC%9A%A9%EC%9D%B4%EC%97%88%EB%8B%A4) | [@wonizz](https://velog.io/@wonizz) |
+| 2026.10.18 | [외주 견적서 비교할 때 금액보다 먼저 볼 7가지](https://velog.io/@hssolution/compare-dev-quotes-7-checks) | [@hssolution](https://velog.io/@hssolution) |
+| 2026.10.18 | [당신의 암호화된 데이터가 클라우드에서 속삭이고 있다: 안전한 엔터프라이즈 RAG 아키텍처 구축 가이드](https://velog.io/@blueday/%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%95%94%ED%98%B8%ED%99%94%EB%90%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%97%90%EC%84%9C-%EC%86%8D%EC%82%AD%EC%9D%B4%EA%B3%A0-%EC%9E%88%EB%8B%A4-%EC%95%88%EC%A0%84%ED%95%9C-%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-RAG-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%EC%B6%95-%EA%B0%80%EC%9D%B4%EB%93%9C) | [@blueday](https://velog.io/@blueday) |
 | 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
 | 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
-| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
