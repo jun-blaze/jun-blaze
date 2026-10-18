@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.18 | [LLM 비용은 1/10로, 정확도는 극대화하는 엔터프라이즈 GraphRAG 구축 전략](https://velog.io/@blueday/LLM-%EB%B9%84%EC%9A%A9%EC%9D%80-110%EB%A1%9C-%EC%A0%95%ED%99%95%EB%8F%84%EB%8A%94-%EA%B7%B9%EB%8C%80%ED%99%94%ED%95%98%EB%8A%94-%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-GraphRAG-%EA%B5%AC%EC%B6%95-%EC%A0%84%EB%9E%B5) | [@blueday](https://velog.io/@blueday) |
-| 2026.10.18 | [호스팅어 요금 3단계 비교, 첫 화면 월 2.99달러는 48개월 결제 전용이었다](https://velog.io/@wonizz/%ED%98%B8%EC%8A%A4%ED%8C%85%EC%96%B4-%EC%9A%94%EA%B8%88-3%EB%8B%A8%EA%B3%84-%EB%B9%84%EA%B5%90-%EC%B2%AB-%ED%99%94%EB%A9%B4-%EC%9B%94-2.99%EB%8B%AC%EB%9F%AC%EB%8A%94-48%EA%B0%9C%EC%9B%94-%EA%B2%B0%EC%A0%9C-%EC%A0%84%EC%9A%A9%EC%9D%B4%EC%97%88%EB%8B%A4) | [@wonizz](https://velog.io/@wonizz) |
-| 2026.10.18 | [외주 견적서 비교할 때 금액보다 먼저 볼 7가지](https://velog.io/@hssolution/compare-dev-quotes-7-checks) | [@hssolution](https://velog.io/@hssolution) |
-| 2026.10.18 | [당신의 암호화된 데이터가 클라우드에서 속삭이고 있다: 안전한 엔터프라이즈 RAG 아키텍처 구축 가이드](https://velog.io/@blueday/%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%95%94%ED%98%B8%ED%99%94%EB%90%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%97%90%EC%84%9C-%EC%86%8D%EC%82%AD%EC%9D%B4%EA%B3%A0-%EC%9E%88%EB%8B%A4-%EC%95%88%EC%A0%84%ED%95%9C-%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-RAG-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%EC%B6%95-%EA%B0%80%EC%9D%B4%EB%93%9C) | [@blueday](https://velog.io/@blueday) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.10.18 | [AI 순서도 이미지를 편집 가능한 도면으로: 글자보다 먼저 흐름을 검토하기](https://velog.io/@devie_chen123/ai-flowchart-image-to-reviewed-diagram) | [@devie_chen123](https://velog.io/@devie_chen123) |
+| 2026.10.18 | [ClickHouse는 왜 빠를까? — 컬럼 지향 DB의 기본](https://velog.io/@yeongsang2/ClickHouse%EB%8A%94-%EC%99%9C-%EB%B9%A0%EB%A5%BC%EA%B9%8C-%EC%BB%AC%EB%9F%BC-%EC%A7%80%ED%96%A5-DB%EC%9D%98-%EA%B8%B0%EB%B3%B8) | [@yeongsang2](https://velog.io/@yeongsang2) |
+| 2026.10.18 | [JAVA HashSet에 대해 알아보자](https://velog.io/@rlawlxo1234/JAVA-HashSet%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) | [@rlawlxo1234](https://velog.io/@rlawlxo1234) |
+| 2026.10.18 | [[프로그래머스 lv.2] 할인 행사](https://velog.io/@im_lost/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-lv.2-%ED%95%A0%EC%9D%B8-%ED%96%89%EC%82%AC) | [@im_lost](https://velog.io/@im_lost) |
+| 2026.10.18 | [메플 - 6. 유니티3D AI 프로그래밍 - State Pattern](https://velog.io/@ewq44/%EB%A9%94%ED%94%8C-6.-%EC%9C%A0%EB%8B%88%ED%8B%B03D-AI-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-State-Pattern) | [@ewq44](https://velog.io/@ewq44) |
+| 2026.10.18 | [크몽 가격 정하기: 카테고리 42개의 실제 주문금액 중앙값 (최근 30일 리뷰 2,920건)](https://velog.io/@gaejaenote/kmong-price-by-category) | [@gaejaenote](https://velog.io/@gaejaenote) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
