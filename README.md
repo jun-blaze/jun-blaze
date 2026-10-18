@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.18 | [AI 순서도 이미지를 편집 가능한 도면으로: 글자보다 먼저 흐름을 검토하기](https://velog.io/@devie_chen123/ai-flowchart-image-to-reviewed-diagram) | [@devie_chen123](https://velog.io/@devie_chen123) |
-| 2026.10.18 | [ClickHouse는 왜 빠를까? — 컬럼 지향 DB의 기본](https://velog.io/@yeongsang2/ClickHouse%EB%8A%94-%EC%99%9C-%EB%B9%A0%EB%A5%BC%EA%B9%8C-%EC%BB%AC%EB%9F%BC-%EC%A7%80%ED%96%A5-DB%EC%9D%98-%EA%B8%B0%EB%B3%B8) | [@yeongsang2](https://velog.io/@yeongsang2) |
-| 2026.10.18 | [JAVA HashSet에 대해 알아보자](https://velog.io/@rlawlxo1234/JAVA-HashSet%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) | [@rlawlxo1234](https://velog.io/@rlawlxo1234) |
-| 2026.10.18 | [[프로그래머스 lv.2] 할인 행사](https://velog.io/@im_lost/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-lv.2-%ED%95%A0%EC%9D%B8-%ED%96%89%EC%82%AC) | [@im_lost](https://velog.io/@im_lost) |
-| 2026.10.18 | [메플 - 6. 유니티3D AI 프로그래밍 - State Pattern](https://velog.io/@ewq44/%EB%A9%94%ED%94%8C-6.-%EC%9C%A0%EB%8B%88%ED%8B%B03D-AI-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-State-Pattern) | [@ewq44](https://velog.io/@ewq44) |
-| 2026.10.18 | [크몽 가격 정하기: 카테고리 42개의 실제 주문금액 중앙값 (최근 30일 리뷰 2,920건)](https://velog.io/@gaejaenote/kmong-price-by-category) | [@gaejaenote](https://velog.io/@gaejaenote) |
+| 2026.10.18 | [[스나이퍼팩토리] AIaaS 마스터 클래스 8주차 후기](https://velog.io/@blue00400/%EC%8A%A4%EB%82%98%EC%9D%B4%ED%8D%BC%ED%8C%A9%ED%86%A0%EB%A6%AC-AIaaS-%EB%A7%88%EC%8A%A4%ED%84%B0-%ED%81%B4%EB%9E%98%EC%8A%A4-8%EC%A3%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0) | [@blue00400](https://velog.io/@blue00400) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
