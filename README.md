@@ -81,12 +81,13 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.18 | [[스나이퍼팩토리] AIaaS 마스터 클래스 8주차 후기](https://velog.io/@blue00400/%EC%8A%A4%EB%82%98%EC%9D%B4%ED%8D%BC%ED%8C%A9%ED%86%A0%EB%A6%AC-AIaaS-%EB%A7%88%EC%8A%A4%ED%84%B0-%ED%81%B4%EB%9E%98%EC%8A%A4-8%EC%A3%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0) | [@blue00400](https://velog.io/@blue00400) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.10.19 | [DOJ 663 '탈옥 작전' (WIP)](https://velog.io/@doubledeltas/doj-663) | [@doubledeltas](https://velog.io/@doubledeltas) |
+| 2026.10.19 | [34주 차;-
+학생 테스트를 통한 학습과 개선](https://velog.io/@baintai/34%EC%A3%BC-%EC%B0%A8-%ED%95%99%EC%83%9D-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%99%EC%8A%B5%EA%B3%BC-%EA%B0%9C%EC%84%A0) | [@baintai](https://velog.io/@baintai) |
+| 2026.10.19 | [이진 탐색은 정렬된 배열에서 값을 찾는 공식이 아니다](https://velog.io/@vxdeveloper/algorithm33) | [@vxdeveloper](https://velog.io/@vxdeveloper) |
+| 2026.10.19 | [Linux PataOS: Debian 13과 Cinnamon 기반의 CAD/CAM/CAE 전용 커스텀 리눅스 아키텍처 설계](https://velog.io/@alessandropatane/Linux-PataOS-Debian-13%EA%B3%BC-Cinnamon-%EA%B8%B0%EB%B0%98%EC%9D%98-CADCAMCAE-%EC%A0%84%EC%9A%A9-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%A4%EA%B3%84) | [@alessandropatane](https://velog.io/@alessandropatane) |
+| 2026.10.19 | [Socket.IO가 잠깐 끊겨도 STT를 살려 두면서 비용 카운터를 둘로 나눈 이야기](https://velog.io/@florian13/Socket.IO%EA%B0%80-%EC%9E%A0%EA%B9%90-%EB%81%8A%EA%B2%A8%EB%8F%84-STT%EB%A5%BC-%EC%82%B4%EB%A0%A4-%EB%91%90%EB%A9%B4%EC%84%9C-%EB%B9%84%EC%9A%A9-%EC%B9%B4%EC%9A%B4%ED%84%B0%EB%A5%BC-%EB%91%98%EB%A1%9C-%EB%82%98%EB%88%88-%EC%9D%B4%EC%95%BC%EA%B8%B0) | [@florian13](https://velog.io/@florian13) |
+| 2026.10.19 | [되돌아오는 길이 없으면 끝난 것은 갇힌 것이다 — 구조인식(構造認識) 노트 ②](https://velog.io/@linxiaohei/%EB%90%98%EB%8F%8C%EC%95%84%EC%98%A4%EB%8A%94-%EA%B8%B8%EC%9D%B4-%EC%97%86%EC%9C%BC%EB%A9%B4-%EB%81%9D%EB%82%9C-%EA%B2%83%EC%9D%80-%EA%B0%87%ED%9E%8C-%EA%B2%83%EC%9D%B4%EB%8B%A4-%EA%B5%AC%EC%A1%B0%EC%9D%B8%EC%8B%9D%E6%A7%8B%E9%80%A0%E8%AA%8D%E8%AD%98-%EB%85%B8%ED%8A%B8) | [@linxiaohei](https://velog.io/@linxiaohei) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
