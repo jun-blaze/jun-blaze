@@ -81,13 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.19 | [DOJ 663 '탈옥 작전' (WIP)](https://velog.io/@doubledeltas/doj-663) | [@doubledeltas](https://velog.io/@doubledeltas) |
-| 2026.10.19 | [34주 차;-
-학생 테스트를 통한 학습과 개선](https://velog.io/@baintai/34%EC%A3%BC-%EC%B0%A8-%ED%95%99%EC%83%9D-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%99%EC%8A%B5%EA%B3%BC-%EA%B0%9C%EC%84%A0) | [@baintai](https://velog.io/@baintai) |
-| 2026.10.19 | [이진 탐색은 정렬된 배열에서 값을 찾는 공식이 아니다](https://velog.io/@vxdeveloper/algorithm33) | [@vxdeveloper](https://velog.io/@vxdeveloper) |
-| 2026.10.19 | [Linux PataOS: Debian 13과 Cinnamon 기반의 CAD/CAM/CAE 전용 커스텀 리눅스 아키텍처 설계](https://velog.io/@alessandropatane/Linux-PataOS-Debian-13%EA%B3%BC-Cinnamon-%EA%B8%B0%EB%B0%98%EC%9D%98-CADCAMCAE-%EC%A0%84%EC%9A%A9-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%A4%EA%B3%84) | [@alessandropatane](https://velog.io/@alessandropatane) |
-| 2026.10.19 | [Socket.IO가 잠깐 끊겨도 STT를 살려 두면서 비용 카운터를 둘로 나눈 이야기](https://velog.io/@florian13/Socket.IO%EA%B0%80-%EC%9E%A0%EA%B9%90-%EB%81%8A%EA%B2%A8%EB%8F%84-STT%EB%A5%BC-%EC%82%B4%EB%A0%A4-%EB%91%90%EB%A9%B4%EC%84%9C-%EB%B9%84%EC%9A%A9-%EC%B9%B4%EC%9A%B4%ED%84%B0%EB%A5%BC-%EB%91%98%EB%A1%9C-%EB%82%98%EB%88%88-%EC%9D%B4%EC%95%BC%EA%B8%B0) | [@florian13](https://velog.io/@florian13) |
-| 2026.10.19 | [되돌아오는 길이 없으면 끝난 것은 갇힌 것이다 — 구조인식(構造認識) 노트 ②](https://velog.io/@linxiaohei/%EB%90%98%EB%8F%8C%EC%95%84%EC%98%A4%EB%8A%94-%EA%B8%B8%EC%9D%B4-%EC%97%86%EC%9C%BC%EB%A9%B4-%EB%81%9D%EB%82%9C-%EA%B2%83%EC%9D%80-%EA%B0%87%ED%9E%8C-%EA%B2%83%EC%9D%B4%EB%8B%A4-%EA%B5%AC%EC%A1%B0%EC%9D%B8%EC%8B%9D%E6%A7%8B%E9%80%A0%E8%AA%8D%E8%AD%98-%EB%85%B8%ED%8A%B8) | [@linxiaohei](https://velog.io/@linxiaohei) |
+| 2026.10.19 | [[MT3068NDCR] 2.5~5.5V 4A 1.5MHz Synchronous Step-Down DC/DC Converter (DFN3x3-10L) \| RT8068A, SY20218, SY20215 대치](https://velog.io/@juniorchu/MT3068NDCR-2.55.5V-4A-1.5MHz-Synchronous-Step-Down-DCDC-Converter-DFN3x3-10L-RT8068A-SY20218-SY20215-%EB%8C%80%EC%B9%98) | [@juniorchu](https://velog.io/@juniorchu) |
+| 2026.10.19 | [FVM 개념 정리](https://velog.io/@rlghks446/FVM-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC) | [@rlghks446](https://velog.io/@rlghks446) |
+| 2026.10.19 | [오래된 1세대 사이트 [(어코드)] 가입기간 \| 신규입플 5+5 \| 업계최고배당](https://velog.io/@meo1212/%EC%98%A4%EB%9E%98%EB%90%9C-1%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%96%B4%EC%BD%94%EB%93%9C-%EA%B0%80%EC%9E%85%EA%B8%B0%EA%B0%84-%EC%8B%A0%EA%B7%9C%EC%9E%85%ED%94%8C-55-%EC%97%85%EA%B3%84%EC%B5%9C%EA%B3%A0%EB%B0%B0%EB%8B%B9-6bdj0ggy) | [@meo1212](https://velog.io/@meo1212) |
+| 2026.10.19 | [x402 PoC를 위해 만든 KDT 토큰 컨트랙트 뜯어보기](https://velog.io/@rlaejrqo465/x402-PoC%EB%A5%BC-%EC%9C%84%ED%95%B4-%EB%A7%8C%EB%93%A0-KDT-%ED%86%A0%ED%81%B0-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0) | [@rlaejrqo465](https://velog.io/@rlaejrqo465) |
+| 2026.10.19 | [[TIL 10월 3주] Linux Server & Network Security, AWS Infrastructure](https://velog.io/@dororing_7410/TIL-10%EC%9B%94-3%EC%A3%BC-Linux-Server-Network-Security-AWS-Infrastructure) | [@dororing_7410](https://velog.io/@dororing_7410) |
+| 2026.10.19 | [GitHub Actions WorkFlows](https://velog.io/@rlghks446/GitHub-Actions-WorkFlow) | [@rlghks446](https://velog.io/@rlghks446) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
