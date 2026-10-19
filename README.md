@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.19 | [[MT3068NDCR] 2.5~5.5V 4A 1.5MHz Synchronous Step-Down DC/DC Converter (DFN3x3-10L) \| RT8068A, SY20218, SY20215 대치](https://velog.io/@juniorchu/MT3068NDCR-2.55.5V-4A-1.5MHz-Synchronous-Step-Down-DCDC-Converter-DFN3x3-10L-RT8068A-SY20218-SY20215-%EB%8C%80%EC%B9%98) | [@juniorchu](https://velog.io/@juniorchu) |
-| 2026.10.19 | [FVM 개념 정리](https://velog.io/@rlghks446/FVM-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC) | [@rlghks446](https://velog.io/@rlghks446) |
-| 2026.10.19 | [오래된 1세대 사이트 [(어코드)] 가입기간 \| 신규입플 5+5 \| 업계최고배당](https://velog.io/@meo1212/%EC%98%A4%EB%9E%98%EB%90%9C-1%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%96%B4%EC%BD%94%EB%93%9C-%EA%B0%80%EC%9E%85%EA%B8%B0%EA%B0%84-%EC%8B%A0%EA%B7%9C%EC%9E%85%ED%94%8C-55-%EC%97%85%EA%B3%84%EC%B5%9C%EA%B3%A0%EB%B0%B0%EB%8B%B9-6bdj0ggy) | [@meo1212](https://velog.io/@meo1212) |
-| 2026.10.19 | [x402 PoC를 위해 만든 KDT 토큰 컨트랙트 뜯어보기](https://velog.io/@rlaejrqo465/x402-PoC%EB%A5%BC-%EC%9C%84%ED%95%B4-%EB%A7%8C%EB%93%A0-KDT-%ED%86%A0%ED%81%B0-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0) | [@rlaejrqo465](https://velog.io/@rlaejrqo465) |
-| 2026.10.19 | [[TIL 10월 3주] Linux Server & Network Security, AWS Infrastructure](https://velog.io/@dororing_7410/TIL-10%EC%9B%94-3%EC%A3%BC-Linux-Server-Network-Security-AWS-Infrastructure) | [@dororing_7410](https://velog.io/@dororing_7410) |
-| 2026.10.19 | [GitHub Actions WorkFlows](https://velog.io/@rlghks446/GitHub-Actions-WorkFlow) | [@rlghks446](https://velog.io/@rlghks446) |
+| 2026.10.19 | [패킷의 이동으로 이해하는 리눅스 네트워킹](https://velog.io/@cycrypto/%ED%8C%A8%ED%82%B7%EC%9D%98-%EC%9D%B4%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9) | [@cycrypto](https://velog.io/@cycrypto) |
+| 2026.10.19 | [[Oracle DB] Memory Management와 Parameter 실습, Oracle Net Services](https://velog.io/@philbae0/Oracle-19c-Memory-Management%EC%99%80-Parameter-%EC%8B%A4%EC%8A%B5-Oracle-Net-Services) | [@philbae0](https://velog.io/@philbae0) |
+| 2026.10.19 | [[TIL] 데이터는 감을 없애는 게 아니라, 감을 확인하는 도구다](https://velog.io/@crisyoon3/TIL-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94-%EA%B0%90%EC%9D%84-%EC%97%86%EC%95%A0%EB%8A%94-%EA%B2%8C-%EC%95%84%EB%8B%88%EB%9D%BC-%EA%B0%90%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%8B%A4) | [@crisyoon3](https://velog.io/@crisyoon3) |
+| 2026.10.19 | [같은 기록을 받고도, AI 모델 넷은 저마다 다르게 읽었다](https://velog.io/@quantdotpoker/observation-01) | [@quantdotpoker](https://velog.io/@quantdotpoker) |
+| 2026.10.19 | [[Unity 팀 프로젝트] 와글와글 키친 개발기 #1 - 프로젝트 소개 및 음식 시스템 설계](https://velog.io/@woghks62/unity-team-project-waglewagle-kitchen-01) | [@woghks62](https://velog.io/@woghks62) |
+| 2026.10.19 | [2026-10-19-TIL](https://velog.io/@gunhee530/2026-10-19-TIL) | [@gunhee530](https://velog.io/@gunhee530) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
