@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.19 | [패킷의 이동으로 이해하는 리눅스 네트워킹](https://velog.io/@cycrypto/%ED%8C%A8%ED%82%B7%EC%9D%98-%EC%9D%B4%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9) | [@cycrypto](https://velog.io/@cycrypto) |
-| 2026.10.19 | [[Oracle DB] Memory Management와 Parameter 실습, Oracle Net Services](https://velog.io/@philbae0/Oracle-19c-Memory-Management%EC%99%80-Parameter-%EC%8B%A4%EC%8A%B5-Oracle-Net-Services) | [@philbae0](https://velog.io/@philbae0) |
-| 2026.10.19 | [[TIL] 데이터는 감을 없애는 게 아니라, 감을 확인하는 도구다](https://velog.io/@crisyoon3/TIL-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94-%EA%B0%90%EC%9D%84-%EC%97%86%EC%95%A0%EB%8A%94-%EA%B2%8C-%EC%95%84%EB%8B%88%EB%9D%BC-%EA%B0%90%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%8B%A4) | [@crisyoon3](https://velog.io/@crisyoon3) |
-| 2026.10.19 | [같은 기록을 받고도, AI 모델 넷은 저마다 다르게 읽었다](https://velog.io/@quantdotpoker/observation-01) | [@quantdotpoker](https://velog.io/@quantdotpoker) |
-| 2026.10.19 | [[Unity 팀 프로젝트] 와글와글 키친 개발기 #1 - 프로젝트 소개 및 음식 시스템 설계](https://velog.io/@woghks62/unity-team-project-waglewagle-kitchen-01) | [@woghks62](https://velog.io/@woghks62) |
-| 2026.10.19 | [2026-10-19-TIL](https://velog.io/@gunhee530/2026-10-19-TIL) | [@gunhee530](https://velog.io/@gunhee530) |
+| 2026.10.20 | [[C#/Unity 최적화 #1] 값 형식 vs 참조 형식 메모리 구조와 박싱(Boxing) GC 최적화](https://velog.io/@c101892/CUnity-%EC%B5%9C%EC%A0%81%ED%99%94-1-%EA%B0%92-%ED%98%95%EC%8B%9D-vs-%EC%B0%B8%EC%A1%B0-%ED%98%95%EC%8B%9D-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0%EC%99%80-%EB%B0%95%EC%8B%B1Boxing-GC-%EC%B5%9C%EC%A0%81%ED%99%94) | [@c101892](https://velog.io/@c101892) |
+| 2026.10.20 | [[80일차] 모델 프리 강화학습과 TD Learning, Q-Learning](https://velog.io/@j_keun/80%EC%9D%BC%EC%B0%A8-%EB%AA%A8%EB%8D%B8-%ED%94%84%EB%A6%AC-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EA%B3%BC-TD-Learning-Q-Learning) | [@j_keun](https://velog.io/@j_keun) |
+| 2026.10.20 | [비개발자의 개발자 취업 도전 17주차](https://velog.io/@ch_luminous/%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84-17%EC%A3%BC%EC%B0%A8) | [@ch_luminous](https://velog.io/@ch_luminous) |
+| 2026.10.20 | [drag and drop 기능 트러블 슈팅](https://velog.io/@chaemin1021/drag-and-drop-%EA%B8%B0%EB%8A%A5-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85) | [@chaemin1021](https://velog.io/@chaemin1021) |
+| 2026.10.20 | [[후속 작업 #3] AI Moderation Observability 구축 - LLM 호출부터 Token, Retry, 비용까지](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-3-AI-Moderation-Observability-%EA%B5%AC%EC%B6%95-LLM-%ED%98%B8%EC%B6%9C%EB%B6%80%ED%84%B0-Token-Retry-%EB%B9%84%EC%9A%A9%EA%B9%8C%EC%A7%80) | [@gpekd5](https://velog.io/@gpekd5) |
+| 2026.10.20 | [[TIL] MSA \| Integration Testing & Saga Isolation](https://velog.io/@ggangmy/TIL-MSA-Integration-Testing-Saga-Isolation) | [@ggangmy](https://velog.io/@ggangmy) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
