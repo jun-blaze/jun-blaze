@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.20 | [[C#/Unity 최적화 #1] 값 형식 vs 참조 형식 메모리 구조와 박싱(Boxing) GC 최적화](https://velog.io/@c101892/CUnity-%EC%B5%9C%EC%A0%81%ED%99%94-1-%EA%B0%92-%ED%98%95%EC%8B%9D-vs-%EC%B0%B8%EC%A1%B0-%ED%98%95%EC%8B%9D-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0%EC%99%80-%EB%B0%95%EC%8B%B1Boxing-GC-%EC%B5%9C%EC%A0%81%ED%99%94) | [@c101892](https://velog.io/@c101892) |
-| 2026.10.20 | [[80일차] 모델 프리 강화학습과 TD Learning, Q-Learning](https://velog.io/@j_keun/80%EC%9D%BC%EC%B0%A8-%EB%AA%A8%EB%8D%B8-%ED%94%84%EB%A6%AC-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EA%B3%BC-TD-Learning-Q-Learning) | [@j_keun](https://velog.io/@j_keun) |
-| 2026.10.20 | [비개발자의 개발자 취업 도전 17주차](https://velog.io/@ch_luminous/%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84-17%EC%A3%BC%EC%B0%A8) | [@ch_luminous](https://velog.io/@ch_luminous) |
-| 2026.10.20 | [drag and drop 기능 트러블 슈팅](https://velog.io/@chaemin1021/drag-and-drop-%EA%B8%B0%EB%8A%A5-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85) | [@chaemin1021](https://velog.io/@chaemin1021) |
-| 2026.10.20 | [[후속 작업 #3] AI Moderation Observability 구축 - LLM 호출부터 Token, Retry, 비용까지](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-3-AI-Moderation-Observability-%EA%B5%AC%EC%B6%95-LLM-%ED%98%B8%EC%B6%9C%EB%B6%80%ED%84%B0-Token-Retry-%EB%B9%84%EC%9A%A9%EA%B9%8C%EC%A7%80) | [@gpekd5](https://velog.io/@gpekd5) |
-| 2026.10.20 | [[TIL] MSA \| Integration Testing & Saga Isolation](https://velog.io/@ggangmy/TIL-MSA-Integration-Testing-Saga-Isolation) | [@ggangmy](https://velog.io/@ggangmy) |
+| 2026.10.20 | [[Zero to ML Master #44] 파이썬 내장함수 100선과 02권 총정리 — zip·enumerate·dir·help부터 실습 15제·연습문제 24제·실수 체크리스트까지 (02권 9부 2)](https://velog.io/@otololism/zero-to-ml-master-44-02-09-part2) | [@otololism](https://velog.io/@otololism) |
+| 2026.10.20 | [26O19i](https://velog.io/@youngkyoo_kim/26O19i) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.20 | [26O19h](https://velog.io/@youngkyoo_kim/26O19h) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.20 | [26O19g2](https://velog.io/@youngkyoo_kim/26O19g2) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.20 | [26O19g](https://velog.io/@youngkyoo_kim/26O19g) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.20 | [26O19f](https://velog.io/@youngkyoo_kim/26O19f) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
