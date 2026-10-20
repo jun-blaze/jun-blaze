@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.20 | [순서 바꾸기](https://velog.io/@good_today/%EC%88%9C%EC%84%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0) | [@good_today](https://velog.io/@good_today) |
-| 2026.10.20 | [Virus Total](https://velog.io/@kjhalc/Virus-Total) | [@kjhalc](https://velog.io/@kjhalc) |
-| 2026.10.20 | [[신한커리어넥스트] FastAPI와 Spring Boot 연동: 금융 데이터 조회 API 구현](https://velog.io/@philbae0/%EC%8B%A0%ED%95%9C%EC%BB%A4%EB%A6%AC%EC%96%B4%EB%84%A5%EC%8A%A4%ED%8A%B8-FastAPI%EC%99%80-Spring-Boot-%EC%97%B0%EB%8F%99-%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%ED%9A%8C-API-%EA%B5%AC%ED%98%84-skaxp49y) | [@philbae0](https://velog.io/@philbae0) |
-| 2026.10.20 | [[RY9430DP8] 4.5V~38V 3A Synchronous Step-Down DC/DC Converter (ESOP8A) \| MP1484, RT8294, TPS54336A 핀투핀 대체 호환](https://velog.io/@juniorchu/RY9430DP8-4.5V38V-3A-Synchronous-Step-Down-DCDC-Converter-ESOP8A-MP1484-RT8294-TPS54336A-%ED%95%80%ED%88%AC%ED%95%80-%EB%8C%80%EC%B2%B4-%ED%98%B8%ED%99%98) | [@juniorchu](https://velog.io/@juniorchu) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.10.20 | [SK 쉴더스 루키즈 지능형 애플리케이션 개발자 양성 과정 6기 - 백엔드 보안 마무리](https://velog.io/@sejin_j/SK-%EC%89%B4%EB%8D%94%EC%8A%A4-%EB%A3%A8%ED%82%A4%EC%A6%88-%EC%A7%80%EB%8A%A5%ED%98%95-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%91%EC%84%B1-%EA%B3%BC%EC%A0%95-6%EA%B8%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%B3%B4%EC%95%88-%EB%A7%88%EB%AC%B4%EB%A6%AC) | [@sejin_j](https://velog.io/@sejin_j) |
+| 2026.10.20 | [2026.10.20 Day 46 [NC AI] 커스텀 AI 서비스 개발자 양성과정](https://velog.io/@sbleeedu1-ai/2026.10.20-Day-46-NC-AI-%EC%BB%A4%EC%8A%A4%ED%85%80-AI-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95) | [@sbleeedu1-ai](https://velog.io/@sbleeedu1-ai) |
+| 2026.10.20 | [[10/20] Micrometer, Prometheus, Grafana를 활용한 모니터링](https://velog.io/@joeynoh2002/1020-Micrometer-Prometheus-Grafana%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81) | [@joeynoh2002](https://velog.io/@joeynoh2002) |
+| 2026.10.20 | [싱크로나이저 테스트](https://velog.io/@firstclass9903/%EC%8B%B1%ED%81%AC%EB%A1%9C%EB%82%98%EC%9D%B4%EC%A0%80-%ED%85%8C%EC%8A%A4%ED%8A%B8) | [@firstclass9903](https://velog.io/@firstclass9903) |
+| 2026.10.20 | [[TIL] PM 수업 42일차 \| 실무 문서 작성법과 프로덕트 검증의 핵심: QA와 UT](https://velog.io/@so_so_hanna31/TIL-PM-%EC%88%98%EC%97%85-42%EC%9D%BC%EC%B0%A8-%EC%8B%A4%EB%AC%B4-%EB%AC%B8%EC%84%9C-%EC%9E%91%EC%84%B1%EB%B2%95%EA%B3%BC-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EA%B2%80%EC%A6%9D%EC%9D%98-%ED%95%B5%EC%8B%AC-QA%EC%99%80-U) | [@so_so_hanna31](https://velog.io/@so_so_hanna31) |
+| 2026.10.20 | [10/20 Flex](https://velog.io/@jin05103/1020-Flex) | [@jin05103](https://velog.io/@jin05103) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
