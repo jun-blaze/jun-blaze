@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.20 | [[Zero to ML Master #44] 파이썬 내장함수 100선과 02권 총정리 — zip·enumerate·dir·help부터 실습 15제·연습문제 24제·실수 체크리스트까지 (02권 9부 2)](https://velog.io/@otololism/zero-to-ml-master-44-02-09-part2) | [@otololism](https://velog.io/@otololism) |
-| 2026.10.20 | [26O19i](https://velog.io/@youngkyoo_kim/26O19i) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.10.20 | [26O19h](https://velog.io/@youngkyoo_kim/26O19h) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.10.20 | [26O19g2](https://velog.io/@youngkyoo_kim/26O19g2) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.10.20 | [26O19g](https://velog.io/@youngkyoo_kim/26O19g) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
-| 2026.10.20 | [26O19f](https://velog.io/@youngkyoo_kim/26O19f) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.10.20 | [순서 바꾸기](https://velog.io/@good_today/%EC%88%9C%EC%84%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0) | [@good_today](https://velog.io/@good_today) |
+| 2026.10.20 | [Virus Total](https://velog.io/@kjhalc/Virus-Total) | [@kjhalc](https://velog.io/@kjhalc) |
+| 2026.10.20 | [[신한커리어넥스트] FastAPI와 Spring Boot 연동: 금융 데이터 조회 API 구현](https://velog.io/@philbae0/%EC%8B%A0%ED%95%9C%EC%BB%A4%EB%A6%AC%EC%96%B4%EB%84%A5%EC%8A%A4%ED%8A%B8-FastAPI%EC%99%80-Spring-Boot-%EC%97%B0%EB%8F%99-%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%ED%9A%8C-API-%EA%B5%AC%ED%98%84-skaxp49y) | [@philbae0](https://velog.io/@philbae0) |
+| 2026.10.20 | [[RY9430DP8] 4.5V~38V 3A Synchronous Step-Down DC/DC Converter (ESOP8A) \| MP1484, RT8294, TPS54336A 핀투핀 대체 호환](https://velog.io/@juniorchu/RY9430DP8-4.5V38V-3A-Synchronous-Step-Down-DCDC-Converter-ESOP8A-MP1484-RT8294-TPS54336A-%ED%95%80%ED%88%AC%ED%95%80-%EB%8C%80%EC%B2%B4-%ED%98%B8%ED%99%98) | [@juniorchu](https://velog.io/@juniorchu) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
