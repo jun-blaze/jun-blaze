@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.20 | [SK 쉴더스 루키즈 지능형 애플리케이션 개발자 양성 과정 6기 - 백엔드 보안 마무리](https://velog.io/@sejin_j/SK-%EC%89%B4%EB%8D%94%EC%8A%A4-%EB%A3%A8%ED%82%A4%EC%A6%88-%EC%A7%80%EB%8A%A5%ED%98%95-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%91%EC%84%B1-%EA%B3%BC%EC%A0%95-6%EA%B8%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%B3%B4%EC%95%88-%EB%A7%88%EB%AC%B4%EB%A6%AC) | [@sejin_j](https://velog.io/@sejin_j) |
-| 2026.10.20 | [2026.10.20 Day 46 [NC AI] 커스텀 AI 서비스 개발자 양성과정](https://velog.io/@sbleeedu1-ai/2026.10.20-Day-46-NC-AI-%EC%BB%A4%EC%8A%A4%ED%85%80-AI-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95) | [@sbleeedu1-ai](https://velog.io/@sbleeedu1-ai) |
-| 2026.10.20 | [[10/20] Micrometer, Prometheus, Grafana를 활용한 모니터링](https://velog.io/@joeynoh2002/1020-Micrometer-Prometheus-Grafana%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81) | [@joeynoh2002](https://velog.io/@joeynoh2002) |
-| 2026.10.20 | [싱크로나이저 테스트](https://velog.io/@firstclass9903/%EC%8B%B1%ED%81%AC%EB%A1%9C%EB%82%98%EC%9D%B4%EC%A0%80-%ED%85%8C%EC%8A%A4%ED%8A%B8) | [@firstclass9903](https://velog.io/@firstclass9903) |
-| 2026.10.20 | [[TIL] PM 수업 42일차 \| 실무 문서 작성법과 프로덕트 검증의 핵심: QA와 UT](https://velog.io/@so_so_hanna31/TIL-PM-%EC%88%98%EC%97%85-42%EC%9D%BC%EC%B0%A8-%EC%8B%A4%EB%AC%B4-%EB%AC%B8%EC%84%9C-%EC%9E%91%EC%84%B1%EB%B2%95%EA%B3%BC-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EA%B2%80%EC%A6%9D%EC%9D%98-%ED%95%B5%EC%8B%AC-QA%EC%99%80-U) | [@so_so_hanna31](https://velog.io/@so_so_hanna31) |
-| 2026.10.20 | [10/20 Flex](https://velog.io/@jin05103/1020-Flex) | [@jin05103](https://velog.io/@jin05103) |
+| 2026.10.21 | [[AimTest #26] README 마감 — 대조가 끝나고 남은 문장들](https://velog.io/@dh82680/AimTest-26-README-%EB%A7%88%EA%B0%90-%EB%8C%80%EC%A1%B0%EA%B0%80-%EB%81%9D%EB%82%98%EA%B3%A0-%EB%82%A8%EC%9D%80-%EB%AC%B8%EC%9E%A5%EB%93%A4) | [@dh82680](https://velog.io/@dh82680) |
+| 2026.10.21 | [[프로그래머스 / Java] 이웃한 칸 - 2차원 배열과 방향 배열](https://velog.io/@sennin/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Java-%EC%9D%B4%EC%9B%83%ED%95%9C-%EC%B9%B8-2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4%EA%B3%BC-%EB%B0%A9%ED%96%A5-%EB%B0%B0%EC%97%B4) | [@sennin](https://velog.io/@sennin) |
+| 2026.10.21 | [[TIL] SQL 성능 최적화 — AI가 작성한 코드는 정답일까?](https://velog.io/@rionkim/TIL-SQL-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-AI%EA%B0%80-%EC%9E%91%EC%84%B1%ED%95%9C-%EC%BD%94%EB%93%9C%EB%8A%94-%EC%A0%95%EB%8B%B5%EC%9D%BC%EA%B9%8C) | [@rionkim](https://velog.io/@rionkim) |
+| 2026.10.21 | [DeepSeek의 소소한 업데이트, '소원 빌기식 프로그래밍'이 현실이 되다?](https://velog.io/@sunny_123/psisg6ud) | [@sunny_123](https://velog.io/@sunny_123) |
+| 2026.10.21 | [Ch1-02. Rhino_Script_Editor_vs_Grasshopper_Python](https://velog.io/@ryoong1125/Ch1-02.-RhinoScriptEditorvsGrasshopperPython) | [@ryoong1125](https://velog.io/@ryoong1125) |
+| 2026.10.21 | [Ch0-00. Rhino8_Python_Series_Introduction](https://velog.io/@ryoong1125/Ch0-00.-Rhino8PythonSeriesIntroduction) | [@ryoong1125](https://velog.io/@ryoong1125) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
