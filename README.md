@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.21 | [2026.10.21 Day 47 [NC AI] 커스텀 AI 서비스 개발자 양성과정](https://velog.io/@sbleeedu1-ai/2026.10.21-Day-47-NC-AI-%EC%BB%A4%EC%8A%A4%ED%85%80-AI-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95) | [@sbleeedu1-ai](https://velog.io/@sbleeedu1-ai) |
-| 2026.10.21 | [[TIL] 2026.10.21.](https://velog.io/@ddaaee/TIL-2026.10.21) | [@ddaaee](https://velog.io/@ddaaee) |
-| 2026.10.21 | [[침해사고 로그 분석 004] 침해사고 타임라인 재구성](https://velog.io/@cs_security/%EC%B9%A8%ED%95%B4%EC%82%AC%EA%B3%A0-%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D-004-%EC%B9%A8%ED%95%B4%EC%82%AC%EA%B3%A0-%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8-%EC%9E%AC%EA%B5%AC%EC%84%B1) | [@cs_security](https://velog.io/@cs_security) |
-| 2026.10.21 | [Direction Strength Spectrum 테스트 - Part II (261021)](https://velog.io/@wonterry/Direction-Strength-Spectrum-%ED%85%8C%EC%8A%A4%ED%8A%B8-Part-II) | [@wonterry](https://velog.io/@wonterry) |
-| 2026.10.21 | [[arduino class] 아두이노에 대해, 그리고 개발 환경 설명](https://velog.io/@lmwmason/arduino-01-introduction-platformio) | [@lmwmason](https://velog.io/@lmwmason) |
-| 2026.10.21 | [프로메테우스](https://velog.io/@rlaehddus302/%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4-vthcdai5) | [@rlaehddus302](https://velog.io/@rlaehddus302) |
+| 2026.10.22 | [정보처리기사 실기 - 소프트웨어 테스트 2: 소프트웨어 공학과 통합 테스트, 품질 분석 도구](https://velog.io/@cookiemiro/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-2-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99%EA%B3%BC-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%92%88%EC%A7%88-%EB%B6%84%EC%84%9D-%EB%8F%84%EA%B5%AC) | [@cookiemiro](https://velog.io/@cookiemiro) |
+| 2026.10.22 | [No-Code Studio: 시각적 어드벤처 게임 엔진](https://velog.io/@m81p/No-Code-Studio-%EC%8B%9C%EA%B0%81%EC%A0%81-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98-%EA%B2%8C%EC%9E%84-%EC%97%94%EC%A7%84) | [@m81p](https://velog.io/@m81p) |
+| 2026.10.22 | [[LG CNS AM INSPIRE CAMP 6기] DAY 46 - VMware·Ubuntu 환경 구성과 Docker Engine·컨테이너 기초](https://velog.io/@hyr031888-crypto/LG-CNS-AM-INSPIRE-CAMP-6%EA%B8%B0-DAY-46-VMwareUbuntu-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%EA%B3%BC-Docker-Engine%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EA%B8%B0%EC%B4%88) | [@hyr031888-crypto](https://velog.io/@hyr031888-crypto) |
+| 2026.10.22 | [[pwn] environ write Up](https://velog.io/@junhoo04/pwn-environ-write-Up) | [@junhoo04](https://velog.io/@junhoo04) |
+| 2026.10.22 | [RSC 스트리밍부터 오프라인 캐시까지, 달란트페이를 빠르게 만든 과정](https://velog.io/@minr2kb/%EB%8B%AC%EB%9E%80%ED%8A%B8%ED%8E%98%EC%9D%B4%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%A7%8C%EB%93%A0-%EA%B3%BC%EC%A0%95) | [@minr2kb](https://velog.io/@minr2kb) |
+| 2026.10.22 | [프로그래머스 개미 군단](https://velog.io/@youngjun_10/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%9C%EB%AF%B8-%EA%B5%B0%EB%8B%A8) | [@youngjun_10](https://velog.io/@youngjun_10) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
