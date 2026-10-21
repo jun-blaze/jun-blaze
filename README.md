@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.21 | [면접스터디 day6](https://velog.io/@khjoo1203/%EB%A9%B4%EC%A0%91%EC%8A%A4%ED%84%B0%EB%94%94-day6) | [@khjoo1203](https://velog.io/@khjoo1203) |
-| 2026.10.21 | [배포 파이프라인 만들기 - 사전: 뜻 — 층과 방식](https://velog.io/@neosiureu/%EB%B0%B0%ED%8F%AC-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%82%AC%EC%A0%84-%EB%9C%BB-%EC%B8%B5%EA%B3%BC-%EB%B0%A9%EC%8B%9D) | [@neosiureu](https://velog.io/@neosiureu) |
-| 2026.10.21 | [[Making Mutation Arcade #30] 캐릭터를 움직였더니 비로소 게임처럼 보이기 시작했다](https://velog.io/@ms_moon/Making-Mutation-Arcade-30-%EC%BA%90%EB%A6%AD%ED%84%B0%EB%A5%BC-%EC%9B%80%EC%A7%81%EC%98%80%EB%8D%94%EB%8B%88-%EB%B9%84%EB%A1%9C%EC%86%8C-%EA%B2%8C%EC%9E%84%EC%B2%98%EB%9F%BC-%EB%B3%B4%EC%9D%B4%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4) | [@ms_moon](https://velog.io/@ms_moon) |
-| 2026.10.21 | [팀 스터디 \| 1회차 [26.10.21]](https://velog.io/@datamong/%ED%8C%80-%EC%8A%A4%ED%84%B0%EB%94%94-1%ED%9A%8C%EC%B0%A8-26.10.21) | [@datamong](https://velog.io/@datamong) |
-| 2026.10.21 | [네 제품의 SNS를 준비하며 정한 운영 원칙](https://velog.io/@davidmundev/%EB%84%A4-%EC%A0%9C%ED%92%88%EC%9D%98-SNS%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B0-%EC%A0%95%ED%95%9C-%EC%9A%B4%EC%98%81-%EC%9B%90%EC%B9%99) | [@davidmundev](https://velog.io/@davidmundev) |
-| 2026.10.21 | [Jenkins 재시작 후 GitLab 자격증명만 사라진 이유](https://velog.io/@diqkraud/Jenkins-%EC%9E%AC%EC%8B%9C%EC%9E%91-%ED%9B%84-GitLab-%EC%9E%90%EA%B2%A9%EC%A6%9D%EB%AA%85%EB%A7%8C-%EC%82%AC%EB%9D%BC%EC%A7%84-%EC%9D%B4%EC%9C%A0) | [@diqkraud](https://velog.io/@diqkraud) |
+| 2026.10.21 | [2026.10.21 Day 47 [NC AI] 커스텀 AI 서비스 개발자 양성과정](https://velog.io/@sbleeedu1-ai/2026.10.21-Day-47-NC-AI-%EC%BB%A4%EC%8A%A4%ED%85%80-AI-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95) | [@sbleeedu1-ai](https://velog.io/@sbleeedu1-ai) |
+| 2026.10.21 | [[TIL] 2026.10.21.](https://velog.io/@ddaaee/TIL-2026.10.21) | [@ddaaee](https://velog.io/@ddaaee) |
+| 2026.10.21 | [[침해사고 로그 분석 004] 침해사고 타임라인 재구성](https://velog.io/@cs_security/%EC%B9%A8%ED%95%B4%EC%82%AC%EA%B3%A0-%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D-004-%EC%B9%A8%ED%95%B4%EC%82%AC%EA%B3%A0-%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8-%EC%9E%AC%EA%B5%AC%EC%84%B1) | [@cs_security](https://velog.io/@cs_security) |
+| 2026.10.21 | [Direction Strength Spectrum 테스트 - Part II (261021)](https://velog.io/@wonterry/Direction-Strength-Spectrum-%ED%85%8C%EC%8A%A4%ED%8A%B8-Part-II) | [@wonterry](https://velog.io/@wonterry) |
+| 2026.10.21 | [[arduino class] 아두이노에 대해, 그리고 개발 환경 설명](https://velog.io/@lmwmason/arduino-01-introduction-platformio) | [@lmwmason](https://velog.io/@lmwmason) |
+| 2026.10.21 | [프로메테우스](https://velog.io/@rlaehddus302/%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4-vthcdai5) | [@rlaehddus302](https://velog.io/@rlaehddus302) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
