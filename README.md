@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.22 | [2026-10-22 URDF,USD -> Mujoco](https://velog.io/@roboticsmaster/2026-10-22-URDFUSD-Mujoco) | [@roboticsmaster](https://velog.io/@roboticsmaster) |
-| 2026.10.22 | [삼항 연산자 (Conditional Expression)](https://velog.io/@sara_kim/Conditional-Expression) | [@sara_kim](https://velog.io/@sara_kim) |
-| 2026.10.22 | [KG \| 임베딩·벡터 저장소 \|10.21](https://velog.io/@yunglee/KG-%EC%9E%84%EB%B2%A0%EB%94%A9-%EB%B2%A1%ED%84%B0-%EC%A0%80%EC%9E%A5%EC%86%8C-10.21) | [@yunglee](https://velog.io/@yunglee) |
-| 2026.10.22 | [[땅파기전 #4] 샘플 데이터를 실제 공공데이터로 교체하기](https://velog.io/@log_archive/before-digging-04-public-data-api) | [@log_archive](https://velog.io/@log_archive) |
-| 2026.10.22 | [[Study] 컴퓨터 사용(Computer Use), 화면을 보고 직접 조작하는 AI](https://velog.io/@esiki1997/Study-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%82%AC%EC%9A%A9Computer-Use-%ED%99%94%EB%A9%B4%EC%9D%84-%EB%B3%B4%EA%B3%A0-%EC%A7%81%EC%A0%91-%EC%A1%B0%EC%9E%91%ED%95%98%EB%8A%94-AI) | [@esiki1997](https://velog.io/@esiki1997) |
-| 2026.10.22 | [4과목 서비스 구축과 보안 로그 수집 \| Day 1. 새 일반 서비스와 감시 서비스 시작하기](https://velog.io/@jwonnlee00/4%EA%B3%BC%EB%AA%A9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%EA%B3%BC-%EB%B3%B4%EC%95%88-%EB%A1%9C%EA%B7%B8-%EC%88%98%EC%A7%91-Day-1.-%EC%83%88-%EC%9D%BC%EB%B0%98-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-%EA%B0%90%EC%8B%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) | [@jwonnlee00](https://velog.io/@jwonnlee00) |
+| 2026.10.22 | [웹개발 7주차](https://velog.io/@sonjinho/%EC%9B%B9%EA%B0%9C%EB%B0%9C-7%EC%A3%BC%EC%B0%A8) | [@sonjinho](https://velog.io/@sonjinho) |
+| 2026.10.22 | [[내일배움캠프] 재고는 차감됐는데 응답이 없다면?](https://velog.io/@rkddk7165/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-%EC%9E%AC%EA%B3%A0%EB%8A%94-%EC%B0%A8%EA%B0%90%EB%90%90%EB%8A%94%EB%8D%B0-%EC%9D%91%EB%8B%B5%EC%9D%B4-%EC%97%86%EB%8B%A4%EB%A9%B4) | [@rkddk7165](https://velog.io/@rkddk7165) |
+| 2026.10.22 | [[GitHub] Personal Access Token 발급 및 갱신하기](https://velog.io/@ehgus0526/GitHub-Personal-Access-Token-%EB%B0%9C%EA%B8%89-%EB%B0%8F-%EA%B0%B1%EC%8B%A0%ED%95%98%EA%B8%B0) | [@ehgus0526](https://velog.io/@ehgus0526) |
+| 2026.10.22 | [[W08] 정글 8주차를 보내며](https://velog.io/@whdms/W08-%EC%A0%95%EA%B8%80-8%EC%A3%BC%EC%B0%A8%EB%A5%BC-%EB%B3%B4%EB%82%B4%EB%A9%B0) | [@whdms](https://velog.io/@whdms) |
+| 2026.10.22 | [[LG CNS AM 6기 46일차 TIL] : Docker 이미지와 컨테이너 생명주기·기본 명령어 실습부터 Layer 구조와 Dockerfile 이미지 빌드까지](https://velog.io/@hyhyhyhyhy/LG-CNS-AM-6%EA%B8%B0-46%EC%9D%BC%EC%B0%A8-TIL-Docker-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%8B%A4%EC%8A%B5%EB%B6%80%ED%84%B0-Layer-%EA%B5%AC%EC%A1%B0%EC%99%80-Dockerfile-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B9%8C%EB%93%9C%EA%B9%8C%EC%A7%80) | [@hyhyhyhyhy](https://velog.io/@hyhyhyhyhy) |
+| 2026.10.22 | [【백준 1647】 도시 분할 계획 \| 크루스칼 알고리즘과 최소 신장 트리(MST)](https://velog.io/@hsuncho/%E3%80%90%EB%B0%B1%EC%A4%80-1647%E3%80%91-%EB%8F%84%EC%8B%9C-%EB%B6%84%ED%95%A0-%EA%B3%84%ED%9A%8D-%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%B5%9C%EC%86%8C-%EC%8B%A0%EC%9E%A5-%ED%8A%B8%EB%A6%ACMST) | [@hsuncho](https://velog.io/@hsuncho) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
