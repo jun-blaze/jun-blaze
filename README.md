@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.23 | [모의해킹 실습 보고서 Lab08](https://velog.io/@omnyomnyomnyom/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9-%EC%8B%A4%EC%8A%B5-%EB%B3%B4%EA%B3%A0%EC%84%9C-Lab08) | [@omnyomnyomnyom](https://velog.io/@omnyomnyomnyom) |
-| 2026.10.23 | [DynamoDB에서 발생한 저장 지연의 원인을 찾아서](https://velog.io/@east0323/DynamoDB%EC%97%90%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%9C-%EC%A0%80%EC%9E%A5-%EC%A7%80%EC%97%B0%EC%9D%98-%EC%9B%90%EC%9D%B8%EC%9D%84-%EC%B0%BE%EC%95%84%EC%84%9C) | [@east0323](https://velog.io/@east0323) |
-| 2026.10.23 | [10월 4주차 - 금요일 오라오라오라](https://velog.io/@take13/10%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EA%B8%88%EC%9A%94%EC%9D%BC-%EC%98%A4%EB%9D%BC%EC%98%A4%EB%9D%BC%EC%98%A4%EB%9D%BC) | [@take13](https://velog.io/@take13) |
-| 2026.10.23 | [그래서 open cv가 뭔데?](https://velog.io/@2001dudgus/%EA%B7%B8%EB%9E%98%EC%84%9C-open-cv%EA%B0%80-%EB%AD%94%EB%8D%B0) | [@2001dudgus](https://velog.io/@2001dudgus) |
-| 2026.10.23 | [[LG CNS AM 6기] 45일차 TIL : AWS EC2와 dockerfile](https://velog.io/@jeongun-real/LG-CNS-AM-6%EA%B8%B0-44%EC%9D%BC%EC%B0%A8-TIL-AWS-EC2%EC%99%80-dockerfile) | [@jeongun-real](https://velog.io/@jeongun-real) |
-| 2026.10.23 | [URL 단축, API부터 QR 코드, MCP까지 — 개발 도구소개](https://velog.io/@rangom/URL-%EB%8B%A8%EC%B6%95-API%EB%B6%80%ED%84%B0-QR-%EC%BD%94%EB%93%9C-MCP%EA%B9%8C%EC%A7%80-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EA%B5%AC%EC%86%8C%EA%B0%9C) | [@rangom](https://velog.io/@rangom) |
+| 2026.10.23 | [정처기 C언어](https://velog.io/@pingu_122/%EC%A0%95%EC%B2%98%EA%B8%B0-C%EC%96%B8%EC%96%B4) | [@pingu_122](https://velog.io/@pingu_122) |
+| 2026.10.23 | [매일 1% 성장하기 DAY-52](https://velog.io/@pingu_122/%EB%A7%A4%EC%9D%BC-1-%EC%84%B1%EC%9E%A5%ED%95%98%EA%B8%B0-DAY-52) | [@pingu_122](https://velog.io/@pingu_122) |
+| 2026.10.23 | [[공용 컴포넌트] expo-blur를 활용한 BG 컴포넌트 구현](https://velog.io/@u_gangg3/expo-blur%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-BG-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B5%AC%ED%98%84) | [@u_gangg3](https://velog.io/@u_gangg3) |
+| 2026.10.23 | [재귀는 함수가 자기 자신을 호출하는 문법이 아니다](https://velog.io/@vxdeveloper/algorithm37) | [@vxdeveloper](https://velog.io/@vxdeveloper) |
+| 2026.10.23 | [[IdolGlow] 서버는 무엇을 믿고 결제를 확정해야 할까?](https://velog.io/@sleekydevzero86/toss-payment-verification-lock-consistency) | [@sleekydevzero86](https://velog.io/@sleekydevzero86) |
+| 2026.10.23 | [투포인터](https://velog.io/@doublehoney/%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) | [@doublehoney](https://velog.io/@doublehoney) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
