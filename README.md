@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.23 | [[[테더 가능 시원상사]] 라이브베팅 조합가능 \| 신규입플 3+2/5+3/10+5 \| 당첨상한3천만](https://velog.io/@meo1212/%ED%85%8C%EB%8D%94-%EA%B0%80%EB%8A%A5-%EC%8B%9C%EC%9B%90%EC%83%81%EC%82%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%B2%A0%ED%8C%85-%EC%A1%B0%ED%95%A9%EA%B0%80%EB%8A%A5-%EC%8B%A0%EA%B7%9C%EC%9E%85%ED%94%8C-3253105-%EB%8B%B9%EC%B2%A8%EC%83%81%ED%95%9C3%EC%B2%9C%EB%A7%8C-1knrnx28) | [@meo1212](https://velog.io/@meo1212) |
-| 2026.10.23 | [TIL Linux 10/23/2026](https://velog.io/@eojin/TIL-Linux-10232026) | [@eojin](https://velog.io/@eojin) |
-| 2026.10.23 | [주선율이란? AI 채보 전에 따라 적을 음악선을 정하는 방법](https://velog.io/@creatunealex/%EC%A3%BC%EC%84%A0%EC%9C%A8%EC%9D%B4%EB%9E%80-AI-%EC%B1%84%EB%B3%B4-%EC%A0%84%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%A0%81%EC%9D%84-%EC%9D%8C%EC%95%85%EC%84%A0%EC%9D%84-%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) | [@creatunealex](https://velog.io/@creatunealex) |
-| 2026.10.23 | [[Databricks] Prompt Registry](https://velog.io/@mino0121/Databricks-Prompt-Registry) | [@mino0121](https://velog.io/@mino0121) |
-| 2026.10.23 | [[AI] Ubuntu 24.04에 Ollama + Qwen3.5 9B 설치하고 Open WebUI로 RAG 구성하기](https://velog.io/@rlaandus2/ai-ubuntu-2404%EC%97%90-ollama-qwen35-9b-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-open-webui%EB%A1%9C-rag-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC%EB%B6%80%ED%84%B0-%EC%9A%B4%EC%98%81%EA%B9%8C%EC%A7%80) | [@rlaandus2](https://velog.io/@rlaandus2) |
-| 2026.10.23 | [냉장고 사진 한 장으로 저녁 메뉴 정하는 앱, 하루 만에 출시](https://velog.io/@haul/chalkak-recipe-fridge-photo-to-dinner) | [@haul](https://velog.io/@haul) |
+| 2026.10.23 | [Findex 팀 프로젝트 개인 개발 리포트](https://velog.io/@uhae451/Findex-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9D%B8-%EA%B0%9C%EB%B0%9C-%EB%A6%AC%ED%8F%AC%ED%8A%B8) | [@uhae451](https://velog.io/@uhae451) |
+| 2026.10.23 | [[문제풀이] 수열과 구간 쿼리 1](https://velog.io/@koikoilove99/181883-sequence-and-interval-queries-1) | [@koikoilove99](https://velog.io/@koikoilove99) |
+| 2026.10.23 | [86번째 TIL](https://velog.io/@dnflgkatjd/86%EB%B2%88%EC%A7%B8-TIL) | [@dnflgkatjd](https://velog.io/@dnflgkatjd) |
+| 2026.10.23 | [Grafana](https://velog.io/@rlaehddus302/Grafana) | [@rlaehddus302](https://velog.io/@rlaehddus302) |
+| 2026.10.23 | [LG CNS AM 6기 48일차 TIL — 웹 서버 이미지 · 포트 바인딩 · 이미지 생성과 이동 · 레지스트리와 경량화](https://velog.io/@ysh971007/LG-CNS-AM-6%EA%B8%B0-48%EC%9D%BC%EC%B0%A8-TIL-%EC%9B%B9-%EC%84%9C%EB%B2%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8F%AC%ED%8A%B8-%EB%B0%94%EC%9D%B8%EB%94%A9-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%9D%B4%EB%8F%99-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC%EC%99%80-%EA%B2%BD%EB%9F%89%ED%99%94) | [@ysh971007](https://velog.io/@ysh971007) |
+| 2026.10.23 | [Zemix](https://velog.io/@zemix-hyun/Zemix) | [@zemix-hyun](https://velog.io/@zemix-hyun) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
