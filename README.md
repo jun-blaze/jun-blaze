@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.23 | [Findex 팀 프로젝트 개인 개발 리포트](https://velog.io/@uhae451/Findex-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9D%B8-%EA%B0%9C%EB%B0%9C-%EB%A6%AC%ED%8F%AC%ED%8A%B8) | [@uhae451](https://velog.io/@uhae451) |
-| 2026.10.23 | [[문제풀이] 수열과 구간 쿼리 1](https://velog.io/@koikoilove99/181883-sequence-and-interval-queries-1) | [@koikoilove99](https://velog.io/@koikoilove99) |
-| 2026.10.23 | [86번째 TIL](https://velog.io/@dnflgkatjd/86%EB%B2%88%EC%A7%B8-TIL) | [@dnflgkatjd](https://velog.io/@dnflgkatjd) |
-| 2026.10.23 | [Grafana](https://velog.io/@rlaehddus302/Grafana) | [@rlaehddus302](https://velog.io/@rlaehddus302) |
-| 2026.10.23 | [LG CNS AM 6기 48일차 TIL — 웹 서버 이미지 · 포트 바인딩 · 이미지 생성과 이동 · 레지스트리와 경량화](https://velog.io/@ysh971007/LG-CNS-AM-6%EA%B8%B0-48%EC%9D%BC%EC%B0%A8-TIL-%EC%9B%B9-%EC%84%9C%EB%B2%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8F%AC%ED%8A%B8-%EB%B0%94%EC%9D%B8%EB%94%A9-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%9D%B4%EB%8F%99-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC%EC%99%80-%EA%B2%BD%EB%9F%89%ED%99%94) | [@ysh971007](https://velog.io/@ysh971007) |
-| 2026.10.23 | [Zemix](https://velog.io/@zemix-hyun/Zemix) | [@zemix-hyun](https://velog.io/@zemix-hyun) |
+| 2026.10.24 | [[컴퓨터 구조 #03] CPU 캐시, RAM, SSD는 어떻게 데이터를 저장할까?](https://velog.io/@gpekd5/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-03-CPU-%EC%BA%90%EC%8B%9C-RAM-SSD%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A0%80%EC%9E%A5%ED%95%A0%EA%B9%8C) | [@gpekd5](https://velog.io/@gpekd5) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
