@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.24 | [데이터베이스 11주차](https://velog.io/@sssooolllooo/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-11%EC%A3%BC%EC%B0%A8) | [@sssooolllooo](https://velog.io/@sssooolllooo) |
-| 2026.10.24 | [유튜브 쇼츠만 없애고 일반 영상은 보는 아이폰 앱 비교 (2026)](https://velog.io/@barcaak1011/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%87%BC%EC%B8%A0%EB%A7%8C-%EC%97%86%EC%95%A0%EA%B3%A0-%EC%9D%BC%EB%B0%98-%EC%98%81%EC%83%81%EC%9D%80-%EB%B3%B4%EB%8A%94-%EC%95%84%EC%9D%B4%ED%8F%B0-%EC%95%B1-%EB%B9%84%EA%B5%90-2026) | [@barcaak1011](https://velog.io/@barcaak1011) |
-| 2026.10.24 | [R 기초②](https://velog.io/@jdy1142002/R-%EA%B8%B0%EC%B4%88) | [@jdy1142002](https://velog.io/@jdy1142002) |
-| 2026.10.24 | [산책길 강아지 찍어서 124칸 견종 도감 채우는 앱](https://velog.io/@haul/daengdaeng-dogam-dog-breed-collection) | [@haul](https://velog.io/@haul) |
-| 2026.10.24 | [React 심화 (2): use API](https://velog.io/@nariha/React-%EC%8B%AC%ED%99%94-2-use-API) | [@nariha](https://velog.io/@nariha) |
-| 2026.10.24 | [인증 없는 MQTT 브로커는 어떻게 뚫리는가 (그리고 어떻게 막는가)](https://velog.io/@jyj_ang/%EC%9D%B8%EC%A6%9D-%EC%97%86%EB%8A%94-MQTT-%EB%B8%8C%EB%A1%9C%EC%BB%A4%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%9A%AB%EB%A6%AC%EB%8A%94%EA%B0%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%89%EB%8A%94%EA%B0%80) | [@jyj_ang](https://velog.io/@jyj_ang) |
+| 2026.10.24 | [5. PARTITION BY, 아무데나 쓰면 안 되는 이유 (feat. LAG 삽질기)](https://velog.io/@jason0115/5.-PARTITION-BY-%EC%95%84%EB%AC%B4%EB%8D%B0%EB%82%98-%EC%93%B0%EB%A9%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-feat.-LAG-%EC%82%BD%EC%A7%88%EA%B8%B0) | [@jason0115](https://velog.io/@jason0115) |
+| 2026.10.24 | [섹션5.  아파치 카프카 CLI 활용](https://velog.io/@tngus3722/%EC%84%B9%EC%85%985.-%EC%95%84%ED%8C%8C%EC%B9%98-%EC%B9%B4%ED%94%84%EC%B9%B4-CLI-%ED%99%9C%EC%9A%A9) | [@tngus3722](https://velog.io/@tngus3722) |
+| 2026.10.24 | [통계 분석 ③](https://velog.io/@jdy1142002/%ED%86%B5%EA%B3%84-%EB%B6%84%EC%84%9D-d6701bwm) | [@jdy1142002](https://velog.io/@jdy1142002) |
+| 2026.10.24 | [커서 페이지네이션 가상화 적용기](https://velog.io/@dywjd8080/%EC%BB%A4%EC%84%9C-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98-%EA%B0%80%EC%83%81%ED%99%94-%EC%A0%81%EC%9A%A9%EA%B8%B0) | [@dywjd8080](https://velog.io/@dywjd8080) |
+| 2026.10.24 | [Art-15. Metaball and SDF](https://velog.io/@ryoong1125/Art-15.-Metaball-and-SDF-jcmxivx7) | [@ryoong1125](https://velog.io/@ryoong1125) |
+| 2026.10.24 | [Art-14. Differential Growth](https://velog.io/@ryoong1125/Art-14.-Differential-Growth-maf8p0fg) | [@ryoong1125](https://velog.io/@ryoong1125) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
