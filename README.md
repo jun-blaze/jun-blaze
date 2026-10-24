@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.24 | [5. PARTITION BY, 아무데나 쓰면 안 되는 이유 (feat. LAG 삽질기)](https://velog.io/@jason0115/5.-PARTITION-BY-%EC%95%84%EB%AC%B4%EB%8D%B0%EB%82%98-%EC%93%B0%EB%A9%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-feat.-LAG-%EC%82%BD%EC%A7%88%EA%B8%B0) | [@jason0115](https://velog.io/@jason0115) |
-| 2026.10.24 | [섹션5.  아파치 카프카 CLI 활용](https://velog.io/@tngus3722/%EC%84%B9%EC%85%985.-%EC%95%84%ED%8C%8C%EC%B9%98-%EC%B9%B4%ED%94%84%EC%B9%B4-CLI-%ED%99%9C%EC%9A%A9) | [@tngus3722](https://velog.io/@tngus3722) |
-| 2026.10.24 | [통계 분석 ③](https://velog.io/@jdy1142002/%ED%86%B5%EA%B3%84-%EB%B6%84%EC%84%9D-d6701bwm) | [@jdy1142002](https://velog.io/@jdy1142002) |
-| 2026.10.24 | [커서 페이지네이션 가상화 적용기](https://velog.io/@dywjd8080/%EC%BB%A4%EC%84%9C-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98-%EA%B0%80%EC%83%81%ED%99%94-%EC%A0%81%EC%9A%A9%EA%B8%B0) | [@dywjd8080](https://velog.io/@dywjd8080) |
-| 2026.10.24 | [Art-15. Metaball and SDF](https://velog.io/@ryoong1125/Art-15.-Metaball-and-SDF-jcmxivx7) | [@ryoong1125](https://velog.io/@ryoong1125) |
-| 2026.10.24 | [Art-14. Differential Growth](https://velog.io/@ryoong1125/Art-14.-Differential-Growth-maf8p0fg) | [@ryoong1125](https://velog.io/@ryoong1125) |
+| 2026.10.25 | [[UMC PE 6주차] 입력한 데이터를 저장하기](https://velog.io/@kimjaebeom/UMC-PE-6%EC%A3%BC%EC%B0%A8-%EC%9E%85%EB%A0%A5%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0) | [@kimjaebeom](https://velog.io/@kimjaebeom) |
+| 2026.10.25 | [레이아웃 및 디자인 원리](https://velog.io/@okh00000/%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EB%B0%8F-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%9B%90%EB%A6%AC) | [@okh00000](https://velog.io/@okh00000) |
+| 2026.10.25 | [[UMC PE 6주차] TanStack Query로 서버 데이터 조회하기](https://velog.io/@kimjaebeom/UMC-PE-6%EC%A3%BC%EC%B0%A8-TanStack-Query%EB%A1%9C-%EC%84%9C%EB%B2%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0) | [@kimjaebeom](https://velog.io/@kimjaebeom) |
+| 2026.10.25 | [SUID 공격](https://velog.io/@coffeecat24/SUID-%EA%B3%B5%EA%B2%A9) | [@coffeecat24](https://velog.io/@coffeecat24) |
+| 2026.10.25 | [로컬 LLM은 어디까지 발전했을까? — 모델부터 추론 최적화까지](https://velog.io/@juwon98/local-llm-evolution-2026) | [@juwon98](https://velog.io/@juwon98) |
+| 2026.10.25 | [useEffectEvent가 useRef를 어떻게 대체했을까?](https://velog.io/@eveneul/useEffectEvent%EA%B0%80-useRef%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8C%80%EC%B2%B4%ED%96%88%EC%9D%84%EA%B9%8C) | [@eveneul](https://velog.io/@eveneul) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
