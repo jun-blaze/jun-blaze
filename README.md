@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
-| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
+| 2026.10.24 | [데이터베이스 11주차](https://velog.io/@sssooolllooo/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-11%EC%A3%BC%EC%B0%A8) | [@sssooolllooo](https://velog.io/@sssooolllooo) |
+| 2026.10.24 | [유튜브 쇼츠만 없애고 일반 영상은 보는 아이폰 앱 비교 (2026)](https://velog.io/@barcaak1011/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%87%BC%EC%B8%A0%EB%A7%8C-%EC%97%86%EC%95%A0%EA%B3%A0-%EC%9D%BC%EB%B0%98-%EC%98%81%EC%83%81%EC%9D%80-%EB%B3%B4%EB%8A%94-%EC%95%84%EC%9D%B4%ED%8F%B0-%EC%95%B1-%EB%B9%84%EA%B5%90-2026) | [@barcaak1011](https://velog.io/@barcaak1011) |
+| 2026.10.24 | [R 기초②](https://velog.io/@jdy1142002/R-%EA%B8%B0%EC%B4%88) | [@jdy1142002](https://velog.io/@jdy1142002) |
+| 2026.10.24 | [산책길 강아지 찍어서 124칸 견종 도감 채우는 앱](https://velog.io/@haul/daengdaeng-dogam-dog-breed-collection) | [@haul](https://velog.io/@haul) |
+| 2026.10.24 | [React 심화 (2): use API](https://velog.io/@nariha/React-%EC%8B%AC%ED%99%94-2-use-API) | [@nariha](https://velog.io/@nariha) |
+| 2026.10.24 | [인증 없는 MQTT 브로커는 어떻게 뚫리는가 (그리고 어떻게 막는가)](https://velog.io/@jyj_ang/%EC%9D%B8%EC%A6%9D-%EC%97%86%EB%8A%94-MQTT-%EB%B8%8C%EB%A1%9C%EC%BB%A4%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%9A%AB%EB%A6%AC%EB%8A%94%EA%B0%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%89%EB%8A%94%EA%B0%80) | [@jyj_ang](https://velog.io/@jyj_ang) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
