@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.26 | [[SWEA/C++] D4. 4일차 - 보급로](https://velog.io/@ams_sma/SWEAC-D4.-4%EC%9D%BC%EC%B0%A8-%EB%B3%B4%EA%B8%89%EB%A1%9C) | [@ams_sma](https://velog.io/@ams_sma) |
-| 2026.10.26 | [[Auto Helm] 프로젝트의 목표는?](https://velog.io/@shinyb/Auto-Helm-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%AA%A9%ED%91%9C%EB%8A%94) | [@shinyb](https://velog.io/@shinyb) |
-| 2026.10.26 | [중간정리(머신러닝 이론 및 실습 ~ ML_basics-E2E 실습)](https://velog.io/@iss/%EC%A4%91%EA%B0%84%EC%A0%95%EB%A6%AC%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%8B%A4%EC%8A%B5-MLbasics-E2E-%EC%8B%A4%EC%8A%B5) | [@iss](https://velog.io/@iss) |
-| 2026.10.26 | [[Next.js] 스트리밍과 에러 핸들링](https://velog.io/@sunoly/Next.js-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%EA%B3%BC-%EC%97%90%EB%9F%AC-%ED%95%B8%EB%93%A4%EB%A7%81) | [@sunoly](https://velog.io/@sunoly) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.10.26 | [캔버스로 만든 밈 이미지를 클립보드에 바로 복사하기: ClipboardItem, 사파리의 Promise 트릭, 오염된 캔버스와 폴백까지](https://velog.io/@abidali671/canvas-meme-image-clipboard-copy) | [@abidali671](https://velog.io/@abidali671) |
+| 2026.10.26 | [아이폰 듀오 저장 용량, 감으로 고르지 말고 함수 하나로 계산하기](https://velog.io/@foldablenotes/%EC%95%84%EC%9D%B4%ED%8F%B0-%EB%93%80%EC%98%A4-%EC%A0%80%EC%9E%A5-%EC%9A%A9%EB%9F%89-%EA%B0%90%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EB%A5%B4%EC%A7%80-%EB%A7%90%EA%B3%A0-%ED%95%A8%EC%88%98-%ED%95%98%EB%82%98%EB%A1%9C-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) | [@foldablenotes](https://velog.io/@foldablenotes) |
+| 2026.10.26 | [순전파 & 역전파](https://velog.io/@ae_isong/%EC%88%9C%EC%A0%84%ED%8C%8C-%EC%97%AD%EC%A0%84%ED%8C%8C) | [@ae_isong](https://velog.io/@ae_isong) |
+| 2026.10.26 | [[기후·환경 뉴스 브리핑] 영국 전기차 판매 목표 완화 검토, 코알라 백신 효능 논쟁 (10.25)](https://velog.io/@hyuckjin/climate-environment-briefing-2026-10-25-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
+| 2026.10.26 | [[AI&GameDev] AI Orchestration & Workflow](https://velog.io/@imeamangryang/AIGameDev-AI-Orchestration-Workflow) | [@imeamangryang](https://velog.io/@imeamangryang) |
+| 2026.10.26 | [[과학 뉴스 브리핑] JWST, 초기 은하서 블랙홀 3개 확인…아스피린 치매 연관성은 유전형에 따라 달라 (10.25)](https://velog.io/@hyuckjin/science-news-briefing-2026-10-25-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
