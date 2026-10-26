@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.26 | [작은 웹 애니메이션, GIF 대신 APNG를 쓸 때 알아둘 것들](https://velog.io/@zippic/%EC%9E%91%EC%9D%80-%EC%9B%B9-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-GIF-%EB%8C%80%EC%8B%A0-APNG%EB%A5%BC-%EC%93%B8-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%98-%EA%B2%83%EB%93%A4-z9ncpdl0) | [@zippic](https://velog.io/@zippic) |
-| 2026.10.26 | [연기 오디션을 위한 숨겨진 영화 독백 대사 발굴 및 검증 방법](https://velog.io/@fanqie233/%EC%97%B0%EA%B8%B0-%EC%98%A4%EB%94%94%EC%85%98%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%88%A8%EA%B2%A8%EC%A7%84-%EC%98%81%ED%99%94-%EB%8F%85%EB%B0%B1-%EB%8C%80%EC%82%AC-%EB%B0%9C%EA%B5%B4-%EB%B0%8F-%EA%B2%80%EC%A6%9D-%EB%B0%A9%EB%B2%95) | [@fanqie233](https://velog.io/@fanqie233) |
-| 2026.10.26 | [캐시 히트율 6%와 오해(2)](https://velog.io/@whatmakesaman/%EC%BA%90%EC%8B%9C-%ED%9E%88%ED%8A%B8%EC%9C%A8-6%EC%99%80-%EC%98%A4%ED%95%B42) | [@whatmakesaman](https://velog.io/@whatmakesaman) |
-| 2026.10.26 | [Kimi K3.1 Pro API 정리 — 고정 파라미터와 캐시 과금, 가중치 공개 일정까지](https://velog.io/@mini_knows/kimi-k3-1-pro-api-fixed-params-cache-pricing) | [@mini_knows](https://velog.io/@mini_knows) |
-| 2026.10.26 | [[UE5] 페이로드를 들고 기폭하는 증강 액터](https://velog.io/@papaya910/UE5-%ED%8E%98%EC%9D%B4%EB%A1%9C%EB%93%9C%EB%A5%BC-%EB%93%A4%EA%B3%A0-%EA%B8%B0%ED%8F%AD%ED%95%98%EB%8A%94-%EC%A6%9D%EA%B0%95-%EC%95%A1%ED%84%B0) | [@papaya910](https://velog.io/@papaya910) |
-| 2026.10.26 | [Chapter 01. 한눈에 보는 머신러닝](https://velog.io/@hyunnnsle/Chapter-01.-%ED%95%9C%EB%88%88%EC%97%90-%EB%B3%B4%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D) | [@hyunnnsle](https://velog.io/@hyunnnsle) |
+| 2026.10.27 | [[LG CNS AM - TIL 47일차] AM기반 MSA: Docker 컨테이너 관리, 포트 공개와 사용자 정의 네트워크 이해](https://velog.io/@lvmnt2/LG-CNS-AM-TIL-47%EC%9D%BC%EC%B0%A8-AM%EA%B8%B0%EB%B0%98-MSA-Docker-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EA%B4%80%EB%A6%AC-%ED%8F%AC%ED%8A%B8-%EA%B3%B5%EA%B0%9C%EC%99%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B4%ED%95%B4) | [@lvmnt2](https://velog.io/@lvmnt2) |
+| 2026.10.27 | [2026 triton, pytorch 컨퍼런스 후기](https://velog.io/@maxtnuk/2026-triton-pytorch-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0) | [@maxtnuk](https://velog.io/@maxtnuk) |
+| 2026.10.27 | [[프로그래머스] 최고의 집합](https://velog.io/@j_keun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%A7%91%ED%95%A9) | [@j_keun](https://velog.io/@j_keun) |
+| 2026.10.27 | [구조적 사고는 하중이 어디로 가는가 — 아치 하나로 읽는 세 가지 길](https://velog.io/@linxiaohei/%EA%B5%AC%EC%A1%B0%EC%A0%81-%EC%82%AC%EA%B3%A0%EB%8A%94-%ED%95%98%EC%A4%91%EC%9D%B4-%EC%96%B4%EB%94%94%EB%A1%9C-%EA%B0%80%EB%8A%94%EA%B0%80-%EC%95%84%EC%B9%98-%ED%95%98%EB%82%98%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EC%84%B8-%EA%B0%80%EC%A7%80-%EA%B8%B8-zpi2tf1v) | [@linxiaohei](https://velog.io/@linxiaohei) |
+| 2026.10.27 | [버튼만 막으면 될까? 주소창으로 들어오는 사용자](https://velog.io/@ychany/%EB%B2%84%ED%8A%BC%EB%A7%8C-%EB%A7%89%EC%9C%BC%EB%A9%B4-%EB%90%A0%EA%B9%8C-%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%9C%BC%EB%A1%9C-%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94-%EC%82%AC%EC%9A%A9%EC%9E%90) | [@ychany](https://velog.io/@ychany) |
+| 2026.10.27 | [Python Network Security Scanner DAY9](https://velog.io/@pingu_122/Python-Network-Security-Scanner-DAY9) | [@pingu_122](https://velog.io/@pingu_122) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
