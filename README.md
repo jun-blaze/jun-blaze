@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.26 | [캔버스로 만든 밈 이미지를 클립보드에 바로 복사하기: ClipboardItem, 사파리의 Promise 트릭, 오염된 캔버스와 폴백까지](https://velog.io/@abidali671/canvas-meme-image-clipboard-copy) | [@abidali671](https://velog.io/@abidali671) |
-| 2026.10.26 | [아이폰 듀오 저장 용량, 감으로 고르지 말고 함수 하나로 계산하기](https://velog.io/@foldablenotes/%EC%95%84%EC%9D%B4%ED%8F%B0-%EB%93%80%EC%98%A4-%EC%A0%80%EC%9E%A5-%EC%9A%A9%EB%9F%89-%EA%B0%90%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EB%A5%B4%EC%A7%80-%EB%A7%90%EA%B3%A0-%ED%95%A8%EC%88%98-%ED%95%98%EB%82%98%EB%A1%9C-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) | [@foldablenotes](https://velog.io/@foldablenotes) |
-| 2026.10.26 | [순전파 & 역전파](https://velog.io/@ae_isong/%EC%88%9C%EC%A0%84%ED%8C%8C-%EC%97%AD%EC%A0%84%ED%8C%8C) | [@ae_isong](https://velog.io/@ae_isong) |
-| 2026.10.26 | [[기후·환경 뉴스 브리핑] 영국 전기차 판매 목표 완화 검토, 코알라 백신 효능 논쟁 (10.25)](https://velog.io/@hyuckjin/climate-environment-briefing-2026-10-25-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
-| 2026.10.26 | [[AI&GameDev] AI Orchestration & Workflow](https://velog.io/@imeamangryang/AIGameDev-AI-Orchestration-Workflow) | [@imeamangryang](https://velog.io/@imeamangryang) |
-| 2026.10.26 | [[과학 뉴스 브리핑] JWST, 초기 은하서 블랙홀 3개 확인…아스피린 치매 연관성은 유전형에 따라 달라 (10.25)](https://velog.io/@hyuckjin/science-news-briefing-2026-10-25-ko) | [@hyuckjin](https://velog.io/@hyuckjin) |
+| 2026.10.26 | [[LG CNS] 1차 화상면접 회고](https://velog.io/@jaewook2400/LG-CNS-1%EC%B0%A8-%ED%99%94%EC%83%81%EB%A9%B4%EC%A0%91-%ED%9A%8C%EA%B3%A0) | [@jaewook2400](https://velog.io/@jaewook2400) |
+| 2026.10.26 | [[과제] CH3 일정 관리 앱 만들기 Devleop](https://velog.io/@myhyeoeo/%EA%B3%BC%EC%A0%9C-CH3-%EC%9D%BC%EC%A0%95-%EA%B4%80%EB%A6%AC-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-Devleop) | [@myhyeoeo](https://velog.io/@myhyeoeo) |
+| 2026.10.26 | [벨트의 네가지 모양](https://velog.io/@neosiureu/%EB%B2%A8%ED%8A%B8%EC%9D%98-%EB%84%A4%EA%B0%80%EC%A7%80-%EB%AA%A8%EC%96%91) | [@neosiureu](https://velog.io/@neosiureu) |
+| 2026.10.26 | [5개 금융 정보 플랫폼 비교: 매일 가장 먼저 열어볼 만한 플랫폼은?](https://velog.io/@3120135512567/5%EA%B0%9C-%EA%B8%88%EC%9C%B5-%EC%A0%95%EB%B3%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%B9%84%EA%B5%90-%EB%A7%A4%EC%9D%BC-%EA%B0%80%EC%9E%A5-%EB%A8%BC%EC%A0%80-%EC%97%B4%EC%96%B4%EB%B3%BC-%EB%A7%8C%ED%95%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%80) | [@3120135512567](https://velog.io/@3120135512567) |
+| 2026.10.26 | [모의투자 시뮬레이터의 부분 청산과 평균 진입가 갱신 로직: 체결 한 건이 포지션을 바꾸는 방식](https://velog.io/@asunmo/%EB%AA%A8%EC%9D%98%ED%88%AC%EC%9E%90-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0%EC%9D%98-%EB%B6%80%EB%B6%84-%EC%B2%AD%EC%82%B0%EA%B3%BC-%ED%8F%89%EA%B7%A0-%EC%A7%84%EC%9E%85%EA%B0%80-%EA%B0%B1%EC%8B%A0-%EB%A1%9C%EC%A7%81-%EC%B2%B4%EA%B2%B0-%ED%95%9C-%EA%B1%B4%EC%9D%B4-%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84-%EB%B0%94%EA%BE%B8%EB%8A%94-%EB%B0%A9%EC%8B%9D) | [@asunmo](https://velog.io/@asunmo) |
+| 2026.10.26 | [# [코드잇] Java 기초 공부 기록 ②](https://velog.io/@codumiss/%EC%BD%94%EB%93%9C%EC%9E%87-Java-%EA%B8%B0%EC%B4%88-%EA%B3%B5%EB%B6%80-%EA%B8%B0%EB%A1%9D) | [@codumiss](https://velog.io/@codumiss) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
