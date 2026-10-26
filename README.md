@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.27 | [[LG CNS AM - TIL 47일차] AM기반 MSA: Docker 컨테이너 관리, 포트 공개와 사용자 정의 네트워크 이해](https://velog.io/@lvmnt2/LG-CNS-AM-TIL-47%EC%9D%BC%EC%B0%A8-AM%EA%B8%B0%EB%B0%98-MSA-Docker-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EA%B4%80%EB%A6%AC-%ED%8F%AC%ED%8A%B8-%EA%B3%B5%EA%B0%9C%EC%99%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B4%ED%95%B4) | [@lvmnt2](https://velog.io/@lvmnt2) |
-| 2026.10.27 | [2026 triton, pytorch 컨퍼런스 후기](https://velog.io/@maxtnuk/2026-triton-pytorch-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0) | [@maxtnuk](https://velog.io/@maxtnuk) |
-| 2026.10.27 | [[프로그래머스] 최고의 집합](https://velog.io/@j_keun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%A7%91%ED%95%A9) | [@j_keun](https://velog.io/@j_keun) |
-| 2026.10.27 | [구조적 사고는 하중이 어디로 가는가 — 아치 하나로 읽는 세 가지 길](https://velog.io/@linxiaohei/%EA%B5%AC%EC%A1%B0%EC%A0%81-%EC%82%AC%EA%B3%A0%EB%8A%94-%ED%95%98%EC%A4%91%EC%9D%B4-%EC%96%B4%EB%94%94%EB%A1%9C-%EA%B0%80%EB%8A%94%EA%B0%80-%EC%95%84%EC%B9%98-%ED%95%98%EB%82%98%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EC%84%B8-%EA%B0%80%EC%A7%80-%EA%B8%B8-zpi2tf1v) | [@linxiaohei](https://velog.io/@linxiaohei) |
-| 2026.10.27 | [버튼만 막으면 될까? 주소창으로 들어오는 사용자](https://velog.io/@ychany/%EB%B2%84%ED%8A%BC%EB%A7%8C-%EB%A7%89%EC%9C%BC%EB%A9%B4-%EB%90%A0%EA%B9%8C-%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%9C%BC%EB%A1%9C-%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94-%EC%82%AC%EC%9A%A9%EC%9E%90) | [@ychany](https://velog.io/@ychany) |
-| 2026.10.27 | [Python Network Security Scanner DAY9](https://velog.io/@pingu_122/Python-Network-Security-Scanner-DAY9) | [@pingu_122](https://velog.io/@pingu_122) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
