@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.26 | [[LG CNS] 1차 화상면접 회고](https://velog.io/@jaewook2400/LG-CNS-1%EC%B0%A8-%ED%99%94%EC%83%81%EB%A9%B4%EC%A0%91-%ED%9A%8C%EA%B3%A0) | [@jaewook2400](https://velog.io/@jaewook2400) |
-| 2026.10.26 | [[과제] CH3 일정 관리 앱 만들기 Devleop](https://velog.io/@myhyeoeo/%EA%B3%BC%EC%A0%9C-CH3-%EC%9D%BC%EC%A0%95-%EA%B4%80%EB%A6%AC-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-Devleop) | [@myhyeoeo](https://velog.io/@myhyeoeo) |
-| 2026.10.26 | [벨트의 네가지 모양](https://velog.io/@neosiureu/%EB%B2%A8%ED%8A%B8%EC%9D%98-%EB%84%A4%EA%B0%80%EC%A7%80-%EB%AA%A8%EC%96%91) | [@neosiureu](https://velog.io/@neosiureu) |
-| 2026.10.26 | [5개 금융 정보 플랫폼 비교: 매일 가장 먼저 열어볼 만한 플랫폼은?](https://velog.io/@3120135512567/5%EA%B0%9C-%EA%B8%88%EC%9C%B5-%EC%A0%95%EB%B3%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%B9%84%EA%B5%90-%EB%A7%A4%EC%9D%BC-%EA%B0%80%EC%9E%A5-%EB%A8%BC%EC%A0%80-%EC%97%B4%EC%96%B4%EB%B3%BC-%EB%A7%8C%ED%95%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%80) | [@3120135512567](https://velog.io/@3120135512567) |
-| 2026.10.26 | [모의투자 시뮬레이터의 부분 청산과 평균 진입가 갱신 로직: 체결 한 건이 포지션을 바꾸는 방식](https://velog.io/@asunmo/%EB%AA%A8%EC%9D%98%ED%88%AC%EC%9E%90-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0%EC%9D%98-%EB%B6%80%EB%B6%84-%EC%B2%AD%EC%82%B0%EA%B3%BC-%ED%8F%89%EA%B7%A0-%EC%A7%84%EC%9E%85%EA%B0%80-%EA%B0%B1%EC%8B%A0-%EB%A1%9C%EC%A7%81-%EC%B2%B4%EA%B2%B0-%ED%95%9C-%EA%B1%B4%EC%9D%B4-%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84-%EB%B0%94%EA%BE%B8%EB%8A%94-%EB%B0%A9%EC%8B%9D) | [@asunmo](https://velog.io/@asunmo) |
-| 2026.10.26 | [# [코드잇] Java 기초 공부 기록 ②](https://velog.io/@codumiss/%EC%BD%94%EB%93%9C%EC%9E%87-Java-%EA%B8%B0%EC%B4%88-%EA%B3%B5%EB%B6%80-%EA%B8%B0%EB%A1%9D) | [@codumiss](https://velog.io/@codumiss) |
+| 2026.10.26 | [작은 웹 애니메이션, GIF 대신 APNG를 쓸 때 알아둘 것들](https://velog.io/@zippic/%EC%9E%91%EC%9D%80-%EC%9B%B9-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-GIF-%EB%8C%80%EC%8B%A0-APNG%EB%A5%BC-%EC%93%B8-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%98-%EA%B2%83%EB%93%A4-z9ncpdl0) | [@zippic](https://velog.io/@zippic) |
+| 2026.10.26 | [연기 오디션을 위한 숨겨진 영화 독백 대사 발굴 및 검증 방법](https://velog.io/@fanqie233/%EC%97%B0%EA%B8%B0-%EC%98%A4%EB%94%94%EC%85%98%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%88%A8%EA%B2%A8%EC%A7%84-%EC%98%81%ED%99%94-%EB%8F%85%EB%B0%B1-%EB%8C%80%EC%82%AC-%EB%B0%9C%EA%B5%B4-%EB%B0%8F-%EA%B2%80%EC%A6%9D-%EB%B0%A9%EB%B2%95) | [@fanqie233](https://velog.io/@fanqie233) |
+| 2026.10.26 | [캐시 히트율 6%와 오해(2)](https://velog.io/@whatmakesaman/%EC%BA%90%EC%8B%9C-%ED%9E%88%ED%8A%B8%EC%9C%A8-6%EC%99%80-%EC%98%A4%ED%95%B42) | [@whatmakesaman](https://velog.io/@whatmakesaman) |
+| 2026.10.26 | [Kimi K3.1 Pro API 정리 — 고정 파라미터와 캐시 과금, 가중치 공개 일정까지](https://velog.io/@mini_knows/kimi-k3-1-pro-api-fixed-params-cache-pricing) | [@mini_knows](https://velog.io/@mini_knows) |
+| 2026.10.26 | [[UE5] 페이로드를 들고 기폭하는 증강 액터](https://velog.io/@papaya910/UE5-%ED%8E%98%EC%9D%B4%EB%A1%9C%EB%93%9C%EB%A5%BC-%EB%93%A4%EA%B3%A0-%EA%B8%B0%ED%8F%AD%ED%95%98%EB%8A%94-%EC%A6%9D%EA%B0%95-%EC%95%A1%ED%84%B0) | [@papaya910](https://velog.io/@papaya910) |
+| 2026.10.26 | [Chapter 01. 한눈에 보는 머신러닝](https://velog.io/@hyunnnsle/Chapter-01.-%ED%95%9C%EB%88%88%EC%97%90-%EB%B3%B4%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D) | [@hyunnnsle](https://velog.io/@hyunnnsle) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
