@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.28 | [팀스파르타 본캠프 3일차 웹개발(3)](https://velog.io/@ant/%ED%8C%80%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80-%EB%B3%B8%EC%BA%A0%ED%94%84-3%EC%9D%BC%EC%B0%A8-%EC%9B%B9%EA%B0%9C%EB%B0%9C3) | [@ant](https://velog.io/@ant) |
-| 2026.10.28 | [[UMC 블로그 챌린지] 서버는 응답했는데 왜 브라우저는 에러를 낼까 - Spring Boot로 직접 겪어 본 CORS](https://velog.io/@woni321/UMC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%84%9C%EB%B2%84%EB%8A%94-%EC%9D%91%EB%8B%B5%ED%96%88%EB%8A%94%EB%8D%B0-%EC%99%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%8A%94-%EC%97%90%EB%9F%AC%EB%A5%BC-%EB%82%BC%EA%B9%8C-Spring-Boot%EB%A1%9C-%EC%A7%81%EC%A0%91-%EA%B2%AA%EC%96%B4-%EB%B3%B8-CORS) | [@woni321](https://velog.io/@woni321) |
-| 2026.10.28 | [[LG CNS AM INSPIRE CAMP 6기] DAY 49 - Kubernetes Controller와 Service·MetalLB 구성](https://velog.io/@hyr031888-crypto/LG-CNS-AM-INSPIRE-CAMP-6%EA%B8%B0-DAY-49-Kubernetes-Controller%EC%99%80-ServiceMetalLB-%EA%B5%AC%EC%84%B1) | [@hyr031888-crypto](https://velog.io/@hyr031888-crypto) |
-| 2026.10.28 | [[FE] TypeScript란 무엇이고, 왜 사용할까?](https://velog.io/@hhaeeull/FE-TypeScript%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C) | [@hhaeeull](https://velog.io/@hhaeeull) |
-| 2026.10.28 | [LFM3-1.7B 로컬 구동 정리 — tri-hybrid 24레이어, 256K 컨텍스트, 권장 샘플링 값까지](https://velog.io/@mini_knows/lfm3-1-7b-on-device-setup) | [@mini_knows](https://velog.io/@mini_knows) |
-| 2026.10.28 | [Qwen 3.8 Flash Next, 8GB에서도 돕니다 — PP 900 t/s 커뮤니티 실측 \| AI/GPU 데일리 (10/28)](https://velog.io/@local_llm/Qwen-3.8-Flash-Next-8GB%EC%97%90%EC%84%9C%EB%8F%84-%EB%8F%95%EB%8B%88%EB%8B%A4-PP-900-ts-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%8B%A4%EC%B8%A1-AIGPU-%EB%8D%B0%EC%9D%BC%EB%A6%AC-1028) | [@local_llm](https://velog.io/@local_llm) |
+| 2026.10.29 | [[OS] 261029 프로세스 vs. 스레드](https://velog.io/@deguli/261029-processNthread) | [@deguli](https://velog.io/@deguli) |
+| 2026.10.29 | [AI는 오픈소스 세계를 더럽히고 있다](https://velog.io/@antoliny0919/AI%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%84%B8%EA%B3%84%EB%A5%BC-%EB%8D%94%EB%9F%BD%ED%9E%88%EA%B3%A0-%EC%9E%88%EB%8B%A4) | [@antoliny0919](https://velog.io/@antoliny0919) |
+| 2026.10.29 | [#2 HTML, CSS구조](https://velog.io/@angella4724/2-HTML-CSS%EA%B5%AC%EC%A1%B0) | [@angella4724](https://velog.io/@angella4724) |
+| 2026.10.29 | [[LG CNS AM 6기] 48일차 TIL : Kubernetes 아키텍처, Workload Controller 및 Service](https://velog.io/@jeongun-real/LG-CNS-AM-6%EA%B8%B0-48%EC%9D%BC%EC%B0%A8-TIL-Kubernetes-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-Workload-Controller-%EB%B0%8F-Service) | [@jeongun-real](https://velog.io/@jeongun-real) |
+| 2026.10.29 | [AI의 일기장 #4. 가장 바빴던 날, 내가 모르는 것들](https://velog.io/@martinii/AI%EC%9D%98-%EC%9D%BC%EA%B8%B0%EC%9E%A5-4.-%EA%B0%80%EC%9E%A5-%EB%B0%94%EB%B9%B4%EB%8D%98-%EB%82%A0-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B2%83%EB%93%A4) | [@martinii](https://velog.io/@martinii) |
+| 2026.10.29 | [[LG CNS AM 6기] 47일차 TIL : Kubernetes 네트워크와 기본 명령어](https://velog.io/@jeongun-real/LG-CNS-AM-6%EA%B8%B0-47%EC%9D%BC%EC%B0%A8-TIL-Kubernetes-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%99%80-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4) | [@jeongun-real](https://velog.io/@jeongun-real) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
