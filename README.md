@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.28 | [회사 기능은 켰는데 사용자는 못 쓴다: 그룹웨어 접근 조건을 테스트 표로 바꾸기](https://velog.io/@insacheck/groupware-access-permission-test-cases) | [@insacheck](https://velog.io/@insacheck) |
-| 2026.10.28 | [[Next.js + React + TypeScript] DAY2 - React 핵심 문법 정리 (Props, useState, 구조 분해 할당, 화살표 함수)](https://velog.io/@sjy1218v/Next.js-React-TypeScript-DAY2-React-%ED%95%B5%EC%8B%AC-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC-Props-useState-%EA%B5%AC%EC%A1%B0-%EB%B6%84%ED%95%B4-%ED%95%A0%EB%8B%B9-%ED%99%94%EC%82%B4%ED%91%9C-%ED%95%A8%EC%88%98) | [@sjy1218v](https://velog.io/@sjy1218v) |
-| 2026.10.28 | [[Django] Form](https://velog.io/@king-dong-gun/Django-Form) | [@king-dong-gun](https://velog.io/@king-dong-gun) |
-| 2026.10.28 | [261028 (수요일) 웹 개발 기초 수업](https://velog.io/@ahneunsue-prog/261028-%EC%88%98%EC%9A%94%EC%9D%BC-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88-%EC%88%98%EC%97%85) | [@ahneunsue-prog](https://velog.io/@ahneunsue-prog) |
-| 2026.10.28 | [JavaScript 코딩 시 HTTP 메서드 사용하는 방법 - GET, POST, PUT, PATCH, DELETE](https://velog.io/@4dinno/JavaScript-%EC%BD%94%EB%94%A9-%EC%8B%9C-HTTP-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-GET-POST-PUT-PATCH-DELETE) | [@4dinno](https://velog.io/@4dinno) |
-| 2026.10.28 | [[북투북 리팩토링] 쪽 · % 입력 2️⃣ 구현하기 — 검사 · 변환 · 시트 · 마지막 방식 기억](https://velog.io/@jungguen2/%EB%B6%81%ED%88%AC%EB%B6%81-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EC%AA%BD-%EC%9E%85%EB%A0%A5-2-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-%EA%B2%80%EC%82%AC-%EB%B3%80%ED%99%98-%EC%8B%9C%ED%8A%B8-%EB%A7%88%EC%A7%80%EB%A7%89-%EB%B0%A9%EC%8B%9D-%EA%B8%B0%EC%96%B5) | [@jungguen2](https://velog.io/@jungguen2) |
+| 2026.10.28 | [팀스파르타 본캠프 3일차 웹개발(3)](https://velog.io/@ant/%ED%8C%80%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80-%EB%B3%B8%EC%BA%A0%ED%94%84-3%EC%9D%BC%EC%B0%A8-%EC%9B%B9%EA%B0%9C%EB%B0%9C3) | [@ant](https://velog.io/@ant) |
+| 2026.10.28 | [[UMC 블로그 챌린지] 서버는 응답했는데 왜 브라우저는 에러를 낼까 - Spring Boot로 직접 겪어 본 CORS](https://velog.io/@woni321/UMC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%84%9C%EB%B2%84%EB%8A%94-%EC%9D%91%EB%8B%B5%ED%96%88%EB%8A%94%EB%8D%B0-%EC%99%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%8A%94-%EC%97%90%EB%9F%AC%EB%A5%BC-%EB%82%BC%EA%B9%8C-Spring-Boot%EB%A1%9C-%EC%A7%81%EC%A0%91-%EA%B2%AA%EC%96%B4-%EB%B3%B8-CORS) | [@woni321](https://velog.io/@woni321) |
+| 2026.10.28 | [[LG CNS AM INSPIRE CAMP 6기] DAY 49 - Kubernetes Controller와 Service·MetalLB 구성](https://velog.io/@hyr031888-crypto/LG-CNS-AM-INSPIRE-CAMP-6%EA%B8%B0-DAY-49-Kubernetes-Controller%EC%99%80-ServiceMetalLB-%EA%B5%AC%EC%84%B1) | [@hyr031888-crypto](https://velog.io/@hyr031888-crypto) |
+| 2026.10.28 | [[FE] TypeScript란 무엇이고, 왜 사용할까?](https://velog.io/@hhaeeull/FE-TypeScript%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C) | [@hhaeeull](https://velog.io/@hhaeeull) |
+| 2026.10.28 | [LFM3-1.7B 로컬 구동 정리 — tri-hybrid 24레이어, 256K 컨텍스트, 권장 샘플링 값까지](https://velog.io/@mini_knows/lfm3-1-7b-on-device-setup) | [@mini_knows](https://velog.io/@mini_knows) |
+| 2026.10.28 | [Qwen 3.8 Flash Next, 8GB에서도 돕니다 — PP 900 t/s 커뮤니티 실측 \| AI/GPU 데일리 (10/28)](https://velog.io/@local_llm/Qwen-3.8-Flash-Next-8GB%EC%97%90%EC%84%9C%EB%8F%84-%EB%8F%95%EB%8B%88%EB%8B%A4-PP-900-ts-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%8B%A4%EC%B8%A1-AIGPU-%EB%8D%B0%EC%9D%BC%EB%A6%AC-1028) | [@local_llm](https://velog.io/@local_llm) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
