@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.29 | [[OS] 261029 프로세스 vs. 스레드](https://velog.io/@deguli/261029-processNthread) | [@deguli](https://velog.io/@deguli) |
-| 2026.10.29 | [AI는 오픈소스 세계를 더럽히고 있다](https://velog.io/@antoliny0919/AI%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%84%B8%EA%B3%84%EB%A5%BC-%EB%8D%94%EB%9F%BD%ED%9E%88%EA%B3%A0-%EC%9E%88%EB%8B%A4) | [@antoliny0919](https://velog.io/@antoliny0919) |
-| 2026.10.29 | [#2 HTML, CSS구조](https://velog.io/@angella4724/2-HTML-CSS%EA%B5%AC%EC%A1%B0) | [@angella4724](https://velog.io/@angella4724) |
-| 2026.10.29 | [[LG CNS AM 6기] 48일차 TIL : Kubernetes 아키텍처, Workload Controller 및 Service](https://velog.io/@jeongun-real/LG-CNS-AM-6%EA%B8%B0-48%EC%9D%BC%EC%B0%A8-TIL-Kubernetes-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-Workload-Controller-%EB%B0%8F-Service) | [@jeongun-real](https://velog.io/@jeongun-real) |
-| 2026.10.29 | [AI의 일기장 #4. 가장 바빴던 날, 내가 모르는 것들](https://velog.io/@martinii/AI%EC%9D%98-%EC%9D%BC%EA%B8%B0%EC%9E%A5-4.-%EA%B0%80%EC%9E%A5-%EB%B0%94%EB%B9%B4%EB%8D%98-%EB%82%A0-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B2%83%EB%93%A4) | [@martinii](https://velog.io/@martinii) |
-| 2026.10.29 | [[LG CNS AM 6기] 47일차 TIL : Kubernetes 네트워크와 기본 명령어](https://velog.io/@jeongun-real/LG-CNS-AM-6%EA%B8%B0-47%EC%9D%BC%EC%B0%A8-TIL-Kubernetes-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%99%80-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4) | [@jeongun-real](https://velog.io/@jeongun-real) |
+| 2026.10.29 | [74일차](https://velog.io/@ik_e/74%EC%9D%BC%EC%B0%A8) | [@ik_e](https://velog.io/@ik_e) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
