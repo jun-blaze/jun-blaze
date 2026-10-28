@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
-| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
+| 2026.10.28 | [회사 기능은 켰는데 사용자는 못 쓴다: 그룹웨어 접근 조건을 테스트 표로 바꾸기](https://velog.io/@insacheck/groupware-access-permission-test-cases) | [@insacheck](https://velog.io/@insacheck) |
+| 2026.10.28 | [[Next.js + React + TypeScript] DAY2 - React 핵심 문법 정리 (Props, useState, 구조 분해 할당, 화살표 함수)](https://velog.io/@sjy1218v/Next.js-React-TypeScript-DAY2-React-%ED%95%B5%EC%8B%AC-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC-Props-useState-%EA%B5%AC%EC%A1%B0-%EB%B6%84%ED%95%B4-%ED%95%A0%EB%8B%B9-%ED%99%94%EC%82%B4%ED%91%9C-%ED%95%A8%EC%88%98) | [@sjy1218v](https://velog.io/@sjy1218v) |
+| 2026.10.28 | [[Django] Form](https://velog.io/@king-dong-gun/Django-Form) | [@king-dong-gun](https://velog.io/@king-dong-gun) |
+| 2026.10.28 | [261028 (수요일) 웹 개발 기초 수업](https://velog.io/@ahneunsue-prog/261028-%EC%88%98%EC%9A%94%EC%9D%BC-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88-%EC%88%98%EC%97%85) | [@ahneunsue-prog](https://velog.io/@ahneunsue-prog) |
+| 2026.10.28 | [JavaScript 코딩 시 HTTP 메서드 사용하는 방법 - GET, POST, PUT, PATCH, DELETE](https://velog.io/@4dinno/JavaScript-%EC%BD%94%EB%94%A9-%EC%8B%9C-HTTP-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-GET-POST-PUT-PATCH-DELETE) | [@4dinno](https://velog.io/@4dinno) |
+| 2026.10.28 | [[북투북 리팩토링] 쪽 · % 입력 2️⃣ 구현하기 — 검사 · 변환 · 시트 · 마지막 방식 기억](https://velog.io/@jungguen2/%EB%B6%81%ED%88%AC%EB%B6%81-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EC%AA%BD-%EC%9E%85%EB%A0%A5-2-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-%EA%B2%80%EC%82%AC-%EB%B3%80%ED%99%98-%EC%8B%9C%ED%8A%B8-%EB%A7%88%EC%A7%80%EB%A7%89-%EB%B0%A9%EC%8B%9D-%EA%B8%B0%EC%96%B5) | [@jungguen2](https://velog.io/@jungguen2) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
