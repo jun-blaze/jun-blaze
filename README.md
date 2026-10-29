@@ -81,7 +81,7 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.29 | [74일차](https://velog.io/@ik_e/74%EC%9D%BC%EC%B0%A8) | [@ik_e](https://velog.io/@ik_e) |
+| 2026.10.29 | [[ GitHub 입문자용 ] 다른 컴퓨터에서 작업하던 코드 가져오기](https://velog.io/@sojin/GitHub-%EC%9E%85%EB%AC%B8%EC%9E%90%EC%9A%A9-github%EC%97%90-%EC%9E%88%EB%8A%94-%EC%9E%91%EC%97%85%EB%AC%BC-%EA%B0%80%EC%A0%B8%EC%98%A4%EB%8A%94-%EB%B2%95) | [@sojin](https://velog.io/@sojin) |
 | 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
 | 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 | 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
