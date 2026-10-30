@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.30 | [[TIL] SQLD 공부](https://velog.io/@crisyoon3/TIL-SQLD-%EA%B3%B5%EB%B6%80) | [@crisyoon3](https://velog.io/@crisyoon3) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.10.31 | [파이썬 기초 2](https://velog.io/@poch5098/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-2) | [@poch5098](https://velog.io/@poch5098) |
+| 2026.10.31 | [파이썬 기초 - 판다스](https://velog.io/@poch5098/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%ED%8C%90%EB%8B%A4%EC%8A%A4) | [@poch5098](https://velog.io/@poch5098) |
+| 2026.10.31 | [Learning Transferable Visual Models From Natural Language Supervision (2021) 논문 정리](https://velog.io/@soogguang/Learning-Transferable-Visual-Models-From-Natural-Language-Supervision-2021-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A6%AC) | [@soogguang](https://velog.io/@soogguang) |
+| 2026.10.31 | [pandas 태뷸러 데이터 이해하기.](https://velog.io/@dongda11/pandas-%ED%83%9C%EB%B7%B8%EB%9F%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) | [@dongda11](https://velog.io/@dongda11) |
+| 2026.10.31 | [게시물, 릴스, 스토리, 캐러셀의 Instagram 미디어 URL은 어떻게 작동할까?](https://velog.io/@gremdongh/how-instagram-media-urls-work) | [@gremdongh](https://velog.io/@gremdongh) |
+| 2026.10.31 | [캐시 키 설계 원칙](https://velog.io/@www-castlehi-com/%EC%BA%90%EC%8B%9C-%ED%82%A4-%EC%84%A4%EA%B3%84-%EC%9B%90%EC%B9%99) | [@www-castlehi-com](https://velog.io/@www-castlehi-com) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
