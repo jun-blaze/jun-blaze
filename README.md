@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.31 | [카지노솔루션 \| 바카라솔루션 \| 카지노분양 \| 파싱솔루션 \| 성피솔루션 \| 포세이돈솔루션](https://velog.io/@mot597346/%EC%B9%B4%EC%A7%80%EB%85%B8%EC%86%94%EB%A3%A8%EC%85%98-%EB%B0%94%EC%B9%B4%EB%9D%BC%EC%86%94%EB%A3%A8%EC%85%98-%EC%B9%B4%EC%A7%80%EB%85%B8%EB%B6%84%EC%96%91-%ED%8C%8C%EC%8B%B1%EC%86%94%EB%A3%A8%EC%85%98-%EC%84%B1%ED%94%BC%EC%86%94%EB%A3%A8%EC%85%98-%ED%8F%AC%EC%84%B8%EC%9D%B4%EB%8F%88%EC%86%94%EB%A3%A8%EC%85%98-2tt7r2yj) | [@mot597346](https://velog.io/@mot597346) |
 | 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
 | 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 | 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
 | 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
 | 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
