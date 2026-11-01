@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.01 | [[라우팅] Expo Router 화면 간 라우팅 연결](https://velog.io/@u_gangg3/Expo-Router-%ED%99%94%EB%A9%B4-%EA%B0%84-%EB%9D%BC%EC%9A%B0%ED%8C%85-%EC%97%B0%EA%B2%B0) | [@u_gangg3](https://velog.io/@u_gangg3) |
+| 2026.11.01 | [단지 데이터 자동화 흐름 파악 및 개선 검토 보고](https://velog.io/@loaded_diaper/%EB%8B%A8%EC%A7%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9E%90%EB%8F%99%ED%99%94-%ED%9D%90%EB%A6%84-%ED%8C%8C%EC%95%85-%EB%B0%8F-%EA%B0%9C%EC%84%A0-%EA%B2%80%ED%86%A0-%EB%B3%B4%EA%B3%A0) | [@loaded_diaper](https://velog.io/@loaded_diaper) |
+| 2026.11.01 | [[Spring Cloud 6] Spring Cloud Config](https://velog.io/@mumuhuhu/Spring-Cloud-6) | [@mumuhuhu](https://velog.io/@mumuhuhu) |
+| 2026.11.01 | [VIDRAFT VKORE NPU 연동 설계: 모델 체크포인트와 학습 런타임의 경계](https://velog.io/@aitechjo/VIDRAFT-VKORE-NPU-%EC%97%B0%EB%8F%99-%EC%84%A4%EA%B3%84-%EB%AA%A8%EB%8D%B8-%EC%B2%B4%ED%81%AC%ED%8F%AC%EC%9D%B8%ED%8A%B8%EC%99%80-%ED%95%99%EC%8A%B5-%EB%9F%B0%ED%83%80%EC%9E%84%EC%9D%98-%EA%B2%BD%EA%B3%84) | [@aitechjo](https://velog.io/@aitechjo) |
 | 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
 | 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 | 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
