@@ -79,7 +79,14 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 ## velog 최신 개발 글
 
 <!-- VELOG:START -->
-아직 표시할 글이 없습니다.
+| 날짜 | 글 | 글쓴이 |
+|---|---|---|
+| 2026.11.07 | [26N07a](https://velog.io/@youngkyoo_kim/26N07a-ggkt4e3v) | [@youngkyoo_kim](https://velog.io/@youngkyoo_kim) |
+| 2026.11.07 | [오픈AI, 보안업체 핵트론과 공식 파트너십…"프런티어 AI로 취약점 선제 발굴"](https://velog.io/@bbzjun/%EC%98%A4%ED%94%88ai-%EB%B3%B4%EC%95%88%EC%97%85%EC%B2%B4-%ED%95%B5%ED%8A%B8%EB%A1%A0%EA%B3%BC-%EA%B3%B5%EC%8B%9D-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD%ED%94%84%EB%9F%B0%ED%8B%B0%EC%96%B4-ai%EB%A1%9C-%EC%B7%A8%EC%95%BD%EC%A0%90-%EC%84%A0%EC%A0%9C-%EB%B0%9C%EA%B5%B4-2026-11-06-4l9ye38h) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.07 | [오픈AI, 보안업체 핵트론과 공식 파트너십…"프런티어 AI로 취약점 선제 발굴"](https://velog.io/@bbzjun/%EC%98%A4%ED%94%88ai-%EB%B3%B4%EC%95%88%EC%97%85%EC%B2%B4-%ED%95%B5%ED%8A%B8%EB%A1%A0%EA%B3%BC-%EA%B3%B5%EC%8B%9D-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD%ED%94%84%EB%9F%B0%ED%8B%B0%EC%96%B4-ai%EB%A1%9C-%EC%B7%A8%EC%95%BD%EC%A0%90-%EC%84%A0%EC%A0%9C-%EB%B0%9C%EA%B5%B4-2026-11-06) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.07 | [메타, 뉴스 무단수집 논란 일자 AI 스크래핑 상업약관 업데이트 무기한 보류](https://velog.io/@bbzjun/%EB%A9%94%ED%83%80-%EB%89%B4%EC%8A%A4-%EB%AC%B4%EB%8B%A8%EC%88%98%EC%A7%91-%EB%85%BC%EB%9E%80-%EC%9D%BC%EC%9E%90-ai-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91-%EC%83%81%EC%97%85%EC%95%BD%EA%B4%80-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%AC%B4%EA%B8%B0%ED%95%9C-%EB%B3%B4%EB%A5%98-2026-11-06) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.07 | [앤트로픽, IPO 몸값 1.5조 달러→1조 달러로 추락…AI 투매 쇼크에 11월 상장 '먹구름'](https://velog.io/@bbzjun/%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD-ipo-%EB%AA%B8%EA%B0%92-15%EC%A1%B0-%EB%8B%AC%EB%9F%AC1%EC%A1%B0-%EB%8B%AC%EB%9F%AC%EB%A1%9C-%EC%B6%94%EB%9D%BDai-%ED%88%AC%EB%A7%A4-%EC%87%BC%ED%81%AC%EC%97%90-11%EC%9B%94-%EC%83%81%EC%9E%A5-%EB%A8%B9%EA%B5%AC%EB%A6%84-2026-11-06) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.07 | [[zaqoo자꾸]어제 작업](https://velog.io/@lco2009d/zaqoo%EC%9E%90%EA%BE%B8%EC%96%B4%EC%A0%9C-%EC%9E%91%EC%97%85) | [@lco2009d](https://velog.io/@lco2009d) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
