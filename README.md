@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.07 | [Top Half & Bottom Half](https://velog.io/@mogaeso/Top-Half-Bottom-Half) | [@mogaeso](https://velog.io/@mogaeso) |
-| 2026.11.07 | [AI 시대, 그리고 AGI 시대에 살아남는다는 건](https://velog.io/@power_choi/AI-%EC%8B%9C%EB%8C%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-AGI-%EC%8B%9C%EB%8C%80%EC%97%90-%EC%82%B4%EC%95%84%EB%82%A8%EB%8A%94%EB%8B%A4%EB%8A%94-%EA%B1%B4) | [@power_choi](https://velog.io/@power_choi) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.11.07 | [P3-Ch03. Resampling_Curves_by_Arc_Length](https://velog.io/@ryoong1125/P3-Ch03.-ResamplingCurvesbyArcLength-vtuxx6ha) | [@ryoong1125](https://velog.io/@ryoong1125) |
+| 2026.11.07 | [P0-Ch02. Modules_and_Data_Access](https://velog.io/@ryoong1125/P0-Ch02.-ModulesandDataAccess-nu0wj8nm) | [@ryoong1125](https://velog.io/@ryoong1125) |
+| 2026.11.07 | [P0-Ch01. Blender52_Python_Series_Introduction](https://velog.io/@ryoong1125/P0-Ch01.-Blender52PythonSeriesIntroduction) | [@ryoong1125](https://velog.io/@ryoong1125) |
+| 2026.11.07 | [# [Unity/C#] 에디터 툴에서 PreviewRenderUtility로 아이콘을 캡처하면 에디터가 크래시되는 이슈](https://velog.io/@jinnnyjin/UnityC-%EC%97%90%EB%94%94%ED%84%B0-%EC%82%AC%EC%9A%A9-%EC%A4%91-%ED%81%AC%EB%9E%98%EC%8B%9C) | [@jinnnyjin](https://velog.io/@jinnnyjin) |
+| 2026.11.07 | [[혼공머신] 5-2. 교차 검증과 그리드 서치](https://velog.io/@gompangmin__/%ED%98%BC%EA%B3%B5%EB%A8%B8%EC%8B%A0-5-2.-%EA%B5%90%EC%B0%A8-%EA%B2%80%EC%A6%9D%EA%B3%BC-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EC%84%9C%EC%B9%98) | [@gompangmin__](https://velog.io/@gompangmin__) |
+| 2026.11.07 | [프로그래머스 무인도여행 java 풀이](https://velog.io/@icebox127/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AC%B4%EC%9D%B8%EB%8F%84%EC%97%AC%ED%96%89-java-%ED%92%80%EC%9D%B4) | [@icebox127](https://velog.io/@icebox127) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
