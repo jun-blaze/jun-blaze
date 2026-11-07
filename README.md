@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.08 | [TanStack Query 제대로 이해하기 — 캐시, staleTime, invalidateQueries까지](https://velog.io/@sungy0n/TanStack-Query-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%BA%90%EC%8B%9C-staleTime-invalidateQueries%EA%B9%8C%EC%A7%80-qspzoo4o) | [@sungy0n](https://velog.io/@sungy0n) |
-| 2026.11.08 | [[MLOps 스터디 3주차] - BentoML · Evidently · Kubeflow Notebooks · KFP 데이터 전달 (개념편)](https://velog.io/@soook/MLOps-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%A3%BC%EC%B0%A8-BentoML-Evidently-Kubeflow-Notebooks-KFP-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EB%8B%AC-%EA%B0%9C%EB%85%90%ED%8E%B8) | [@soook](https://velog.io/@soook) |
-| 2026.11.08 | [[UMC 블로그챌린지] 8주차 - TanStack Query로 서버 상태와 캐시 일관성 관리하기](https://velog.io/@kimjaebeom/UMC-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%B1%8C%EB%A6%B0%EC%A7%80-8%EC%A3%BC%EC%B0%A8-TanStack-Query%EB%A1%9C-%EC%84%9C%EB%B2%84-%EC%83%81%ED%83%9C%EC%99%80-%EC%BA%90%EC%8B%9C-%EC%9D%BC%EA%B4%80%EC%84%B1-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-4gp13mvy) | [@kimjaebeom](https://velog.io/@kimjaebeom) |
-| 2026.11.08 | [ViT - An Image is Worth 16x16 Words](https://velog.io/@dadayu/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-ViT-An-Image-is-Worth-16x16-Words-48kbhowy) | [@dadayu](https://velog.io/@dadayu) |
-| 2026.11.08 | [간단한 웹사이트 만들기](https://velog.io/@hhym/%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-isktwyh0) | [@hhym](https://velog.io/@hhym) |
-| 2026.11.08 | [[UMC 블로그챌린지] 8주차 - Spring Boot 트랜잭션과 즐겨찾기 API로 데이터 일관성 지키기](https://velog.io/@kimjaebeom/UMC-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%B1%8C%EB%A6%B0%EC%A7%80-8%EC%A3%BC%EC%B0%A8-Spring-Boot-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC-%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0-API%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%BC%EA%B4%80%EC%84%B1-%EC%A7%80%ED%82%A4%EA%B8%B0) | [@kimjaebeom](https://velog.io/@kimjaebeom) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
