@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
-| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
+| 2026.11.09 | [React - if (e.nativeEvent.isComposing) return;   꼭 쓰야 할까?](https://velog.io/@4dinno/React-if-e.nativeEvent.isComposing-return-%EA%BC%AD-%EC%93%B0%EC%95%BC-%ED%95%A0%EA%B9%8C) | [@4dinno](https://velog.io/@4dinno) |
+| 2026.11.09 | [React - 입력 폼(Form)에 자주 등장하는 코드](https://velog.io/@4dinno/React-%EC%9E%85%EB%A0%A5-%ED%8F%BCForm%EC%97%90-%EC%9E%90%EC%A3%BC-%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EC%BD%94%EB%93%9C) | [@4dinno](https://velog.io/@4dinno) |
+| 2026.11.09 | [React - 리액트에서 폼(Form)이란?](https://velog.io/@4dinno/React-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-%ED%8F%BCForm%EC%9D%B4%EB%9E%80) | [@4dinno](https://velog.io/@4dinno) |
+| 2026.11.09 | [[공용 컴포넌트] Todo → List 변경과 공통화 범위 설계](https://velog.io/@u_gangg3/Todo-List-%EB%B3%80%EA%B2%BD%EA%B3%BC-%EA%B3%B5%ED%86%B5%ED%99%94-%EB%B2%94%EC%9C%84-%EC%84%A4%EA%B3%84) | [@u_gangg3](https://velog.io/@u_gangg3) |
+| 2026.11.09 | [2026년 11월 6일](https://velog.io/@2mir0012/2026%EB%85%84-11%EC%9B%94-6%EC%9D%BC) | [@2mir0012](https://velog.io/@2mir0012) |
+| 2026.11.09 | [분반 수업 11 — 언리얼 C++ 델리게이트](https://velog.io/@2mir0012/%EC%8B%A4%EC%A0%84-%EA%B8%B0%EC%B4%88-%EC%96%B8%EB%A6%AC%EC%96%BC-C-%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8) | [@2mir0012](https://velog.io/@2mir0012) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
