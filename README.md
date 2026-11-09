@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.09 | [Flutter -  PageRouteBuilder](https://velog.io/@imeziin21/Flutter-PageRouteBuilder) | [@imeziin21](https://velog.io/@imeziin21) |
-| 2026.11.09 | [프로젝트 부하테스트 결과](https://velog.io/@cizett00/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B2%B0%EA%B3%BC) | [@cizett00](https://velog.io/@cizett00) |
-| 2026.11.09 | [세상은 차갑고도 무심하다...](https://velog.io/@skh_0501/%EC%84%B8%EC%83%81%EC%9D%80-%EC%B0%A8%EA%B0%91%EA%B3%A0%EB%8F%84-%EB%AC%B4%EC%8B%AC%ED%95%98%EB%8B%A4) | [@skh_0501](https://velog.io/@skh_0501) |
-| 2026.11.09 | [[내일배움캠프] 11월 09일 TIL](https://velog.io/@kim_da/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-11%EC%9B%94-09%EC%9D%BC-TIL) | [@kim_da](https://velog.io/@kim_da) |
-| 2026.11.09 | [혼자서도(라우팅)잘해요](https://velog.io/@a1rhun/%EB%84%A5%EC%A0%9C-%EC%99%9C%EC%9D%B4%EB%A6%AC-%EA%B8%B0%ED%8A%B9%ED%95%B4) | [@a1rhun](https://velog.io/@a1rhun) |
-| 2026.11.09 | [08 crypto 수학 기초](https://velog.io/@dlsd/08-crypto-%EC%88%98%ED%95%99-%EA%B8%B0%EC%B4%88) | [@dlsd](https://velog.io/@dlsd) |
+| 2026.11.09 | [[회고] 소프트웨어학과 4년, 무엇을 배웠나 — 시리즈를 시작하며](https://velog.io/@jun2k5/sw-major-series-intro) | [@jun2k5](https://velog.io/@jun2k5) |
+| 2026.11.09 | [코드에서 런칭까지: Cursor Live Apps가 인디 개발자를 위해 할 수 있는 일](https://velog.io/@sunny_123/1x0tncmp) | [@sunny_123](https://velog.io/@sunny_123) |
+| 2026.11.09 | [[SWEA] D3 1860. 진기의 최고급 붕어빵 (Python)](https://velog.io/@parkhss/SWEA-D3-1860.-%EC%A7%84%EA%B8%B0%EC%9D%98-%EC%B5%9C%EA%B3%A0%EA%B8%89-%EB%B6%95%EC%96%B4%EB%B9%B5-Python) | [@parkhss](https://velog.io/@parkhss) |
+| 2026.11.09 | [리버싱_19편_TLS콜백함수](https://velog.io/@sinbon/%EB%A6%AC%EB%B2%84%EC%8B%B119%ED%8E%B8TLS%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98) | [@sinbon](https://velog.io/@sinbon) |
+| 2026.11.09 | [ClickHouse MergeTree 계열 엔진은 무엇이 다를까](https://velog.io/@yeongsang2/ClickHouse-MergeTree-%EA%B3%84%EC%97%B4-%EC%97%94%EC%A7%84%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%BC%EA%B9%8C) | [@yeongsang2](https://velog.io/@yeongsang2) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
