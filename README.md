@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.09 | [React - if (e.nativeEvent.isComposing) return;   꼭 쓰야 할까?](https://velog.io/@4dinno/React-if-e.nativeEvent.isComposing-return-%EA%BC%AD-%EC%93%B0%EC%95%BC-%ED%95%A0%EA%B9%8C) | [@4dinno](https://velog.io/@4dinno) |
-| 2026.11.09 | [React - 입력 폼(Form)에 자주 등장하는 코드](https://velog.io/@4dinno/React-%EC%9E%85%EB%A0%A5-%ED%8F%BCForm%EC%97%90-%EC%9E%90%EC%A3%BC-%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EC%BD%94%EB%93%9C) | [@4dinno](https://velog.io/@4dinno) |
-| 2026.11.09 | [React - 리액트에서 폼(Form)이란?](https://velog.io/@4dinno/React-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-%ED%8F%BCForm%EC%9D%B4%EB%9E%80) | [@4dinno](https://velog.io/@4dinno) |
-| 2026.11.09 | [[공용 컴포넌트] Todo → List 변경과 공통화 범위 설계](https://velog.io/@u_gangg3/Todo-List-%EB%B3%80%EA%B2%BD%EA%B3%BC-%EA%B3%B5%ED%86%B5%ED%99%94-%EB%B2%94%EC%9C%84-%EC%84%A4%EA%B3%84) | [@u_gangg3](https://velog.io/@u_gangg3) |
-| 2026.11.09 | [2026년 11월 6일](https://velog.io/@2mir0012/2026%EB%85%84-11%EC%9B%94-6%EC%9D%BC) | [@2mir0012](https://velog.io/@2mir0012) |
-| 2026.11.09 | [분반 수업 11 — 언리얼 C++ 델리게이트](https://velog.io/@2mir0012/%EC%8B%A4%EC%A0%84-%EA%B8%B0%EC%B4%88-%EC%96%B8%EB%A6%AC%EC%96%BC-C-%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8) | [@2mir0012](https://velog.io/@2mir0012) |
+| 2026.11.09 | [Flutter -  PageRouteBuilder](https://velog.io/@imeziin21/Flutter-PageRouteBuilder) | [@imeziin21](https://velog.io/@imeziin21) |
+| 2026.11.09 | [프로젝트 부하테스트 결과](https://velog.io/@cizett00/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B2%B0%EA%B3%BC) | [@cizett00](https://velog.io/@cizett00) |
+| 2026.11.09 | [세상은 차갑고도 무심하다...](https://velog.io/@skh_0501/%EC%84%B8%EC%83%81%EC%9D%80-%EC%B0%A8%EA%B0%91%EA%B3%A0%EB%8F%84-%EB%AC%B4%EC%8B%AC%ED%95%98%EB%8B%A4) | [@skh_0501](https://velog.io/@skh_0501) |
+| 2026.11.09 | [[내일배움캠프] 11월 09일 TIL](https://velog.io/@kim_da/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-11%EC%9B%94-09%EC%9D%BC-TIL) | [@kim_da](https://velog.io/@kim_da) |
+| 2026.11.09 | [혼자서도(라우팅)잘해요](https://velog.io/@a1rhun/%EB%84%A5%EC%A0%9C-%EC%99%9C%EC%9D%B4%EB%A6%AC-%EA%B8%B0%ED%8A%B9%ED%95%B4) | [@a1rhun](https://velog.io/@a1rhun) |
+| 2026.11.09 | [08 crypto 수학 기초](https://velog.io/@dlsd/08-crypto-%EC%88%98%ED%95%99-%EA%B8%B0%EC%B4%88) | [@dlsd](https://velog.io/@dlsd) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
