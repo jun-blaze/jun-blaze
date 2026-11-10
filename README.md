@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.10 | [Java HttpClient POST 요청 시 405 "Invalid HTTP method"](https://velog.io/@elalzns12/Java-HttpClient-POST-%EC%9A%94%EC%B2%AD-%EC%8B%9C-405-Invalid-HTTP-method) | [@elalzns12](https://velog.io/@elalzns12) |
-| 2026.11.10 | [TIL - 20261110](https://velog.io/@sdj3959/TIL-20261110) | [@sdj3959](https://velog.io/@sdj3959) |
-| 2026.11.10 | [[정보보안 알아보기 6편] 파일 업로드·웹쉘·SSRF — 서버가 "내 편"이 아니게 되는 순간](https://velog.io/@jinbumlee95/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6%ED%8E%B8-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C%EC%9B%B9%EC%89%98SSRF-%EC%84%9C%EB%B2%84%EA%B0%80-%EB%82%B4-%ED%8E%B8%EC%9D%B4-%EC%95%84%EB%8B%88%EA%B2%8C-%EB%90%98%EB%8A%94-%EC%88%9C%EA%B0%84-9n0luwd9) | [@jinbumlee95](https://velog.io/@jinbumlee95) |
-| 2026.11.10 | [끄적 8주차.. 햄x8..](https://velog.io/@ae_isong/%EB%81%84%EC%A0%81-8%EC%A3%BC%EC%B0%A8..-%ED%96%84x8) | [@ae_isong](https://velog.io/@ae_isong) |
-| 2026.11.10 | [DRF](https://velog.io/@yeonsoo05/DRF) | [@yeonsoo05](https://velog.io/@yeonsoo05) |
-| 2026.11.10 | [[Back] Spring Framework](https://velog.io/@duswldbswn/Back-Spring-Framework) | [@duswldbswn](https://velog.io/@duswldbswn) |
+| 2026.11.10 | [직장인을 위한 효율적인 휴식 관리와 마사지 정보 활용 가이드](https://velog.io/@c0118259448/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%9C%B4%EC%8B%9D-%EA%B4%80%EB%A6%AC%EC%99%80-%EB%A7%88%EC%82%AC%EC%A7%80-%EC%A0%95%EB%B3%B4-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-kzcwo3z2) | [@c0118259448](https://velog.io/@c0118259448) |
+| 2026.11.10 | [[system hacking] House of Spirit / House of Force](https://velog.io/@dawneast/system-hacking-House-of-Spirit-House-of-Force) | [@dawneast](https://velog.io/@dawneast) |
+| 2026.11.10 | [[프로그래머스] 문자열 압축 (Python)](https://velog.io/@it_is_a_garden/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%95%EC%B6%95-Python) | [@it_is_a_garden](https://velog.io/@it_is_a_garden) |
+| 2026.11.10 | [[K-Exaone V2.5 API 테스트] 파란 물결 뒤의 침묵: 데이터센터 규제 공포, 그 다음의 질문 (261110)](https://velog.io/@wonterry/K-Exaone-V2.5-API-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EB%9E%80-%EB%AC%BC%EA%B2%B0-%EB%92%A4%EC%9D%98-%EC%B9%A8%EB%AC%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B7%9C%EC%A0%9C-%EA%B3%B5%ED%8F%AC-%EA%B7%B8-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%A7%88%EB%AC%B8-261110) | [@wonterry](https://velog.io/@wonterry) |
+| 2026.11.10 | [[프로그래머스] 136798 - 기사단원의 무기](https://velog.io/@dkegldh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-136798-%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98-%EB%AC%B4%EA%B8%B0) | [@dkegldh](https://velog.io/@dkegldh) |
+| 2026.11.10 | [Spring AOP: 프록시를 이용한 공통 관심사 분리](https://velog.io/@jklee3409/Spring-AOP-%ED%94%84%EB%A1%9D%EC%8B%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B3%B5%ED%86%B5-%EA%B4%80%EC%8B%AC%EC%82%AC-%EB%B6%84%EB%A6%AC) | [@jklee3409](https://velog.io/@jklee3409) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
