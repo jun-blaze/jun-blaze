@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.10 | [직장인을 위한 효율적인 휴식 관리와 마사지 정보 활용 가이드](https://velog.io/@c0118259448/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%9C%B4%EC%8B%9D-%EA%B4%80%EB%A6%AC%EC%99%80-%EB%A7%88%EC%82%AC%EC%A7%80-%EC%A0%95%EB%B3%B4-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-kzcwo3z2) | [@c0118259448](https://velog.io/@c0118259448) |
-| 2026.11.10 | [[system hacking] House of Spirit / House of Force](https://velog.io/@dawneast/system-hacking-House-of-Spirit-House-of-Force) | [@dawneast](https://velog.io/@dawneast) |
-| 2026.11.10 | [[프로그래머스] 문자열 압축 (Python)](https://velog.io/@it_is_a_garden/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%95%EC%B6%95-Python) | [@it_is_a_garden](https://velog.io/@it_is_a_garden) |
-| 2026.11.10 | [[K-Exaone V2.5 API 테스트] 파란 물결 뒤의 침묵: 데이터센터 규제 공포, 그 다음의 질문 (261110)](https://velog.io/@wonterry/K-Exaone-V2.5-API-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EB%9E%80-%EB%AC%BC%EA%B2%B0-%EB%92%A4%EC%9D%98-%EC%B9%A8%EB%AC%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B7%9C%EC%A0%9C-%EA%B3%B5%ED%8F%AC-%EA%B7%B8-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EC%A7%88%EB%AC%B8-261110) | [@wonterry](https://velog.io/@wonterry) |
-| 2026.11.10 | [[프로그래머스] 136798 - 기사단원의 무기](https://velog.io/@dkegldh/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-136798-%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98-%EB%AC%B4%EA%B8%B0) | [@dkegldh](https://velog.io/@dkegldh) |
-| 2026.11.10 | [Spring AOP: 프록시를 이용한 공통 관심사 분리](https://velog.io/@jklee3409/Spring-AOP-%ED%94%84%EB%A1%9D%EC%8B%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B3%B5%ED%86%B5-%EA%B4%80%EC%8B%AC%EC%82%AC-%EB%B6%84%EB%A6%AC) | [@jklee3409](https://velog.io/@jklee3409) |
+| 2026.11.11 | [[TIL] 7일차 - 백엔드와 Node.js](https://velog.io/@swhp835/TIL-7%EC%9D%BC%EC%B0%A8-%EB%B0%B1%EC%97%94%EB%93%9C%EC%99%80-Node.js) | [@swhp835](https://velog.io/@swhp835) |
+| 2026.11.11 | [앤트로픽, 나스닥 상장 공모가 70~78달러 제시…최대 1.404조 달러 밸류에이션](https://velog.io/@bbzjun/%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD-%EB%82%98%EC%8A%A4%EB%8B%A5-%EC%83%81%EC%9E%A5-%EA%B3%B5%EB%AA%A8%EA%B0%80-7078%EB%8B%AC%EB%9F%AC-%EC%A0%9C%EC%8B%9C%EC%B5%9C%EB%8C%80-1404%EC%A1%B0-%EB%8B%AC%EB%9F%AC-%EB%B0%B8%EB%A5%98%EC%97%90%EC%9D%B4%EC%85%98-2026-11-10) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.11 | [뉴욕주 AI 안전법(RAISE Act) 등록 포털 가동…OpenAI·Anthropic 2027년 1월까지 등록해야](https://velog.io/@bbzjun/%EB%89%B4%EC%9A%95%EC%A3%BC-ai-%EC%95%88%EC%A0%84%EB%B2%95raise-act-%EB%93%B1%EB%A1%9D-%ED%8F%AC%ED%84%B8-%EA%B0%80%EB%8F%99openaianthropic-2027%EB%85%84-1%EC%9B%94%EA%B9%8C%EC%A7%80-%EB%93%B1%EB%A1%9D%ED%95%B4%EC%95%BC-2026-11-10) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.11 | [Claude Code '다시 묻지 않음' 설정 파일, 깃허브에 시크릿 2,539개 유출시켜](https://velog.io/@bbzjun/claude-code-%EB%8B%A4%EC%8B%9C-%EB%AC%BB%EC%A7%80-%EC%95%8A%EC%9D%8C-%EC%84%A4%EC%A0%95-%ED%8C%8C%EC%9D%BC-%EA%B9%83%ED%97%88%EB%B8%8C%EC%97%90-%EC%8B%9C%ED%81%AC%EB%A6%BF-2539%EA%B0%9C-%EC%9C%A0%EC%B6%9C%EC%8B%9C%EC%BC%9C-2026-11-10) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.11 | [[에픽게임즈, PC] Murder By Numbers AI 한글패치](https://velog.io/@tmdgjsdl1234/%EC%97%90%ED%94%BD%EA%B2%8C%EC%9E%84%EC%A6%88-PC-Murder-By-Numbers-AI-%ED%95%9C%EA%B8%80%ED%8C%A8%EC%B9%98) | [@tmdgjsdl1234](https://velog.io/@tmdgjsdl1234) |
+| 2026.11.11 | [#11 FE Project Day1](https://velog.io/@angella4724/11-FE-Project-Day1) | [@angella4724](https://velog.io/@angella4724) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
