@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.11 | [실험 설계](https://velog.io/@landingon/%EC%8B%A4%ED%97%98-%EC%84%A4%EA%B3%84) | [@landingon](https://velog.io/@landingon) |
-| 2026.11.11 | [20261111](https://velog.io/@choyj109/20261111) | [@choyj109](https://velog.io/@choyj109) |
-| 2026.11.11 | [100만 개 캔들에 초당 3만 건 체결을 10분간 흘려 보았다: 메모리는 괜찮았고, 프레임이 문제였다](https://velog.io/@bonguynvan/100%EB%A7%8C-%EA%B0%9C-%EC%BA%94%EB%93%A4%EC%97%90-%EC%B4%88%EB%8B%B9-3%EB%A7%8C-%EA%B1%B4-%EC%B2%B4%EA%B2%B0%EC%9D%84-10%EB%B6%84%EA%B0%84-%ED%9D%98%EB%A0%A4-%EB%B3%B4%EC%95%98%EB%8B%A4-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%8A%94-%EA%B4%9C%EC%B0%AE%EC%95%98%EA%B3%A0-%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EC%98%80%EB%8B%A4) | [@bonguynvan](https://velog.io/@bonguynvan) |
-| 2026.11.11 | [1주차\| 6/26 \| 스마트병원, 환자경험, PROM/VOC, 그리고 서비스 기획 기회 \| 차두선 대표님](https://velog.io/@trendsetter/1%EC%A3%BC%EC%B0%A8-626-%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%B3%91%EC%9B%90-%ED%99%98%EC%9E%90%EA%B2%BD%ED%97%98-PROMVOC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%ED%9A%8D-%EA%B8%B0%ED%9A%8C-%EC%B0%A8%EB%91%90%EC%84%A0-%EB%8C%80%ED%91%9C%EB%8B%98) | [@trendsetter](https://velog.io/@trendsetter) |
-| 2026.11.11 | [Vuex에서 Pinia로 갈아타기 — mutation 없이 더 간단하게 (defineStore, storeToRefs)](https://velog.io/@happysu/Vuex%EC%97%90%EC%84%9C-Pinia%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%80%EA%B8%B0-mutation-%EC%97%86%EC%9D%B4-%EB%8D%94-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-defineStore-storeToRefs) | [@happysu](https://velog.io/@happysu) |
-| 2026.11.11 | [정보보안산업기사 준비 16](https://velog.io/@swpang10/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC-%EC%A4%80%EB%B9%84-16) | [@swpang10](https://velog.io/@swpang10) |
+| 2026.11.11 | [[EP.133] Episode 133 — Bang-i Philosophy](https://velog.io/@masterbangi/ep-133-episode-133-bang-i-philosophy-20261111) | [@masterbangi](https://velog.io/@masterbangi) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
