@@ -81,7 +81,7 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.11 | [[EP.133] Episode 133 — Bang-i Philosophy](https://velog.io/@masterbangi/ep-133-episode-133-bang-i-philosophy-20261111) | [@masterbangi](https://velog.io/@masterbangi) |
+| 2026.11.12 | [Alpine Linux SSH 인증 우회, 어떤 서버가 영향받고 어떻게 막나](https://velog.io/@bbqgo807/alpine-linux-ssh-%EC%9D%B8%EC%A6%9D-%EC%9A%B0%ED%9A%8C-%EC%96%B4%EB%96%A4-%EC%84%9C%EB%B2%84%EA%B0%80-%EC%98%81%ED%96%A5%EB%B0%9B%EA%B3%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%89%EB%82%98-86faa5) | [@bbqgo807](https://velog.io/@bbqgo807) |
 | 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
 | 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 | 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
