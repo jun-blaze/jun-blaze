@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.11 | [[TIL] 7일차 - 백엔드와 Node.js](https://velog.io/@swhp835/TIL-7%EC%9D%BC%EC%B0%A8-%EB%B0%B1%EC%97%94%EB%93%9C%EC%99%80-Node.js) | [@swhp835](https://velog.io/@swhp835) |
-| 2026.11.11 | [앤트로픽, 나스닥 상장 공모가 70~78달러 제시…최대 1.404조 달러 밸류에이션](https://velog.io/@bbzjun/%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD-%EB%82%98%EC%8A%A4%EB%8B%A5-%EC%83%81%EC%9E%A5-%EA%B3%B5%EB%AA%A8%EA%B0%80-7078%EB%8B%AC%EB%9F%AC-%EC%A0%9C%EC%8B%9C%EC%B5%9C%EB%8C%80-1404%EC%A1%B0-%EB%8B%AC%EB%9F%AC-%EB%B0%B8%EB%A5%98%EC%97%90%EC%9D%B4%EC%85%98-2026-11-10) | [@bbzjun](https://velog.io/@bbzjun) |
-| 2026.11.11 | [뉴욕주 AI 안전법(RAISE Act) 등록 포털 가동…OpenAI·Anthropic 2027년 1월까지 등록해야](https://velog.io/@bbzjun/%EB%89%B4%EC%9A%95%EC%A3%BC-ai-%EC%95%88%EC%A0%84%EB%B2%95raise-act-%EB%93%B1%EB%A1%9D-%ED%8F%AC%ED%84%B8-%EA%B0%80%EB%8F%99openaianthropic-2027%EB%85%84-1%EC%9B%94%EA%B9%8C%EC%A7%80-%EB%93%B1%EB%A1%9D%ED%95%B4%EC%95%BC-2026-11-10) | [@bbzjun](https://velog.io/@bbzjun) |
-| 2026.11.11 | [Claude Code '다시 묻지 않음' 설정 파일, 깃허브에 시크릿 2,539개 유출시켜](https://velog.io/@bbzjun/claude-code-%EB%8B%A4%EC%8B%9C-%EB%AC%BB%EC%A7%80-%EC%95%8A%EC%9D%8C-%EC%84%A4%EC%A0%95-%ED%8C%8C%EC%9D%BC-%EA%B9%83%ED%97%88%EB%B8%8C%EC%97%90-%EC%8B%9C%ED%81%AC%EB%A6%BF-2539%EA%B0%9C-%EC%9C%A0%EC%B6%9C%EC%8B%9C%EC%BC%9C-2026-11-10) | [@bbzjun](https://velog.io/@bbzjun) |
-| 2026.11.11 | [[에픽게임즈, PC] Murder By Numbers AI 한글패치](https://velog.io/@tmdgjsdl1234/%EC%97%90%ED%94%BD%EA%B2%8C%EC%9E%84%EC%A6%88-PC-Murder-By-Numbers-AI-%ED%95%9C%EA%B8%80%ED%8C%A8%EC%B9%98) | [@tmdgjsdl1234](https://velog.io/@tmdgjsdl1234) |
-| 2026.11.11 | [#11 FE Project Day1](https://velog.io/@angella4724/11-FE-Project-Day1) | [@angella4724](https://velog.io/@angella4724) |
+| 2026.11.11 | [실험 설계](https://velog.io/@landingon/%EC%8B%A4%ED%97%98-%EC%84%A4%EA%B3%84) | [@landingon](https://velog.io/@landingon) |
+| 2026.11.11 | [20261111](https://velog.io/@choyj109/20261111) | [@choyj109](https://velog.io/@choyj109) |
+| 2026.11.11 | [100만 개 캔들에 초당 3만 건 체결을 10분간 흘려 보았다: 메모리는 괜찮았고, 프레임이 문제였다](https://velog.io/@bonguynvan/100%EB%A7%8C-%EA%B0%9C-%EC%BA%94%EB%93%A4%EC%97%90-%EC%B4%88%EB%8B%B9-3%EB%A7%8C-%EA%B1%B4-%EC%B2%B4%EA%B2%B0%EC%9D%84-10%EB%B6%84%EA%B0%84-%ED%9D%98%EB%A0%A4-%EB%B3%B4%EC%95%98%EB%8B%A4-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%8A%94-%EA%B4%9C%EC%B0%AE%EC%95%98%EA%B3%A0-%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EC%98%80%EB%8B%A4) | [@bonguynvan](https://velog.io/@bonguynvan) |
+| 2026.11.11 | [1주차\| 6/26 \| 스마트병원, 환자경험, PROM/VOC, 그리고 서비스 기획 기회 \| 차두선 대표님](https://velog.io/@trendsetter/1%EC%A3%BC%EC%B0%A8-626-%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%B3%91%EC%9B%90-%ED%99%98%EC%9E%90%EA%B2%BD%ED%97%98-PROMVOC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%ED%9A%8D-%EA%B8%B0%ED%9A%8C-%EC%B0%A8%EB%91%90%EC%84%A0-%EB%8C%80%ED%91%9C%EB%8B%98) | [@trendsetter](https://velog.io/@trendsetter) |
+| 2026.11.11 | [Vuex에서 Pinia로 갈아타기 — mutation 없이 더 간단하게 (defineStore, storeToRefs)](https://velog.io/@happysu/Vuex%EC%97%90%EC%84%9C-Pinia%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%80%EA%B8%B0-mutation-%EC%97%86%EC%9D%B4-%EB%8D%94-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-defineStore-storeToRefs) | [@happysu](https://velog.io/@happysu) |
+| 2026.11.11 | [정보보안산업기사 준비 16](https://velog.io/@swpang10/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC-%EC%A4%80%EB%B9%84-16) | [@swpang10](https://velog.io/@swpang10) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
