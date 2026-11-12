@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.12 | [Alpine Linux SSH 인증 우회, 어떤 서버가 영향받고 어떻게 막나](https://velog.io/@bbqgo807/alpine-linux-ssh-%EC%9D%B8%EC%A6%9D-%EC%9A%B0%ED%9A%8C-%EC%96%B4%EB%96%A4-%EC%84%9C%EB%B2%84%EA%B0%80-%EC%98%81%ED%96%A5%EB%B0%9B%EA%B3%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%89%EB%82%98-86faa5) | [@bbqgo807](https://velog.io/@bbqgo807) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.11.12 | [사용자의 주제 이동 경로를 그래프로 만들면 무엇을 알 수 있을까? — Noding의 Node Map](https://velog.io/@kang_noding/noding-node-map-topic-navigation) | [@kang_noding](https://velog.io/@kang_noding) |
+| 2026.11.12 | [[mini-React] 과제 명세의 한 문장에 매몰되어 버림.](https://velog.io/@gmhan99/mini-React-myfailure) | [@gmhan99](https://velog.io/@gmhan99) |
+| 2026.11.12 | [decision 모델 다섯 개에 같은 질문 80개를 보내 봤습니다](https://velog.io/@toothy_developer/decision-%EB%AA%A8%EB%8D%B8-%EB%8B%A4%EC%84%AF-%EA%B0%9C%EC%97%90-%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8-80%EA%B0%9C%EB%A5%BC-%EB%B3%B4%EB%82%B4-%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4) | [@toothy_developer](https://velog.io/@toothy_developer) |
+| 2026.11.12 | [[TIL] 송금 백엔드 개발 마무리 및 정합성 검증](https://velog.io/@gajigaji04/TIL-%EC%86%A1%EA%B8%88-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EB%B0%8F-%EC%A0%95%ED%95%A9%EC%84%B1-%EA%B2%80%EC%A6%9D) | [@gajigaji04](https://velog.io/@gajigaji04) |
+| 2026.11.12 | [JSON이 쌓이더니 RAM이 터졌다](https://velog.io/@poeynus/JSON%EC%9D%B4-%EC%8C%93%EC%9D%B4%EB%8D%94%EB%8B%88-Ram%EC%9D%B4-%ED%84%B0%EC%A1%8C%EB%8B%A4) | [@poeynus](https://velog.io/@poeynus) |
+| 2026.11.12 | [[TIL] 26/11/12 - Session과 Filter](https://velog.io/@myhyeoeo/TIL-261112-Session%EA%B3%BC-Filter) | [@myhyeoeo](https://velog.io/@myhyeoeo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
