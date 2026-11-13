@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.13 | [업로드 직전에 막히지 않는 동영상 압축 워크플로: 화질과 용량을 함께 관리하는 법](https://velog.io/@kivenwang/%EC%97%85%EB%A1%9C%EB%93%9C-%EC%A7%81%EC%A0%84%EC%97%90-%EB%A7%89%ED%9E%88%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%8F%99%EC%98%81%EC%83%81-%EC%95%95%EC%B6%95-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%ED%99%94%EC%A7%88%EA%B3%BC-%EC%9A%A9%EB%9F%89%EC%9D%84-%ED%95%A8%EA%BB%98-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B2%95) | [@kivenwang](https://velog.io/@kivenwang) |
+| 2026.11.13 | [약쏙 LLM 앞뒤 검증 — 버전마다 서버로 옮긴 판단들](https://velog.io/@k_joon_/yakssok-llm-validation) | [@k_joon_](https://velog.io/@k_joon_) |
+| 2026.11.13 | [[보도자료] (주)씨피씨에이아이 윤영준 대표, AI 기반 '3~5일 초고속 MVP 외주 스튜디오' 글로벌 런칭](https://velog.io/@cpcai/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C-%EC%A3%BC%EC%94%A8%ED%94%BC%EC%94%A8%EC%97%90%EC%9D%B4%EC%95%84%EC%9D%B4-%EC%9C%A4%EC%98%81%EC%A4%80-%EB%8C%80%ED%91%9C-AI-%EA%B8%B0%EB%B0%98-35%EC%9D%BC-%EC%B4%88%EA%B3%A0%EC%86%8D-MVP-%EC%99%B8%EC%A3%BC-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%9F%B0%EC%B9%AD) | [@cpcai](https://velog.io/@cpcai) |
+| 2026.11.13 | [약쏙 V6·V7·V7.1 — 지운 것과 남긴 기록 (리팩토링, 추천 기록)](https://velog.io/@k_joon_/yakssok-v6-v7) | [@k_joon_](https://velog.io/@k_joon_) |
+| 2026.11.13 | [약쏙 V5 — LLM을 남의 데이터로, 무제한으로 못 쓰게 막기 (소유권, 사용량, 프롬프트 인젝션)](https://velog.io/@k_joon_/yakssok-v5-security) | [@k_joon_](https://velog.io/@k_joon_) |
+| 2026.11.13 | [약쏙 Version 4 — 증상 문장으로 추천하는 대화창 (MySQL에 벡터 저장, Java로 코사인)](https://velog.io/@k_joon_/yakssok-version4) | [@k_joon_](https://velog.io/@k_joon_) |
 | 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
