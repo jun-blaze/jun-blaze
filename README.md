@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.13 | [[바이브 코딩] 글을 10편 썼는데 검색 유입이 0이라, robots.txt와 sitemap.xml을 직접 열어봤습니다](https://velog.io/@returncare/%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9-%EA%B8%80%EC%9D%84-10%ED%8E%B8-%EC%8D%BC%EB%8A%94%EB%8D%B0-%EA%B2%80%EC%83%89-%EC%9C%A0%EC%9E%85%EC%9D%B4-0%EC%9D%B4%EB%9D%BC-robots.txt%EC%99%80-sitemap.xml%EC%9D%84-%EC%A7%81%EC%A0%91-%EC%97%B4%EC%96%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4) | [@returncare](https://velog.io/@returncare) |
-| 2026.11.13 | ["AI 데이터센터 전기요금, 결국 저소득·농촌 가구가 더 낸다"…코넬대 연구가 밝힌 불균형](https://velog.io/@bbzjun/ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%A0%84%EA%B8%B0%EC%9A%94%EA%B8%88-%EA%B2%B0%EA%B5%AD-%EC%A0%80%EC%86%8C%EB%93%9D%EB%86%8D%EC%B4%8C-%EA%B0%80%EA%B5%AC%EA%B0%80-%EB%8D%94-%EB%82%B8%EB%8B%A4%EC%BD%94%EB%84%AC%EB%8C%80-%EC%97%B0%EA%B5%AC%EA%B0%80-%EB%B0%9D%ED%9E%8C-%EB%B6%88%EA%B7%A0%ED%98%95-2026-11-12) | [@bbzjun](https://velog.io/@bbzjun) |
-| 2026.11.13 | [앤스로픽, 나스닥 'ANT'로 IPO 로드쇼 돌입…주당 70~78달러, 최대 1조 달러대 몸값 저울질](https://velog.io/@bbzjun/%EC%95%A4%EC%8A%A4%EB%A1%9C%ED%94%BD-%EB%82%98%EC%8A%A4%EB%8B%A5-ant%EB%A1%9C-ipo-%EB%A1%9C%EB%93%9C%EC%87%BC-%EB%8F%8C%EC%9E%85%EC%A3%BC%EB%8B%B9-7078%EB%8B%AC%EB%9F%AC-%EC%B5%9C%EB%8C%80-1%EC%A1%B0-%EB%8B%AC%EB%9F%AC%EB%8C%80-%EB%AA%B8%EA%B0%92-%EC%A0%80%EC%9A%B8%EC%A7%88-2026-11-12) | [@bbzjun](https://velog.io/@bbzjun) |
-| 2026.11.13 | [엔비디아 CEO 젠슨 황, 불륜·중국 스파이 스캔들 속 전격 사임…CFO 콜렛 크레스가 임시 지휘](https://velog.io/@bbzjun/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-ceo-%EC%A0%A0%EC%8A%A8-%ED%99%A9-%EB%B6%88%EB%A5%9C%EC%A4%91%EA%B5%AD-%EC%8A%A4%ED%8C%8C%EC%9D%B4-%EC%8A%A4%EC%BA%94%EB%93%A4-%EC%86%8D-%EC%A0%84%EA%B2%A9-%EC%82%AC%EC%9E%84cfo-%EC%BD%9C%EB%A0%9B-%ED%81%AC%EB%A0%88%EC%8A%A4%EA%B0%80-%EC%9E%84%EC%8B%9C-%EC%A7%80%ED%9C%98-2026-11-12) | [@bbzjun](https://velog.io/@bbzjun) |
-| 2026.11.13 | [도란의 갱도에서 광석이 안 나올 때 \| 네크로맨서 RPG 첫 골렘 공략](https://velog.io/@ancoachstudio/%EB%8F%84%EB%9E%80%EC%9D%98-%EA%B0%B1%EB%8F%84%EC%97%90%EC%84%9C-%EA%B4%91%EC%84%9D%EC%9D%B4-%EC%95%88-%EB%82%98%EC%98%AC-%EB%95%8C-%EB%84%A4%ED%81%AC%EB%A1%9C%EB%A7%A8%EC%84%9C-RPG-%EC%B2%AB-%EA%B3%A8%EB%A0%98-%EA%B3%B5%EB%9E%B5) | [@ancoachstudio](https://velog.io/@ancoachstudio) |
-| 2026.11.13 | [[1분 브리핑] Fable 5.2는 기획에만, 구현은 Opus 5.5](https://velog.io/@sdm77/1%EB%B6%84-%EB%B8%8C%EB%A6%AC%ED%95%91-2026-11-13) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.11.13 | [업로드 직전에 막히지 않는 동영상 압축 워크플로: 화질과 용량을 함께 관리하는 법](https://velog.io/@kivenwang/%EC%97%85%EB%A1%9C%EB%93%9C-%EC%A7%81%EC%A0%84%EC%97%90-%EB%A7%89%ED%9E%88%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%8F%99%EC%98%81%EC%83%81-%EC%95%95%EC%B6%95-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%ED%99%94%EC%A7%88%EA%B3%BC-%EC%9A%A9%EB%9F%89%EC%9D%84-%ED%95%A8%EA%BB%98-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B2%95) | [@kivenwang](https://velog.io/@kivenwang) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
