@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.14 | [가마가 멈추면 수업도 옮겨야 한다: 작은 도자기 공방의 수강생별 일정 변경 안내법](https://velog.io/@maildoer/%EA%B0%80%EB%A7%88%EA%B0%80-%EB%A9%88%EC%B6%94%EB%A9%B4-%EC%88%98%EC%97%85%EB%8F%84-%EC%98%AE%EA%B2%A8%EC%95%BC-%ED%95%9C%EB%8B%A4-%EC%9E%91%EC%9D%80-%EB%8F%84%EC%9E%90%EA%B8%B0-%EA%B3%B5%EB%B0%A9%EC%9D%98-%EC%88%98%EA%B0%95%EC%83%9D%EB%B3%84-%EC%9D%BC%EC%A0%95-%EB%B3%80%EA%B2%BD-%EC%95%88%EB%82%B4%EB%B2%95) | [@maildoer](https://velog.io/@maildoer) |
-| 2026.11.14 | [고정 하단 탭바 하나 붙였더니 아이폰에서 세 번 다시 만졌습니다 — Tailwind safe-area와 입력창 16px](https://velog.io/@returncare/%EA%B3%A0%EC%A0%95-%ED%95%98%EB%8B%A8-%ED%83%AD%EB%B0%94-%ED%95%98%EB%82%98-%EB%B6%99%EC%98%80%EB%8D%94%EB%8B%88-%EC%95%84%EC%9D%B4%ED%8F%B0%EC%97%90%EC%84%9C-%EC%84%B8-%EB%B2%88-%EB%8B%A4%EC%8B%9C-%EB%A7%8C%EC%A1%8C%EC%8A%B5%EB%8B%88%EB%8B%A4-Tailwind-safe-area%EC%99%80-%EC%9E%85%EB%A0%A5%EC%B0%BD-16px) | [@returncare](https://velog.io/@returncare) |
-| 2026.11.14 | [마이크로소프트 M365 20시간 넘는 장애…"레드먼드 의존"의 위험성 다시 부각](https://velog.io/@bbzjun/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-m365-20%EC%8B%9C%EA%B0%84-%EB%84%98%EB%8A%94-%EC%9E%A5%EC%95%A0%EB%A0%88%EB%93%9C%EB%A8%BC%EB%93%9C-%EC%9D%98%EC%A1%B4%EC%9D%98-%EC%9C%84%ED%97%98%EC%84%B1-%EB%8B%A4%EC%8B%9C-%EB%B6%80%EA%B0%81-2026-11-13) | [@bbzjun](https://velog.io/@bbzjun) |
-| 2026.11.14 | [AI가 괴델의 암호 같은 노트를 열다…80년 만에 드러난 663개의 정리](https://velog.io/@bbzjun/ai%EA%B0%80-%EA%B4%B4%EB%8D%B8%EC%9D%98-%EC%95%94%ED%98%B8-%EA%B0%99%EC%9D%80-%EB%85%B8%ED%8A%B8%EB%A5%BC-%EC%97%B4%EB%8B%A480%EB%85%84-%EB%A7%8C%EC%97%90-%EB%93%9C%EB%9F%AC%EB%82%9C-663%EA%B0%9C%EC%9D%98-%EC%A0%95%EB%A6%AC-2026-11-13) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.14 | [[알고리즘] 힙과 힙 정렬, 우선순위 큐](https://velog.io/@jun2k5/algo-04-heap-sort) | [@jun2k5](https://velog.io/@jun2k5) |
+| 2026.11.14 | [[알고리즘] 병합 정렬과 퀵 정렬](https://velog.io/@jun2k5/algo-03-merge-quick-sort) | [@jun2k5](https://velog.io/@jun2k5) |
+| 2026.11.14 | [PostgreSQL에서 MySQL로 이관하기](https://velog.io/@wish-choi/PostgreSQL%EC%97%90%EC%84%9C-MySQL%EB%A1%9C-%EC%9D%B4%EA%B4%80%ED%95%98%EA%B8%B0) | [@wish-choi](https://velog.io/@wish-choi) |
 | 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
 | 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
