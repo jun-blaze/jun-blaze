@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.16 | [Javascript - DOM](https://velog.io/@dajung/Javascript-DOM) | [@dajung](https://velog.io/@dajung) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.11.16 | [[컴퓨터 구조] ALU, 플래그, 제어장치, 제어 신호](https://velog.io/@wiostz98kr/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-ALU-%ED%94%8C%EB%9E%98%EA%B7%B8-%EC%A0%9C%EC%96%B4%EC%9E%A5%EC%B9%98-%EC%A0%9C%EC%96%B4-%EC%8B%A0%ED%98%B8) | [@wiostz98kr](https://velog.io/@wiostz98kr) |
+| 2026.11.16 | [7장. 입출력장치](https://velog.io/@yjh5249/7%EC%9E%A5.-%EC%9E%85%EC%B6%9C%EB%A0%A5%EC%9E%A5%EC%B9%98) | [@yjh5249](https://velog.io/@yjh5249) |
+| 2026.11.16 | [X-XSS-Protection](https://velog.io/@agnusdei1207/X-XSS-Protection) | [@agnusdei1207](https://velog.io/@agnusdei1207) |
+| 2026.11.16 | [wsl diskpart](https://velog.io/@agnusdei1207/wsl-diskpart) | [@agnusdei1207](https://velog.io/@agnusdei1207) |
+| 2026.11.16 | [# 미니 DBMS: 코드 전에 용어와 큰 그림부터](https://velog.io/@turing_machine/%EB%AF%B8%EB%8B%88-DBMS-%EC%BD%94%EB%93%9C-%EC%A0%84%EC%97%90-%EC%9A%A9%EC%96%B4%EC%99%80-%ED%81%B0-%EA%B7%B8%EB%A6%BC%EB%B6%80%ED%84%B0) | [@turing_machine](https://velog.io/@turing_machine) |
+| 2026.11.16 | [[MySQL #2] 커버링 인덱스 전후, rows 의 차이](https://velog.io/@seojointly/mysql2-covering-index-rows) | [@seojointly](https://velog.io/@seojointly) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
