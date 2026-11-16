@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.16 | [[1분 브리핑] 실전 보안 자동화부터 재귀적 에이전트 설계까지](https://velog.io/@sdm77/1%EB%B6%84-%EB%B8%8C%EB%A6%AC%ED%95%91-2026-11-16) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.11.16 | [AI 부정행위 적발과 암기형 시험의 종말](https://velog.io/@sdm77/%EA%B8%B0%ED%83%80-2026-11-16) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.11.16 | [AI 예측 엔진으로 예측 시장 오가격을 공략하는 법](https://velog.io/@sdm77/%EC%97%85%EB%AC%B4%EC%9D%BC%EC%83%81-%ED%99%9C%EC%9A%A9-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-2026-11-16) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.11.16 | [도구 3개로 시작해 스스로 진화하는 재귀적 에이전트 하네스](https://velog.io/@sdm77/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EC%84%A4%EA%B3%84-2026-11-16) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.11.16 | ["안 된다" 대신 인프라를 바꾼 토스의 AI 보안 체계](https://velog.io/@sdm77/%EB%B9%85%ED%85%8C%ED%81%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-2026-11-16-3) | [@sdm77](https://velog.io/@sdm77) |
-| 2026.11.16 | [멀티 에이전트와 도구 내재화로 취약점 조치 속도를 높이는 법](https://velog.io/@sdm77/%EB%B9%85%ED%85%8C%ED%81%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-2026-11-16-2) | [@sdm77](https://velog.io/@sdm77) |
+| 2026.11.16 | [Javascript - DOM](https://velog.io/@dajung/Javascript-DOM) | [@dajung](https://velog.io/@dajung) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
