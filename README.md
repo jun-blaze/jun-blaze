@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.16 | [[컴퓨터 구조] ALU, 플래그, 제어장치, 제어 신호](https://velog.io/@wiostz98kr/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-ALU-%ED%94%8C%EB%9E%98%EA%B7%B8-%EC%A0%9C%EC%96%B4%EC%9E%A5%EC%B9%98-%EC%A0%9C%EC%96%B4-%EC%8B%A0%ED%98%B8) | [@wiostz98kr](https://velog.io/@wiostz98kr) |
-| 2026.11.16 | [7장. 입출력장치](https://velog.io/@yjh5249/7%EC%9E%A5.-%EC%9E%85%EC%B6%9C%EB%A0%A5%EC%9E%A5%EC%B9%98) | [@yjh5249](https://velog.io/@yjh5249) |
-| 2026.11.16 | [X-XSS-Protection](https://velog.io/@agnusdei1207/X-XSS-Protection) | [@agnusdei1207](https://velog.io/@agnusdei1207) |
-| 2026.11.16 | [wsl diskpart](https://velog.io/@agnusdei1207/wsl-diskpart) | [@agnusdei1207](https://velog.io/@agnusdei1207) |
-| 2026.11.16 | [# 미니 DBMS: 코드 전에 용어와 큰 그림부터](https://velog.io/@turing_machine/%EB%AF%B8%EB%8B%88-DBMS-%EC%BD%94%EB%93%9C-%EC%A0%84%EC%97%90-%EC%9A%A9%EC%96%B4%EC%99%80-%ED%81%B0-%EA%B7%B8%EB%A6%BC%EB%B6%80%ED%84%B0) | [@turing_machine](https://velog.io/@turing_machine) |
-| 2026.11.16 | [[MySQL #2] 커버링 인덱스 전후, rows 의 차이](https://velog.io/@seojointly/mysql2-covering-index-rows) | [@seojointly](https://velog.io/@seojointly) |
+| 2026.11.17 | [[컴퓨터개론] 배달 주문으로 이해하는 객체지향과 4가지 특징](https://velog.io/@bees/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B0%9C%EB%A1%A0-%EB%B0%B0%EB%8B%AC-%EC%A3%BC%EB%AC%B8%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EA%B3%BC-4%EA%B0%80%EC%A7%80-%ED%8A%B9%EC%A7%95) | [@bees](https://velog.io/@bees) |
+| 2026.11.17 | [스레드 A는 락 X를 가진 채 Y를 기다리고, 스레드 B는 락 Y를 가진 채 X를 기다립니다. 어떤 문제이며 어떻게 예방할 수 있나요?](https://velog.io/@gwang97/%EC%8A%A4%EB%A0%88%EB%93%9C-A%EB%8A%94-%EB%9D%BD-X%EB%A5%BC-%EA%B0%80%EC%A7%84-%EC%B1%84-Y%EB%A5%BC-%EA%B8%B0%EB%8B%A4%EB%A6%AC%EA%B3%A0-%EC%8A%A4%EB%A0%88%EB%93%9C-B%EB%8A%94-%EB%9D%BD-Y%EB%A5%BC-%EA%B0%80%EC%A7%84-%EC%B1%84-X%EB%A5%BC-%EA%B8%B0%EB%8B%A4%EB%A6%BD%EB%8B%88%EB%8B%A4.-%EC%96%B4%EB%96%A4-%EB%AC%B8%EC%A0%9C%EC%9D%B4%EB%A9%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%98%88%EB%B0%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94) | [@gwang97](https://velog.io/@gwang97) |
+| 2026.11.17 | [유튜브 추천 안 뜨게 하는 법 (홈 화면 추천 영상 끄기)](https://velog.io/@parkkh/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%B6%94%EC%B2%9C-%EC%95%88-%EB%9C%A8%EA%B2%8C-%ED%95%98%EB%8A%94-%EB%B2%95-%ED%99%88-%ED%99%94%EB%A9%B4-%EC%B6%94%EC%B2%9C-%EC%98%81%EC%83%81-%EB%81%84%EA%B8%B0-91jinh53) | [@parkkh](https://velog.io/@parkkh) |
+| 2026.11.17 | [AI는 단어의 순서를 어떻게 알까?](https://velog.io/@growingdeveloper/AI%EB%8A%94-%EB%8B%A8%EC%96%B4%EC%9D%98-%EC%88%9C%EC%84%9C%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%95%8C%EA%B9%8C) | [@growingdeveloper](https://velog.io/@growingdeveloper) |
+| 2026.11.17 | [[논문리뷰] OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation (픽셀 공간 압축 RAG)](https://velog.io/@mini_knows/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-OpticalRAG-Pixel-Space-Compression-for-Token-Efficient-Retrieval-Augmented-Generation-%ED%94%BD%EC%85%80-%EA%B3%B5%EA%B0%84-%EC%95%95%EC%B6%95-RAG) | [@mini_knows](https://velog.io/@mini_knows) |
+| 2026.11.17 | [398. Random Pick Index](https://velog.io/@codnjs623/398.-Random-Pick-Index) | [@codnjs623](https://velog.io/@codnjs623) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
