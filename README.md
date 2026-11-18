@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.17 | [KV Cache Quantization: 메모리 절약과 성능](https://velog.io/@isanghao/KV-Cache-Quantization-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%A0%88%EC%95%BD%EA%B3%BC-%EC%84%B1%EB%8A%A5) | [@isanghao](https://velog.io/@isanghao) |
-| 2026.11.17 | [[분반 세션] API 연동 + TanStack Query](https://velog.io/@hufsglobal/%EB%B6%84%EB%B0%98-%EC%84%B8%EC%85%98API-%EC%97%B0%EB%8F%99TanStack-Query) | [@hufsglobal](https://velog.io/@hufsglobal) |
-| 2026.11.17 | [[컴퓨터 구조] 프로그램 카운터, 명령어 레지스터, 메모리 주소/버퍼 레지스터, 범용/플래그 레지스터, 스택 포인터, 베이스 레지스터](https://velog.io/@wiostz98kr/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%B9%B4%EC%9A%B4%ED%84%B0-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%A3%BC%EC%86%8C%EB%B2%84%ED%8D%BC-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0-%EB%B2%94%EC%9A%A9%ED%94%8C%EB%9E%98%EA%B7%B8-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0-%EC%8A%A4%ED%83%9D-%ED%8F%AC%EC%9D%B8%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0) | [@wiostz98kr](https://velog.io/@wiostz98kr) |
-| 2026.11.17 | [[SQL TIL]1934. Confirmation Rate \| 가입→인증 전환율, IFNULL](https://velog.io/@esk0311/SQL-TIL1934.-Confirmation-Rate) | [@esk0311](https://velog.io/@esk0311) |
-| 2026.11.17 | [클러스티드 인덱스](https://velog.io/@xevbn/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%8B%B0%EB%93%9C-%EC%9D%B8%EB%8D%B1%EC%8A%A4) | [@xevbn](https://velog.io/@xevbn) |
-| 2026.11.17 | [클래식 게임들](https://velog.io/@lsm1017/%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B2%8C%EC%9E%84%EB%93%A4-k25wckvo) | [@lsm1017](https://velog.io/@lsm1017) |
+| 2026.11.18 | [[Zero to ML Master #156] WordNet 맛보기 — NLTK로 Synset·상위어·경로 유사도를 직접 보고, 원고의 car 정의가 잘려 있고 dog 상위어 경로가 실제 두 갈래와 다른 것까지 바로잡기](https://velog.io/@otololism/zero-to-ml-master-156-04-04-10) | [@otololism](https://velog.io/@otololism) |
+| 2026.11.18 | [Cloudflare Workers와 R2에서 최대 450GB 재개 업로드를 만든 방법 (SendVeil)](https://velog.io/@michael-sendveil/Cloudflare-Workers%EC%99%80-R2%EC%97%90%EC%84%9C-%EC%B5%9C%EB%8C%80-450GB-%EC%9E%AC%EA%B0%9C-%EC%97%85%EB%A1%9C%EB%93%9C%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EB%B0%A9%EB%B2%95-SendVeil) | [@michael-sendveil](https://velog.io/@michael-sendveil) |
+| 2026.11.18 | [2026.11.17 화요일](https://velog.io/@weppt018/2026.11.17-%ED%99%94%EC%9A%94%EC%9D%BC) | [@weppt018](https://velog.io/@weppt018) |
+| 2026.11.18 | [최신 보안취약점](https://velog.io/@danielyang-95/%EC%B5%9C%EC%8B%A0-%EB%B3%B4%EC%95%88%EC%B7%A8%EC%95%BD%EC%A0%90-ifuksauz) | [@danielyang-95](https://velog.io/@danielyang-95) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
