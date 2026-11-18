@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.18 | [[Zero to ML Master #156] WordNet 맛보기 — NLTK로 Synset·상위어·경로 유사도를 직접 보고, 원고의 car 정의가 잘려 있고 dog 상위어 경로가 실제 두 갈래와 다른 것까지 바로잡기](https://velog.io/@otololism/zero-to-ml-master-156-04-04-10) | [@otololism](https://velog.io/@otololism) |
-| 2026.11.18 | [Cloudflare Workers와 R2에서 최대 450GB 재개 업로드를 만든 방법 (SendVeil)](https://velog.io/@michael-sendveil/Cloudflare-Workers%EC%99%80-R2%EC%97%90%EC%84%9C-%EC%B5%9C%EB%8C%80-450GB-%EC%9E%AC%EA%B0%9C-%EC%97%85%EB%A1%9C%EB%93%9C%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EB%B0%A9%EB%B2%95-SendVeil) | [@michael-sendveil](https://velog.io/@michael-sendveil) |
-| 2026.11.18 | [2026.11.17 화요일](https://velog.io/@weppt018/2026.11.17-%ED%99%94%EC%9A%94%EC%9D%BC) | [@weppt018](https://velog.io/@weppt018) |
-| 2026.11.18 | [최신 보안취약점](https://velog.io/@danielyang-95/%EC%B5%9C%EC%8B%A0-%EB%B3%B4%EC%95%88%EC%B7%A8%EC%95%BD%EC%A0%90-ifuksauz) | [@danielyang-95](https://velog.io/@danielyang-95) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.11.18 | [데이터베이스 기본 - 트랜젝션](https://velog.io/@khhh9401/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%ED%8A%B8%EB%9E%9C%EC%A0%9D%EC%85%98-p1ml28tc) | [@khhh9401](https://velog.io/@khhh9401) |
+| 2026.11.18 | [파이프 앤 필터 아키텍처로 데이터 처리 단계 구성하기](https://velog.io/@timulys/%ED%8C%8C%EC%9D%B4%ED%94%84-%EC%95%A4-%ED%95%84%ED%84%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-%EB%8B%A8%EA%B3%84-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0) | [@timulys](https://velog.io/@timulys) |
+| 2026.11.18 | [[LG CNS 6기 최종프로젝트] DAY 04 - 후보 주제 검토 및 강사님 피드백](https://velog.io/@hyr031888-crypto/LG-CNS-6%EA%B8%B0-%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-DAY-04-%ED%9B%84%EB%B3%B4-%EC%A3%BC%EC%A0%9C-%EA%B2%80%ED%86%A0-%EB%B0%8F-%EA%B0%95%EC%82%AC%EB%8B%98-%ED%94%BC%EB%93%9C%EB%B0%B1) | [@hyr031888-crypto](https://velog.io/@hyr031888-crypto) |
+| 2026.11.18 | [[LG CNS 6기] 최종 프로젝트 2일차 TIL / [기획]](https://velog.io/@dfrake/LG-CNS-6%EA%B8%B0-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2%EC%9D%BC%EC%B0%A8-TIL-%EA%B8%B0%ED%9A%8D) | [@dfrake](https://velog.io/@dfrake) |
+| 2026.11.18 | [스프링부트3 1장](https://velog.io/@ym0318/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B83-1%EC%9E%A5) | [@ym0318](https://velog.io/@ym0318) |
+| 2026.11.18 | [[컴퓨터 구조] 클럭, 코어, 멀티코어, 스레드, 멀티스레드](https://velog.io/@wiostz98kr/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-%ED%81%B4%EB%9F%AD-%EC%BD%94%EC%96%B4-%EB%A9%80%ED%8B%B0%EC%BD%94%EC%96%B4-%EC%8A%A4%EB%A0%88%EB%93%9C-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C) | [@wiostz98kr](https://velog.io/@wiostz98kr) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
