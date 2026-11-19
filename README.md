@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.19 | [[Krafton Jungle] AI와 함께하기](https://velog.io/@dev_ji/Krafton-Jungle-AI%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EA%B8%B0) | [@dev_ji](https://velog.io/@dev_ji) |
-| 2026.11.19 | [코딩 테스트 체크리스트](https://velog.io/@yj9107v/%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8) | [@yj9107v](https://velog.io/@yj9107v) |
-| 2026.11.19 | [“사용자 친화적으로 개발한다”는 계약 문구, 검수 기준이 될 수 있을까?](https://velog.io/@024194199/%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%B9%9C%ED%99%94%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B3%84%EC%95%BD-%EB%AC%B8%EA%B5%AC-%EA%B2%80%EC%88%98-%EA%B8%B0%EC%A4%80%EC%9D%B4-%EB%90%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C) | [@024194199](https://velog.io/@024194199) |
-| 2026.11.19 | [에이전트 여러 명과 일하는 법: worktree, 규칙 파일, 메모리, 그리고 다른 눈으로 검수하기](https://velog.io/@devunis/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%97%AC%EB%9F%AC-%EB%AA%85%EA%B3%BC-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B2%95-worktree-%EA%B7%9C%EC%B9%99-%ED%8C%8C%EC%9D%BC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8B%A4%EB%A5%B8-%EB%88%88%EC%9C%BC%EB%A1%9C-%EA%B2%80%EC%88%98%ED%95%98%EA%B8%B0) | [@devunis](https://velog.io/@devunis) |
-| 2026.11.19 | [문서는 착수 때 쓰고 머지 뒤에 마무리한다](https://velog.io/@kyungjong_dev/%EB%AC%B8%EC%84%9C%EB%8A%94-%EC%B0%A9%EC%88%98-%EB%95%8C-%EC%93%B0%EA%B3%A0-%EB%A8%B8%EC%A7%80-%EB%92%A4%EC%97%90-%EB%A7%88%EB%AC%B4%EB%A6%AC%ED%95%9C%EB%8B%A4) | [@kyungjong_dev](https://velog.io/@kyungjong_dev) |
-| 2026.11.19 | [숫자 하나에 소견서 권고가 바뀌었다](https://velog.io/@kyungjong_dev/%EC%88%AB%EC%9E%90-%ED%95%98%EB%82%98%EC%97%90-%EC%86%8C%EA%B2%AC%EC%84%9C-%EA%B6%8C%EA%B3%A0%EA%B0%80-%EB%B0%94%EB%80%8C%EC%97%88%EB%8B%A4) | [@kyungjong_dev](https://velog.io/@kyungjong_dev) |
+| 2026.11.19 | [[LAUNCHER 과제] 게임 콘텐츠 확장, 출시 계획](https://velog.io/@gwangmin-kim/LAUNCHER-%EA%B3%BC%EC%A0%9C-%EA%B2%8C%EC%9E%84-%EC%BD%98%ED%85%90%EC%B8%A0-%ED%99%95%EC%9E%A5-%EC%B6%9C%EC%8B%9C-%EA%B3%84%ED%9A%8D) | [@gwangmin-kim](https://velog.io/@gwangmin-kim) |
+| 2026.11.19 | [똥으로 위장한 아이스크림 (1) - 설계와 첫 번째 공격 패턴](https://velog.io/@akuusong-cell/%EB%98%A5%EC%9C%BC%EB%A1%9C-%EC%9C%84%EC%9E%A5%ED%95%9C-%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC-1-%EC%84%A4%EA%B3%84%EC%99%80-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EA%B3%B5%EA%B2%A9-%ED%8C%A8%ED%84%B4) | [@akuusong-cell](https://velog.io/@akuusong-cell) |
+| 2026.11.19 | [크래프톤 정글 WIL_Week11-12](https://velog.io/@nari3040/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4-%EC%A0%95%EA%B8%80-WILWeek11-12) | [@nari3040](https://velog.io/@nari3040) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
