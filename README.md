@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.19 | [[LAUNCHER 과제] 게임 콘텐츠 확장, 출시 계획](https://velog.io/@gwangmin-kim/LAUNCHER-%EA%B3%BC%EC%A0%9C-%EA%B2%8C%EC%9E%84-%EC%BD%98%ED%85%90%EC%B8%A0-%ED%99%95%EC%9E%A5-%EC%B6%9C%EC%8B%9C-%EA%B3%84%ED%9A%8D) | [@gwangmin-kim](https://velog.io/@gwangmin-kim) |
-| 2026.11.19 | [똥으로 위장한 아이스크림 (1) - 설계와 첫 번째 공격 패턴](https://velog.io/@akuusong-cell/%EB%98%A5%EC%9C%BC%EB%A1%9C-%EC%9C%84%EC%9E%A5%ED%95%9C-%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC-1-%EC%84%A4%EA%B3%84%EC%99%80-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EA%B3%B5%EA%B2%A9-%ED%8C%A8%ED%84%B4) | [@akuusong-cell](https://velog.io/@akuusong-cell) |
-| 2026.11.19 | [크래프톤 정글 WIL_Week11-12](https://velog.io/@nari3040/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4-%EC%A0%95%EA%B8%80-WILWeek11-12) | [@nari3040](https://velog.io/@nari3040) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.11.20 | [[DayFit 개발기 #3] DayFit을 잠깐 멈추고, 기존 프로젝트로 시작하기로 했다](https://velog.io/@hyeontae231/DayFit-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3-DayFit%EC%9D%84-%EC%9E%A0%EA%B9%90-%EB%A9%88%EC%B6%94%EA%B3%A0-%EA%B8%B0%EC%A1%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EB%A1%9C-%ED%96%88%EB%8B%A4) | [@hyeontae231](https://velog.io/@hyeontae231) |
+| 2026.11.20 | [결제 Outbox를 코드로 옮기기 — 트랜잭션, 선점 토큰, 재발행 설계](https://velog.io/@finebears/%EA%B2%B0%EC%A0%9C-Outbox%EB%A5%BC-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%84%A0%EC%A0%90-%ED%86%A0%ED%81%B0-%EC%9E%AC%EB%B0%9C%ED%96%89-%EC%84%A4%EA%B3%84) | [@finebears](https://velog.io/@finebears) |
+| 2026.11.20 | [React useEffect와 fetch로 서버 연동 CRUD 완성하기](https://velog.io/@dev_alchemist/React-useEffect%EC%99%80-fetch%EB%A1%9C-%EC%84%9C%EB%B2%84-%EC%97%B0%EB%8F%99-CRUD-%EC%99%84%EC%84%B1%ED%95%98%EA%B8%B0) | [@dev_alchemist](https://velog.io/@dev_alchemist) |
+| 2026.11.20 | [React useState와 불변성으로 미니 게시판 CRUD 구현하기](https://velog.io/@dev_alchemist/React-useState%EC%99%80-%EB%B6%88%EB%B3%80%EC%84%B1%EC%9C%BC%EB%A1%9C-%EB%AF%B8%EB%8B%88-%EA%B2%8C%EC%8B%9C%ED%8C%90-CRUD-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) | [@dev_alchemist](https://velog.io/@dev_alchemist) |
+| 2026.11.20 | [[백엔드] subList를 수정하면 왜 원본 목록도 바뀔까?](https://velog.io/@mynolee/java-sublist-view-original-copy) | [@mynolee](https://velog.io/@mynolee) |
+| 2026.11.20 | [JavaScript DOM 이벤트에서 React 컴포넌트와 Props까지](https://velog.io/@dev_alchemist/JavaScript-DOM-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%97%90%EC%84%9C-React-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-Props%EA%B9%8C%EC%A7%80) | [@dev_alchemist](https://velog.io/@dev_alchemist) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
