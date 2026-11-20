@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.20 | [[DayFit 개발기 #3] DayFit을 잠깐 멈추고, 기존 프로젝트로 시작하기로 했다](https://velog.io/@hyeontae231/DayFit-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3-DayFit%EC%9D%84-%EC%9E%A0%EA%B9%90-%EB%A9%88%EC%B6%94%EA%B3%A0-%EA%B8%B0%EC%A1%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EB%A1%9C-%ED%96%88%EB%8B%A4) | [@hyeontae231](https://velog.io/@hyeontae231) |
-| 2026.11.20 | [결제 Outbox를 코드로 옮기기 — 트랜잭션, 선점 토큰, 재발행 설계](https://velog.io/@finebears/%EA%B2%B0%EC%A0%9C-Outbox%EB%A5%BC-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%84%A0%EC%A0%90-%ED%86%A0%ED%81%B0-%EC%9E%AC%EB%B0%9C%ED%96%89-%EC%84%A4%EA%B3%84) | [@finebears](https://velog.io/@finebears) |
-| 2026.11.20 | [React useEffect와 fetch로 서버 연동 CRUD 완성하기](https://velog.io/@dev_alchemist/React-useEffect%EC%99%80-fetch%EB%A1%9C-%EC%84%9C%EB%B2%84-%EC%97%B0%EB%8F%99-CRUD-%EC%99%84%EC%84%B1%ED%95%98%EA%B8%B0) | [@dev_alchemist](https://velog.io/@dev_alchemist) |
-| 2026.11.20 | [React useState와 불변성으로 미니 게시판 CRUD 구현하기](https://velog.io/@dev_alchemist/React-useState%EC%99%80-%EB%B6%88%EB%B3%80%EC%84%B1%EC%9C%BC%EB%A1%9C-%EB%AF%B8%EB%8B%88-%EA%B2%8C%EC%8B%9C%ED%8C%90-CRUD-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) | [@dev_alchemist](https://velog.io/@dev_alchemist) |
-| 2026.11.20 | [[백엔드] subList를 수정하면 왜 원본 목록도 바뀔까?](https://velog.io/@mynolee/java-sublist-view-original-copy) | [@mynolee](https://velog.io/@mynolee) |
-| 2026.11.20 | [JavaScript DOM 이벤트에서 React 컴포넌트와 Props까지](https://velog.io/@dev_alchemist/JavaScript-DOM-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%97%90%EC%84%9C-React-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-Props%EA%B9%8C%EC%A7%80) | [@dev_alchemist](https://velog.io/@dev_alchemist) |
+| 2026.11.20 | [탄소 국경 조정 검증 서비스 시장은 글로벌 수출업체들의 강화에 힘입어 2034년까지 연평균 18.4% 성장하여 4,090만 달러에 이를 것으로 전망됩니다.](https://velog.io/@nehalkaleimr24/%ED%83%84%EC%86%8C-%EA%B5%AD%EA%B2%BD-%EC%A1%B0%EC%A0%95-%EA%B2%80%EC%A6%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%9C%EC%9E%A5%EC%9D%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%88%98%EC%B6%9C%EC%97%85%EC%B2%B4%EB%93%A4%EC%9D%98-%EA%B0%95%ED%99%94%EC%97%90-%ED%9E%98%EC%9E%85%EC%96%B4-2034%EB%85%84%EA%B9%8C%EC%A7%80-%EC%97%B0%ED%8F%89%EA%B7%A0-18.4-%EC%84%B1%EC%9E%A5%ED%95%98%EC%97%AC-4090%EB%A7%8C-%EB%8B%AC%EB%9F%AC%EC%97%90-%EC%9D%B4%EB%A5%BC-%EA%B2%83%EC%9C%BC%EB%A1%9C-%EC%A0%84%EB%A7%9D%EB%90%A9%EB%8B%88%EB%8B%A4) | [@nehalkaleimr24](https://velog.io/@nehalkaleimr24) |
+| 2026.11.20 | [배터리 시장 산업 분석, 동향, 성장 동력 및 전망, 2026~2034년](https://velog.io/@rosyemon25/%EB%B0%B0%ED%84%B0%EB%A6%AC-%EC%8B%9C%EC%9E%A5-%EC%82%B0%EC%97%85-%EB%B6%84%EC%84%9D-%EB%8F%99%ED%96%A5-%EC%84%B1%EC%9E%A5-%EB%8F%99%EB%A0%A5-%EB%B0%8F-%EC%A0%84%EB%A7%9D-20262034%EB%85%84) | [@rosyemon25](https://velog.io/@rosyemon25) |
+| 2026.11.20 | [중고 트럭 시장 산업 분석, 동향, 성장 동력 및 전망, 2026~2034년](https://velog.io/@rosyemon25/%EC%A4%91%EA%B3%A0-%ED%8A%B8%EB%9F%AD-%EC%8B%9C%EC%9E%A5-%EC%82%B0%EC%97%85-%EB%B6%84%EC%84%9D-%EB%8F%99%ED%96%A5-%EC%84%B1%EC%9E%A5-%EB%8F%99%EB%A0%A5-%EB%B0%8F-%EC%A0%84%EB%A7%9D-20262034%EB%85%84-392u4val) | [@rosyemon25](https://velog.io/@rosyemon25) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
