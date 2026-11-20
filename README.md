@@ -81,12 +81,13 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.20 | [값의 집합으로 타입 이해하기 3: 구별된 유니온(Discriminated Union)](https://velog.io/@9reum/%EA%B0%92%EC%9D%98-%EC%A7%91%ED%95%A9%EC%9C%BC%EB%A1%9C-%ED%83%80%EC%9E%85-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-3-%EA%B5%AC%EB%B3%84%EB%90%9C-%EC%9C%A0%EB%8B%88%EC%98%A8Discriminated-Union) | [@9reum](https://velog.io/@9reum) |
-| 2026.11.20 | [[LG CNS AM 6기] 59일차 TIL - 최종 프로젝트 1주차 회고, 기술보다 문제를 먼저 정의하기](https://velog.io/@mhy7847/LG-CNS-AM-6%EA%B8%B0-59%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EA%B8%B0%EC%88%A0%EB%B3%B4%EB%8B%A4-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EB%A8%BC%EC%A0%80-%EC%A0%95%EC%9D%98%ED%95%98%EA%B8%B0) | [@mhy7847](https://velog.io/@mhy7847) |
-| 2026.11.20 | [Multi-Agent Trading: AI 투자팀은 어떻게 매매를 결정하는가?](https://velog.io/@green-grape/Multi-Agent-Trading-AI-%ED%88%AC%EC%9E%90%ED%8C%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%A4%EB%A7%A4%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%98%EB%8A%94%EA%B0%80) | [@green-grape](https://velog.io/@green-grape) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.11.21 | [M365·F-22·SQLite 사례로 보는 시스템 의존성 점검](https://velog.io/@bbqgo807/m365-f-22-sqlite-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A0%90%EA%B2%80-0ace81) | [@bbqgo807](https://velog.io/@bbqgo807) |
+| 2026.11.21 | [판정을 모델 기억에 맡기지 않기로 했습니다 ! 
+… 공공데이터로 수입 규제·지원금을 판정하는 서버](https://velog.io/@clns/%ED%8C%90%EC%A0%95%EC%9D%84-%EB%AA%A8%EB%8D%B8-%EA%B8%B0%EC%96%B5%EC%97%90-%EB%A7%A1%EA%B8%B0%EC%A7%80-%EC%95%8A%EA%B8%B0%EB%A1%9C-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%88%98%EC%9E%85-%EA%B7%9C%EC%A0%9C%EC%A7%80%EC%9B%90%EA%B8%88%EC%9D%84-%ED%8C%90%EC%A0%95%ED%95%98%EB%8A%94-%EC%84%9C%EB%B2%84) | [@clns](https://velog.io/@clns) |
+| 2026.11.21 | [[M] 2336. Smallest Number in Infinite Set](https://velog.io/@yepi/M-2336.-Smallest-Number-in-Infinite-Set) | [@yepi](https://velog.io/@yepi) |
+| 2026.11.21 | [18편에 인용한 대법원 판례는 13건이었습니다: 같은 판례를 세 번 쓴 이유와, 재사용이 안 되는 출처](https://velog.io/@returncare/18%ED%8E%B8%EC%97%90-%EC%9D%B8%EC%9A%A9%ED%95%9C-%EB%8C%80%EB%B2%95%EC%9B%90-%ED%8C%90%EB%A1%80%EB%8A%94-13%EA%B1%B4%EC%9D%B4%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EA%B0%99%EC%9D%80-%ED%8C%90%EB%A1%80%EB%A5%BC-%EC%84%B8-%EB%B2%88-%EC%93%B4-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%9D%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EC%B6%9C%EC%B2%98) | [@returncare](https://velog.io/@returncare) |
+| 2026.11.21 | [AI가 그라디언트 없이 스스로 가중치를 고쳐쓴다…'자가 재작성' LLM 연구 등장](https://velog.io/@bbzjun/ai%EA%B0%80-%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8-%EC%97%86%EC%9D%B4-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EA%B0%80%EC%A4%91%EC%B9%98%EB%A5%BC-%EA%B3%A0%EC%B3%90%EC%93%B4%EB%8B%A4%EC%9E%90%EA%B0%80-%EC%9E%AC%EC%9E%91%EC%84%B1-llm-%EC%97%B0%EA%B5%AC-%EB%93%B1%EC%9E%A5-2026-11-20) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.21 | [AI가 처음부터 끝까지 설계한 CPU 'Frostbite'…성능 4.6배 주장, 실리콘 검증은 아직](https://velog.io/@bbzjun/ai%EA%B0%80-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%81%9D%EA%B9%8C%EC%A7%80-%EC%84%A4%EA%B3%84%ED%95%9C-cpu-frostbite%EC%84%B1%EB%8A%A5-46%EB%B0%B0-%EC%A3%BC%EC%9E%A5-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EA%B2%80%EC%A6%9D%EC%9D%80-%EC%95%84%EC%A7%81-2026-11-20) | [@bbzjun](https://velog.io/@bbzjun) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
