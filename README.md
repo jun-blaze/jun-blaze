@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.21 | [[Transformer] 아키텍처 흐름도 (Transformer vs GPT-2)](https://velog.io/@silverbjin/Transformer-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9D%90%EB%A6%84%EB%8F%84-Transformer-vs-GPT-2) | [@silverbjin](https://velog.io/@silverbjin) |
-| 2026.11.21 | [파이썬프로그래밍-11](https://velog.io/@id3_16/%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-11) | [@id3_16](https://velog.io/@id3_16) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.11.22 | [# LG 소액결제 정책 결제 제한이 발생하는 이유와 확인 방법](https://velog.io/@bareunbank/LG-%EC%86%8C%EC%95%A1%EA%B2%B0%EC%A0%9C-%EC%A0%95%EC%B1%85-%EA%B2%B0%EC%A0%9C-%EC%A0%9C%ED%95%9C%EC%9D%B4-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EC%99%80-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95) | [@bareunbank](https://velog.io/@bareunbank) |
+| 2026.11.22 | [OpenAI, '적대적 증류' 공격 대응 공개…체인오브쏘트 추출 방어 강화](https://velog.io/@bbzjun/openai-%EC%A0%81%EB%8C%80%EC%A0%81-%EC%A6%9D%EB%A5%98-%EA%B3%B5%EA%B2%A9-%EB%8C%80%EC%9D%91-%EA%B3%B5%EA%B0%9C%EC%B2%B4%EC%9D%B8%EC%98%A4%EB%B8%8C%EC%8F%98%ED%8A%B8-%EC%B6%94%EC%B6%9C-%EB%B0%A9%EC%96%B4-%EA%B0%95%ED%99%94-2026-11-21) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.22 | [메타, AI 데이터센터발 탄소배출 45% 급증에 2030년 넷제로 목표 재검토](https://velog.io/@bbzjun/%EB%A9%94%ED%83%80-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EB%B0%9C-%ED%83%84%EC%86%8C%EB%B0%B0%EC%B6%9C-45-%EA%B8%89%EC%A6%9D%EC%97%90-2030%EB%85%84-%EB%84%B7%EC%A0%9C%EB%A1%9C-%EB%AA%A9%ED%91%9C-%EC%9E%AC%EA%B2%80%ED%86%A0-2026-11-21) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.22 | [200만 개 '가짜 비밀번호'로 밝혀낸 AI 업계의 민감정보 유출 실태](https://velog.io/@bbzjun/200%EB%A7%8C-%EA%B0%9C-%EA%B0%80%EC%A7%9C-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%EB%A1%9C-%EB%B0%9D%ED%98%80%EB%82%B8-ai-%EC%97%85%EA%B3%84%EC%9D%98-%EB%AF%BC%EA%B0%90%EC%A0%95%EB%B3%B4-%EC%9C%A0%EC%B6%9C-%EC%8B%A4%ED%83%9C-2026-11-21) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.22 | [[8주차 토픽] @Transactional만 붙이면 모든 문제가 해결될까?](https://velog.io/@chanhajeong/8%EC%A3%BC%EC%B0%A8-%ED%86%A0%ED%94%BD) | [@chanhajeong](https://velog.io/@chanhajeong) |
+| 2026.11.22 | [작은 토큰 세트를 폴더로 나눌 때 색 이름과 지형 라벨을 섞지 않기](https://velog.io/@danielbrooks84/%EC%9E%91%EC%9D%80-%ED%86%A0%ED%81%B0-%EC%84%B8%ED%8A%B8%EB%A5%BC-%ED%8F%B4%EB%8D%94%EB%A1%9C-%EB%82%98%EB%88%8C-%EB%95%8C-%EC%83%89-%EC%9D%B4%EB%A6%84%EA%B3%BC-%EC%A7%80%ED%98%95-%EB%9D%BC%EB%B2%A8%EC%9D%84-%EC%84%9E%EC%A7%80-%EC%95%8A%EA%B8%B0) | [@danielbrooks84](https://velog.io/@danielbrooks84) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
