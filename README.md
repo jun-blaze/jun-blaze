@@ -81,13 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.21 | [M365·F-22·SQLite 사례로 보는 시스템 의존성 점검](https://velog.io/@bbqgo807/m365-f-22-sqlite-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A0%90%EA%B2%80-0ace81) | [@bbqgo807](https://velog.io/@bbqgo807) |
-| 2026.11.21 | [판정을 모델 기억에 맡기지 않기로 했습니다 ! 
-… 공공데이터로 수입 규제·지원금을 판정하는 서버](https://velog.io/@clns/%ED%8C%90%EC%A0%95%EC%9D%84-%EB%AA%A8%EB%8D%B8-%EA%B8%B0%EC%96%B5%EC%97%90-%EB%A7%A1%EA%B8%B0%EC%A7%80-%EC%95%8A%EA%B8%B0%EB%A1%9C-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%88%98%EC%9E%85-%EA%B7%9C%EC%A0%9C%EC%A7%80%EC%9B%90%EA%B8%88%EC%9D%84-%ED%8C%90%EC%A0%95%ED%95%98%EB%8A%94-%EC%84%9C%EB%B2%84) | [@clns](https://velog.io/@clns) |
-| 2026.11.21 | [[M] 2336. Smallest Number in Infinite Set](https://velog.io/@yepi/M-2336.-Smallest-Number-in-Infinite-Set) | [@yepi](https://velog.io/@yepi) |
-| 2026.11.21 | [18편에 인용한 대법원 판례는 13건이었습니다: 같은 판례를 세 번 쓴 이유와, 재사용이 안 되는 출처](https://velog.io/@returncare/18%ED%8E%B8%EC%97%90-%EC%9D%B8%EC%9A%A9%ED%95%9C-%EB%8C%80%EB%B2%95%EC%9B%90-%ED%8C%90%EB%A1%80%EB%8A%94-13%EA%B1%B4%EC%9D%B4%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EA%B0%99%EC%9D%80-%ED%8C%90%EB%A1%80%EB%A5%BC-%EC%84%B8-%EB%B2%88-%EC%93%B4-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%9D%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EC%B6%9C%EC%B2%98) | [@returncare](https://velog.io/@returncare) |
-| 2026.11.21 | [AI가 그라디언트 없이 스스로 가중치를 고쳐쓴다…'자가 재작성' LLM 연구 등장](https://velog.io/@bbzjun/ai%EA%B0%80-%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8-%EC%97%86%EC%9D%B4-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EA%B0%80%EC%A4%91%EC%B9%98%EB%A5%BC-%EA%B3%A0%EC%B3%90%EC%93%B4%EB%8B%A4%EC%9E%90%EA%B0%80-%EC%9E%AC%EC%9E%91%EC%84%B1-llm-%EC%97%B0%EA%B5%AC-%EB%93%B1%EC%9E%A5-2026-11-20) | [@bbzjun](https://velog.io/@bbzjun) |
-| 2026.11.21 | [AI가 처음부터 끝까지 설계한 CPU 'Frostbite'…성능 4.6배 주장, 실리콘 검증은 아직](https://velog.io/@bbzjun/ai%EA%B0%80-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%81%9D%EA%B9%8C%EC%A7%80-%EC%84%A4%EA%B3%84%ED%95%9C-cpu-frostbite%EC%84%B1%EB%8A%A5-46%EB%B0%B0-%EC%A3%BC%EC%9E%A5-%EC%8B%A4%EB%A6%AC%EC%BD%98-%EA%B2%80%EC%A6%9D%EC%9D%80-%EC%95%84%EC%A7%81-2026-11-20) | [@bbzjun](https://velog.io/@bbzjun) |
+| 2026.11.21 | [구글플레이 비공개 테스트, 12명·14일만 채우면 바로 출시될까?](https://velog.io/@lvl40/%EA%B5%AC%EA%B8%80%ED%94%8C%EB%A0%88%EC%9D%B4-%EB%B9%84%EA%B3%B5%EA%B0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-12%EB%AA%8514%EC%9D%BC%EB%A7%8C-%EC%B1%84%EC%9A%B0%EB%A9%B4-%EB%B0%94%EB%A1%9C-%EC%B6%9C%EC%8B%9C%EB%90%A0%EA%B9%8C) | [@lvl40](https://velog.io/@lvl40) |
+| 2026.11.21 | [[CS] POST 뒤 리다이렉트에서 왜 다음 요청이 GET이 될까?](https://velog.io/@mynolee/http-post-redirect-303-307) | [@mynolee](https://velog.io/@mynolee) |
+| 2026.11.21 | [Claude Code가 .env를 못 읽게 막기: 부탁(CLAUDE.md)과 자물쇠(deny 규칙)는 다르다](https://velog.io/@sunbyte/claude-code-deny-env) | [@sunbyte](https://velog.io/@sunbyte) |
+| 2026.11.21 | [커서, 중국 AI 모델 제외 검토한다 — 컴포저 2가 키미 K2.5 기반이라는데, 코딩 AI 판도가 바뀐다](https://velog.io/@lvl40/%EC%BB%A4%EC%84%9C-%EC%A4%91%EA%B5%AD-AI-%EB%AA%A8%EB%8D%B8-%EC%A0%9C%EC%99%B8-%EA%B2%80%ED%86%A0%ED%95%9C%EB%8B%A4-%EC%BB%B4%ED%8F%AC%EC%A0%80-2%EA%B0%80-%ED%82%A4%EB%AF%B8-K2.5-%EA%B8%B0%EB%B0%98%EC%9D%B4%EB%9D%BC%EB%8A%94%EB%8D%B0-%EC%BD%94%EB%94%A9-AI-%ED%8C%90%EB%8F%84%EA%B0%80-%EB%B0%94%EB%80%90%EB%8B%A4) | [@lvl40](https://velog.io/@lvl40) |
+| 2026.11.21 | [헤드퍼스트 디자인패턴 Chapter 10](https://velog.io/@sjyoon1101/%ED%97%A4%EB%93%9C%ED%8D%BC%EC%8A%A4%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-Chapter-10) | [@sjyoon1101](https://velog.io/@sjyoon1101) |
+| 2026.11.21 | [브라우저를 닫아도 알은 부화해야 한다: 게임 타이머에서 무엇을 저장할까](https://velog.io/@vxdeveloper/mori1) | [@vxdeveloper](https://velog.io/@vxdeveloper) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
