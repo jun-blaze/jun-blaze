@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.21 | [구글플레이 비공개 테스트, 12명·14일만 채우면 바로 출시될까?](https://velog.io/@lvl40/%EA%B5%AC%EA%B8%80%ED%94%8C%EB%A0%88%EC%9D%B4-%EB%B9%84%EA%B3%B5%EA%B0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-12%EB%AA%8514%EC%9D%BC%EB%A7%8C-%EC%B1%84%EC%9A%B0%EB%A9%B4-%EB%B0%94%EB%A1%9C-%EC%B6%9C%EC%8B%9C%EB%90%A0%EA%B9%8C) | [@lvl40](https://velog.io/@lvl40) |
-| 2026.11.21 | [[CS] POST 뒤 리다이렉트에서 왜 다음 요청이 GET이 될까?](https://velog.io/@mynolee/http-post-redirect-303-307) | [@mynolee](https://velog.io/@mynolee) |
-| 2026.11.21 | [Claude Code가 .env를 못 읽게 막기: 부탁(CLAUDE.md)과 자물쇠(deny 규칙)는 다르다](https://velog.io/@sunbyte/claude-code-deny-env) | [@sunbyte](https://velog.io/@sunbyte) |
-| 2026.11.21 | [커서, 중국 AI 모델 제외 검토한다 — 컴포저 2가 키미 K2.5 기반이라는데, 코딩 AI 판도가 바뀐다](https://velog.io/@lvl40/%EC%BB%A4%EC%84%9C-%EC%A4%91%EA%B5%AD-AI-%EB%AA%A8%EB%8D%B8-%EC%A0%9C%EC%99%B8-%EA%B2%80%ED%86%A0%ED%95%9C%EB%8B%A4-%EC%BB%B4%ED%8F%AC%EC%A0%80-2%EA%B0%80-%ED%82%A4%EB%AF%B8-K2.5-%EA%B8%B0%EB%B0%98%EC%9D%B4%EB%9D%BC%EB%8A%94%EB%8D%B0-%EC%BD%94%EB%94%A9-AI-%ED%8C%90%EB%8F%84%EA%B0%80-%EB%B0%94%EB%80%90%EB%8B%A4) | [@lvl40](https://velog.io/@lvl40) |
-| 2026.11.21 | [헤드퍼스트 디자인패턴 Chapter 10](https://velog.io/@sjyoon1101/%ED%97%A4%EB%93%9C%ED%8D%BC%EC%8A%A4%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-Chapter-10) | [@sjyoon1101](https://velog.io/@sjyoon1101) |
-| 2026.11.21 | [브라우저를 닫아도 알은 부화해야 한다: 게임 타이머에서 무엇을 저장할까](https://velog.io/@vxdeveloper/mori1) | [@vxdeveloper](https://velog.io/@vxdeveloper) |
+| 2026.11.21 | [[Transformer] 아키텍처 흐름도 (Transformer vs GPT-2)](https://velog.io/@silverbjin/Transformer-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9D%90%EB%A6%84%EB%8F%84-Transformer-vs-GPT-2) | [@silverbjin](https://velog.io/@silverbjin) |
+| 2026.11.21 | [파이썬프로그래밍-11](https://velog.io/@id3_16/%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-11) | [@id3_16](https://velog.io/@id3_16) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
