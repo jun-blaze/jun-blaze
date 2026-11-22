@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.22 | [[TIL] 자율주행을 위한 제어(1)](https://velog.io/@recon40/til-control-for-autonomous-driving-1) | [@recon40](https://velog.io/@recon40) |
-| 2026.11.22 | [[TIL] 인공지능을 활용한 ADAS 센서 데이터 사전 처리 및 판단 로직 이해(2)](https://velog.io/@recon40/til-ai-matlab-adas-project-2) | [@recon40](https://velog.io/@recon40) |
-| 2026.11.22 | [[경제 NEWS] 2026년 11월 22일 주요 경제 뉴스](https://velog.io/@olaflove/%EA%B2%BD%EC%A0%9C-NEWS-2026%EB%85%84-11%EC%9B%94-22%EC%9D%BC-%EC%A3%BC%EC%9A%94-%EA%B2%BD%EC%A0%9C-%EB%89%B4%EC%8A%A4) | [@olaflove](https://velog.io/@olaflove) |
-| 2026.11.22 | [[IT NEWS] 2026년 11월 22일 주요 IT 뉴스](https://velog.io/@olaflove/IT-NEWS-2026%EB%85%84-11%EC%9B%94-22%EC%9D%BC-%EC%A3%BC%EC%9A%94-IT-%EB%89%B4%EC%8A%A4) | [@olaflove](https://velog.io/@olaflove) |
-| 2026.11.22 | [Vercel UI SDK, 컴포넌트 대신 동작 50개를 준다](https://velog.io/@firefox1234123/Vercel-UI-SDK-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%8C%80%EC%8B%A0-%EB%8F%99%EC%9E%91-50%EA%B0%9C%EB%A5%BC-%EC%A4%80%EB%8B%A4) | [@firefox1234123](https://velog.io/@firefox1234123) |
-| 2026.11.22 | [[IT NEWS] 2026년 11월 21일 주요 IT 뉴스](https://velog.io/@olaflove/IT-NEWS-2026%EB%85%84-11%EC%9B%94-21%EC%9D%BC-%EC%A3%BC%EC%9A%94-IT-%EB%89%B4%EC%8A%A4) | [@olaflove](https://velog.io/@olaflove) |
+| 2026.11.22 | [5단계 파이프라인은 어떻게 동작할까? 파이프라인 레지스터와 클록 엣지](https://velog.io/@miy7625/5%EB%8B%A8%EA%B3%84-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%A0%EA%B9%8C-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0%EC%99%80-%ED%81%B4%EB%A1%9D-%EC%97%90%EC%A7%80) | [@miy7625](https://velog.io/@miy7625) |
+| 2026.11.22 | [나만의 첫 Claude 스킬 만들기: /study-note (그리고 허락 창에서 실수를 잡아낸 이야기)](https://velog.io/@sunbyte/claude-skill-study-note) | [@sunbyte](https://velog.io/@sunbyte) |
+| 2026.11.22 | [CPU 실행 시간은 어떻게 비교할까? CPI, 암달의 법칙, 벤치마크](https://velog.io/@miy7625/CPU-%EC%8B%A4%ED%96%89-%EC%8B%9C%EA%B0%84%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B9%84%EA%B5%90%ED%95%A0%EA%B9%8C-CPI-%EC%95%94%EB%8B%AC%EC%9D%98-%EB%B2%95%EC%B9%99-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC) | [@miy7625](https://velog.io/@miy7625) |
+| 2026.11.22 | [2026-2 [Farm System - Union] 동끼리 웹 스터디 : 8회차](https://velog.io/@wltn0107/2026-2-Farm-System-Union-%EB%8F%99%EB%81%BC%EB%A6%AC-%EC%9B%B9-%EC%8A%A4%ED%84%B0%EB%94%94-8%ED%9A%8C%EC%B0%A8) | [@wltn0107](https://velog.io/@wltn0107) |
+| 2026.11.22 | [웹/앱 해킹(모의해킹) (3)](https://velog.io/@joon_ai/%EC%9B%B9%EC%95%B1-%ED%95%B4%ED%82%B9%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9-3) | [@joon_ai](https://velog.io/@joon_ai) |
+| 2026.11.22 | [AI시대디지털미디어의이해-11](https://velog.io/@id3_16/AI%EC%8B%9C%EB%8C%80%EB%94%94%EC%A7%80%ED%84%B8%EB%AF%B8%EB%94%94%EC%96%B4%EC%9D%98%EC%9D%B4%ED%95%B4-11) | [@id3_16](https://velog.io/@id3_16) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
