@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.24 | [Docker 시작하기 (1/3) : 설치부터 첫 컨테이너 실행까지](https://velog.io/@hoejin_dev/Docker-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%9D%B4%EB%AF%B8%EC%A7%8013) | [@hoejin_dev](https://velog.io/@hoejin_dev) |
-| 2026.11.24 | [[Handrl 개발일지 7일차] 튜토리얼과 맞춤 기능을 만들고, 자동 탐색으로 오작동을 30% 줄였다](https://velog.io/@seongbin1013/Handrl-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-7%EC%9D%BC%EC%B0%A8-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%EA%B3%BC-%EB%A7%9E%EC%B6%A4-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%9E%90%EB%8F%99-%ED%83%90%EC%83%89%EC%9C%BC%EB%A1%9C-%EC%98%A4%EC%9E%91%EB%8F%99%EC%9D%84-30-%EC%A4%84%EC%98%80%EB%8B%A4) | [@seongbin1013](https://velog.io/@seongbin1013) |
-| 2026.11.24 | [[회고] - 2026 멋쟁이사자처럼 4호선톤](https://velog.io/@nahjjun1125/%ED%9A%8C%EA%B3%A0-2026-%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC-4%ED%98%B8%EC%84%A0%ED%86%A4) | [@nahjjun1125](https://velog.io/@nahjjun1125) |
-| 2026.11.24 | [aop 구현 중 발생한 문제](https://velog.io/@ddaaee/aop-%EA%B5%AC%ED%98%84-%EC%A4%91-%EB%B0%9C%EC%83%9D%ED%95%9C-%EB%AC%B8%EC%A0%9C) | [@ddaaee](https://velog.io/@ddaaee) |
-| 2026.11.24 | [[JAVA2] week12: SpringBoot](https://velog.io/@frogram/JAVA2-week12-SpringBoot) | [@frogram](https://velog.io/@frogram) |
-| 2026.11.24 | [[개발기] 물감 섞기 챌린지를 친구들과 함께, tender shade](https://velog.io/@julia8024/%EA%B0%9C%EB%B0%9C%EA%B8%B0-%EB%AC%BC%EA%B0%90-%EC%84%9E%EA%B8%B0-%EC%B1%8C%EB%A6%B0%EC%A7%80%EB%A5%BC-%EC%B9%9C%EA%B5%AC%EB%93%A4%EA%B3%BC-%ED%95%A8%EA%BB%98-tender-shade) | [@julia8024](https://velog.io/@julia8024) |
+| 2026.11.24 | [뉴스레터 보내기 전에 이메일 목록 거르는 도구를 만들어 Apify에 올렸습니다](https://velog.io/@elabstudio/%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0-%EB%B3%B4%EB%82%B4%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%AA%A9%EB%A1%9D-%EA%B1%B0%EB%A5%B4%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4-Apify%EC%97%90-%EC%98%AC%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4) | [@elabstudio](https://velog.io/@elabstudio) |
+| 2026.11.24 | [청킹과 시맨틱 검색: 검색 품질은 어떻게 달라질까?](https://velog.io/@seonhye/%EC%B2%AD%ED%82%B9%EA%B3%BC-%EC%8B%9C%EB%A7%A8%ED%8B%B1-%EA%B2%80%EC%83%89-%EA%B2%80%EC%83%89-%ED%92%88%EC%A7%88%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%AC%EB%9D%BC%EC%A7%88%EA%B9%8C) | [@seonhye](https://velog.io/@seonhye) |
+| 2026.11.24 | [동시성 문제와 레이스 컨디션: Redis 토큰 차감부터 DB 락까](https://velog.io/@swmoon7/%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EC%99%80-%EB%A0%88%EC%9D%B4%EC%8A%A4-%EC%BB%A8%EB%94%94%EC%85%98-Redis-%ED%86%A0%ED%81%B0-%EC%B0%A8%EA%B0%90%EB%B6%80%ED%84%B0-DB-%EB%9D%BD%EA%B9%8C) | [@swmoon7](https://velog.io/@swmoon7) |
+| 2026.11.24 | [[LLM] 아이디어 검증 서비스를 Agent 대신 Workflow로 만든 이유](https://velog.io/@byun-gwan-young/LLM-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B2%80%EC%A6%9D-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-Agent-%EB%8C%80%EC%8B%A0-Workflow%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EC%9D%B4%EC%9C%A0) | [@byun-gwan-young](https://velog.io/@byun-gwan-young) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
