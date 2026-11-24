@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.24 | [뉴스레터 보내기 전에 이메일 목록 거르는 도구를 만들어 Apify에 올렸습니다](https://velog.io/@elabstudio/%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0-%EB%B3%B4%EB%82%B4%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%AA%A9%EB%A1%9D-%EA%B1%B0%EB%A5%B4%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4-Apify%EC%97%90-%EC%98%AC%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4) | [@elabstudio](https://velog.io/@elabstudio) |
-| 2026.11.24 | [청킹과 시맨틱 검색: 검색 품질은 어떻게 달라질까?](https://velog.io/@seonhye/%EC%B2%AD%ED%82%B9%EA%B3%BC-%EC%8B%9C%EB%A7%A8%ED%8B%B1-%EA%B2%80%EC%83%89-%EA%B2%80%EC%83%89-%ED%92%88%EC%A7%88%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%AC%EB%9D%BC%EC%A7%88%EA%B9%8C) | [@seonhye](https://velog.io/@seonhye) |
-| 2026.11.24 | [동시성 문제와 레이스 컨디션: Redis 토큰 차감부터 DB 락까](https://velog.io/@swmoon7/%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EC%99%80-%EB%A0%88%EC%9D%B4%EC%8A%A4-%EC%BB%A8%EB%94%94%EC%85%98-Redis-%ED%86%A0%ED%81%B0-%EC%B0%A8%EA%B0%90%EB%B6%80%ED%84%B0-DB-%EB%9D%BD%EA%B9%8C) | [@swmoon7](https://velog.io/@swmoon7) |
-| 2026.11.24 | [[LLM] 아이디어 검증 서비스를 Agent 대신 Workflow로 만든 이유](https://velog.io/@byun-gwan-young/LLM-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B2%80%EC%A6%9D-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-Agent-%EB%8C%80%EC%8B%A0-Workflow%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EC%9D%B4%EC%9C%A0) | [@byun-gwan-young](https://velog.io/@byun-gwan-young) |
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.11.25 | [[LAUNCHER #30] 피드백 반영 개선, 성장 시너지](https://velog.io/@gwangmin-kim/LAUNCHER-30) | [@gwangmin-kim](https://velog.io/@gwangmin-kim) |
+| 2026.11.25 | [게임플레이 어빌리티 시스템 적용 3: 몬스터 체력 초기화와 좌클릭 타겟팅](https://velog.io/@supsil_log/%EA%B2%8C%EC%9E%84%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%96%B4%EB%B9%8C%EB%A6%AC%ED%8B%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%81%EC%9A%A9-3-%EB%AA%AC%EC%8A%A4%ED%84%B0-%EC%B2%B4%EB%A0%A5-%EC%B4%88%EA%B8%B0%ED%99%94%EC%99%80-%EC%A2%8C%ED%81%B4%EB%A6%AD-%ED%83%80%EA%B2%9F%ED%8C%85) | [@supsil_log](https://velog.io/@supsil_log) |
+| 2026.11.25 | [버튼 하나로 3D 캡처를 광고 사진으로 바꿨다](https://velog.io/@ahrrhks/%EB%B2%84%ED%8A%BC-%ED%95%98%EB%82%98%EB%A1%9C-3D-%EC%BA%A1%EC%B2%98%EB%A5%BC-%EA%B4%91%EA%B3%A0-%EC%82%AC%EC%A7%84%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BF%A8%EB%8B%A4) | [@ahrrhks](https://velog.io/@ahrrhks) |
+| 2026.11.25 | [[최종 프로젝트] AI 에이전트 둘이 서로 검증하는 부하 측정 루프를 설계했다: 복붙을 없애고 신뢰도를 높인 과정](https://velog.io/@anton061311/AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%91%98%EC%9D%B4-%EC%84%9C%EB%A1%9C-%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94-%EB%B6%80%ED%95%98-%EC%B8%A1%EC%A0%95-%EB%A3%A8%ED%94%84%EB%A5%BC-%EC%84%A4%EA%B3%84%ED%96%88%EB%8B%A4-%EB%B3%B5%EB%B6%99%EC%9D%84-%EC%97%86%EC%95%A0%EA%B3%A0-%EC%8B%A0%EB%A2%B0%EB%8F%84%EB%A5%BC-%EB%86%92%EC%9D%B8-%EA%B3%BC%EC%A0%95) | [@anton061311](https://velog.io/@anton061311) |
+| 2026.11.25 | [TIL 261124](https://velog.io/@slowwalker303/TIL-261124) | [@slowwalker303](https://velog.io/@slowwalker303) |
+| 2026.11.25 | [# [Java] 자료구조 기초 정리 ② — Stack, Queue](https://velog.io/@sennin/Java-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B8%B0%EC%B4%88-%EC%A0%95%EB%A6%AC-Stack-Queue-Deque) | [@sennin](https://velog.io/@sennin) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
