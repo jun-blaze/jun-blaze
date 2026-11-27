@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.27 | [[LAUNCHER #32] 생존 시너지, 콘텐츠 관리 도구, 연출 개선](https://velog.io/@gwangmin-kim/LAUNCHER-32) | [@gwangmin-kim](https://velog.io/@gwangmin-kim) |
-| 2026.11.27 | [[Handrl 개발일지 10일차] 개인 맞춤을 설계하고, 아이패드 웹앱을 만들어 친구들에게 배포했다](https://velog.io/@seongbin1013/Handrl-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-10%EC%9D%BC%EC%B0%A8-%EA%B0%9C%EC%9D%B8-%EB%A7%9E%EC%B6%A4%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%98%EA%B3%A0-%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C-%EC%9B%B9%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%B9%9C%EA%B5%AC%EB%93%A4%EC%97%90%EA%B2%8C-%EB%B0%B0%ED%8F%AC%ED%96%88%EB%8B%A4) | [@seongbin1013](https://velog.io/@seongbin1013) |
-| 2026.11.27 | [쇼핑 고민 커뮤니티 HOLD UP을 소개합니다 — 사기 전에 다른 사람 의견을 듣는 앱](https://velog.io/@holdup_team/%EC%87%BC%ED%95%91-%EA%B3%A0%EB%AF%BC-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-HOLD-UP%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%82%AC%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C-%EC%9D%98%EA%B2%AC%EC%9D%84-%EB%93%A3%EB%8A%94-%EC%95%B1) | [@holdup_team](https://velog.io/@holdup_team) |
-| 2026.11.27 | [SQLite NOT IN 하위 쿼리에 NULL이 들어올 때 누락되는 행](https://velog.io/@szaxstom/sqlite-not-in-null-and-not-exists) | [@szaxstom](https://velog.io/@szaxstom) |
-| 2026.11.27 | [[2026 코리아 핀테크 위크] 방문 후기](https://velog.io/@guswns7451/2026-%EC%BD%94%EB%A6%AC%EC%95%84-%ED%95%80%ED%85%8C%ED%81%AC-%EC%9C%84%ED%81%AC-%EB%B0%A9%EB%AC%B8-%ED%9B%84%EA%B8%B0) | [@guswns7451](https://velog.io/@guswns7451) |
-| 2026.11.27 | [[특강] 스타트업을 위한 AI 마케팅 전략](https://velog.io/@kdk1219/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-AI-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%A0%84%EB%9E%B5) | [@kdk1219](https://velog.io/@kdk1219) |
+| 2026.11.27 | [SeaweedFS + Polaris 위에서 Trino vs StarRocks 비교해보기](https://velog.io/@dobby/SeaweedFS-Polaris-%EC%9C%84%EC%97%90%EC%84%9C-Trino-vs-StarRocks-%EB%B9%84%EA%B5%90%ED%95%B4%EB%B3%B4%EA%B8%B0) | [@dobby](https://velog.io/@dobby) |
+| 2026.11.27 | [Git 워크트리(Worktree), Checkout(체크아웃)](https://velog.io/@supernova77/Git-%EC%9B%8C%ED%81%AC%ED%8A%B8%EB%A6%ACWorktree-Checkout%EC%B2%B4%ED%81%AC%EC%95%84%EC%9B%83) | [@supernova77](https://velog.io/@supernova77) |
+| 2026.11.27 | [우동체 제작기 #7 — 체육관 131곳이 바다 위에 있었다](https://velog.io/@copotter/wdc-devlog-7) | [@copotter](https://velog.io/@copotter) |
+| 2026.11.27 | [사업기획인가 제약영업인가](https://velog.io/@trendsetter/%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9D%B8%EA%B0%80-%EC%A0%9C%EC%95%BD%EC%98%81%EC%97%85%EC%9D%B8%EA%B0%80) | [@trendsetter](https://velog.io/@trendsetter) |
+| 2026.11.27 | [Codex CLI Non-interactive Mode — 구조화된 코드 분석 결과를 개발 자동화에 활용하기](https://velog.io/@gwanghun-choi/Codex-CLI-Non-interactive-Mode-%EA%B5%AC%EC%A1%B0%ED%99%94%EB%90%9C-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EA%B0%9C%EB%B0%9C-%EC%9E%90%EB%8F%99%ED%99%94%EC%97%90-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
+| 2026.11.27 | [llama.cpp 1.1.0 — 목표 모델 크기에 맞춘 텐서별 양자화](https://velog.io/@gwanghun-choi/llama.cpp-1.1.0-%EB%AA%A9%ED%91%9C-%EB%AA%A8%EB%8D%B8-%ED%81%AC%EA%B8%B0%EC%97%90-%EB%A7%9E%EC%B6%98-%ED%85%90%EC%84%9C%EB%B3%84-%EC%96%91%EC%9E%90%ED%99%94) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
