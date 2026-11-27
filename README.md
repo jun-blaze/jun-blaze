@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.11.27 | [SeaweedFS + Polaris 위에서 Trino vs StarRocks 비교해보기](https://velog.io/@dobby/SeaweedFS-Polaris-%EC%9C%84%EC%97%90%EC%84%9C-Trino-vs-StarRocks-%EB%B9%84%EA%B5%90%ED%95%B4%EB%B3%B4%EA%B8%B0) | [@dobby](https://velog.io/@dobby) |
-| 2026.11.27 | [Git 워크트리(Worktree), Checkout(체크아웃)](https://velog.io/@supernova77/Git-%EC%9B%8C%ED%81%AC%ED%8A%B8%EB%A6%ACWorktree-Checkout%EC%B2%B4%ED%81%AC%EC%95%84%EC%9B%83) | [@supernova77](https://velog.io/@supernova77) |
-| 2026.11.27 | [우동체 제작기 #7 — 체육관 131곳이 바다 위에 있었다](https://velog.io/@copotter/wdc-devlog-7) | [@copotter](https://velog.io/@copotter) |
-| 2026.11.27 | [사업기획인가 제약영업인가](https://velog.io/@trendsetter/%EC%82%AC%EC%97%85%EA%B8%B0%ED%9A%8D%EC%9D%B8%EA%B0%80-%EC%A0%9C%EC%95%BD%EC%98%81%EC%97%85%EC%9D%B8%EA%B0%80) | [@trendsetter](https://velog.io/@trendsetter) |
-| 2026.11.27 | [Codex CLI Non-interactive Mode — 구조화된 코드 분석 결과를 개발 자동화에 활용하기](https://velog.io/@gwanghun-choi/Codex-CLI-Non-interactive-Mode-%EA%B5%AC%EC%A1%B0%ED%99%94%EB%90%9C-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EA%B0%9C%EB%B0%9C-%EC%9E%90%EB%8F%99%ED%99%94%EC%97%90-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
-| 2026.11.27 | [llama.cpp 1.1.0 — 목표 모델 크기에 맞춘 텐서별 양자화](https://velog.io/@gwanghun-choi/llama.cpp-1.1.0-%EB%AA%A9%ED%91%9C-%EB%AA%A8%EB%8D%B8-%ED%81%AC%EA%B8%B0%EC%97%90-%EB%A7%9E%EC%B6%98-%ED%85%90%EC%84%9C%EB%B3%84-%EC%96%91%EC%9E%90%ED%99%94) | [@gwanghun-choi](https://velog.io/@gwanghun-choi) |
+| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
+| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
+| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
+| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
+| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
+| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
