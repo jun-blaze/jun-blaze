@@ -81,12 +81,12 @@ DART 공시·재무를 조회하고, 주식과 ETF로 포트폴리오 백테스�
 <!-- VELOG:START -->
 | 날짜 | 글 | 글쓴이 |
 |---|---|---|
-| 2026.10.15 | [AI Native FE 개발로의 전환, 150일간의 여정](https://velog.io/@teo/ai-native-fe) | [@teo](https://velog.io/@teo) |
-| 2026.06.23 | [더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?](https://velog.io/@teo/ai-era-developer-role) | [@teo](https://velog.io/@teo) |
-| 2026.03.10 | [우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer) | [@teo](https://velog.io/@teo) |
-| 2026.03.07 | [대학생에게 Git branch와 merge를 설명해본다면? (Git 2편)](https://velog.io/@eddy_song/git-3levels-5) | [@eddy_song](https://velog.io/@eddy_song) |
-| 2026.02.13 | [진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?](https://velog.io/@teo/ai-agent-prolog) | [@teo](https://velog.io/@teo) |
-| 2026.02.03 | [조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)](https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90) | [@teo](https://velog.io/@teo) |
+| 2026.11.28 | [[논문리뷰] DocSEAM: Bidirectional Cross-Page Encoding for Multi-Page Document Understanding (멀티페이지 문서 이해)](https://velog.io/@mini_knows/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-DocSEAM-Bidirectional-Cross-Page-Encoding-for-Multi-Page-Document-Understanding-%EB%A9%80%ED%8B%B0%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%AC%B8%EC%84%9C-%EC%9D%B4%ED%95%B4) | [@mini_knows](https://velog.io/@mini_knows) |
+| 2026.11.28 | [파이썬_가위바위보 게임](https://velog.io/@amk5840/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4-%EA%B2%8C%EC%9E%84) | [@amk5840](https://velog.io/@amk5840) |
+| 2026.11.28 | [오브젝트 풀링(Object Pooling)](https://velog.io/@dobee1020/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%ED%92%80%EB%A7%81Object-Pooling) | [@dobee1020](https://velog.io/@dobee1020) |
+| 2026.11.28 | [[cilium up and running] 1장 Why Cilium?](https://velog.io/@gjrjr4545/cilium-1) | [@gjrjr4545](https://velog.io/@gjrjr4545) |
+| 2026.11.28 | [생명의 언어로 데이터를 저장한다고? DNA 데이터 저장 기술!](https://velog.io/@delecia/%EC%83%9D%EB%AA%85%EC%9D%98-%EC%96%B8%EC%96%B4%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A0%80%EC%9E%A5%ED%95%9C%EB%8B%A4%EA%B3%A0-DNA-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5-%EA%B8%B0%EC%88%A0-1795824229) | [@delecia](https://velog.io/@delecia) |
+| 2026.11.28 | [객체지향: 책임에 따른 클래스의 분리](https://velog.io/@duskafka/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%B1%85%EC%9E%84%EC%97%90-%EB%94%B0%EB%A5%B8-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98-%EB%B6%84%EB%A6%AC) | [@duskafka](https://velog.io/@duskafka) |
 <!-- VELOG:END -->
 
 <sub>6시간마다 [GitHub Actions](.github/workflows/velog-feed.yml)로 자동 갱신됩니다.
